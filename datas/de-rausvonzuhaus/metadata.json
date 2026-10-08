@@ -1,0 +1,16 @@
+{
+  "source": "de-rausvonzuhaus",
+  "source_url": "https://www.rausvonzuhaus.de/lastminute",
+  "website_url": "https://www.rausvonzuhaus.de/",
+  "language": "de",
+  "publisher_country": "DE",
+  "publisher_type": "youth-information-service",
+  "status": "success",
+  "last_attempt_at": "2026-10-08T20:07:45.321Z",
+  "last_success_at": "2026-10-08T20:07:45.321Z",
+  "last_checked_at": "2026-10-08T20:07:45.321Z",
+  "record_count": 471,
+  "message": "Collected and validated 471 records",
+  "error": null,
+  "attribution": "rausvonzuhaus.de / Eurodesk Deutschland (IJAB)"
+}
