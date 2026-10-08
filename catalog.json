@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "model_version": 2,
-  "generated_at": "2026-10-08T11:57:47.387Z",
+  "generated_at": "2026-10-08T12:08:55.288Z",
   "opportunities": [
     {
       "id": "e33101a5c76730acfcf1e7d1",
@@ -490,6 +490,40 @@
       "publisher_country": "US"
     },
     {
+      "id": "bcdec57a5a5af8df3700b27c",
+      "title": "Studienstipendium (Uni und HAW)",
+      "url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
+      "source": "de-fulbright-germany",
+      "source_url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
+      "published_at": null,
+      "summary": "",
+      "tags": [],
+      "location": null,
+      "deadline": null,
+      "language": "de/en",
+      "category": "scholarships",
+      "host_countries": [],
+      "eligible_countries": [],
+      "created_at": "2026-10-08T12:08:53.740Z",
+      "updated_at": "2026-10-08T12:08:53.740Z",
+      "first_seen_at": "2026-10-08T12:08:53.740Z",
+      "last_seen_at": "2026-10-08T12:08:53.740Z",
+      "last_checked_at": "2026-10-08T12:08:53.740Z",
+      "status": "unknown",
+      "categories": [
+        "scholarships"
+      ],
+      "classification": {
+        "method": "reviewed-exact-programme",
+        "status": "classified",
+        "evidence": [
+          "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw"
+        ]
+      },
+      "kind": "programme-overview",
+      "publisher_country": "DE"
+    },
+    {
       "id": "e219807144baf452cff96f7f",
       "title": "Ernst Mach Scholarship – Worldwide: Application Deadline 1 December 2026",
       "url": "https://studyinaustria.at/en/news/article/2026/08/ernst-mach-stipendium-weltweit-bewerbung-bis-1-dezember-2026",
@@ -560,6 +594,34 @@
       "last_attempt_at": "2026-10-08T11:57:45.691Z",
       "last_checked_at": "2026-10-08T11:57:45.691Z",
       "last_success_at": "2026-10-08T11:57:45.691Z",
+      "status": "ok",
+      "record_count": 1,
+      "error": null
+    },
+    {
+      "source": "de-fulbright-germany",
+      "research_source_id": "de-fulbright-germany",
+      "source_url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
+      "website_url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
+      "enabled": true,
+      "adapter": "opportunity-html",
+      "language": "de/en",
+      "default_tags": [],
+      "added_at": "2026-10-06",
+      "scope": "Extract factual opportunity title/link records from reviewed programme pages or publisher listings; no descriptions, imagery or applicant eligibility inferred.",
+      "publisher_country": "DE",
+      "publisher_type": "unknown",
+      "categories": [],
+      "collection_blocked_reason": null,
+      "reviewed_opportunity": {
+        "url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
+        "category": "scholarships",
+        "kind": "programme-overview",
+        "reviewed_at": "2026-10-04"
+      },
+      "last_attempt_at": "2026-10-08T12:08:53.740Z",
+      "last_checked_at": "2026-10-08T12:08:53.740Z",
+      "last_success_at": "2026-10-08T12:08:53.740Z",
       "status": "ok",
       "record_count": 1,
       "error": null
@@ -5668,7 +5730,9 @@
       "unmapped_content_types": [
         "research"
       ],
-      "adapter_source_id": null
+      "adapter_source_id": "de-fulbright-germany",
+      "collection_enabled": true,
+      "collection_blocked_reason": null
     },
     {
       "id": "dk-fulbright-center",
@@ -6667,6 +6731,7 @@
         "e33101a5c76730acfcf1e7d1",
         "d418628890d73d849dc42f6a",
         "b6bfe8d203da424ba92f10ee",
+        "bcdec57a5a5af8df3700b27c",
         "e219807144baf452cff96f7f"
       ],
       "internships": [
@@ -6706,6 +6771,7 @@
       ],
       "programme-overview": [
         "c1ac6b82f333b7c201631784",
+        "bcdec57a5a5af8df3700b27c",
         "e219807144baf452cff96f7f"
       ],
       "institutional-grant": [],
@@ -6717,6 +6783,9 @@
     "sources": {
       "at-oead-ernst-mach": [
         "e219807144baf452cff96f7f"
+      ],
+      "de-fulbright-germany": [
+        "bcdec57a5a5af8df3700b27c"
       ],
       "opportunitydesk": [
         "e33101a5c76730acfcf1e7d1",
