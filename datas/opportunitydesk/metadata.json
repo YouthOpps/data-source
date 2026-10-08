@@ -1,0 +1,16 @@
+{
+  "source": "opportunitydesk",
+  "source_url": "https://opportunitydesk.org/feed/",
+  "website_url": "https://opportunitydesk.org/",
+  "research_source_id": "opportunity-desk",
+  "language": "en",
+  "publisher_type": "aggregator",
+  "scope": "international",
+  "status": "success",
+  "message": "Preserved previously validated snapshot during layout migration",
+  "last_attempt_at": "2026-10-08T09:11:31.470Z",
+  "last_success_at": "2026-10-08T09:11:31.470Z",
+  "last_checked_at": "2026-10-08T09:11:31.470Z",
+  "record_count": 10,
+  "error": null
+}

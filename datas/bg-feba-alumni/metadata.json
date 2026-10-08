@@ -1,0 +1,17 @@
+{
+  "source": "bg-feba-alumni",
+  "source_url": "https://febalumni.org/news/",
+  "website_url": "https://febalumni.org/",
+  "research_source_id": "bg-feba-alumni",
+  "language": "bg/en",
+  "publisher_country": "BG",
+  "publisher_type": "unknown",
+  "scope": "Extract factual opportunity title/link records from reviewed programme pages or publisher listings; no descriptions, imagery or applicant eligibility inferred.",
+  "status": "success",
+  "message": "Preserved previously validated snapshot during layout migration",
+  "last_attempt_at": "2026-10-08T12:22:47.576Z",
+  "last_success_at": "2026-10-08T12:22:47.576Z",
+  "last_checked_at": "2026-10-08T12:22:47.576Z",
+  "record_count": 15,
+  "error": null
+}
