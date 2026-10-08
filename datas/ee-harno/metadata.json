@@ -5,12 +5,13 @@
   "language": "en",
   "publisher_country": "EE",
   "publisher_type": "government",
-  "status": "success",
-  "last_attempt_at": "2026-10-08T23:43:59.883Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-08T23:45:46.267Z",
   "last_success_at": "2026-10-08T23:43:59.883Z",
   "last_checked_at": "2026-10-08T23:43:59.883Z",
   "record_count": 13,
-  "message": "Collected 13 validated Harno funding records",
-  "error": null,
-  "attribution": "Estonian Education and Youth Board (Harno)"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher returned HTTP 429 for https://www.harno.ee/stipendiumid-ja-toetused/korgharidusvaldkonna-toetused/eesti-keele-ja-kultuuri-akadeemiline",
+  "attribution": "Estonian Education and Youth Board (Harno)",
+  "failure_stage": "fetch"
 }
