@@ -1,0 +1,16 @@
+{
+  "source": "hu-fulbright-hungary",
+  "source_url": "https://fulbright.hu/",
+  "website_url": "https://fulbright.hu/",
+  "language": "hu/en",
+  "publisher_country": "HU",
+  "publisher_type": "foundation",
+  "status": "success",
+  "last_attempt_at": "2026-10-08T17:41:38.476Z",
+  "last_success_at": "2026-10-08T17:41:38.476Z",
+  "last_checked_at": "2026-10-08T17:41:38.476Z",
+  "record_count": 10,
+  "message": "Collected and validated 10 records",
+  "error": null,
+  "attribution": "Hungarian-American Fulbright Commission"
+}
