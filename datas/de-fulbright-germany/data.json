@@ -7,30 +7,32 @@
     "source_url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
     "published_at": null,
     "summary": "",
-    "tags": [],
+    "tags": [
+      "programme-overview"
+    ],
     "location": null,
     "deadline": null,
     "language": "de/en",
     "category": "scholarships",
-    "host_countries": [],
-    "eligible_countries": [],
-    "created_at": "2026-10-08T12:08:53.740Z",
-    "updated_at": "2026-10-08T12:08:53.740Z",
-    "first_seen_at": "2026-10-08T12:08:53.740Z",
-    "last_seen_at": "2026-10-08T12:08:53.740Z",
-    "last_checked_at": "2026-10-08T12:08:53.740Z",
-    "status": "unknown",
     "categories": [
       "scholarships"
     ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "DE",
+    "created_at": "2026-10-08T12:08:53.740Z",
+    "updated_at": "2026-10-08T18:52:19.075Z",
+    "first_seen_at": "2026-10-08T12:08:53.740Z",
+    "last_seen_at": "2026-10-08T18:52:19.075Z",
+    "last_checked_at": "2026-10-08T18:52:19.075Z",
+    "status": "unknown",
     "classification": {
-      "method": "reviewed-exact-programme",
+      "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw"
       ]
-    },
-    "kind": "programme-overview",
-    "publisher_country": "DE"
+    }
   }
 ]
