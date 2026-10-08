@@ -1,0 +1,17 @@
+{
+  "source": "de-fulbright-germany",
+  "source_url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
+  "website_url": "https://www.fulbright.de/stipendien/programm/studienstipendium-uni-und-haw",
+  "research_source_id": "de-fulbright-germany",
+  "language": "de/en",
+  "publisher_country": "DE",
+  "publisher_type": "unknown",
+  "scope": "Extract factual opportunity title/link records from reviewed programme pages or publisher listings; no descriptions, imagery or applicant eligibility inferred.",
+  "status": "success",
+  "message": "Preserved previously validated snapshot during layout migration",
+  "last_attempt_at": "2026-10-08T12:08:53.740Z",
+  "last_success_at": "2026-10-08T12:08:53.740Z",
+  "last_checked_at": "2026-10-08T12:08:53.740Z",
+  "record_count": 1,
+  "error": null
+}
