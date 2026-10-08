@@ -2,15 +2,15 @@
   "source": "opportunitydesk",
   "source_url": "https://opportunitydesk.org/feed/",
   "website_url": "https://opportunitydesk.org/",
-  "research_source_id": "opportunity-desk",
   "language": "en",
+  "publisher_country": null,
   "publisher_type": "aggregator",
-  "scope": "international",
   "status": "success",
-  "message": "Preserved previously validated snapshot during layout migration",
-  "last_attempt_at": "2026-10-08T09:11:31.470Z",
-  "last_success_at": "2026-10-08T09:11:31.470Z",
-  "last_checked_at": "2026-10-08T09:11:31.470Z",
+  "last_attempt_at": "2026-10-08T16:34:34.176Z",
+  "last_success_at": "2026-10-08T16:34:34.176Z",
+  "last_checked_at": "2026-10-08T16:34:34.176Z",
   "record_count": 10,
-  "error": null
+  "message": "Collected and validated 10 records",
+  "error": null,
+  "attribution": "Opportunity Desk"
 }
