@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c1ac6b82f333b7c201631784",
+    "title": "NASA Internship Programs - NASA",
+    "url": "https://www.nasa.gov/learning-resources/internship-programs/",
+    "source": "us-nasa-internships",
+    "source_url": "https://www.nasa.gov/learning-resources/internship-programs/",
+    "published_at": "2023-01-23T16:57:52.000Z",
+    "summary": "",
+    "tags": [
+      "programme-overview"
+    ],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "internships",
+    "host_countries": [],
+    "eligible_countries": [],
+    "created_at": "2026-10-08T09:14:00.354Z",
+    "updated_at": "2026-10-08T09:14:00.354Z",
+    "first_seen_at": "2026-10-08T09:14:00.354Z",
+    "last_seen_at": "2026-10-08T09:14:00.354Z",
+    "last_checked_at": "2026-10-08T09:14:00.354Z",
+    "status": "unknown",
+    "categories": [
+      "internships"
+    ],
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "https://www.nasa.gov/learning-resources/internship-programs/"
+      ]
+    },
+    "kind": "programme-overview",
+    "publisher_country": "US"
+  }
+]
