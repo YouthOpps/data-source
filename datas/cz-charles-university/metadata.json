@@ -1,0 +1,16 @@
+{
+  "source": "cz-charles-university",
+  "source_url": "https://cuni.cz/UKEN-927.html",
+  "website_url": "https://cuni.cz/UKEN-1617.html",
+  "language": "en",
+  "publisher_country": "CZ",
+  "publisher_type": "university",
+  "status": "success",
+  "last_attempt_at": "2026-10-08T22:41:42.375Z",
+  "last_success_at": "2026-10-08T22:41:42.375Z",
+  "last_checked_at": "2026-10-08T22:41:42.375Z",
+  "record_count": 54,
+  "message": "Collected 54 validated accessible records; UJOP excluded because its robots policy was unavailable",
+  "error": null,
+  "attribution": "Charles University"
+}
