@@ -1,13 +1,15 @@
 # YouthOpps Data Source
 
-Public, source-isolated snapshots written by [data-pipeline](https://github.com/YouthOpps/data-pipeline).
+Public JSON snapshots written by [data-pipeline](https://github.com/YouthOpps/data-pipeline).
 
 ```text
-catalog.json                       # Derived website index
-sources/<source-id>/metadata.json  # Publisher, adapter, collection state
+catalog.json                            # Unified website index
+sources/<source-id>/metadata.json       # Publisher and collection state
 sources/<source-id>/opportunities.json  # Canonical opportunities
 ```
 
-Each GitHub Action processes one publisher and writes its own files together with the rebuilt `catalog.json` in **one commit**. A shared concurrency group serializes writers. Source snapshots are retained if collection fails, so a failed request never replaces valid published data. The website reads a commit-pinned `catalog.json`; country and category filters are derived from the canonical records.
+Each enabled source has one `fetch-<source-id>` GitHub Action **in data-pipeline**. It validates and writes its source files and rebuilt `catalog.json` in a single commit when data changes. Shared concurrency serializes writes; a failed collection preserves the previous snapshot. JSON files are indented with two spaces and end with a newline.
 
-Contributions to source adapters belong in [data-pipeline](https://github.com/YouthOpps/data-pipeline). Use GitHub Discussions or Issues first; contact@youthopps.org is the fallback contact.
+This repository has **no GitHub Actions**. The [website](https://github.com/YouthOpps/youthopps.github.io) consumes it as a pinned Git submodule. The website's hourly `check new data` Action updates its own submodule reference when this repository changes.
+
+Contribute source adapters in [data-pipeline](https://github.com/YouthOpps/data-pipeline). Prefer GitHub Discussions and Issues; contact@youthopps.org is the private-contact fallback.
