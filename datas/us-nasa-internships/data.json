@@ -14,25 +14,25 @@
     "deadline": null,
     "language": "en",
     "category": "internships",
-    "host_countries": [],
-    "eligible_countries": [],
-    "created_at": "2026-10-08T09:14:00.354Z",
-    "updated_at": "2026-10-08T09:14:00.354Z",
-    "first_seen_at": "2026-10-08T09:14:00.354Z",
-    "last_seen_at": "2026-10-08T09:14:00.354Z",
-    "last_checked_at": "2026-10-08T09:14:00.354Z",
-    "status": "unknown",
     "categories": [
       "internships"
     ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "created_at": "2026-10-08T09:14:00.354Z",
+    "updated_at": "2026-10-08T09:14:00.354Z",
+    "first_seen_at": "2026-10-08T09:14:00.354Z",
+    "last_seen_at": "2026-10-08T15:28:53.036Z",
+    "last_checked_at": "2026-10-08T15:28:53.036Z",
+    "status": "unknown",
     "classification": {
       "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "https://www.nasa.gov/learning-resources/internship-programs/"
       ]
-    },
-    "kind": "programme-overview",
-    "publisher_country": "US"
+    }
   }
 ]
