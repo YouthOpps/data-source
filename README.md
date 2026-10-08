@@ -1,12 +1,13 @@
 # YouthOpps Data Source
 
-Source-isolated opportunity records produced by `YouthOpps/data-pipeline`.
+Public, source-isolated snapshots written by [data-pipeline](https://github.com/YouthOpps/data-pipeline).
 
+```text
+catalog.json                       # Derived website index
+sources/<source-id>/metadata.json  # Publisher, adapter, collection state
+sources/<source-id>/opportunities.json  # Canonical opportunities
 ```
-sources/<source-id>/opportunities.json
-sources/<source-id>/metadata.json
-```
 
-Each source is independently collected and atomically committed. `opportunities.json` contains canonical records; `metadata.json` includes collection status, origin, and timestamps. The website builds its catalog from these files while retaining the original country and category taxonomy.
+Each GitHub Action processes one publisher and writes its own files together with the rebuilt `catalog.json` in **one commit**. A shared concurrency group serializes writers. Source snapshots are retained if collection fails, so a failed request never replaces valid published data. The website reads a commit-pinned `catalog.json`; country and category filters are derived from the canonical records.
 
-Only the designated pipeline workflow should write source data. Do not modify generated records manually.
+Contributions to source adapters belong in [data-pipeline](https://github.com/YouthOpps/data-pipeline). Use GitHub Discussions or Issues first; contact@youthopps.org is the fallback contact.
