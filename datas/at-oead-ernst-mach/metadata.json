@@ -2,17 +2,15 @@
   "source": "at-oead-ernst-mach",
   "source_url": "https://studyinaustria.at/en/news/article/2026/08/ernst-mach-stipendium-weltweit-bewerbung-bis-1-dezember-2026",
   "website_url": "https://studyinaustria.at/",
-  "attribution": "© OeAD",
-  "research_source_id": "at-oead",
   "language": "en",
   "publisher_country": "AT",
   "publisher_type": "public-institution",
-  "scope": "exact reviewed scholarship notice metadata; application availability and encoded eligibility unknown",
   "status": "success",
-  "message": "Preserved previously validated snapshot during layout migration",
-  "last_attempt_at": "2026-10-08T11:57:45.691Z",
-  "last_success_at": "2026-10-08T11:57:45.691Z",
-  "last_checked_at": "2026-10-08T11:57:45.691Z",
+  "last_attempt_at": "2026-10-08T15:28:05.136Z",
+  "last_success_at": "2026-10-08T15:28:05.136Z",
+  "last_checked_at": "2026-10-08T15:28:05.136Z",
   "record_count": 1,
-  "error": null
+  "message": "Collected and validated 1 records",
+  "error": null,
+  "attribution": "© OeAD"
 }
