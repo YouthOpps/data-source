@@ -1,0 +1,19 @@
+{
+  "source": "pl-fulbright-poland",
+  "source_url": "https://fulbright.edu.pl/junior-research/",
+  "website_url": "https://fulbright.edu.pl/",
+  "language": "pl",
+  "publisher_country": "PL",
+  "publisher_type": "scholarship-commission",
+  "status": "success",
+  "last_attempt_at": "2026-10-08T21:22:58.024Z",
+  "last_success_at": "2026-10-08T21:22:58.024Z",
+  "last_checked_at": "2026-10-08T21:22:58.024Z",
+  "record_count": 29,
+  "message": "Collected and validated 29 records",
+  "error": null,
+  "attribution": "Polish-U.S. Fulbright Commission (CC BY-NC 4.0)",
+  "license": "CC BY-NC 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "changes": "Factual selection and normalization; YouthOpps-written summaries."
+}
