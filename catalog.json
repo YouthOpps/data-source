@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "model_version": 2,
-  "generated_at": "2026-10-08T09:14:00.488Z",
+  "generated_at": "2026-10-08T11:57:47.387Z",
   "opportunities": [
     {
       "id": "e33101a5c76730acfcf1e7d1",
@@ -488,9 +488,82 @@
       },
       "kind": "programme-overview",
       "publisher_country": "US"
+    },
+    {
+      "id": "e219807144baf452cff96f7f",
+      "title": "Ernst Mach Scholarship – Worldwide: Application Deadline 1 December 2026",
+      "url": "https://studyinaustria.at/en/news/article/2026/08/ernst-mach-stipendium-weltweit-bewerbung-bis-1-dezember-2026",
+      "source": "at-oead-ernst-mach",
+      "source_url": "https://studyinaustria.at/en/news/article/2026/08/ernst-mach-stipendium-weltweit-bewerbung-bis-1-dezember-2026",
+      "published_at": null,
+      "summary": "",
+      "tags": [
+        "programme-overview"
+      ],
+      "location": null,
+      "deadline": null,
+      "language": "en",
+      "category": "scholarships",
+      "host_countries": [],
+      "eligible_countries": [],
+      "created_at": "2026-10-08T11:57:45.691Z",
+      "updated_at": "2026-10-08T11:57:45.691Z",
+      "first_seen_at": "2026-10-08T11:57:45.691Z",
+      "last_seen_at": "2026-10-08T11:57:45.691Z",
+      "last_checked_at": "2026-10-08T11:57:45.691Z",
+      "status": "unknown",
+      "categories": [
+        "scholarships"
+      ],
+      "classification": {
+        "method": "editorial-review",
+        "status": "classified",
+        "evidence": [
+          "https://studyinaustria.at/en/news/article/2026/08/ernst-mach-stipendium-weltweit-bewerbung-bis-1-dezember-2026"
+        ]
+      },
+      "kind": "programme-overview",
+      "publisher_country": "AT"
     }
   ],
   "sources": [
+    {
+      "source": "at-oead-ernst-mach",
+      "source_url": "https://studyinaustria.at/en/news/article/2026/08/ernst-mach-stipendium-weltweit-bewerbung-bis-1-dezember-2026",
+      "website_url": "https://studyinaustria.at/",
+      "enabled": true,
+      "adapter": "reviewed-html",
+      "language": "en",
+      "default_tags": [],
+      "added_at": "2026-10-05",
+      "scope": "exact reviewed scholarship notice metadata; application availability and encoded eligibility unknown",
+      "reviewed_page": {
+        "url": "https://studyinaustria.at/en/news/article/2026/08/ernst-mach-stipendium-weltweit-bewerbung-bis-1-dezember-2026",
+        "title": "Ernst Mach Scholarship – Worldwide: Application Deadline 1 December 2026",
+        "category": "scholarships",
+        "kind": "programme-overview",
+        "metadata_format": "heading"
+      },
+      "attribution": "© OeAD",
+      "access_review": {
+        "reviewed_at": "2026-10-05",
+        "robots_url": "https://studyinaustria.at/robots.txt",
+        "policy_url": "https://oead.at/en/imprint-en",
+        "scope": "Attributed factual notice title and exact canonical URL only. Text excerpts permitted with credit © OeAD; no multimedia, source prose, framing or database access. One exact-page request per six-hour run. Required source attribution must render on source directory, detail and every associated catalogue/home/category listing row before publication."
+      },
+      "research_source_id": "at-oead",
+      "categories": [
+        "scholarships"
+      ],
+      "publisher_country": "AT",
+      "publisher_type": "public-institution",
+      "last_attempt_at": "2026-10-08T11:57:45.691Z",
+      "last_checked_at": "2026-10-08T11:57:45.691Z",
+      "last_success_at": "2026-10-08T11:57:45.691Z",
+      "status": "ok",
+      "record_count": 1,
+      "error": null
+    },
     {
       "source": "opportunitydesk",
       "source_url": "https://opportunitydesk.org/feed/",
@@ -728,10 +801,12 @@
       "categories": [
         "scholarships"
       ],
-      "publisher_type": "unknown",
+      "publisher_type": "public-institution",
       "publisher_country": "AT",
       "classification_status": "classified",
-      "unmapped_content_types": []
+      "unmapped_content_types": [],
+      "collection_enabled": true,
+      "collection_blocked_reason": null
     },
     {
       "id": "at-university-of-vienna",
@@ -6591,7 +6666,8 @@
       "scholarships": [
         "e33101a5c76730acfcf1e7d1",
         "d418628890d73d849dc42f6a",
-        "b6bfe8d203da424ba92f10ee"
+        "b6bfe8d203da424ba92f10ee",
+        "e219807144baf452cff96f7f"
       ],
       "internships": [
         "03a59cd63dd4b187e3f7f5ae",
@@ -6629,7 +6705,8 @@
         "b6bfe8d203da424ba92f10ee"
       ],
       "programme-overview": [
-        "c1ac6b82f333b7c201631784"
+        "c1ac6b82f333b7c201631784",
+        "e219807144baf452cff96f7f"
       ],
       "institutional-grant": [],
       "unknown": [
@@ -6638,6 +6715,9 @@
       ]
     },
     "sources": {
+      "at-oead-ernst-mach": [
+        "e219807144baf452cff96f7f"
+      ],
       "opportunitydesk": [
         "e33101a5c76730acfcf1e7d1",
         "03a59cd63dd4b187e3f7f5ae",
