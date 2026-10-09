@@ -5,12 +5,13 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "success",
-  "last_attempt_at": "2026-10-08T19:45:26.875Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-09T06:21:52.978Z",
   "last_success_at": "2026-10-08T19:45:26.875Z",
   "last_checked_at": "2026-10-08T19:45:26.875Z",
   "record_count": 9,
-  "message": "Collected and validated 9 records",
-  "error": null,
-  "attribution": "Opportunity Desk"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher connection failed: The read operation timed out",
+  "attribution": "Opportunity Desk",
+  "failure_stage": "fetch"
 }
