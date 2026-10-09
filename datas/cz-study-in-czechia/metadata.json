@@ -1,0 +1,17 @@
+{
+  "source": "cz-study-in-czechia",
+  "name": "Study in Czechia",
+  "source_url": "https://studyin.gov.cz/scholarships/",
+  "website_url": "https://studyin.gov.cz/",
+  "language": "en",
+  "publisher_country": "CZ",
+  "publisher_type": "government",
+  "status": "success",
+  "last_attempt_at": "2026-10-09T19:24:12.922Z",
+  "last_success_at": "2026-10-09T19:24:12.922Z",
+  "last_checked_at": "2026-10-09T20:40:55.007Z",
+  "record_count": 269,
+  "message": "Collected 269 validated Study in Czechia funding programmes and placements",
+  "error": null,
+  "attribution": "Study in Czechia — Czech National Agency for International Education and Research (DZS); official delegated programme conditions"
+}
