@@ -1,0 +1,16 @@
+{
+  "source": "de-stipendiumplus",
+  "source_url": "https://stipendiumplus.de/",
+  "website_url": "https://stipendiumplus.de/",
+  "language": "de",
+  "publisher_country": "DE",
+  "publisher_type": "nonprofit",
+  "status": "success",
+  "last_attempt_at": "2026-10-09T02:56:56.741Z",
+  "last_success_at": "2026-10-09T02:56:56.741Z",
+  "last_checked_at": "2026-10-09T02:59:03.434Z",
+  "record_count": 8,
+  "message": "Collected 8 validated StipendiumPlus funding frameworks and training editions",
+  "error": null,
+  "attribution": "StipendiumPlus — Arbeitsgemeinschaft der Begabtenförderungswerke der Bundesrepublik Deutschland"
+}
