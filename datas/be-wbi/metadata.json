@@ -1,0 +1,16 @@
+{
+  "source": "be-wbi",
+  "source_url": "https://www.wbi.be/en/bourses",
+  "website_url": "https://www.wbi.be/",
+  "language": "fr",
+  "publisher_country": "BE",
+  "publisher_type": "government",
+  "status": "success",
+  "last_attempt_at": "2026-10-09T01:23:05.620Z",
+  "last_success_at": "2026-10-09T01:23:05.620Z",
+  "last_checked_at": "2026-10-09T01:25:55.407Z",
+  "record_count": 21,
+  "message": "Collected 21 validated WBI funded opportunities",
+  "error": null,
+  "attribution": "Wallonie-Bruxelles International (WBI) – www.wbi.be"
+}
