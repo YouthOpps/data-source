@@ -1,0 +1,261 @@
+[
+  {
+    "id": "2a22f5b812fff76eb2dbd899",
+    "title": "Erasmus higher education exchange scholarships",
+    "url": "https://studyindenmark.dk/study-options/scholarships",
+    "source": "dk-study-in-denmark",
+    "source_url": "https://studyindenmark.dk/study-options/scholarships",
+    "published_at": null,
+    "summary": "Study abroad for two to twelve months as part of higher education in the home country. Own source describes students from EU/EEA and Switzerland. The own exchange page confirms incoming study in Denmark, with prior enrolment at a higher education institution in the student’s country of residence.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "DK"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "DK",
+    "created_at": "2026-10-09T02:18:55.002Z",
+    "updated_at": "2026-10-09T02:18:55.002Z",
+    "first_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_checked_at": "2026-10-09T02:20:32.362Z",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs",
+        "Known Danish hosting: https://studyindenmark.dk/study-options/what-can-i-study/exchange-programmes-and-summer-schools . Denmark is not the scheme’s only worldwide destination; source scholarship paragraph says abroad more broadly. Students from a region is not an unconditional citizenship whitelist. Consult home institution/national agency for precise eligibility and application procedure; no universal dated call or fixed grant amount. Do not turn bilateral exchange advice into unnamed award clones."
+      ]
+    }
+  },
+  {
+    "id": "2c499d61e8bed70370c829ad",
+    "title": "Fulbright Denmark study and research grants",
+    "url": "https://studyindenmark.dk/study-options/scholarships",
+    "source": "dk-study-in-denmark",
+    "source_url": "https://studyindenmark.dk/study-options/scholarships",
+    "published_at": null,
+    "summary": "An American scholar or postgraduate student at master’s or PhD level may apply for an academic year of study and/or research in Denmark. Visit Fulbright Denmark for selection and application procedures. Own overview gives no current dated call or award amount.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships",
+      "fellowships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "DK"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "DK",
+    "created_at": "2026-10-09T02:18:55.002Z",
+    "updated_at": "2026-10-09T02:18:55.002Z",
+    "first_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_checked_at": "2026-10-09T02:20:32.362Z",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs",
+        "American is the publisher’s exact eligibility descriptor; this overview does not define a passport/citizenship or residence test, so no unsupported positive citizenship list is invented. This own substantive framework overview does not replicate the external provider’s individual call catalogue."
+      ]
+    }
+  },
+  {
+    "id": "8d6767ca847dcda553dc5763",
+    "title": "Industrial PhD grant",
+    "url": "https://studyindenmark.dk/study-options/what-can-i-study/phd-and-research",
+    "source": "dk-study-in-denmark",
+    "source_url": "https://studyindenmark.dk/study-options/scholarships",
+    "published_at": null,
+    "summary": "Commercial research with employment by a private company and university PhD enrolment. Find a company and university supervisor; the company applies to Innovation Fund Denmark for the grant on the candidate’s behalf. After funding success, apply for Graduate School enrolment. Salary follows the company agreement; no grant amount or dated call stated.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "grants",
+    "categories": [
+      "grants",
+      "jobs"
+    ],
+    "kind": "institutional-grant",
+    "host_countries": [
+      "DK"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "DK",
+    "created_at": "2026-10-09T02:18:55.002Z",
+    "updated_at": "2026-10-09T02:18:55.002Z",
+    "first_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_checked_at": "2026-10-09T02:20:32.362Z",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs",
+        "The private company is grant applicant; employed PhD candidate is beneficiary, not direct grant applicant. Own Danish university context establishes DK host. General PhD admission normally requires a relevant recognised master’s and good English, institution-dependent; generic 3+5/4+4 routes are not unconditional eligibility for this grant. DKK32,567 average University of Copenhagen faculty-funded salary and DKK50,000 general tuition fee are not this grant’s benefits/costs. No university job-bank, degree or third-party award clones."
+      ]
+    }
+  },
+  {
+    "id": "8df7144395c327ff5eb7f08b",
+    "title": "Danish government scholarships for non-EU/EEA students",
+    "url": "https://studyindenmark.dk/study-options/scholarships",
+    "source": "dk-study-in-denmark",
+    "source_url": "https://studyindenmark.dk/study-options/scholarships",
+    "published_at": null,
+    "summary": "Limited scholarships selected by Danish universities for highly qualified full-degree students: full/partial tuition waiver and/or living-cost grant. Requires citizenship outside EU/EEA/Switzerland, full-degree enrolment and a time-limited Danish education residence permit. No universal dated call or fixed amount stated.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "DK"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "DK",
+    "created_at": "2026-10-09T02:18:55.002Z",
+    "updated_at": "2026-10-09T02:18:55.002Z",
+    "first_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_checked_at": "2026-10-09T02:20:32.362Z",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs",
+        "Excluded: artistic higher-education admission; legal claim to Danish-citizen rights; specified admission-time Aliens Act §9c(1) permit as child of foreign parent holding §9m permit and citizenship outside EU/EEA; SU grant eligibility. The narrow child/parent clause is not a ban on all residents. Intro mentions Switzerland ambiguously; explicit eligibility bullet excludes it. Negative citizenship condition is preserved without inventing an exhaustive positive whitelist. Each university administers limited annual allocations and selects recipients; allocations are not distinct awards."
+      ]
+    }
+  },
+  {
+    "id": "ae761c9587a1165e2817605e",
+    "title": "Nordplus higher education mobility scholarships",
+    "url": "https://studyindenmark.dk/study-options/scholarships",
+    "source": "dk-study-in-denmark",
+    "source_url": "https://studyindenmark.dk/study-options/scholarships",
+    "published_at": null,
+    "summary": "Students enrolled at a Nordic or Baltic higher education institution may study in another Nordic or Baltic country as part of their degree. Contact the home university or national educational agency. Funding amount and dated application call are not specified.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "DK",
+    "created_at": "2026-10-09T02:18:55.002Z",
+    "updated_at": "2026-10-09T02:18:55.002Z",
+    "first_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_checked_at": "2026-10-09T02:20:32.362Z",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs",
+        "Affiliation is not citizenship. Published destination region is Nordic/Baltic, without an exhaustive named country list; neither DK-only hosting nor a complete national whitelist is inferred. One framework, not a record per country."
+      ]
+    }
+  },
+  {
+    "id": "af72ae90e8401d7313f4b217",
+    "title": "Erasmus Mundus / Joint Master Degree scholarships",
+    "url": "https://studyindenmark.dk/study-options/scholarships",
+    "source": "dk-study-in-denmark",
+    "source_url": "https://studyindenmark.dk/study-options/scholarships",
+    "published_at": null,
+    "summary": "Scholarships for specific joint master’s courses offered by a Danish institution and another European university or college. Own source includes EU/EEA and non-EU/EEA students. Contact the individual master’s course for funding conditions and application procedures; no universal dated call or amount.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "DK"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "DK",
+    "created_at": "2026-10-09T02:18:55.002Z",
+    "updated_at": "2026-10-09T02:18:55.002Z",
+    "first_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_checked_at": "2026-10-09T02:20:32.362Z",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs",
+        "Danish institution establishes a known DK host; the other European partner country is unspecified, so DK is not presented as an exhaustive joint host list. Course catalogue links do not create synthetic current course awards."
+      ]
+    }
+  },
+  {
+    "id": "f45f74ed9b5d736924cdcbc8",
+    "title": "Danish State Educational Support (SU)",
+    "url": "https://studyindenmark.dk/study-options/scholarships",
+    "source": "dk-study-in-denmark",
+    "source_url": "https://studyindenmark.dk/study-options/scholarships",
+    "published_at": null,
+    "summary": "Educational support is generally awarded to Danish residents. International students may apply for equal status under Danish rules or EU law; individual conditions apply. No fixed award amount, universal application deadline or unconditional grant entitlement is stated.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "DK"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "DK",
+    "created_at": "2026-10-09T02:18:55.002Z",
+    "updated_at": "2026-10-09T02:18:55.002Z",
+    "first_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_seen_at": "2026-10-09T02:18:55.002Z",
+    "last_checked_at": "2026-10-09T02:20:32.362Z",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs",
+        "Residence and equal-status conditions are not DK-only citizenship. Do not assume every foreign student qualifies, and do not merge SU with the separate government scholarship that excludes SU-eligible applicants."
+      ]
+    }
+  }
+]
