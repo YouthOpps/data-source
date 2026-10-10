@@ -1,0 +1,17 @@
+{
+  "source": "hr-university-of-zagreb",
+  "name": "University of Zagreb — bounded public calls and educational catalogue",
+  "source_url": "https://www.unizg.hr/studiji-i-studiranje/upisi-stipendije-priznavanja/stipendije/",
+  "website_url": "https://www.unizg.hr/",
+  "language": "hr",
+  "publisher_country": "HR",
+  "publisher_type": "university",
+  "attribution": "Sveučilište u Zagrebu https://www.unizg.hr/ and the named programme administrators",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T04:43:04.231Z",
+  "last_success_at": "2026-10-10T04:43:04.231Z",
+  "last_checked_at": "2026-10-10T05:06:00.506Z",
+  "record_count": 398,
+  "message": "Collected 398 reviewed University of Zagreb opportunities",
+  "error": null
+}
