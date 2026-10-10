@@ -6,13 +6,12 @@
   "language": "en",
   "publisher_country": "AT",
   "publisher_type": "non-profit",
-  "status": "fail",
-  "last_attempt_at": "2026-10-10T01:12:59.736Z",
-  "last_success_at": "2026-10-09T16:32:14.043Z",
-  "last_checked_at": "2026-10-09T16:39:21.759Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T08:22:58.005Z",
+  "last_success_at": "2026-10-10T08:22:58.005Z",
+  "last_checked_at": "2026-10-10T08:30:06.260Z",
   "record_count": 45,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publisher connection failed: <urlopen error timed out>",
-  "attribution": "Fulbright Austria — Austrian-American Educational Commission",
-  "failure_stage": "fetch"
+  "message": "Collected 45 validated Fulbright Austria awards and teaching positions",
+  "error": null,
+  "attribution": "Fulbright Austria — Austrian-American Educational Commission"
 }
