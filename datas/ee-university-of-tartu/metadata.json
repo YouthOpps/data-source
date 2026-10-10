@@ -6,11 +6,11 @@
   "publisher_country": "EE",
   "publisher_type": "university",
   "status": "success",
-  "last_attempt_at": "2026-10-08T17:47:08.335Z",
-  "last_success_at": "2026-10-08T17:47:08.335Z",
-  "last_checked_at": "2026-10-08T17:47:08.335Z",
-  "record_count": 23,
-  "message": "Collected and validated 23 records",
+  "last_attempt_at": "2026-10-10T18:01:44.827Z",
+  "last_success_at": "2026-10-10T18:01:44.827Z",
+  "last_checked_at": "2026-10-10T18:01:44.827Z",
+  "record_count": 17,
+  "message": "Collected and validated 17 records",
   "error": null,
   "attribution": "University of Tartu"
 }
