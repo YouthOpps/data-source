@@ -7,12 +7,11 @@
   "publisher_country": "HR",
   "publisher_type": "university",
   "attribution": "Sveučilište u Zagrebu https://www.unizg.hr/ and the named programme administrators",
-  "status": "fail",
-  "last_attempt_at": "2026-10-10T06:51:25.682Z",
-  "last_success_at": "2026-10-10T05:06:37.291Z",
-  "last_checked_at": "2026-10-10T05:29:29.282Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T07:24:53.271Z",
+  "last_success_at": "2026-10-10T07:24:53.271Z",
+  "last_checked_at": "2026-10-10T07:47:56.428Z",
   "record_count": 398,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Reviewed source facts/frontier changed: hub",
-  "failure_stage": "parse"
+  "message": "Collected 398 reviewed University of Zagreb opportunities",
+  "error": null
 }
