@@ -5,13 +5,12 @@
   "language": "en",
   "publisher_country": "BG",
   "publisher_type": "government",
-  "status": "fail",
-  "last_attempt_at": "2026-10-10T00:21:10.009Z",
-  "last_success_at": "2026-10-09T04:09:00.712Z",
-  "last_checked_at": "2026-10-09T04:13:01.316Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T08:47:32.152Z",
+  "last_success_at": "2026-10-10T08:47:32.152Z",
+  "last_checked_at": "2026-10-10T08:51:32.903Z",
   "record_count": 37,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Source facts/inventory changed: home",
-  "attribution": "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-  "failure_stage": "parse"
+  "message": "Collected 37 validated Fulbright Bulgaria awards and training editions",
+  "error": null,
+  "attribution": "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange"
 }
