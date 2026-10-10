@@ -6,11 +6,11 @@
   "publisher_country": "DK",
   "publisher_type": "university",
   "status": "success",
-  "last_attempt_at": "2026-10-10T18:08:12.741Z",
-  "last_success_at": "2026-10-10T18:08:12.741Z",
-  "last_checked_at": "2026-10-10T18:08:12.741Z",
-  "record_count": 47,
-  "message": "Collected and validated 47 records",
+  "last_attempt_at": "2026-10-10T22:00:30.122Z",
+  "last_success_at": "2026-10-10T22:00:30.122Z",
+  "last_checked_at": "2026-10-10T22:00:30.122Z",
+  "record_count": 46,
+  "message": "Collected and validated 46 records",
   "error": null,
   "attribution": "University of Copenhagen"
 }
