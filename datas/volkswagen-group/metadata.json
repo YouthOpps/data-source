@@ -1,0 +1,18 @@
+{
+  "source": "volkswagen-group",
+  "name": "Volkswagen AG student and early-career opportunities",
+  "description": "Volkswagen AG individual student and early-career listings; excludes non-youth roles, other Group brands and the robots-blocked HRD apprenticeship portal.",
+  "source_url": "https://www.volkswagen-karriere.de/",
+  "website_url": "https://www.volkswagen-karriere.de/",
+  "language": "de",
+  "publisher_country": "DE",
+  "publisher_type": "company",
+  "attribution": "Volkswagen AG — original factual summaries and direct official individual opportunity links.",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T21:13:53.755Z",
+  "last_success_at": "2026-10-10T21:13:53.755Z",
+  "last_checked_at": "2026-10-10T21:38:57.384Z",
+  "record_count": 169,
+  "message": "Collected 169 reviewed Volkswagen AG individual opportunities",
+  "error": null
+}
