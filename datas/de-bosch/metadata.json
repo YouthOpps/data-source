@@ -1,0 +1,18 @@
+{
+  "source": "de-bosch",
+  "name": "Bosch career programmes",
+  "description": "Official allowed student and graduate programme overviews; excludes blocked vacancies and country routes; availability is unknown.",
+  "source_url": "https://www.bosch.com/careers/",
+  "website_url": "https://www.bosch.com/careers/",
+  "language": "en",
+  "publisher_country": "DE",
+  "publisher_type": "company",
+  "attribution": "Bosch — official career programme information; direct links to original sources.",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T19:42:24.176Z",
+  "last_success_at": "2026-10-10T19:42:24.176Z",
+  "last_checked_at": "2026-10-10T19:49:42.426Z",
+  "record_count": 18,
+  "message": "Collected 18 reviewed Bosch programme overviews",
+  "error": null
+}
