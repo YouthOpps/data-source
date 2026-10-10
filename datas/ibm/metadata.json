@@ -1,0 +1,17 @@
+{
+  "source": "ibm",
+  "name": "IBM — advertised early-career programme information",
+  "source_url": "https://www.ibm.com/careers",
+  "website_url": "https://www.ibm.com/",
+  "language": "en",
+  "publisher_country": "US",
+  "publisher_type": "company",
+  "attribution": "IBM https://www.ibm.com/ ; original factual programme summaries and direct official links",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T19:42:52.294Z",
+  "last_success_at": "2026-10-10T19:42:52.294Z",
+  "last_checked_at": "2026-10-10T19:45:26.364Z",
+  "record_count": 5,
+  "message": "Collected 5 reviewed IBM early-career programme overviews",
+  "error": null
+}
