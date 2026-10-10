@@ -1,0 +1,154 @@
+[
+  {
+    "id": "be-study-in-flanders-baef-fellowships",
+    "title": "Belgian American Education Foundation Fellowships (B.A.E.F.)",
+    "url": "https://www.studyinflanders.be/scholarships/us-citizens",
+    "source": "be-study-in-flanders",
+    "source_url": "https://www.studyinflanders.be/scholarships/master-mind-scholarships",
+    "published_at": null,
+    "summary": "For U.S. citizens or permanent residents: one academic year of advanced study or research at a Belgian higher education institution. Study in Flanders’ undated BAEF overview lists up to 10 fellowships, with $27,000 for master’s or PhD students and $31,000 for postdoctoral fellows. No application deadline or current call year is provided; confirm current terms with the linked provider.\n",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "fellowships",
+    "categories": [
+      "fellowships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "BE"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "BE",
+    "created_at": "2026-10-10T07:00:04.383Z",
+    "updated_at": "2026-10-10T07:00:04.383Z",
+    "first_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_checked_at": "2026-10-10T07:02:33.727Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-evidence",
+      "status": "classified",
+      "evidence": [
+        "Study in Flanders (VLUHR) https://www.studyinflanders.be/ and the named programme administrators",
+        "Official Study in Flanders US funding overview; distinct named programme and its actual provider/application link. No current deadline or call year given."
+      ]
+    }
+  },
+  {
+    "id": "be-study-in-flanders-fulbright-us-scholar",
+    "title": "Fulbright U.S. Scholar Program",
+    "url": "https://www.studyinflanders.be/scholarships/us-citizens",
+    "source": "be-study-in-flanders",
+    "source_url": "https://www.studyinflanders.be/scholarships/master-mind-scholarships",
+    "published_at": null,
+    "summary": "For American citizens: Study in Flanders lists the Fulbright U.S. Scholar Program among funding routes at Flemish universities and universities of applied sciences and arts. Its joint Student/Scholar overview mentions study, research and teaching, without specifying which activities belong to each track. A separate Scholar application link is supplied; no deadline, award amount or detailed track eligibility is given. Check the provider’s current criteria.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "BE"
+    ],
+    "eligible_countries": [
+      "US"
+    ],
+    "publisher_country": "BE",
+    "created_at": "2026-10-10T07:00:04.383Z",
+    "updated_at": "2026-10-10T07:00:04.383Z",
+    "first_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_checked_at": "2026-10-10T07:02:33.727Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-evidence",
+      "status": "classified",
+      "evidence": [
+        "Study in Flanders (VLUHR) https://www.studyinflanders.be/ and the named programme administrators",
+        "Official Study in Flanders US funding overview; distinct named programme and its actual provider/application link. No current deadline or call year given."
+      ]
+    }
+  },
+  {
+    "id": "be-study-in-flanders-fulbright-us-student",
+    "title": "Fulbright U.S. Student Program",
+    "url": "https://www.studyinflanders.be/scholarships/us-citizens",
+    "source": "be-study-in-flanders",
+    "source_url": "https://www.studyinflanders.be/scholarships/master-mind-scholarships",
+    "published_at": null,
+    "summary": "For American citizens: Study in Flanders lists the Fulbright U.S. Student Program among funding routes at Flemish universities and universities of applied sciences and arts. Its joint Student/Scholar overview mentions study, research and teaching, without specifying which activities belong to each track. A separate Student application link is supplied; no deadline, award amount or detailed track eligibility is given. Check the provider’s current criteria.\n",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "BE"
+    ],
+    "eligible_countries": [
+      "US"
+    ],
+    "publisher_country": "BE",
+    "created_at": "2026-10-10T07:00:04.383Z",
+    "updated_at": "2026-10-10T07:00:04.383Z",
+    "first_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_checked_at": "2026-10-10T07:02:33.727Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-evidence",
+      "status": "classified",
+      "evidence": [
+        "Study in Flanders (VLUHR) https://www.studyinflanders.be/ and the named programme administrators",
+        "Official Study in Flanders US funding overview; distinct named programme and its actual provider/application link. No current deadline or call year given."
+      ]
+    }
+  },
+  {
+    "id": "be-study-in-flanders-master-mind-2026-2027",
+    "title": "Master Mind Scholarship",
+    "url": "https://www.studyinflanders.be/scholarships/master-mind-scholarships",
+    "source": "be-study-in-flanders",
+    "source_url": "https://www.studyinflanders.be/scholarships/master-mind-scholarships",
+    "published_at": null,
+    "summary": "Closed 2026–27: master’s applicants need GPA 3.5/4, English proof, host admission and nomination; all nationalities except Russian. No Flemish qualifying degree or current enrolment (except Spring 2026 preparation for September 2026). €10,225/year plus fee waiver; €136.50 tuition may remain. Year two needs 54 ECTS; its payments total €11,750, conflicting with €10,225. No combined Flemish/Erasmus/BAEF/Fulbright award. Host deadlines and arts language thresholds differ. Full criteria apply; new 2027–28 terms under review.\n",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "BE"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "BE",
+    "created_at": "2026-10-10T07:00:04.383Z",
+    "updated_at": "2026-10-10T07:00:04.383Z",
+    "first_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_seen_at": "2026-10-10T07:00:04.383Z",
+    "last_checked_at": "2026-10-10T07:02:33.727Z",
+    "status": "expired",
+    "classification": {
+      "method": "publisher-evidence",
+      "status": "classified",
+      "evidence": [
+        "Study in Flanders (VLUHR) https://www.studyinflanders.be/ and the named programme administrators",
+        "Official complete MasterMind call and conditions; literal 2026–27 call closed, no central public cutoff."
+      ]
+    }
+  }
+]
