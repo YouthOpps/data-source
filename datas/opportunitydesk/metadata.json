@@ -5,13 +5,12 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "fail",
-  "last_attempt_at": "2026-10-10T06:04:09.536Z",
-  "last_success_at": "2026-10-09T13:33:45.909Z",
-  "last_checked_at": "2026-10-09T13:33:45.909Z",
-  "record_count": 9,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Unreviewed publisher opportunity taxonomy",
-  "attribution": "Opportunity Desk",
-  "failure_stage": "parse"
+  "status": "success",
+  "last_attempt_at": "2026-10-10T09:33:42.363Z",
+  "last_success_at": "2026-10-10T09:33:42.363Z",
+  "last_checked_at": "2026-10-10T09:33:42.363Z",
+  "record_count": 10,
+  "message": "Collected and validated 10 records",
+  "error": null,
+  "attribution": "Opportunity Desk"
 }
