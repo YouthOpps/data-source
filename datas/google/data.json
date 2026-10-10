@@ -1,0 +1,622 @@
+[
+  {
+    "title": "US Google Student Ambassador Program",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/programs/googlestudentambassador",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "This paid, remote and campus-based programme recruits U.S. college students to connect peers with Google AI products, host campus events and share product insights. Active campus involvement, interest in AI and experience organising events or social content strengthen applications. Recruitment follows the academic calendar, and the page says applications are closed. The programme index mistakenly repeats a Summer of Code description; the individual page supplies these facts.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "expired",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/programs/googlestudentambassador",
+        "https://www.google.com/about/careers/applications/buildyourfuture/programs/"
+      ]
+    },
+    "id": "0020b46b488fe7f247ca2f2d",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Research internships",
+    "url": "https://www.google.com/about/careers/applications/research-internships/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Google research internships let final-year PhD students work with researchers on computing and scientific projects. A separate Student Researcher programme hires students into projects aligned to company research priorities, with varying locations and durations. Google offers interns compensation, benefits and mentorship. These are programme descriptions; individual project qualifications, current vacancies and deadlines were not collected. The linked student-engagement site supplies additional information.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/research-internships/",
+        "https://www.google.com/about/careers/applications/internships"
+      ]
+    },
+    "id": "0bf2504950496626c29b7255",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Scholarship: Google Ireland for women in computer science",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/scholarships/googleireland/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Google Ireland awards selected undergraduate computer-science students EUR 5,000 annually for two consecutive years, based on leadership and academic background. Google states the application deadline was October 5, 2026 and encourages women to apply. Complete minimum eligibility is delegated to IIE and is not verified by this collector; follow the administrator link before relying on eligibility. No Irish citizenship or women-only requirement is inferred from the programme name.",
+    "tags": [],
+    "location": null,
+    "deadline": "2026-10-05",
+    "language": "en",
+    "summary_language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "IE"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "expired",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/scholarships/googleireland/",
+        "https://www.google.com/about/careers/applications/buildyourfuture/scholarships/"
+      ]
+    },
+    "id": "2b8f39305faadee1075e7297",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Apprenticeships",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/apprenticeships/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Google apprenticeships offer paid work, training and benefits. Applicants need local work rights and English/local-language fluency; generally age over 18, with a Swiss exception. U.S. programmes take 40 hours weekly, exclude same-field bachelor's students/graduates and require under 12 months' experience (under six with an associate degree). This overview covers 20 tracks; individual vacancies are not collected. Several cohort dates are stale or closed. India Software Application Development says 12 months in the heading and 24 in the text.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs",
+      "training"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US",
+      "FR",
+      "IE",
+      "CH",
+      "GB",
+      "IN",
+      "BR"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/apprenticeships/"
+      ]
+    },
+    "id": "2eeca408e70ca24d4a63c080",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Connect users to the magic",
+    "url": "https://www.google.com/about/careers/applications/programs/apmm/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "The Associate Product Marketing Manager programme lasts two years according to the index and offers two roles, training and mentors. Applicants may be students or have a few years of experience; no single prior experience is universally required. Technology and marketing interest, leadership, problem solving and creative analysis matter. Participants must start in their home country, and visa sponsorship is unavailable. Roles open according to business demand; detailed job requirements and deadlines vary.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/programs/apmm/",
+        "https://www.google.com/about/careers/applications/early-career"
+      ]
+    },
+    "id": "30aa1d9c346d22df453c0f33",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Google Associate Product Manager Program",
+    "url": "https://www.google.com/about/careers/applications/programs/apm/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "APM offers recent graduates two one-year product-management rotations, mentors and professional development; summer interns join one team for 12 weeks. Internship applicants must graduate within 12 months after the internship. Technical understanding, product judgement, analysis and communication matter. U.S. applications are listed as September 22-October 6 and London internships October 5-November 12, without a year; other graduate intake dates are unknown. Check actual role requirements.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs",
+      "internships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US",
+      "GB",
+      "DE",
+      "CH",
+      "JP"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/programs/apm/"
+      ]
+    },
+    "id": "46469cc593110e79a324419b",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Your Future Starts Here",
+    "url": "https://www.google.com/about/careers/applications/programs/spark/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Spark at Google develops early-career digital-marketing and sales staff through three months of initial training, ongoing learning and mentorship while advising small-business clients. Prior sales experience is not required; specific job qualifications still apply. Locations include New York, the Bay Area and Mexico City, generally with three office days and two flexible days weekly. U.S. applicants need U.S. work authorisation. Apply only when a Spark role is posted; current vacancies and deadlines are unknown.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US",
+      "MX"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/programs/spark/"
+      ]
+    },
+    "id": "8bccc3f9b35691bd21664534",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Business internships",
+    "url": "https://www.google.com/about/careers/applications/students/business-internships/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Google describes business internships for undergraduate and graduate students, MBA internships for currently enrolled MBA students and legal internships for law students in selected countries. Requirements and application dates vary by role and location; MBA recruitment generally opens in September-October and legal recruitment in October, without a cohort year here. Google offers interns compensation, benefits and mentorship. The separate four-years-experience career-break gCareer route is excluded from this student scope.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/students/business-internships/",
+        "https://www.google.com/about/careers/applications/internships"
+      ]
+    },
+    "id": "8c879a690fb771c46e25c794",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "US Legal Summer Institute",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/programs/lsi/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "US LSI combines paid partner-law-firm summer work with a Google campus week, not an in-house Google internship. Rising 2L/3E students need U.S. work authorisation, an ABA-approved law school, transcripts, résumé and essays, and must attend the whole Google week. The page says 2027 applications closed, yet its 2028 calendar lists November 30, 2026-January 11, 2027 applications. Its class-of-2028 and spring-2029 eligibility wording conflicts; verify cohort eligibility before applying.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-01-11",
+    "language": "en",
+    "summary_language": "en",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/programs/lsi/"
+      ]
+    },
+    "id": "9cbc2963775f6fceefc88f48",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Engineering and technical internships",
+    "url": "https://www.google.com/about/careers/applications/students/engineering-and-technical-internships/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Google describes software, user-experience, product-management, mechanical and hardware internships, not an exhaustive vacancy list. Software roles serve undergraduate and graduate or PhD students; mechanical roles require full-time degree study in mechanical engineering or a related field, and hardware roles degree study in electrical engineering with system-design emphasis. Dates and qualifications vary by role and location. Google offers interns compensation, benefits and mentorship; specific vacancies were not collected.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/students/engineering-and-technical-internships/",
+        "https://www.google.com/about/careers/applications/internships"
+      ]
+    },
+    "id": "a360e60dfa0ff0e2a72e643a",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "EMEA Legal Summer Institute (LSI)",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/programs/emea-lsi/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "EMEA LSI combines paid partner-law-firm experience with a Google learning week and optional six-month legal mentorship. Law students, apprentices or recent graduates need work authorisation in the placement country, academic excellence, a résumé, English and the local language. Applications are closed; the Google week was September 7-11, 2026. Placement timing varies, and travel or accommodation is not covered. The detail lists 23 countries although the programme index says 19.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "AT",
+      "BE",
+      "EG",
+      "EE",
+      "FR",
+      "DE",
+      "GB",
+      "IE",
+      "IL",
+      "IT",
+      "KE",
+      "LV",
+      "LT",
+      "NL",
+      "PL",
+      "PT",
+      "RO",
+      "SA",
+      "ES",
+      "SE",
+      "CH",
+      "TR",
+      "AE"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "expired",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/programs/emea-lsi/",
+        "https://www.google.com/about/careers/applications/early-career"
+      ]
+    },
+    "id": "b5cc5c652862d529476ac2b1",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Genesis Finance Program",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/programs/genesis",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Genesis Finance develops early-career finance staff through four six-month rotations over two years, training, mentors and a peer cohort. No specific experience is universally required; individual job qualifications apply, and applicants must have work authorisation in the country chosen. The page lists a summer 2026 start and fall 2025 closing without a day, alongside usual regional recruitment seasons. Current vacancies are not verified; the location list contains duplicate Ireland wording.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US",
+      "IE",
+      "SG"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/programs/genesis"
+      ]
+    },
+    "id": "bb335d68346debe272d8fac2",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Americas Sales Associate Program",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/programs/americas-sales-associate/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "This U.S. sales programme has quarterly starts and two years of rotations, with mentors and routes into account-management or analytical roles. Both tracks require a degree or equivalent practical experience and one year of relevant sales/advertising or analytical experience. Track-specific communication, client, Google Ads, data-visualisation or spreadsheet/SQL skills also apply. The page links two applications and says they are open; individual vacancy conditions and closing dates were not collected.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/programs/americas-sales-associate/"
+      ]
+    },
+    "id": "cd8b823aa5b4987d7b857fea",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Google Summer of Code",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/programs/summer-of-code/",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "Google Summer of Code pairs students or beginner open-source contributors aged over 18 with mentors for 12+ week coding projects. Applicants need work eligibility where they live, non-embargoed residence and at most two prior acceptances. Passed evaluations earn a stipend; amounts are not specified here. The 2026 application window was March 16-31. The page also labels parts of its timeline 2025; check linked official rules for additional conditions.",
+    "tags": [],
+    "location": null,
+    "deadline": "2026-03-31",
+    "language": "en",
+    "summary_language": "en",
+    "category": "training",
+    "categories": [
+      "training",
+      "grants"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "expired",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/buildyourfuture/programs/summer-of-code/"
+      ]
+    },
+    "id": "f5aeb0eadac5fe24159eea07",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  },
+  {
+    "title": "Google AI Career Catalyst Program",
+    "url": "https://www.google.com/about/careers/applications/programs/aicareercatalyst",
+    "source": "google",
+    "source_url": "https://buildyourfuture.withgoogle.com/",
+    "published_at": null,
+    "summary": "The AI Career Catalyst programme offers early-career software engineers 13 months of development in AI and infrastructure: three four-month rotations, senior mentorship and a final full-time team placement matched to business needs. It is based in Sunnyvale, with possible other U.S. rotations. The page lists a June 2027 start but says the 2026 cohort is closed and the 2027 intake will open this summer; current intake status and detailed qualifications need checking.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "summary_language": "en",
+    "category": "jobs",
+    "categories": [
+      "jobs"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [
+      "US"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "US",
+    "status": "unknown",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Google official programme information; original factual summary",
+        "Bounded programmeoverview; current global vacancies not collected",
+        "https://www.google.com/about/careers/applications/programs/aicareercatalyst"
+      ]
+    },
+    "id": "fcbba86b02636f253b64280a",
+    "created_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-10-10T19:34:53.359Z",
+    "first_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_seen_at": "2026-10-10T19:34:53.359Z",
+    "last_checked_at": "2026-10-10T19:39:11.539Z"
+  }
+]

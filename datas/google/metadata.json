@@ -1,0 +1,17 @@
+{
+  "source": "google",
+  "name": "Google — student and early-career programme information",
+  "source_url": "https://buildyourfuture.withgoogle.com/",
+  "website_url": "https://www.google.com/about/careers/applications/buildyourfuture/",
+  "language": "en",
+  "publisher_country": "US",
+  "publisher_type": "company",
+  "attribution": "Google — official student and early-career programme information",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T19:34:53.359Z",
+  "last_success_at": "2026-10-10T19:34:53.359Z",
+  "last_checked_at": "2026-10-10T19:39:11.539Z",
+  "record_count": 15,
+  "message": "Collected 15 reviewed Google programme information pages",
+  "error": null
+}
