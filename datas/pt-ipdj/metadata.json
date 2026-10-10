@@ -1,0 +1,17 @@
+{
+  "source": "pt-ipdj",
+  "name": "IPDJ — bounded public programmes, calls and educational sessions",
+  "source_url": "https://ipdj.gov.pt/candidaturas",
+  "website_url": "https://ipdj.gov.pt/",
+  "language": "pt",
+  "publisher_country": "PT",
+  "publisher_type": "public-body",
+  "attribution": "Instituto Português do Desporto e Juventude https://ipdj.gov.pt/ and the named programme administrators",
+  "status": "success",
+  "last_attempt_at": "2026-10-10T21:00:17.321Z",
+  "last_success_at": "2026-10-10T21:00:17.321Z",
+  "last_checked_at": "2026-10-10T21:34:47.824Z",
+  "record_count": 245,
+  "message": "Collected 245 reviewed IPDJ opportunities",
+  "error": null
+}
