@@ -5,13 +5,12 @@
   "language": "hu/en",
   "publisher_country": "HU",
   "publisher_type": "foundation",
-  "status": "fail",
-  "last_attempt_at": "2026-10-11T13:18:07.500Z",
-  "last_success_at": "2026-10-11T06:13:05.477Z",
-  "last_checked_at": "2026-10-11T06:13:05.477Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-11T22:18:30.003Z",
+  "last_success_at": "2026-10-11T22:18:30.003Z",
+  "last_checked_at": "2026-10-11T22:18:30.003Z",
   "record_count": 10,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Expected one award section",
-  "attribution": "Hungarian-American Fulbright Commission",
-  "failure_stage": "parse"
+  "message": "Collected and validated 10 records",
+  "error": null,
+  "attribution": "Hungarian-American Fulbright Commission"
 }
