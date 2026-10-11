@@ -6,11 +6,11 @@
   "publisher_country": "DE",
   "publisher_type": "youth-information-service",
   "status": "success",
-  "last_attempt_at": "2026-10-11T13:31:08.933Z",
-  "last_success_at": "2026-10-11T13:31:08.933Z",
-  "last_checked_at": "2026-10-11T13:31:08.933Z",
-  "record_count": 462,
-  "message": "Collected and validated 462 records",
+  "last_attempt_at": "2026-10-11T22:28:45.404Z",
+  "last_success_at": "2026-10-11T22:28:45.404Z",
+  "last_checked_at": "2026-10-11T22:28:45.404Z",
+  "record_count": 443,
+  "message": "Collected and validated 443 records",
   "error": null,
   "attribution": "rausvonzuhaus.de / Eurodesk Deutschland (IJAB)"
 }
