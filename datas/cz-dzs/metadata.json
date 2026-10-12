@@ -7,11 +7,12 @@
   "publisher_country": "CZ",
   "publisher_type": "government",
   "attribution": "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-  "status": "success",
-  "last_attempt_at": "2026-10-09T23:24:01.358Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-12T13:09:53.891Z",
   "last_success_at": "2026-10-09T23:24:01.358Z",
   "last_checked_at": "2026-10-09T23:29:33.287Z",
   "record_count": 16,
-  "message": "Collected 16 reviewed ESC grants and training offers",
-  "error": null
+  "message": "Collection failed; last-good data preserved",
+  "error": "Reviewed source facts/frontier changed: delegated-4",
+  "failure_stage": "parse"
 }
