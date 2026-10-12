@@ -5,12 +5,13 @@
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "government",
-  "status": "success",
-  "last_attempt_at": "2026-10-12T09:53:36.011Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-12T22:23:37.243Z",
   "last_success_at": "2026-10-12T09:53:36.011Z",
   "last_checked_at": "2026-10-12T09:59:43.447Z",
   "record_count": 32,
-  "message": "Collected 32 validated Fulbright Denmark funding and educational programmes",
-  "error": null,
-  "attribution": "Fulbright Denmark — Danish-American Fulbright Commission"
+  "message": "Collection failed; last-good data preserved",
+  "error": "New recommendation programme route: community-college /my-account/",
+  "attribution": "Fulbright Denmark — Danish-American Fulbright Commission",
+  "failure_stage": "parse"
 }
