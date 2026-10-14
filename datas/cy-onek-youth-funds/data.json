@@ -6,7 +6,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Grants for eligible non-profit youth activities in Cyprus, for young people, groups of 4+, youth centres and organisations. Individual applicants have restricted activity eligibility. Current pages say 13–35; the guide uses a different age cutoff, so confirm age and current expense caps before applying. CallB applications run 10 Dec 2026–16 Jan 2027 for activities 1 Apr–31 Jul 2027; not yet open.",
+    "summary": "Applications: 2026-12-10 to 2027-01-16. Activity period: 2027-04-01 to 2027-07-31. The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities... / Young people Aged 13-35 years old / The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000.",
     "tags": [],
     "location": null,
     "deadline": "2027-01-16",
@@ -22,17 +22,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/services/youth-initiatives/"
+        "Publisher: https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
+        "Published application row: B 01/04/27 - 31/07/2027 10/12/26 - 16/01/2027",
+        "Publisher excerpt (en): The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities, as well as the Rules and Conditions governing the award of grants, are...",
+        "Publisher excerpt (en): Young people Aged 13-35 years old",
+        "Publisher excerpt (en): The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000."
       ]
     },
     "summary_language": "en"
@@ -44,7 +48,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Grants for eligible non-profit youth activities in Cyprus, for young people, groups of 4+, youth centres and organisations. Individual applicants have restricted activity eligibility. Current pages say 13–35; the guide uses a different age cutoff, so confirm age and current expense caps before applying. CallC applications run 10 Apr–16 May 2027 for activities 1 Aug–30 Nov 2027; not yet open.",
+    "summary": "Applications: 2027-04-10 to 2027-05-16. Activity period: 2027-08-01 to 2027-11-30. The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities... / Young people Aged 13-35 years old / The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000.",
     "tags": [],
     "location": null,
     "deadline": "2027-05-16",
@@ -60,17 +64,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/services/youth-initiatives/"
+        "Publisher: https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
+        "Published application row: C 01/08/27 - 30/11/2027 10/04/27 - 16/05/2027",
+        "Publisher excerpt (en): The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities, as well as the Rules and Conditions governing the award of grants, are...",
+        "Publisher excerpt (en): Young people Aged 13-35 years old",
+        "Publisher excerpt (en): The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000."
       ]
     },
     "summary_language": "en"
@@ -82,9 +90,9 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Historical ONEK information session for young people, informal groups and youth organisations about funding social, cultural, environmental and international activities. Held at the Eleftheria Square Amphitheatre on 19 Jun 2024 at 18:30; RSVP closed 13 Jun 2024. No attendance funding or fee was specified. The subsequent event report describes the same session.",
+    "summary": "Application deadline: 2024-06-13. Event date: 2024-06-19. The Youth Board of Cyprus invites you to a presentation of its Funding Programmes on 19 June 2024 at 6:30 p.m. , at the Eleftheria Square Amphitheatre . / The Funding Programmes form part of the Youth Board of Cyprus’ ongoing efforts to support youth participation and empower young people to become active and engaged citizens... / The Funding Programmes are also part of the initiatives undertaken by the Youth Board of Cyprus within the framework of the National Year of Youth .",
     "tags": [],
-    "location": null,
+    "location": "Eleftheria Square Amphitheatre",
     "deadline": "2024-06-13",
     "language": "en",
     "category": "training",
@@ -98,17 +106,20 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/41-tropoi-gia-na-kaneis-tin-idea-sou-praxi-parousiasi-ton-chrimatodotikon-programmaton-tou-organismou-neolaias/"
+        "Publisher: https://youthfunds.onek.org.cy/en/41-tropoi-gia-na-kaneis-tin-idea-sou-praxi-parousiasi-ton-chrimatodotikon-programmaton-tou-organismou-neolaias/",
+        "Publisher excerpt (en): The Youth Board of Cyprus invites you to a presentation of its Funding Programmes on 19 June 2024 at 6:30 p.m. , at the Eleftheria Square Amphitheatre .",
+        "Publisher excerpt (en): The Funding Programmes form part of the Youth Board of Cyprus’ ongoing efforts to support youth participation and empower young people to become active and engaged citizens , contributing to issues that matter both to them and to...",
+        "Publisher excerpt (en): The Funding Programmes are also part of the initiatives undertaken by the Youth Board of Cyprus within the framework of the National Year of Youth ."
       ]
     },
     "summary_language": "en"
@@ -120,7 +131,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Travel support for invited or selected international participation by youths and youth organisations. The linked guide requires lawful permanent Cyprus residence over 6 months; this is not a citizenship rule. Confirm current expense caps, age conditions and permitted activities. Apply before participating. Current second 2026 call closes 31 Oct 2026, for activities 1 Jun–30 Nov 2026.",
+    "summary": "Application deadline: 2026-10-31. The Second Call for Applications under the “Youth and the World” Programme , which covers travel costs for participation in international activities, has been published on the... / Young People Aged 13-35 years old / The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking, build...",
     "tags": [],
     "location": null,
     "deadline": "2026-10-31",
@@ -134,17 +145,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "open",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/dimosiefthike-i-v-prosklisi-tou-programmatos-neoi-kai-kosmos-gia-to-2026/"
+        "Publisher: https://youthfunds.onek.org.cy/en/dimosiefthike-i-v-prosklisi-tou-programmatos-neoi-kai-kosmos-gia-to-2026/",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/neoi-kai-kosmos/",
+        "Publisher excerpt (en): The Second Call for Applications under the “Youth and the World” Programme , which covers travel costs for participation in international activities, has been published on the Funding Programmes online system (...",
+        "Publisher excerpt (en): Young People Aged 13-35 years old",
+        "Publisher excerpt (en): The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking, build partnerships, acquire skills and experiences, and exchange..."
       ]
     },
     "summary_language": "en"
@@ -156,7 +171,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Travel support for invited or selected international participation by youths and youth organisations. The linked guide requires lawful permanent Cyprus residence over 6 months; this is not a citizenship rule. Confirm current expense caps, age conditions and permitted activities. Apply before participating. Historical round accepted applications 1 Nov 2024–30 Apr 2025 for activities 1 Dec 2024–31 May 2025.",
+    "summary": "Applications: 2024-11-01 to 2025-04-30. The new application period for the Youth Board of Cyprus’ “Youth and the World” Funding Programme is now open. / Young people aged 13–35 who wish to represent Cyprus in international activities can submit their applications from 1 November 2024 to 30 April 2025 , for activities taking place... / The “Youth and the World” Programme provides grants to cover young people’s travel expenses for participation in international activities, such as competitions, conferences and...",
     "tags": [],
     "location": null,
     "deadline": "2025-04-30",
@@ -170,17 +185,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/business-financing-loans/"
+        "Publisher: https://youthfunds.onek.org.cy/en/business-financing-loans/",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/neoi-kai-kosmos/",
+        "Publisher excerpt (en): The new application period for the Youth Board of Cyprus’ “Youth and the World” Funding Programme is now open.",
+        "Publisher excerpt (en): Young people aged 13–35 who wish to represent Cyprus in international activities can submit their applications from 1 November 2024 to 30 April 2025 , for activities taking place between 1 December 2024 and 31 May 2025 .",
+        "Publisher excerpt (en): The “Youth and the World” Programme provides grants to cover young people’s travel expenses for participation in international activities, such as competitions, conferences and forums, in the fields of culture, sport, the environment..."
       ]
     },
     "summary_language": "en"
@@ -192,7 +211,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Grants for eligible non-profit youth activities in Cyprus, for young people, groups of 4+, youth centres and organisations. Individual applicants have restricted activity eligibility. Current pages say 13–35; the guide uses a different age cutoff, so confirm age and current expense caps before applying. Historical third 2026 call closed 16 May 2026, for activities 1 Aug–30 Nov 2026.",
+    "summary": "Application deadline: 2026-05-16. The Third Call for Applications under the “Youth Initiatives” Programme , which provides grants for activities implemented by young people and organised groups within the Republic of... / The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities, as well as the... / The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000.",
     "tags": [],
     "location": null,
     "deadline": "2026-05-16",
@@ -208,17 +227,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/dimosiefthike-i-g-prosklisi-tou-programmatos-protovoulies-neon-gia-to-2026/"
+        "Publisher: https://youthfunds.onek.org.cy/en/dimosiefthike-i-g-prosklisi-tou-programmatos-protovoulies-neon-gia-to-2026/",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
+        "Publisher excerpt (en): The Third Call for Applications under the “Youth Initiatives” Programme , which provides grants for activities implemented by young people and organised groups within the Republic of Cyprus, has been published on the Funding Programmes...",
+        "Publisher excerpt (en): The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities, as well as the Rules and Conditions governing the award of grants, are...",
+        "Publisher excerpt (en): The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000."
       ]
     },
     "summary_language": "en"
@@ -230,7 +253,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Environmental volunteer grants for groups of 4+ youths 13–35, secondary schools, youth centres and organisations. Eligible costs depend on activity; the linked 2024 guide differs from current action numbering, so confirm current caps and age rules. Historical round for activities 20 Sep–30 Nov 2024 extended its deadline to 31 Jul 2024 at 23:59:59; no timezone was stated.",
+    "summary": "Application deadline: 2024-07-31. The application deadline for the new “Green Volunteering” Funding Programme , for activities scheduled to take place between 20 September and 30 November 2024 , has been extended... / Informal group of young people 4+ persons 13-35 yrs old / The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000.",
     "tags": [],
     "location": null,
     "deadline": "2024-07-31",
@@ -244,17 +267,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/anakoinosi-gia-to-programma-prasinos-ethelontismos/"
+        "Publisher: https://youthfunds.onek.org.cy/en/anakoinosi-gia-to-programma-prasinos-ethelontismos/",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
+        "Publisher excerpt (en): The application deadline for the new “Green Volunteering” Funding Programme , for activities scheduled to take place between 20 September and 30 November 2024 , has been extended until 31 July 2024 at 23:59:59 .",
+        "Publisher excerpt (en): Informal group of young people 4+ persons 13-35 yrs old",
+        "Publisher excerpt (en): The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000."
       ]
     },
     "summary_language": "en"
@@ -266,7 +293,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Environmental volunteer grants for groups of 4+ youths 13–35, secondary schools, youth centres and organisations. Eligible costs depend on activity; the linked 2024 guide differs from current action numbering, so confirm current caps and age rules. Historical first 2025 call opened 3 Oct 2024; deadline extended to 6 Nov 2024. Actions 1–4 runJan–Jun 2025, actions 5–6 Jan–Nov 2025.",
+    "summary": "Application deadline: 2024-11-06. The First Call for Applications for 2025 under the “Green Volunteering” Programme opened on 3 October 2024 and will remain open until 3 November 2024 . / Informal group of young people 4+ persons 13-35 yrs old / The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000.",
     "tags": [],
     "location": null,
     "deadline": "2024-11-06",
@@ -280,17 +307,22 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/friendly-business-policies/"
+        "Publisher: https://youthfunds.onek.org.cy/en/friendly-business-policies/",
+        "Deadline extension: https://youthfunds.onek.org.cy/en/reduce-your-home-loan-rate/",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
+        "Publisher excerpt (en): The First Call for Applications for 2025 under the “Green Volunteering” Programme opened on 3 October 2024 and will remain open until 3 November 2024 .",
+        "Publisher excerpt (en): Informal group of young people 4+ persons 13-35 yrs old",
+        "Publisher excerpt (en): The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000."
       ]
     },
     "summary_language": "en"
@@ -302,7 +334,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Travel support for invited or selected international participation by youths and youth organisations. The linked guide requires lawful permanent Cyprus residence over 6 months; this is not a citizenship rule. Confirm current expense caps, age conditions and permitted activities. Apply before participating. 2027 CallA applications run 1 Nov 2026–30 Apr 2027; activities 1 Dec 2026–31 May 2027. Not yet open despite the generic Open badge.",
+    "summary": "Applications: 2026-11-01 to 2027-04-30. Activity period: 2026-12-01 to 2027-05-31. Have you qualified in a competition in Cyprus and are getting ready to participate in an international competition? Have you been invited to present your project at a... / Young People Aged 13-35 years old / The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking...",
     "tags": [],
     "location": null,
     "deadline": "2027-04-30",
@@ -316,17 +348,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/services/neoi-kai-kosmos/"
+        "Publisher: https://youthfunds.onek.org.cy/en/services/neoi-kai-kosmos/",
+        "Published application row: A 01/12/2026 - 31/05/2027 01/11/2026 - 30/04/2027",
+        "Publisher excerpt (en): Have you qualified in a competition in Cyprus and are getting ready to participate in an international competition? Have you been invited to present your project at a European or global event abroad? Are you representing Cyprus at an...",
+        "Publisher excerpt (en): Young People Aged 13-35 years old",
+        "Publisher excerpt (en): The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking, build partnerships, acquire skills and experiences, and exchange..."
       ]
     },
     "summary_language": "en"
@@ -338,7 +374,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Environmental volunteer grants for groups of 4+ youths 13–35, secondary schools, youth centres and organisations. Eligible costs depend on activity; the linked 2024 guide differs from current action numbering, so confirm current caps and age rules. The Greek programme table confirms applications 17 May–17 Jun 2027 for activities 1 Jul–30 Nov 2027. This is a future application window.",
+    "summary": "Applications: 2027-05-17 to 2027-06-17. Activity period: 2027-07-01 to 2027-11-30. If you care about the environment and want to implement actions for its protection or restoration, the 'Green Volunteering' Programme is for you! The Youth Board of... / Informal group of young people 4+ persons 13-35 yrs old / The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000.",
     "tags": [],
     "location": null,
     "deadline": "2027-06-17",
@@ -352,17 +388,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/services/green-volunteering/"
+        "Publisher: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
+        "Published application row: B' (Actions 1, 2, 3, 4) 01/07/2027 - 30/11/2027 17/05/2027 - 17/06/2027",
+        "Publisher excerpt (en): If you care about the environment and want to implement actions for its protection or restoration, the 'Green Volunteering' Programme is for you! The Youth Board of Cyprus (YBC) stands by your side by funding your actions, in an effort...",
+        "Publisher excerpt (en): Informal group of young people 4+ persons 13-35 yrs old",
+        "Publisher excerpt (en): The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000."
       ]
     },
     "summary_language": "en"
@@ -374,7 +414,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Environmental volunteer grants for groups of 4+ youths 13–35, secondary schools, youth centres and organisations. Eligible costs depend on activity; the linked 2024 guide differs from current action numbering, so confirm current caps and age rules. Joint 2027 A 1/A 2 applications close 3 Nov 2026. A 1 actions 1–4 run 1 Jan–30 Jun 2027; A 2 larger/innovative projects run 1 Jan–30 Nov 2027.",
+    "summary": "Applications: 2026-10-03 to 2026-11-03. Activity period: 2027-01-01 to 2027-06-30. Additional activity track: 2027-01-01 to 2027-11-30. The A’1 and A’2 Calls for Applications under the “Green Volunteering” Programme , which provides grants for environmental activities, has been... / Informal group of young people 4+ persons 13-35 yrs old / The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000.",
     "tags": [],
     "location": null,
     "deadline": "2026-11-03",
@@ -388,17 +428,24 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "open",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/a1-and-a2-calls-for-applications-under-the-green-volunteering-programme-for-2027/"
+        "Publisher: https://youthfunds.onek.org.cy/en/a1-and-a2-calls-for-applications-under-the-green-volunteering-programme-for-2027/",
+        "Publisher: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
+        "Published application row: Α' (Actions 1, 2, 3, 4) 01/01/2027 - 30/06/2027 03/10/2026 - 03/11/2026",
+        "Additional implementation track: (Actions 5 & 6) 01/01/2027 - 30/11/2027 03/10/2026 - 03/11/2026",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
+        "Publisher excerpt (en): The A’1 and A’2 Calls for Applications under the “Green Volunteering” Programme , which provides grants for environmental activities, has been published on the Funding Programmes online system ( https://funding.onek.org.cy/ ).",
+        "Publisher excerpt (en): Informal group of young people 4+ persons 13-35 yrs old",
+        "Publisher excerpt (en): The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000."
       ]
     },
     "summary_language": "en"
@@ -410,7 +457,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Grants for eligible non-profit youth activities in Cyprus, for young people, groups of 4+, youth centres and organisations. Individual applicants have restricted activity eligibility. Current pages say 13–35; the guide uses a different age cutoff, so confirm age and current expense caps before applying. CallA is closed; activities run 1 Dec 2026–31 Mar 2027.",
+    "summary": "Applications: 2026-08-10 to 2026-09-16. Activity period: 2026-12-01 to 2027-03-31. The First Call for Applications under the “Youth Initiatives” Programme , which provides grants for activities implemented by young people and organised groups within... / The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities... / The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000.",
     "tags": [],
     "location": null,
     "deadline": "2026-09-16",
@@ -426,17 +473,23 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/first-call-for-applications-under-the-youth-initiatives-programme-for-2027/"
+        "Publisher: https://youthfunds.onek.org.cy/en/first-call-for-applications-under-the-youth-initiatives-programme-for-2027/",
+        "Publisher: https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
+        "Published application row: A 01/12/26 - 31/03/2027 10/08/26 - 16/09/2026",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
+        "Publisher excerpt (en): The First Call for Applications under the “Youth Initiatives” Programme , which provides grants for activities implemented by young people and organised groups within the Republic of Cyprus, has been published on the Funding Programmes...",
+        "Publisher excerpt (en): The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities, as well as the Rules and Conditions governing the award of grants, are...",
+        "Publisher excerpt (en): The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000."
       ]
     },
     "summary_language": "en"
@@ -448,7 +501,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Travel support for invited or selected international participation by youths and youth organisations. The linked guide requires lawful permanent Cyprus residence over 6 months; this is not a citizenship rule. Confirm current expense caps, age conditions and permitted activities. Apply before participating. 2027 CallB applications run 1 May–31 Oct 2027; activities 1 Jun–30 Nov 2027. This is a future application window.",
+    "summary": "Applications: 2027-05-01 to 2027-10-31. Activity period: 2027-06-01 to 2027-11-30. Have you qualified in a competition in Cyprus and are getting ready to participate in an international competition? Have you been invited to present your project at a... / Young People Aged 13-35 years old / The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking...",
     "tags": [],
     "location": null,
     "deadline": "2027-10-31",
@@ -462,17 +515,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/services/neoi-kai-kosmos/"
+        "Publisher: https://youthfunds.onek.org.cy/en/services/neoi-kai-kosmos/",
+        "Published application row: B 01/06/2027 - 30/11/2027 01/05/2027 - 31/10/2027",
+        "Publisher excerpt (en): Have you qualified in a competition in Cyprus and are getting ready to participate in an international competition? Have you been invited to present your project at a European or global event abroad? Are you representing Cyprus at an...",
+        "Publisher excerpt (en): Young People Aged 13-35 years old",
+        "Publisher excerpt (en): The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking, build partnerships, acquire skills and experiences, and exchange..."
       ]
     },
     "summary_language": "en"
@@ -484,7 +541,7 @@
     "source": "cy-onek-youth-funds",
     "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
     "published_at": null,
-    "summary": "Environmental volunteer grants for groups of 4+ youths 13–35, secondary schools, youth centres and organisations. Eligible costs depend on activity; the linked 2024 guide differs from current action numbering, so confirm current caps and age rules. Historical second 2026 call closed 17 Jun 2026; activities run 1 Jul–30 Nov 2026.",
+    "summary": "Application deadline: 2026-06-17. The Second Call for Applications under the “Green Volunteering” Programme , which provides grants for environmental activities, has been published on the Funding Programmes online... / Informal group of young people 4+ persons 13-35 yrs old / The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000.",
     "tags": [],
     "location": null,
     "deadline": "2026-06-17",
@@ -498,17 +555,21 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-10T08:15:09.076Z",
+    "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-10T08:21:08.608Z",
-    "last_checked_at": "2026-10-10T08:26:55.119Z",
+    "last_seen_at": "2026-10-14T03:45:57.638Z",
+    "last_checked_at": "2026-10-14T03:49:40.445Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Actual published funding/event facts: https://youthfunds.onek.org.cy/en/dimosiefthike-i-v-prosklisi-tou-programmatos-prasinos-ethelontismos-gia-to-2026/"
+        "Publisher: https://youthfunds.onek.org.cy/en/dimosiefthike-i-v-prosklisi-tou-programmatos-prasinos-ethelontismos-gia-to-2026/",
+        "Programme description: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
+        "Publisher excerpt (en): The Second Call for Applications under the “Green Volunteering” Programme , which provides grants for environmental activities, has been published on the Funding Programmes online system ( https://funding.onek.org.cy/ ).",
+        "Publisher excerpt (en): Informal group of young people 4+ persons 13-35 yrs old",
+        "Publisher excerpt (en): The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000."
       ]
     },
     "summary_language": "en"
