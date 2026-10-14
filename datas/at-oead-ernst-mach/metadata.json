@@ -6,11 +6,11 @@
   "publisher_country": "AT",
   "publisher_type": "public-institution",
   "status": "success",
-  "last_attempt_at": "2026-10-14T04:42:36.916Z",
-  "last_success_at": "2026-10-14T04:42:36.916Z",
-  "last_checked_at": "2026-10-14T04:42:36.916Z",
+  "last_attempt_at": "2026-10-14T09:16:09.615Z",
+  "last_success_at": "2026-10-14T09:16:09.615Z",
+  "last_checked_at": "2026-10-14T09:16:09.615Z",
   "record_count": 1,
-  "message": "Collected and validated 1 records",
+  "message": "Validated refresh retains 1 records",
   "error": null,
   "attribution": "© OeAD"
 }
