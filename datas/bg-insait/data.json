@@ -24,8 +24,8 @@
     "created_at": "2026-10-10T07:23:37.735Z",
     "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
+    "last_seen_at": "2026-10-14T08:35:54.905Z",
+    "last_checked_at": "2026-10-14T08:41:18.541Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -59,8 +59,8 @@
     "created_at": "2026-10-10T07:23:37.735Z",
     "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
+    "last_seen_at": "2026-10-14T08:35:54.905Z",
+    "last_checked_at": "2026-10-14T08:41:18.541Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -68,43 +68,6 @@
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
         "Current programme content: https://insait.ai/faculty/"
-      ]
-    }
-  },
-  {
-    "id": "2e65cbb9a8f7a6cac79f49f2",
-    "title": "Summer Undergraduate Research Fellowship 2026",
-    "url": "https://insait.ai/surf/",
-    "source": "bg-insait",
-    "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
-    "published_at": null,
-    "summary": "All selected students will receive a monthly stipend of 1500 EUR to cover their living expenses. INSAIT will arrange the accommodation for the students and cover the cost in addition to the stipend. We also cover travel expenses and provide assistance for visa applications for the selected candidates. Undergraduate students enrolled in a Bachelor degree program at any accredited university are eligible to apply. The students should be enrolled in a STEM major, such as computer science, mathematics, physics, or engineering. To be eligible, applicants should also have a minimum GPA of 3.5...",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-03-08T21:59:00Z",
-    "language": "en",
-    "category": "internships",
-    "categories": [
-      "internships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-14T03:46:01.316Z",
-    "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Current programme content: https://insait.ai/surf/"
       ]
     }
   },
@@ -133,8 +96,8 @@
     "created_at": "2026-10-10T07:23:37.735Z",
     "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
+    "last_seen_at": "2026-10-14T08:35:54.905Z",
+    "last_checked_at": "2026-10-14T08:41:18.541Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -170,8 +133,8 @@
     "created_at": "2026-10-10T07:23:37.735Z",
     "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
+    "last_seen_at": "2026-10-14T08:35:54.905Z",
+    "last_checked_at": "2026-10-14T08:41:18.541Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -205,8 +168,8 @@
     "created_at": "2026-10-10T07:23:37.735Z",
     "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
+    "last_seen_at": "2026-10-14T08:35:54.905Z",
+    "last_checked_at": "2026-10-14T08:41:18.541Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -214,43 +177,6 @@
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
         "Current programme content: https://insait.ai/deepmind-phd-scholarships/"
-      ]
-    }
-  },
-  {
-    "id": "b61181061cd7ce76c89760fc",
-    "title": "With Over 1,000,000 BGN in Donations, INSAIT Launches EXPLORER 2026 – a unique AI and Deep Tech bachelor program",
-    "url": "https://insait.ai/with-over-1000000-bgn-in-donations-insait-launches-explorer-2026-a-unique-ai-and-deep-tech-bachelor-program/",
-    "source": "bg-insait",
-    "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
-    "published_at": null,
-    "summary": "Applications for EXPLORER are open from December 3, 2025 to February 2, 2026. Detailed information about the structure of the program, deadlines, admission requirements, and answers to frequently asked questions is available on the newly launched website: explorer.insait.ai For the first time, alongside companies such as Amazon, SiteGround, and Man Group, Google is joining as a program sponsor. The Institute for Computer Science, Artificial Intelligence and Technology (INSAIT), part of Sofia University has announced the new edition of EXPLORER, the program designed to retain and cultivate...",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-02",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-14T03:46:01.316Z",
-    "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Current programme content: https://insait.ai/with-over-1000000-bgn-in-donations-insait-launches-explorer-2026-a-unique-ai-and-deep-tech-bachelor-program/"
       ]
     }
   },
@@ -277,8 +203,8 @@
     "created_at": "2026-10-10T07:23:37.735Z",
     "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
+    "last_seen_at": "2026-10-14T08:35:54.905Z",
+    "last_checked_at": "2026-10-14T08:41:18.541Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -314,8 +240,8 @@
     "created_at": "2026-10-10T07:23:37.735Z",
     "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-14T03:46:01.316Z",
-    "last_checked_at": "2026-10-14T03:51:27.158Z",
+    "last_seen_at": "2026-10-14T08:35:54.905Z",
+    "last_checked_at": "2026-10-14T08:41:18.541Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
