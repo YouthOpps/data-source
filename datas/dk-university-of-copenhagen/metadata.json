@@ -5,13 +5,12 @@
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "university",
-  "status": "fail",
-  "last_attempt_at": "2026-10-14T21:59:23.998Z",
-  "last_success_at": "2026-10-14T17:35:59.517Z",
-  "last_checked_at": "2026-10-14T17:35:59.517Z",
-  "record_count": 44,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Unverified funded doctoral vacancy",
-  "attribution": "University of Copenhagen",
-  "failure_stage": "parse"
+  "status": "success",
+  "last_attempt_at": "2026-10-14T23:06:46.130Z",
+  "last_success_at": "2026-10-14T23:06:46.130Z",
+  "last_checked_at": "2026-10-14T23:06:46.130Z",
+  "record_count": 43,
+  "message": "Validated refresh retains 43 records",
+  "error": null,
+  "attribution": "University of Copenhagen"
 }
