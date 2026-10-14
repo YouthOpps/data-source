@@ -6,12 +6,12 @@
   "publisher_country": null,
   "publisher_type": "aggregator",
   "status": "success",
-  "last_attempt_at": "2026-10-14T20:42:39.954Z",
-  "last_success_at": "2026-10-14T20:42:39.954Z",
-  "last_checked_at": "2026-10-14T20:42:39.954Z",
-  "record_count": 5263,
+  "last_attempt_at": "2026-10-14T21:42:58.049Z",
+  "last_success_at": "2026-10-14T21:42:58.049Z",
+  "last_checked_at": "2026-10-14T21:42:58.049Z",
+  "record_count": 5262,
   "inventory_scope": "complete-public-wordpress-post-archive",
-  "message": "Validated refresh retains 5263 records",
+  "message": "Validated refresh retains 5262 records",
   "error": null,
   "attribution": "Opportunities for Youth"
 }
