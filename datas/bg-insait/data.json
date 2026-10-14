@@ -6,7 +6,7 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "One-year physical research specialisation at MIT CSAIL for holders of an INSAIT tenure-track-position OFFER. Selected candidates will be employed by INSAIT, which pays salary, benefits and health insurance during the US stay; amount unknown. Initial cycle supports up to 6 participants. Yearly applications by April 30, with no year specified. Faculty proposals by May 31; joint selection by July 31.",
+    "summary": "Any individual who has received an offer for a position at INSAIT, according to the Internal Rules for Organising the Program of the Institute for Computer Science Research (INSAIT) for conducting research aimed at preparing for academic positions (“tenure-track” program), is eligible to participate in the program. Application Submission (by 30th of April): Interested INSAIT candidates submit their application, including a CV and a description of their research interests. The INSAIT and MIT CSAIL ( Computer Science & Artificial Intelligence Laboratory ) Joint Research Program establishes a...",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -22,17 +22,17 @@
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/mit/ https://insait.ai/wp-content/uploads/2023/09/Tenure-Track-Regulations.pdf"
+        "Current programme content: https://insait.ai/mit/"
       ]
     }
   },
@@ -43,7 +43,7 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "Faculty research positions: junior tenure track and established tenured researchers. Tenure-track contracts start at 2 years, renewed for 3; positive final evaluation is required but does NOT oblige INSAIT to offer a permanent contract. Outside commercial work requires prior written permission. International-comparable salary/package, amount unknown. Develop research and supervise students; closing and detailed applicant degree criteria not published here.",
+    "summary": "INSAIT is interested in outstanding candidates who love to explore and believe in making an impact on the world through scientific exploration and curiosity. INSAIT is structured according to modern, successful academic practices already deployed by leading research institutions worldwide. Towards that, INSAIT employs the standard tenure-track model where junior faculty join the tenure track for up to five years, with the opportunity to establish a world-class research program and form a research group. The tenure-track process and corresponding evaluations follow similar steps as all...",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -53,23 +53,21 @@
       "jobs"
     ],
     "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
+    "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/faculty/ https://insait.ai/wp-content/uploads/2023/09/Tenure-Track-Regulations.pdf"
+        "Current programme content: https://insait.ai/faculty/"
       ]
     }
   },
@@ -80,10 +78,10 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "Onsite Sofia research, 8–12 weeks in summer 2026; no remote. STEM bachelor students at any accredited university, GPA≥3.5/4 or equivalent; first-years and spring graduates eligible, no local preference. €1,500 MONTHLY plus arranged/paid accommodation and travel; visa assistance. Closing March 8,2026 23:59 EET (=21:59 UTC), now historical. Projects approximately June 1–August 31,2026.",
+    "summary": "All selected students will receive a monthly stipend of 1500 EUR to cover their living expenses. INSAIT will arrange the accommodation for the students and cover the cost in addition to the stipend. We also cover travel expenses and provide assistance for visa applications for the selected candidates. Undergraduate students enrolled in a Bachelor degree program at any accredited university are eligible to apply. The students should be enrolled in a STEM major, such as computer science, mathematics, physics, or engineering. To be eligible, applicants should also have a minimum GPA of 3.5...",
     "tags": [],
     "location": null,
-    "deadline": "2026-03-08T21:59:00.000Z",
+    "deadline": "2026-03-08T21:59:00Z",
     "language": "en",
     "category": "internships",
     "categories": [
@@ -96,17 +94,17 @@
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/surf/ https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/"
+        "Current programme content: https://insait.ai/surf/"
       ]
     }
   },
@@ -117,7 +115,7 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "Historical summer 2024 STARS research programme. Grades 10–11 students at accredited institutions;8 weeks IN PERSON at Sofia Tech Park with INSAIT mentors, project plan/report/presentation. Selected students receive 1,500 BGN MONTHLY; other support unknown. The planned application window was early 2024; exact closing not published. Current availability unconfirmed.",
+    "summary": "The selected students will receive a monthly scholarship of 1,500 leva. The application window will officially open in early 2024. More information about the conditions and schedule of admission activities will be announced in the coming months on this website, as well as on INSAIT’s social networks. The STARS (Science, Technology and AI Research Internship for High-School Students) summer AI research program offers a unique opportunity for motivated 10th and 11th grade students to engage in the development of the latest technologies and research in the field of artificial intelligence and...",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -133,17 +131,17 @@
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/summer-ai-research-program-for-students/"
+        "Current programme content: https://insait.ai/summer-ai-research-program-for-students/"
       ]
     }
   },
@@ -153,8 +151,8 @@
     "url": "https://explorer.insait.ai/",
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
-    "published_at": null,
-    "summary": "Прием 2027/28 предстои; сроковете и финансирането още не са обявени. За „Информатика“, ФМИ/СУ: кандидат-студентите трябва да се запишат в 1. курс; допустими са 1./2. курс, във 2. курс с всички изпити от 1. курс. Отличен български И английски, не изискване за гражданство. Продължаване: следващ курс, одобрен успех и положителна оценка вINSAIT, успешен стаж и съгласувана друга работа.4 години,10-седмични платени стажове; проектите през първите 2 години са доброволни.36 000 € общо/1022 € месечно за 2026/27 НЕ гарантират финансирането за 2027/28.",
+    "published_at": "2025-10-24T13:32:50Z",
+    "summary": "Прием 2027/2028 – очаквайте скоро! Участниците в програма EXPLORER получават стипендия на обща стойност 36 000 евро за четиригодишния период на обучение. Бакалавърската програма в AI и Deep Tech EXPLORER (EXcellence Program in technoLOgy and REseaRch) е насочена към завършващи средно образование ученици със силен интерес към информатиката, изкуствения интелект и дълбоките технологии. Чрез съчетаване на бакалавърската програма по „Информатика” във Факултета по математика и информатика (ФМИ) на Софийския университет с изследванията в INSAIT и екосистемата около него, участниците в програмата...",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -170,17 +168,17 @@
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://explorer.insait.ai/ https://explorer.insait.ai/kandidatstvane/ https://explorer.insait.ai/vuprosi-i-otgovori/"
+        "Current programme content: https://explorer.insait.ai/"
       ]
     }
   },
@@ -191,7 +189,7 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "Distinct DeepMind-supported ML/AI doctoral scholarship with mentoring. Applicants must ordinarily RESIDE in an EU member state AND identify with the underrepresented group female; this is not an EU-passport rule. Eligible INSAIT PhD applicants with an ML/AI research proposal are automatically considered. Scholarship amount, period and closing are not stated.",
+    "summary": "All eligible applicants who apply to a PhD research degree, with a research proposal in the specific area of Machine Learning or Artificial Intelligence, will be automatically considered for the scholarship.For more information about the INSAIT PhD program, and to apply for the PhD fellowships, please follow this link: https://insait.ai/phd INSAIT – Institute for Computer Science, Artificial Intelligence and Technology and DeepMind have formed a partnership supporting students in their PhD studies in the field of Machine Learning or Artificial Intelligence (AI). The spirit of the Donation...",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -201,23 +199,21 @@
       "scholarships"
     ],
     "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
+    "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/deepmind-phd-scholarships/ https://insait.ai/phd/"
+        "Current programme content: https://insait.ai/deepmind-phd-scholarships/"
       ]
     }
   },
@@ -228,7 +224,7 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "Closed 2026 EXPLORER call: high-school graduates and first-year students in FMI/Sofia University’s bachelor programme (called Computer Science in this notice). €36,000 TOTAL for the duration of studies, INSAIT research and paid summer engineering internships. Applications Dec 3,2025–Feb 2,2026, DATEONLY. Programme sponsors donated over 1 millionBGN in aggregate.",
+    "summary": "Applications for EXPLORER are open from December 3, 2025 to February 2, 2026. Detailed information about the structure of the program, deadlines, admission requirements, and answers to frequently asked questions is available on the newly launched website: explorer.insait.ai For the first time, alongside companies such as Amazon, SiteGround, and Man Group, Google is joining as a program sponsor. The Institute for Computer Science, Artificial Intelligence and Technology (INSAIT), part of Sofia University has announced the new edition of EXPLORER, the program designed to retain and cultivate...",
     "tags": [],
     "location": null,
     "deadline": "2026-02-02",
@@ -244,17 +240,17 @@
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/with-over-1000000-bgn-in-donations-insait-launches-explorer-2026-a-unique-ai-and-deep-tech-bachelor-program/"
+        "Current programme content: https://insait.ai/with-over-1000000-bgn-in-donations-insait-launches-explorer-2026-a-unique-ai-and-deep-tech-bachelor-program/"
       ]
     }
   },
@@ -265,7 +261,7 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "Rolling applications for AI/computer-science postdoctoral research. PhD in CS, data science, mathematics, physics, statistics or electrical engineering must be completed by job start; finishing candidates may apply. Strong academic background; research statement, CV, degrees and at least 2 references, documents in English/PDF. Applicants receive a response within 2 months. Salary amount not stated.",
+    "summary": "To apply, you must hold a PhD degree in computer science, data science, mathematics, physics, statistics, or electrical engineering. If you are finishing your PhD, you can still apply, however, you should have obtained the PhD degree by the time you start the postdoctoral position at INSAIT. We welcome all excellent candidates with a strong academic background who are keen on conducting world-class research in the general field of AI and computer science. To complete the application, you need to: upload a supporting research statement",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -275,23 +271,21 @@
       "jobs"
     ],
     "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
+    "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/post-doc-at-insait/"
+        "Current programme content: https://insait.ai/post-doc-at-insait/"
       ]
     }
   },
@@ -302,7 +296,7 @@
     "source": "bg-insait",
     "source_url": "https://insait.ai/insait-opens-applications-for-surf-2026-summer-research-internship-program/",
     "published_at": null,
-    "summary": "Rolling full-time PhD at INSAIT/Sofia University; BA/MA completed by start. CS, data science, mathematics, physics, statistics and electrical engineering preferred, not exclusive. EN/BG programme: €39,684 gross/year; undated BG FAQ: €36,000 gross/year—confirm amount. Up to 5 years; BA-only entrants complete a master in first 2 supported years. International applicants welcome; English working language, strong English and English documents. No outside jobs; external-adviser visits funded, destinations not fixed.",
+    "summary": "Students receive full PhD fellowships at €39,684 gross per year and are mentored by world-class researchers . The duration of the PhD is up to 5 years. INSAIT will consider students who have obtained a Bachelor’s or a Master’s degree by the time they start in INSAIT’s doctoral program. Thus, students who are currently completing or have completed these degrees (e.g., last year Bachelor’s or Master’s graduates) are eligible to be considered for the INSAIT doctoral program. INSAIT is generally interested in students who are enrolled or have completed Bachelor’s/Master’s degrees in the areas...",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -318,17 +312,17 @@
     "eligible_countries": [],
     "publisher_country": "BG",
     "created_at": "2026-10-10T07:23:37.735Z",
-    "updated_at": "2026-10-10T07:23:37.735Z",
+    "updated_at": "2026-10-14T03:46:01.316Z",
     "first_seen_at": "2026-10-10T07:23:37.735Z",
-    "last_seen_at": "2026-10-10T07:28:02.948Z",
-    "last_checked_at": "2026-10-10T07:32:13.609Z",
+    "last_seen_at": "2026-10-14T03:46:01.316Z",
+    "last_checked_at": "2026-10-14T03:51:27.158Z",
     "status": "unknown",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "INSAIT at Sofia University https://insait.ai/ and its EXPLORER programme https://explorer.insait.ai/ with DeepMind for the named scholarship",
-        "Published programme facts: https://insait.ai/phd/ https://insait.ai/bg/phd/ https://insait.ai/bg/phd-program-frequently-asked-questions/"
+        "Current programme content: https://insait.ai/phd/"
       ]
     }
   }
