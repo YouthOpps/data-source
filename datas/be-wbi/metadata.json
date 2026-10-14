@@ -6,11 +6,11 @@
   "publisher_country": "BE",
   "publisher_type": "government",
   "status": "success",
-  "last_attempt_at": "2026-10-14T07:46:43.924Z",
-  "last_success_at": "2026-10-14T07:46:43.924Z",
-  "last_checked_at": "2026-10-14T07:49:33.817Z",
-  "record_count": 21,
-  "message": "Collected 21 validated WBI funded opportunities",
+  "last_attempt_at": "2026-10-14T08:44:42.852Z",
+  "last_success_at": "2026-10-14T08:44:42.852Z",
+  "last_checked_at": "2026-10-14T08:47:32.583Z",
+  "record_count": 20,
+  "message": "Collected 20 validated WBI funded opportunities",
   "error": null,
   "attribution": "Wallonie-Bruxelles International (WBI) – www.wbi.be"
 }
