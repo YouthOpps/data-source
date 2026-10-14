@@ -22,8 +22,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -58,8 +58,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -95,8 +95,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -105,43 +105,6 @@
         "2–12 months",
         "2–6 months",
         "EUR 1,400 per month"
-      ]
-    }
-  },
-  {
-    "id": "091a7bacba4623e14a5eb72d",
-    "title": "FSV UK SCHOLARS scholarship 2026/2027",
-    "url": "https://fsv.cuni.cz/en/admissions/scholarships-funding-and-fees/development-scholarships",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "One-time approximately CZK75000 living-cost support for financially disadvantaged fee-paying Faculty of Social Sciences BA/MA students. Apply as incoming student, BA year1/2 or MA year1 for the next year. No tuition waiver; renewal needs a new application. English application, motivation up to1000 words and academic recommendation required; programme application/payment also due April30,2026. Payment after winter registration and tuition settlement, no later than December2026 subject to conditions.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-30",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "CZ"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "April 30, 2026",
-        "75 000"
       ]
     }
   },
@@ -168,8 +131,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -205,8 +168,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -241,8 +204,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -250,117 +213,6 @@
       "evidence": [
         "civic engagement",
         "up to 12 months"
-      ]
-    }
-  },
-  {
-    "id": "1971c739bd050bc7f87bf57f",
-    "title": "Computer Science Tuition Fee Scholarship – Bachelor’s 2026",
-    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/cstf-scholarships-2026",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Academic-excellence award for applicants to the English-taught Bachelor programme at CU Mathematics and Physics starting2026/27. Tuition coverage EUR4200/year for EU students or7100 otherwise, for three Bachelor’s years. English application documents include CV, motivation, transcripts and two recommendations, due April30,2026. New entrants only; no other scholarship/maintenance grant; continued support requires full-time study and progress.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-30",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "CZ"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "2026",
-        "Bachelor"
-      ]
-    }
-  },
-  {
-    "id": "1c7a2ca5f76e94d2089a1909",
-    "title": "Computer Science Tuition Fee Scholarship – Master’s 2026",
-    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/cstf-scholarships-2026",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Academic-excellence award for applicants to the English-taught Master programme at CU Mathematics and Physics starting2026/27. Tuition coverage EUR4200/year for EU students or7100 otherwise, for two Master’s years. English application documents include CV, motivation, transcripts and two recommendations, due April30,2026. New entrants only; no other scholarship/maintenance grant; continued support requires full-time study and progress.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-30",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "CZ"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "2026",
-        "Master"
-      ]
-    }
-  },
-  {
-    "id": "271179507df7af1fc01b6293",
-    "title": "Prague Mathematics Tuition Fee Scholarship 2026",
-    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/prague-mathematics-tuition-fee-scholarships-2026",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Academic-excellence award for applicants to the English-taught Mathematics programme at CU Mathematics and Physics starting2026/27. Tuition coverage EUR4200/year for EU students or7100 otherwise, for two Master’s years. English application documents include CV, motivation, transcripts and two recommendations, due April30,2026. New entrants only; no other scholarship/maintenance grant; continued support requires full-time study and progress.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-30",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "CZ"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "2026",
-        "Mathematics"
       ]
     }
   },
@@ -389,8 +241,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -423,8 +275,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -458,8 +310,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -514,8 +366,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -555,8 +407,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -564,80 +416,6 @@
       "evidence": [
         "Belarusian students",
         "2020–2022"
-      ]
-    }
-  },
-  {
-    "id": "50f2eed07bed3f8c8cfc94dc",
-    "title": "Computational Linguistics Scholarship 2026",
-    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/computational-linguistics-scholarship-2026",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Academic-excellence award for applicants to the English-taught Language Technologies programme at CU Mathematics and Physics starting2026/27. Tuition coverage EUR4200/year for EU students or7100 otherwise, for two Master’s years. English application documents include CV, motivation, transcripts and two recommendations, due April30,2026. No other external living-allowance scholarship/grant; continued support requires full-time study and progress. CZK120000 living allowance/year; first-semester progress may reduce support.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-30",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "CZ"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "2026",
-        "Language Technologies"
-      ]
-    }
-  },
-  {
-    "id": "51d4824df317d6c92e175309",
-    "title": "Prague Physics Tuition Fee Scholarship 2026",
-    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/prague-physics-tuition-fee-scholarships-2026",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Academic-excellence award for applicants to the English-taught Physics programme at CU Mathematics and Physics starting2026/27. Tuition coverage EUR4200/year for EU students or7100 otherwise, for two Master’s years. English application documents include CV, motivation, transcripts and two recommendations, due April30,2026. New entrants only; no other scholarship/maintenance grant; continued support requires full-time study and progress.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-30",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "CZ"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "2026",
-        "Physics"
       ]
     }
   },
@@ -666,8 +444,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -704,8 +482,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -738,8 +516,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -775,8 +553,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -813,8 +591,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -822,43 +600,6 @@
       "evidence": [
         "Applied Physics, Engineering, or Computing",
         "CHF 3,891 per month"
-      ]
-    }
-  },
-  {
-    "id": "6a3589d191fc9925edf66159",
-    "title": "Heidelberg monthly mobility scholarship",
-    "url": "https://cuni.cz/UKEN-2396.html#13",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Charles University bilateral funded mobility to Heidelberg, Germany. Doctoral one-month scholarship EUR1300, one place. Medical and Pharmacy faculties excluded. CV, motivation, academic acceptance/invitation and study-specific documents required; apply through the university system. Actual attached2026 notice requires applications by December8,2025 despite the hub’s stale 'currently open' statement; retained expired.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-12-08",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "DE"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "1,300 EUR",
-        "Application notice: https://cuni.cz/UKEN-2396-version1-one_month_scholarships_offer_for_phd_students_and_academics_for_stays_at_partner.docx; 8th December 2025"
       ]
     }
   },
@@ -885,8 +626,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -920,8 +661,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -954,8 +695,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1022,8 +763,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1058,8 +799,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1094,8 +835,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1129,8 +870,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1164,8 +905,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1173,43 +914,6 @@
       "evidence": [
         "STARS scholarship",
         "talented PhD students"
-      ]
-    }
-  },
-  {
-    "id": "975543c2bb0582a6c33a3482",
-    "title": "Cologne monthly mobility scholarship",
-    "url": "https://cuni.cz/UKEN-2396.html#7",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Charles University bilateral funded mobility to Cologne, Germany. One-month doctoral EUR1300 or academic staff EUR2000 scholarship; one place per cohort. Medical and Pharmacy faculties excluded. CV, motivation, academic acceptance/invitation and study-specific documents required; apply through the university system. Actual attached2026 notice requires applications by December8,2025 despite the hub’s stale 'currently open' statement; retained expired.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-12-08",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "DE"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "1,300 EUR",
-        "Application notice: https://cuni.cz/UKEN-2396-version1-one_month_scholarships_offer_for_phd_students_and_academics_for_stays_at_partner.docx; 8th December 2025"
       ]
     }
   },
@@ -1238,8 +942,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1273,8 +977,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1309,8 +1013,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1343,8 +1047,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T23:08:04.770Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -1382,8 +1086,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1418,8 +1122,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1454,8 +1158,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1490,8 +1194,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1687,8 +1391,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1722,8 +1426,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1758,8 +1462,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1795,8 +1499,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1804,43 +1508,6 @@
       "evidence": [
         "10–24 months",
         "EUR 992 per month"
-      ]
-    }
-  },
-  {
-    "id": "e133a729ba34e587d579c341",
-    "title": "Regensburg monthly mobility scholarship",
-    "url": "https://cuni.cz/UKEN-2396.html#15",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Charles University bilateral funded mobility to Regensburg, Germany. Doctoral analytical-chemistry scholarship for CU Faculty of Science EUR1300/month, one place. Medical and Pharmacy faculties excluded. CV, motivation, academic acceptance/invitation and study-specific documents required; apply through the university system. Actual attached2026 notice requires applications by December8,2025 despite the hub’s stale 'currently open' statement; retained expired.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-12-08",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "DE"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "1,300 EUR",
-        "Application notice: https://cuni.cz/UKEN-2396-version1-one_month_scholarships_offer_for_phd_students_and_academics_for_stays_at_partner.docx; 8th December 2025"
       ]
     }
   },
@@ -1869,8 +1536,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1907,8 +1574,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1943,8 +1610,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1981,8 +1648,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1991,43 +1658,6 @@
         "not be older than 30 years",
         "EUR 650 per month",
         "maximum of 5 months"
-      ]
-    }
-  },
-  {
-    "id": "f5aa64aa7823aaeb40645d10",
-    "title": "Bonn monthly mobility scholarship",
-    "url": "https://cuni.cz/UKEN-2396.html#14",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Charles University bilateral funded mobility to Bonn, Germany. One-month doctoral EUR1200 scholarship (two places) or academic staff EUR2000 (one place). Medical and Pharmacy faculties excluded. CV, motivation, academic acceptance/invitation and study-specific documents required; apply through the university system. Actual attached2026 notice requires applications by December8,2025 despite the hub’s stale 'currently open' statement; retained expired.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-12-08",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "DE"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "1,200 EUR",
-        "Application notice: https://cuni.cz/UKEN-2396-version1-one_month_scholarships_offer_for_phd_students_and_academics_for_stays_at_partner.docx; 8th December 2025"
       ]
     }
   },
@@ -2054,8 +1684,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -2091,8 +1721,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -2128,51 +1758,14 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
+    "last_seen_at": "2026-10-14T09:01:15.114Z",
+    "last_checked_at": "2026-10-14T09:01:15.114Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "1,200 EUR"
-      ]
-    }
-  },
-  {
-    "id": "fd2c5e8d8ffeb721b1e5ad48",
-    "title": "Hamburg monthly mobility scholarship",
-    "url": "https://cuni.cz/UKEN-2396.html#5",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Charles University bilateral funded mobility to Hamburg, Germany. One-month scholarships: doctoral EUR1300/month (four places), academic staff EUR2000 (six places). Medical and Pharmacy faculties excluded. CV, motivation, academic acceptance/invitation and study-specific documents required; apply through the university system. Actual attached2026 notice requires applications by December8,2025 despite the hub’s stale 'currently open' statement; retained expired.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-12-08",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "DE"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-08T22:41:42.375Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-14T05:33:03.289Z",
-    "last_checked_at": "2026-10-14T05:33:03.289Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "1,300 EUR",
-        "Application notice: https://cuni.cz/UKEN-2396-version1-one_month_scholarships_offer_for_phd_students_and_academics_for_stays_at_partner.docx; 8th December 2025"
       ]
     }
   }

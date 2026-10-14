@@ -6,11 +6,11 @@
   "publisher_country": "CZ",
   "publisher_type": "university",
   "status": "success",
-  "last_attempt_at": "2026-10-14T05:33:03.289Z",
-  "last_success_at": "2026-10-14T05:33:03.289Z",
-  "last_checked_at": "2026-10-14T05:33:03.289Z",
-  "record_count": 54,
-  "message": "Collected 54 validated accessible records; UJOP excluded because its robots policy was unavailable",
+  "last_attempt_at": "2026-10-14T09:01:15.114Z",
+  "last_success_at": "2026-10-14T09:01:15.114Z",
+  "last_checked_at": "2026-10-14T09:01:15.114Z",
+  "record_count": 43,
+  "message": "Validated refresh retains 43 accessible records; UJOP excluded because its robots policy was unavailable",
   "error": null,
   "attribution": "Charles University"
 }
