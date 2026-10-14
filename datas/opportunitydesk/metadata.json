@@ -6,11 +6,11 @@
   "publisher_country": null,
   "publisher_type": "aggregator",
   "status": "success",
-  "last_attempt_at": "2026-10-14T12:08:28.060Z",
-  "last_success_at": "2026-10-14T12:08:28.060Z",
-  "last_checked_at": "2026-10-14T12:08:28.060Z",
-  "record_count": 10,
-  "message": "Validated refresh retains 10 records",
+  "last_attempt_at": "2026-10-14T17:22:14.977Z",
+  "last_success_at": "2026-10-14T17:22:14.977Z",
+  "last_checked_at": "2026-10-14T17:22:14.977Z",
+  "record_count": 8,
+  "message": "Validated refresh retains 8 records",
   "error": null,
   "attribution": "Opportunity Desk"
 }
