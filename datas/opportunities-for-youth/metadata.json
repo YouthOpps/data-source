@@ -1,0 +1,17 @@
+{
+  "source": "opportunities-for-youth",
+  "source_url": "https://opportunitiesforyouth.org/wp-json/wp/v2/posts",
+  "website_url": "https://opportunitiesforyouth.org/",
+  "language": "en",
+  "publisher_country": null,
+  "publisher_type": "aggregator",
+  "status": "success",
+  "last_attempt_at": "2026-10-14T19:24:09.913Z",
+  "last_success_at": "2026-10-14T19:24:09.913Z",
+  "last_checked_at": "2026-10-14T19:24:09.913Z",
+  "record_count": 5262,
+  "inventory_scope": "complete-public-wordpress-post-archive",
+  "message": "Validated refresh retains 5262 records",
+  "error": null,
+  "attribution": "Opportunities for Youth"
+}
