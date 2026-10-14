@@ -6,11 +6,11 @@
   "publisher_country": "DK",
   "publisher_type": "government",
   "status": "success",
-  "last_attempt_at": "2026-10-14T08:08:12.577Z",
-  "last_success_at": "2026-10-14T08:08:12.577Z",
-  "last_checked_at": "2026-10-14T08:10:32.443Z",
+  "last_attempt_at": "2026-10-14T08:41:42.704Z",
+  "last_success_at": "2026-10-14T08:41:42.704Z",
+  "last_checked_at": "2026-10-14T08:44:02.165Z",
   "record_count": 32,
-  "message": "Collected 32 validated Fulbright Denmark funding and educational programmes",
+  "message": "Validated refresh retains 32 validated Fulbright Denmark funding and educational programmes",
   "error": null,
   "attribution": "Fulbright Denmark — Danish-American Fulbright Commission"
 }
