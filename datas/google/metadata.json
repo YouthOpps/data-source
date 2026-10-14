@@ -8,10 +8,10 @@
   "publisher_type": "company",
   "attribution": "Google — official student and early-career programme information",
   "status": "success",
-  "last_attempt_at": "2026-10-10T20:34:38.790Z",
-  "last_success_at": "2026-10-10T20:34:38.790Z",
-  "last_checked_at": "2026-10-10T20:38:42.000Z",
-  "record_count": 15,
-  "message": "Collected 15 reviewed Google programme information pages",
+  "last_attempt_at": "2026-10-14T08:23:24.688Z",
+  "last_success_at": "2026-10-14T08:23:24.688Z",
+  "last_checked_at": "2026-10-14T08:28:10.497Z",
+  "record_count": 13,
+  "message": "Validated refresh retains 13 reviewed Google programme information pages",
   "error": null
 }

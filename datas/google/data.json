@@ -36,8 +36,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Research internships",
@@ -74,48 +74,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
-  },
-  {
-    "title": "Scholarship: Google Ireland for women in computer science",
-    "url": "https://www.google.com/about/careers/applications/buildyourfuture/scholarships/googleireland/",
-    "source": "google",
-    "source_url": "https://buildyourfuture.withgoogle.com/",
-    "published_at": null,
-    "summary": "Google Ireland awards selected undergraduate computer-science students EUR 5,000 annually for two consecutive years, based on leadership and academic background. Google states the application deadline was October 5, 2026 and encourages women to apply. Complete minimum eligibility is delegated to IIE and is not verified by this collector; follow the administrator link before relying on eligibility. No Irish citizenship or women-only requirement is inferred from the programme name.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-05",
-    "language": "en",
-    "summary_language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "programme-overview",
-    "host_countries": [
-      "IE"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "US",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Google official programme information; original factual summary",
-        "Bounded programmeoverview; current global vacancies not collected",
-        "https://www.google.com/about/careers/applications/buildyourfuture/scholarships/googleireland/",
-        "https://www.google.com/about/careers/applications/buildyourfuture/scholarships/"
-      ]
-    },
-    "id": "2b8f39305faadee1075e7297",
-    "created_at": "2026-10-10T19:34:53.359Z",
-    "updated_at": "2026-10-10T19:34:53.359Z",
-    "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Apprenticeships",
@@ -160,8 +120,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Connect users to the magic",
@@ -198,8 +158,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Google Associate Product Manager Program",
@@ -242,8 +202,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Your Future Starts Here",
@@ -282,8 +242,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Business internships",
@@ -320,8 +280,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "US Legal Summer Institute",
@@ -359,8 +319,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Engineering and technical internships",
@@ -397,8 +357,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "EMEA Legal Summer Institute (LSI)",
@@ -459,8 +419,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Genesis Finance Program",
@@ -500,8 +460,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Americas Sales Associate Program",
@@ -539,46 +499,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
-  },
-  {
-    "title": "Google Summer of Code",
-    "url": "https://www.google.com/about/careers/applications/buildyourfuture/programs/summer-of-code/",
-    "source": "google",
-    "source_url": "https://buildyourfuture.withgoogle.com/",
-    "published_at": null,
-    "summary": "Google Summer of Code pairs students or beginner open-source contributors aged over 18 with mentors for 12+ week coding projects. Applicants need work eligibility where they live, non-embargoed residence and at most two prior acceptances. Passed evaluations earn a stipend; amounts are not specified here. The 2026 application window was March 16-31. The page also labels parts of its timeline 2025; check linked official rules for additional conditions.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-03-31",
-    "language": "en",
-    "summary_language": "en",
-    "category": "training",
-    "categories": [
-      "training",
-      "grants"
-    ],
-    "kind": "programme-overview",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "US",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Google official programme information; original factual summary",
-        "Bounded programmeoverview; current global vacancies not collected",
-        "https://www.google.com/about/careers/applications/buildyourfuture/programs/summer-of-code/"
-      ]
-    },
-    "id": "f5aeb0eadac5fe24159eea07",
-    "created_at": "2026-10-10T19:34:53.359Z",
-    "updated_at": "2026-10-10T19:34:53.359Z",
-    "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   },
   {
     "title": "Google AI Career Catalyst Program",
@@ -616,7 +538,7 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-10T20:34:38.790Z",
-    "last_checked_at": "2026-10-10T20:38:42.000Z"
+    "last_seen_at": "2026-10-14T08:23:24.688Z",
+    "last_checked_at": "2026-10-14T08:28:10.497Z"
   }
 ]
