@@ -26,8 +26,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-partner-programme",
@@ -63,52 +63,14 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-programme-content",
       "status": "classified",
       "evidence": [
         "https://fulbright.edu.pl/sir/"
-      ]
-    }
-  },
-  {
-    "id": "234cc8846487b16f7b47a957",
-    "title": "Fulbright Research Award at Stanford University School of Medicine 2027-28",
-    "url": "https://fulbright.edu.pl/research-stanford/",
-    "source": "pl-fulbright-poland",
-    "source_url": "https://fulbright.edu.pl/junior-research/",
-    "published_at": null,
-    "summary": "Official programme; individual degree, affiliation and application conditions apply. Polish citizenship is required. Dual Polish-US citizenship and US permanent residency are excluded. Published duration: 8–10 months. Published closing date: 2026-10-13T13:00:00.000Z.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-13T13:00:00.000Z",
-    "language": "pl",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "PL"
-    ],
-    "publisher_country": "PL",
-    "created_at": "2026-10-08T21:22:58.024Z",
-    "updated_at": "2026-10-13T14:37:18.908Z",
-    "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-programme-content",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.edu.pl/research-stanford/"
       ]
     }
   },
@@ -139,50 +101,14 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-incoming-programme",
       "status": "classified",
       "evidence": [
         "https://fulbright.edu.pl/amerykanie-w-polsce/#fulbright-us-student-program"
-      ]
-    }
-  },
-  {
-    "id": "3d936799f39b531160502343",
-    "title": "English Teaching Assistant Program 2026-27",
-    "url": "https://fulbright.edu.pl/eta/",
-    "source": "pl-fulbright-poland",
-    "source_url": "https://fulbright.edu.pl/junior-research/",
-    "published_at": null,
-    "summary": "Institutional application for hosting an academic visitor in Poland; this is not an individual student application. Published closing date: 2026-01-31.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-01-31",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [
-      "PL"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-08T21:22:58.024Z",
-    "updated_at": "2026-10-08T21:22:58.024Z",
-    "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-programme-content",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.edu.pl/eta/"
       ]
     }
   },
@@ -237,8 +163,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-schuman-variant",
@@ -275,8 +201,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-partner-programme",
@@ -284,82 +210,6 @@
       "evidence": [
         "https://fulbright.edu.pl/amerykanie-w-polsce/#fulbright-us-scholar-program",
         "https://fulbrightscholars.org/award/teaching-and-research-center-east-european-studies-university-warsaw"
-      ]
-    }
-  },
-  {
-    "id": "4ec32ba485a5bf7b239e1127",
-    "title": "Fulbright Polish Scholar Award 2027-28",
-    "url": "https://fulbright.edu.pl/polish-scholar/",
-    "source": "pl-fulbright-poland",
-    "source_url": "https://fulbright.edu.pl/junior-research/",
-    "published_at": null,
-    "summary": "Official programme; individual degree, affiliation and application conditions apply. Polish citizenship is required. Dual Polish-US citizenship and US permanent residency are excluded. Published duration: 3–10 months. Published closing date: 2026-05-18T13:00:00.000Z.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-05-18T13:00:00.000Z",
-    "language": "pl",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "PL"
-    ],
-    "publisher_country": "PL",
-    "created_at": "2026-10-08T21:22:58.024Z",
-    "updated_at": "2026-10-08T21:22:58.024Z",
-    "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-programme-content",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.edu.pl/polish-scholar/"
-      ]
-    }
-  },
-  {
-    "id": "6f1fec120a105133204a8815",
-    "title": "Fulbright Junior Research Award 2027-28",
-    "url": "https://fulbright.edu.pl/junior-research/",
-    "source": "pl-fulbright-poland",
-    "source_url": "https://fulbright.edu.pl/junior-research/",
-    "published_at": null,
-    "summary": "Official programme; individual degree, affiliation and application conditions apply. Polish citizenship is required. Dual Polish-US citizenship and US permanent residency are excluded. Published duration: 4–10 months. Published closing date: 2026-10-13T13:00:00.000Z.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-13T13:00:00.000Z",
-    "language": "pl",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "PL"
-    ],
-    "publisher_country": "PL",
-    "created_at": "2026-10-08T21:22:58.024Z",
-    "updated_at": "2026-10-13T14:37:18.908Z",
-    "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-programme-content",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.edu.pl/junior-research/"
       ]
     }
   },
@@ -388,8 +238,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-incoming-programme",
@@ -424,8 +274,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "open",
     "classification": {
       "method": "publisher-programme-content",
@@ -492,8 +342,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-schuman-variant",
@@ -556,8 +406,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-schuman-variant",
@@ -594,8 +444,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-partner-programme",
@@ -633,8 +483,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-partner-programme",
@@ -672,8 +522,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "open",
     "classification": {
       "method": "publisher-programme-content",
@@ -710,8 +560,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-partner-programme",
@@ -749,8 +599,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-partner-programme",
@@ -788,52 +638,14 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-incoming-programme",
       "status": "classified",
       "evidence": [
         "https://fulbright.edu.pl/amerykanie-w-polsce/#fulbright-us-scholar-program"
-      ]
-    }
-  },
-  {
-    "id": "b5657ecd84dcf6dfd3821deb",
-    "title": "Fulbright Graduate Student Award 2027-28",
-    "url": "https://fulbright.edu.pl/graduate-student/",
-    "source": "pl-fulbright-poland",
-    "source_url": "https://fulbright.edu.pl/junior-research/",
-    "published_at": null,
-    "summary": "Official programme; individual degree, affiliation and application conditions apply. Polish citizenship is required. Dual Polish-US citizenship and US permanent residency are excluded. Initial funding is for the first study year. Published closing date: 2026-04-27T13:00:00.000Z.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-27T13:00:00.000Z",
-    "language": "pl",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "PL"
-    ],
-    "publisher_country": "PL",
-    "created_at": "2026-10-08T21:22:58.024Z",
-    "updated_at": "2026-10-08T21:22:58.024Z",
-    "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-programme-content",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.edu.pl/graduate-student/"
       ]
     }
   },
@@ -860,8 +672,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-programme-content",
@@ -924,8 +736,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-schuman-variant",
@@ -988,8 +800,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-named-schuman-variant",
@@ -1024,8 +836,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "open",
     "classification": {
       "method": "publisher-programme-content",
@@ -1060,52 +872,14 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-incoming-programme",
       "status": "classified",
       "evidence": [
         "https://fulbright.edu.pl/amerykanie-w-polsce/#fulbright-specialist-program"
-      ]
-    }
-  },
-  {
-    "id": "d4bd167c97faeeea68ca0674",
-    "title": "Graduate Student Award: LLM in International Human Rights Law 2027-28",
-    "url": "https://fulbright.edu.pl/notre-dame-llm/",
-    "source": "pl-fulbright-poland",
-    "source_url": "https://fulbright.edu.pl/junior-research/",
-    "published_at": null,
-    "summary": "Official programme; individual degree, affiliation and application conditions apply. Polish citizenship is required. Dual Polish-US citizenship and US permanent residency are excluded. Published duration: one academic year. Published closing date: 2026-04-27T13:00:00.000Z.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-27T13:00:00.000Z",
-    "language": "pl",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "PL"
-    ],
-    "publisher_country": "PL",
-    "created_at": "2026-10-08T21:22:58.024Z",
-    "updated_at": "2026-10-08T21:22:58.024Z",
-    "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-programme-content",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.edu.pl/notre-dame-llm/"
       ]
     }
   },
@@ -1134,8 +908,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-programme-content",
@@ -1172,8 +946,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-incoming-programme",
@@ -1210,8 +984,8 @@
     "created_at": "2026-10-08T21:22:58.024Z",
     "updated_at": "2026-10-08T21:22:58.024Z",
     "first_seen_at": "2026-10-08T21:22:58.024Z",
-    "last_seen_at": "2026-10-14T05:24:51.157Z",
-    "last_checked_at": "2026-10-14T05:24:51.157Z",
+    "last_seen_at": "2026-10-14T08:55:29.575Z",
+    "last_checked_at": "2026-10-14T08:55:29.575Z",
     "status": "open",
     "classification": {
       "method": "publisher-programme-content",
