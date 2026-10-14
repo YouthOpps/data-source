@@ -5,10 +5,11 @@
     "source": "ibm",
     "source_url": "https://www.ibm.com/careers",
     "published_at": null,
-    "summary": "IBM’s global Entry-Level Program offers structured onboarding, role-specific training, certifications, hands-on work and mentoring. It welcomes recent graduates, career switchers and nontraditional backgrounds entering roles that typically require less than one year of relevant experience. Exact role eligibility, pay, locations and closing dates depend on individual vacancies, which this programme overview does not establish.",
+    "summary": "IBM's Entry-Level Program is a global experience designed for those entering a role or discipline that typically requires less than one year of relevant professional experience. Programme features: Mentoring, Structured onboarding, Certifications, Hands-on work, Learning resources. Programme overview; current vacancies are not established.",
     "tags": [],
     "location": null,
     "deadline": null,
+    "deadline_text": [],
     "language": "en",
     "summary_language": "en",
     "category": "jobs",
@@ -21,21 +22,43 @@
     "eligible_countries": [],
     "publisher_country": "US",
     "status": "unknown",
+    "eligibility": [
+      "IBM's Entry-Level Program is a global experience designed for those entering a role or discipline that typically requires less than one year of relevant professional experience.",
+      "Whether you are a recent university or college graduate, a career switcher, or come from non-traditional or skills-based backgrounds, from the moment you join, you become part of a worldwide community of entry-level professionals who learn, grow, and innovate together."
+    ],
+    "funding": [],
+    "programme_features": [
+      "Mentoring",
+      "Structured onboarding",
+      "Certifications",
+      "Hands-on work",
+      "Learning resources"
+    ],
+    "programme_details": [
+      "IBM's Entry-Level Program is a global experience designed for those entering a role or discipline that typically requires less than one year of relevant professional experience.",
+      "Structured growth: Continuous learning is part of IBM's culture, with access to certifications, digital badges, and a learning expectation of at least 40 hours per year — helping you build skills that stay relevant in a fast-changing world."
+    ],
+    "tracks": [],
+    "source_documents": [
+      {
+        "url": "https://www.ibm.com/careers/blog/discover-your-potential-entry-level-careers-that-make-a-difference",
+        "sha256": "3c9f440481c7ab2abe3a633bd40356b250e262ad37a77b8c5e5874e8e2dc6fc0"
+      }
+    ],
     "classification": {
-      "method": "editorial-review",
+      "method": "official-html-programme",
       "status": "classified",
       "evidence": [
-        "IBM official programme information; original factual summary",
-        "Programme overview; individual current vacancies not collected",
+        "Official early-career programme discovery; not a vacancy inventory",
         "https://www.ibm.com/careers/blog/discover-your-potential-entry-level-careers-that-make-a-difference"
       ]
     },
     "id": "ibm-0a3036a1ba9970ee7838fdd4",
     "created_at": "2026-10-10T19:42:52.294Z",
-    "updated_at": "2026-10-10T19:45:26.364Z",
+    "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-14T08:23:31.584Z",
-    "last_checked_at": "2026-10-14T08:26:30.793Z"
+    "last_seen_at": "2026-10-14T21:06:37.492Z",
+    "last_checked_at": "2026-10-14T21:09:19.502Z"
   },
   {
     "title": "The IBM Apprenticeship program: No Degree? No Problem!",
@@ -43,10 +66,11 @@
     "source": "ibm",
     "source_url": "https://www.ibm.com/careers",
     "published_at": null,
-    "summary": "A full-time earn-and-learn programme for people without a four-year bachelor’s degree in their chosen field who already have domain knowledge. Participants work with IBM teams, receive expert mentoring, earn digital credentials and develop technical and professional skills. Current vacancies, location-specific admission rules, pay amounts and closing dates are not specified.",
+    "summary": "The IBM Apprenticeship program is a full-time, earn-and-learn program for individuals who don't have a 4-year bachelor's degree in the field they're pursuing, but have acquired knowledge in the domain. Programme features: Mentoring, Digital credentials, Full-time. Programme overview; current vacancies are not established.",
     "tags": [],
     "location": null,
     "deadline": null,
+    "deadline_text": [],
     "language": "en",
     "summary_language": "en",
     "category": "training",
@@ -59,21 +83,41 @@
     "eligible_countries": [],
     "publisher_country": "US",
     "status": "unknown",
+    "eligibility": [
+      "The IBM Apprenticeship program is a full-time, earn-and-learn program for individuals who don't have a 4-year bachelor's degree in the field they're pursuing, but have acquired knowledge in the domain."
+    ],
+    "funding": [
+      "The IBM Apprenticeship program is a full-time, earn-and-learn program for individuals who don't have a 4-year bachelor's degree in the field they're pursuing, but have acquired knowledge in the domain."
+    ],
+    "programme_features": [
+      "Mentoring",
+      "Digital credentials",
+      "Full-time"
+    ],
+    "programme_details": [
+      "The IBM Apprenticeship program is a full-time, earn-and-learn program for individuals who don't have a 4-year bachelor's degree in the field they're pursuing, but have acquired knowledge in the domain."
+    ],
+    "tracks": [],
+    "source_documents": [
+      {
+        "url": "https://www.ibm.com/careers/blog/the-ibm-apprenticeship-program-no-degree-no-problem",
+        "sha256": "43dec4457f42f166e1a80f5fdb85133ef575c2d77babfb1075fa656dbb33a512"
+      }
+    ],
     "classification": {
-      "method": "editorial-review",
+      "method": "official-html-programme",
       "status": "classified",
       "evidence": [
-        "IBM official programme information; original factual summary",
-        "Programme overview; individual current vacancies not collected",
+        "Official early-career programme discovery; not a vacancy inventory",
         "https://www.ibm.com/careers/blog/the-ibm-apprenticeship-program-no-degree-no-problem"
       ]
     },
     "id": "ibm-4253ff12690a9fad10015b4c",
     "created_at": "2026-10-10T19:42:52.294Z",
-    "updated_at": "2026-10-10T19:45:26.364Z",
+    "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-14T08:23:31.584Z",
-    "last_checked_at": "2026-10-14T08:26:30.793Z"
+    "last_seen_at": "2026-10-14T21:06:37.492Z",
+    "last_checked_at": "2026-10-14T21:09:19.502Z"
   },
   {
     "title": "Internships",
@@ -81,10 +125,11 @@
     "source": "ibm",
     "source_url": "https://www.ibm.com/careers",
     "published_at": null,
-    "summary": "IBM internships offer degree-pursuing students real project work, mentoring, professional networks and access to learning resources. This global programme overview does not establish current vacancies, role-specific eligibility, pay, locations or closing dates. The separate co-op comparison describes 12-week summer internships; that duration is not stated for every global internship.",
+    "summary": "Both co-ops and internships offer on-the-job experience while students are actively pursuing a degree. IBMers have also committed to achieving at least 40 hours of personal learning annually through our skills programs. Programme features: Mentoring, Hands-on work, Learning resources. Programme overview; current vacancies are not established.",
     "tags": [],
     "location": null,
     "deadline": null,
+    "deadline_text": [],
     "language": "en",
     "summary_language": "en",
     "category": "internships",
@@ -96,21 +141,49 @@
     "eligible_countries": [],
     "publisher_country": "US",
     "status": "unknown",
+    "eligibility": [
+      "Both co-ops and internships offer on-the-job experience while students are actively pursuing a degree."
+    ],
+    "funding": [],
+    "programme_features": [
+      "Mentoring",
+      "Hands-on work",
+      "Learning resources"
+    ],
+    "programme_details": [
+      "IBMers have also committed to achieving at least 40 hours of personal learning annually through our skills programs.",
+      "While IBM's summer internships last 12 weeks, co-ops extend to 16 weeks, giving students more time to acclimate to IBM's culture as well as learn, contribute, and get comfortable in a real working environment."
+    ],
+    "tracks": [],
+    "source_documents": [
+      {
+        "url": "https://www.ibm.com/careers/blog/5-things-that-make-the-ibm-internship-programs-unique",
+        "sha256": "8d3771a13d212f95cc49bd4b542c43f265e3f99b56e5b762f258da05a3299e7d"
+      },
+      {
+        "url": "https://www.ibm.com/careers/internships",
+        "sha256": "d2c69af3dae641ca83da256eae4a3c5d04eaa61ac579a082ae1338d0e4960124"
+      },
+      {
+        "url": "https://www.ibm.com/careers/blog/your-future-starts-here-inside-ibm-co-op-program",
+        "sha256": "12b5530c307021f0b9e30e8caee398d10512cae614c87ed890d3fdbbe0995f78"
+      }
+    ],
     "classification": {
-      "method": "editorial-review",
+      "method": "official-html-programme",
       "status": "classified",
       "evidence": [
-        "IBM official programme information; original factual summary",
-        "Programme overview; individual current vacancies not collected",
+        "Official early-career programme discovery; not a vacancy inventory",
+        "https://www.ibm.com/careers/blog/5-things-that-make-the-ibm-internship-programs-unique",
         "https://www.ibm.com/careers/internships"
       ]
     },
     "id": "ibm-42a7ed6af9409bfa5f4635b7",
     "created_at": "2026-10-10T19:42:52.294Z",
-    "updated_at": "2026-10-10T19:45:26.364Z",
+    "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-14T08:23:31.584Z",
-    "last_checked_at": "2026-10-14T08:26:30.793Z"
+    "last_seen_at": "2026-10-14T21:06:37.492Z",
+    "last_checked_at": "2026-10-14T21:09:19.502Z"
   },
   {
     "title": "What is the IBM Sales Accelerator Program?",
@@ -118,10 +191,11 @@
     "source": "ibm",
     "source_url": "https://www.ibm.com/careers",
     "published_at": null,
-    "summary": "For fresh graduates interested in technology sales, this Europe-focused programme has Client Engineering and Sales tracks, a two-year growth plan, mentoring and real customer work. The first six weeks include Global Sales School. The Sales track includes an international assignment in Valencia, Spain, or Dublin, Ireland; other office locations are unspecified. Current vacancies, pay and application closing dates are not established.",
+    "summary": "It is designed for fresh graduates who aspire to build a long-term career in tech sales. If you're a recent graduate looking to break into tech sales with a structured growth path, consider the IBM Sales Accelerator Program . The first six months: building a strong foundation. Within the first six weeks, they complete IBM's renowned Global Sales School , a critical milestone for all IBM sellers. Programme features: Mentoring, Structured onboarding, Hands-on work. Programme overview; current vacancies are not established.",
     "tags": [],
     "location": null,
     "deadline": null,
+    "deadline_text": [],
     "language": "en",
     "summary_language": "en",
     "category": "jobs",
@@ -137,21 +211,45 @@
     "eligible_countries": [],
     "publisher_country": "US",
     "status": "unknown",
+    "eligibility": [
+      "It is designed for fresh graduates who aspire to build a long-term career in tech sales.",
+      "If you're a recent graduate looking to break into tech sales with a structured growth path, consider the IBM Sales Accelerator Program ."
+    ],
+    "funding": [],
+    "programme_features": [
+      "Mentoring",
+      "Structured onboarding",
+      "Hands-on work"
+    ],
+    "programme_details": [
+      "The first six months: building a strong foundation",
+      "Within the first six weeks, they complete IBM's renowned Global Sales School , a critical milestone for all IBM sellers.",
+      "The two-year growth plan: key milestones"
+    ],
+    "tracks": [
+      "Client Engineering (CE) – Working on technical solutions and innovation.",
+      "Sales – Engaging in digital-first sales strategies with an international assignment in Valencia, Spain, or Dublin, Ireland."
+    ],
+    "source_documents": [
+      {
+        "url": "https://www.ibm.com/careers/blog/what-is-the-ibm-sales-accelerator-program",
+        "sha256": "0a8fe10a411e75fc44258321bc56d1306f3741fe7dc1f0f0ad9e9630783820f6"
+      }
+    ],
     "classification": {
-      "method": "editorial-review",
+      "method": "official-html-programme",
       "status": "classified",
       "evidence": [
-        "IBM official programme information; original factual summary",
-        "Programme overview; individual current vacancies not collected",
+        "Official early-career programme discovery; not a vacancy inventory",
         "https://www.ibm.com/careers/blog/what-is-the-ibm-sales-accelerator-program"
       ]
     },
     "id": "ibm-a45d942bef1d925e5bc83d49",
     "created_at": "2026-10-10T19:42:52.294Z",
-    "updated_at": "2026-10-10T19:45:26.364Z",
+    "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-14T08:23:31.584Z",
-    "last_checked_at": "2026-10-14T08:26:30.793Z"
+    "last_seen_at": "2026-10-14T21:06:37.492Z",
+    "last_checked_at": "2026-10-14T21:09:19.502Z"
   },
   {
     "title": "Your Future Starts Here: Inside IBM’s Co-op Program",
@@ -159,10 +257,11 @@
     "source": "ibm",
     "source_url": "https://www.ibm.com/careers",
     "published_at": null,
-    "summary": "A 16-week, full-time experience on-site at an IBM office for actively enrolled college and university students, in software or sales. Students work on real projects with teams and mentors, developing technical and professional skills. A later full-time job depends on performance and an offer. Current openings, pay, exact office locations and closing dates are not established.",
+    "summary": "It gives actively enrolled college and university students a chance to step away from academics for a semester and experience what it's like to work at IBM in a software or sales role. Both co-ops and internships offer on-the-job experience while students are actively pursuing a degree. IBM's Co-op Program is a 16-week, full-time immersive experience on-site at an IBM office. Programme features: Mentoring, Hands-on work, Full-time, On-site. Programme overview; current vacancies are not established.",
     "tags": [],
     "location": null,
     "deadline": null,
+    "deadline_text": [],
     "language": "en",
     "summary_language": "en",
     "category": "internships",
@@ -174,20 +273,41 @@
     "eligible_countries": [],
     "publisher_country": "US",
     "status": "unknown",
+    "eligibility": [
+      "It gives actively enrolled college and university students a chance to step away from academics for a semester and experience what it's like to work at IBM in a software or sales role.",
+      "Both co-ops and internships offer on-the-job experience while students are actively pursuing a degree."
+    ],
+    "funding": [],
+    "programme_features": [
+      "Mentoring",
+      "Hands-on work",
+      "Full-time",
+      "On-site"
+    ],
+    "programme_details": [
+      "IBM's Co-op Program is a 16-week, full-time immersive experience on-site at an IBM office.",
+      "While IBM's summer internships last 12 weeks, co-ops extend to 16 weeks, giving students more time to acclimate to IBM's culture as well as learn, contribute, and get comfortable in a real working environment."
+    ],
+    "tracks": [],
+    "source_documents": [
+      {
+        "url": "https://www.ibm.com/careers/blog/your-future-starts-here-inside-ibm-co-op-program",
+        "sha256": "e4f13182731f6cb971dcefa9f8884ce9414c5247b34f468542fa3d0378fac344"
+      }
+    ],
     "classification": {
-      "method": "editorial-review",
+      "method": "official-html-programme",
       "status": "classified",
       "evidence": [
-        "IBM official programme information; original factual summary",
-        "Programme overview; individual current vacancies not collected",
+        "Official early-career programme discovery; not a vacancy inventory",
         "https://www.ibm.com/careers/blog/your-future-starts-here-inside-ibm-co-op-program"
       ]
     },
     "id": "ibm-e7edec3aa97b222e1365d4e1",
     "created_at": "2026-10-10T19:42:52.294Z",
-    "updated_at": "2026-10-10T19:45:26.364Z",
+    "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-14T08:23:31.584Z",
-    "last_checked_at": "2026-10-14T08:26:30.793Z"
+    "last_seen_at": "2026-10-14T21:06:37.492Z",
+    "last_checked_at": "2026-10-14T21:09:19.502Z"
   }
 ]

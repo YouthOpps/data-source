@@ -8,10 +8,10 @@
   "publisher_type": "company",
   "attribution": "IBM https://www.ibm.com/ ; original factual programme summaries and direct official links",
   "status": "success",
-  "last_attempt_at": "2026-10-14T08:23:31.584Z",
-  "last_success_at": "2026-10-14T08:23:31.584Z",
-  "last_checked_at": "2026-10-14T08:26:30.793Z",
+  "last_attempt_at": "2026-10-14T21:06:37.492Z",
+  "last_success_at": "2026-10-14T21:06:37.492Z",
+  "last_checked_at": "2026-10-14T21:09:19.502Z",
   "record_count": 5,
-  "message": "Collected 5 reviewed IBM early-career programme overviews",
+  "message": "Validated refresh retains 5 IBM programme records",
   "error": null
 }
