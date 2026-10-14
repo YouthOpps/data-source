@@ -25,8 +25,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -62,8 +62,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -102,8 +102,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -141,8 +141,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -150,46 +150,6 @@
       "evidence": [
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "graduate-bg; US; explicit BG citizenship, exclude BG/US dual and green-card holders, current US students and >=5 consecutive US years during preceding 6. AY 2027–28 closed, deadline unspecified (May yearless). Accredited US university degree fields except clinical medicine/dentistry; BA diploma by Sept 1,2026 proof date. Up to USD 66,000 total for one 10-month academic year, round-trip/J 1/health up to 100 k; capacity 4 vs FAQ 5 and obsolete table 7 documented, not cloned. IIE placement, no prior US admission needed. TOEFL expected with possible English-taught-degree waiver and postnomination vouchers; GRE most fields except law/MBA, GMAT business subject school alternative; desirable 81 science/101 other and 600 school score are not common hard minima. J 1 two-year home return."
-      ]
-    }
-  },
-  {
-    "id": "19bc537a4948a46305c6fb70",
-    "title": "Fulbright Bulgaria alumni open project awards",
-    "url": "https://www.fulbright.bg/en/alumni-grants/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical February28,2026 closing date for Fulbright Bulgaria alumni open project proposals, with a maximum EUR1,500 per project. Bulgarian or US citizen alumni may apply for one award type per year; joint proposals share the same total ceiling. Projects/reports must finish within a year, and recipients cannot reapply for two years. The published rolling-open banner conflicts with the dated round; no2027 deadline is inferred.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-28",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [
-      "BG",
-      "US"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "`alumni-travel`, `alumni-publication`, alumni; explicit BG/US CITIZENS Fulbright Bulgaria alumni, projectsbased/carriedout BG. Each EUR 1,500 total maximum , not shared doublepayment; travel 1/year conference/training/follow-upresearch, publication 1/year monograph/high-indexinternationaljournal, open 1–2/year actualnontravel/nonpublication community/art/research/education impact. Actual February 28,2026 EXPIRED despite stale rolling-open/upcominglabel; preserveconflict without Feb 2027 inference. One TYPE/alum/year, joint total maximum 1,500, reports/projectcomplete<=1 year, no reapply 2 years, laterfirsttimerpreference notabsolute lifetimeban. Not official Fulbright grants; owntravel/visa. Travelactualdestination UNKNOWN host[] despiteprojectbase BG; publication/openproject BGknown notpublisherinference. Capacities 2–4 overall not records."
       ]
     }
   },
@@ -218,8 +178,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -227,44 +187,6 @@
       "evidence": [
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "court; US; two selected Sofia Regional Court internship participants, excellent English, annual two-month New Orleans Louisiana federaldistrictcourt placement funded flight/maintenance/visa. No direct passport/degree requirement from alumni biographies; no country whitelist. deadline and opening unknown; current grantee 2025–26 names and 2010–24 stories not calls. Actual BG canonical, no copied names/stories. Initial institutional internship BG is route, funded overseas host US. The reviewed2022 seminar round-up describes the court participants as young Bulgarian law students; citizenship remains unproven."
-      ]
-    }
-  },
-  {
-    "id": "3dea84721b87fcfc5c312e06",
-    "title": "Fulbright-Schuman international educator awards — historical2022 call",
-    "url": "https://www.fulbright.bg/en/fulbright-schuman/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical December1,2022 closing date for three-to-nine-month international higher-education research at US institutions. Applicants are professionals at European universities; projects compare EU–US/global practice and require a US affiliation letter. The own page does not publish a funding amount or an explicit passport test.",
-    "tags": [],
-    "location": null,
-    "deadline": "2022-12-01",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants",
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "`schuman-pre-doctoral`, `schuman-postdoctoral`, `schuman-innovation`, schuman; actual December 1,2022 EXPIRED for all four (historical source edition, no invented newer round). Source candidates from 27 EUstates is country-origin wording, no country whitelist pending explicit citizenship proof; don't import external URL claim. US affiliation letter required: predoctoral 4–9 months accredited US institution, postdoc 3–9 months USuniversity/nonprofit; both EU-US/policy/institutions topic relevant >=2 EUmemberstates (topic countries not host clones). Innovation policy/technology nexus, same USaffiliation but source also says research tenable one/two EUmemberstates; propose known US host and explicitly incomplete/contradictory venue scope, no EU 27 projection/duration guess. Educator 3–9 months professional at EUuniversity and USHEIglobal/international highered research. No own quantified funding, parent<=9 months not silently min 4/3 innovation. Distinct criteria, not one all-type clone."
       ]
     }
   },
@@ -296,8 +218,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -337,8 +259,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -374,8 +296,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -414,8 +336,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -423,82 +345,6 @@
       "evidence": [
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "scholar-us; same actual USeligibility, BG; two SHORTsegmentswithin<=2 years,total 2–4 months and actual Flexcheckbox/timeline. USD 3,800 per month , USD 4,000 total travel ALLsegments, NO dependentbenefits. No borrowing core 1,700/1,300 or dependentbenefit. deadline and opening unknown."
-      ]
-    }
-  },
-  {
-    "id": "5469d74ea1dd5c82ccade41e",
-    "title": "Fulbright-Schuman predoctoral awards — historical2022 call",
-    "url": "https://www.fulbright.bg/en/fulbright-schuman/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical December1,2022 closing date for four to nine months of US predoctoral study/research. Projects concern EU–US relations, EU policy or institutions and must relate to at least two member states. A US host affiliation letter is required. Topic countries are not separate placements; funding amount and an explicit passport test are not stated.",
-    "tags": [],
-    "location": null,
-    "deadline": "2022-12-01",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants",
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "`schuman-pre-doctoral`, `schuman-postdoctoral`, `schuman-innovation`, schuman; actual December 1,2022 EXPIRED for all four (historical source edition, no invented newer round). Source candidates from 27 EUstates is country-origin wording, no country whitelist pending explicit citizenship proof; don't import external URL claim. US affiliation letter required: predoctoral 4–9 months accredited US institution, postdoc 3–9 months USuniversity/nonprofit; both EU-US/policy/institutions topic relevant >=2 EUmemberstates (topic countries not host clones). Innovation policy/technology nexus, same USaffiliation but source also says research tenable one/two EUmemberstates; propose known US host and explicitly incomplete/contradictory venue scope, no EU 27 projection/duration guess. Educator 3–9 months professional at EUuniversity and USHEIglobal/international highered research. No own quantified funding, parent<=9 months not silently min 4/3 innovation. Distinct criteria, not one all-type clone."
-      ]
-    }
-  },
-  {
-    "id": "574263c917354be8f8485d6e",
-    "title": "Fulbright Bulgaria alumni travel awards",
-    "url": "https://www.fulbright.bg/en/alumni-grants/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical February28,2026 closing date for Fulbright Bulgaria alumni travel proposals, with a maximum EUR1,500 per project. Bulgarian or US citizen alumni may apply for one award type per year; joint proposals share the same total ceiling. Projects/reports must finish within a year, and recipients cannot reapply for two years. The published rolling-open banner conflicts with the dated round; no2027 deadline is inferred.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-28",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [
-      "BG",
-      "US"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "`alumni-travel`, `alumni-publication`, alumni; explicit BG/US CITIZENS Fulbright Bulgaria alumni, projectsbased/carriedout BG. Each EUR 1,500 total maximum , not shared doublepayment; travel 1/year conference/training/follow-upresearch, publication 1/year monograph/high-indexinternationaljournal, open 1–2/year actualnontravel/nonpublication community/art/research/education impact. Actual February 28,2026 EXPIRED despite stale rolling-open/upcominglabel; preserveconflict without Feb 2027 inference. One TYPE/alum/year, joint total maximum 1,500, reports/projectcomplete<=1 year, no reapply 2 years, laterfirsttimerpreference notabsolute lifetimeban. Not official Fulbright grants; owntravel/visa. Travelactualdestination UNKNOWN host[] despiteprojectbase BG; publication/openproject BGknown notpublisherinference. Capacities 2–4 overall not records."
       ]
     }
   },
@@ -527,8 +373,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -536,45 +382,6 @@
       "evidence": [
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "`pmp-course-2026-september`, pmp; paid English five-day 35 hours/PDUs course Sofia BG, EUR 960 VAT INCLUDED. Actual editions Sep 25–27/Oct 3–4,2026 (past despite ONGOINGbanner) and Oct 30–31/Nov 1/Nov 7–8,2026 upcoming. unspecifiedapplicationdeadlines, statusunknownwhere enrollment conflicts/no actualclose. Training curriculum teams/governance/performance/value, materials/prep not issuedcredential, nofundedgrantclaim. Examdegree/36 or 60 month PMexperience/35 education prerequisites are EXAM not mandatory courseadmission; exam/membershipfees not award benefits. July 2026 updatedexam header versus January 2021 footer retained as sourceconflict, no guaranteedcurrentcertification. No PMPvs CAPM/course-module clones or evergreenduplicate. Cancellation source 15/7 day boundaries preserved not guessed."
-      ]
-    }
-  },
-  {
-    "id": "5ee5f96e9f6d89ac6f1131e3",
-    "title": "Fulbright/University of Oklahoma MBA — historical2025–26 call",
-    "url": "https://www.fulbright.bg/en/biznes-administraciq/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical May10,2024 closing date for the Oklahoma Price College MBA scholarship, covering the programme’s duration. Bulgarian citizens need a four-year bachelor’s degree and the stated TOEFL/GMAT evidence; no prior business training is required. The page’s generic graduate FAQ says up to USD60,000, but its exact MBA-specific scope is unclear. The old open banner does not establish a current call.",
-    "tags": [],
-    "location": null,
-    "deadline": "2024-05-10",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "BG"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "mba-alias actual distinctnamed University Oklahoma Price College Norman MBA; US; explicit BGcitizenship, BA 4 yearproof Sept 1,2024; dual US/workvisa/greencard/current USstudy/5 consecutive-in 6 excluded. AY 2025–26 actual May 10,2024 EXPIRED despite staleopenbanner. Funding entireprogramme, own FAQup to USD 60,000 total belongs generic graduate wording—flag scope uncertainty/no assertguaranteed entire MBAcost; travel/health own FAQ. TOEFL>81 and GMAT>=650 owneligibility bullet (score submission advantage not required by deadline, nominees vouchers); latergeneric FAQ 101 desirable and 600 schoolscore conflictnot silently replace 650. No priorbusinesstraining required, J 1 home 2 years."
       ]
     }
   },
@@ -606,8 +413,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -644,8 +451,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -684,8 +491,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -722,8 +529,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -760,8 +567,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -769,122 +576,6 @@
       "evidence": [
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "eta-host; BG; separate actual BGschool/university institutional request, not applicant-USnationality; no country whitelist. Oneacademic-year placement for suitablelanguage/profile/general/vocational schools/state/municipal/universities; corporate sponsor funding route no new campusclone. Host 14–20 h/weekly plan, materials, free safe furnishedhousing, mentoring/adjustment/extracurricularsupport, nondiscrimination/innovative supportive vision. Selection endfirstschoolterm yearless, deadline and opening unknown. Actual programmebeneficiary USassistant not institutional citizenship; don't duplicate merely translated individualgrant."
-      ]
-    }
-  },
-  {
-    "id": "8f948a9ad7b10296bd61b240",
-    "title": "Fulbright Teaching Excellence and Achievement 2027",
-    "url": "https://www.fulbright.bg/en/grants-for-teachers/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical March25,2026 closing date for six-week US teacher development in2027. Full-time secondary teachers must live/work in Bulgaria, hold a bachelor’s degree, have three teaching years and meet TOEFL45. Training includes teaching methods, a40-hour practicum and cultural exchange, with flights, housing/meals, academic costs and health coverage. Prior TEA participants and several noneligible teaching roles are excluded.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-03-25",
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training",
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "ftea; US; fulltime BGsecondary teachers age 12–18 students, eligible subjects English/math/science/socialstudies/journalism, BA, >=3 teachingyears, live/work BG throughapplication+programme; no country whitelist affiliation not passport. Mandatory TOEFL 45; interviewtest or valid May 2025+results, returnteaching commitment. Exclude prior TEA, administrators, parttime/university/private tutors/expatriate schools. Actual March 25,2026 EXPIRED, 2027 Jan–Mar/Sep–Oct cohorts are eventperiods. Six weeks, 40 hour practicum; international/USairfare, visa, fees, lodging/meals/incidentals, ASPE, conditionaltransport/baggage/workshops/alumni minigrants;180 international capacity not 180 BGrecords."
-      ]
-    }
-  },
-  {
-    "id": "9e41344e9497eeb9ef6328f2",
-    "title": "Fulbright-Schuman Innovation awards — historical2022 call",
-    "url": "https://www.fulbright.bg/en/fulbright-schuman/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical December1,2022 closing date for policy/technology research at the EU–US nexus. A US university or nonprofit affiliation must be arranged. The publisher also describes research tenable in one or two EU member states; the complete venue scope is unresolved. Funding amount and track-specific minimum duration are not stated. No current competition is inferred.",
-    "tags": [],
-    "location": null,
-    "deadline": "2022-12-01",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants",
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "`schuman-pre-doctoral`, `schuman-postdoctoral`, `schuman-innovation`, schuman; actual December 1,2022 EXPIRED for all four (historical source edition, no invented newer round). Source candidates from 27 EUstates is country-origin wording, no country whitelist pending explicit citizenship proof; don't import external URL claim. US affiliation letter required: predoctoral 4–9 months accredited US institution, postdoc 3–9 months USuniversity/nonprofit; both EU-US/policy/institutions topic relevant >=2 EUmemberstates (topic countries not host clones). Innovation policy/technology nexus, same USaffiliation but source also says research tenable one/two EUmemberstates; propose known US host and explicitly incomplete/contradictory venue scope, no EU 27 projection/duration guess. Educator 3–9 months professional at EUuniversity and USHEIglobal/international highered research. No own quantified funding, parent<=9 months not silently min 4/3 innovation. Distinct criteria, not one all-type clone."
-      ]
-    }
-  },
-  {
-    "id": "a90ee55c1e14e02728295b9e",
-    "title": "Fulbright Bulgaria alumni publication awards",
-    "url": "https://www.fulbright.bg/en/alumni-grants/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical February28,2026 closing date for Fulbright Bulgaria alumni publication proposals, with a maximum EUR1,500 per project. Bulgarian or US citizen alumni may apply for one award type per year; joint proposals share the same total ceiling. Projects/reports must finish within a year, and recipients cannot reapply for two years. The published rolling-open banner conflicts with the dated round; no2027 deadline is inferred.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-28",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [
-      "BG",
-      "US"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "`alumni-travel`, `alumni-publication`, alumni; explicit BG/US CITIZENS Fulbright Bulgaria alumni, projectsbased/carriedout BG. Each EUR 1,500 total maximum , not shared doublepayment; travel 1/year conference/training/follow-upresearch, publication 1/year monograph/high-indexinternationaljournal, open 1–2/year actualnontravel/nonpublication community/art/research/education impact. Actual February 28,2026 EXPIRED despite stale rolling-open/upcominglabel; preserveconflict without Feb 2027 inference. One TYPE/alum/year, joint total maximum 1,500, reports/projectcomplete<=1 year, no reapply 2 years, laterfirsttimerpreference notabsolute lifetimeban. Not official Fulbright grants; owntravel/visa. Travelactualdestination UNKNOWN host[] despiteprojectbase BG; publication/openproject BGknown notpublisherinference. Capacities 2–4 overall not records."
       ]
     }
   },
@@ -917,8 +608,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -954,8 +645,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -995,8 +686,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1035,8 +726,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1072,8 +763,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1109,8 +800,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1146,8 +837,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1183,8 +874,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1223,8 +914,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1263,8 +954,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -1272,43 +963,6 @@
       "evidence": [
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "doctoral; US; explicit BG and dual US/green-card exclusion; BA and full/part-time advanced Ph D enrolment, current US-study and>=5 consecutive/6 residence exclusion. AY 2027–28 actual December 4,2026 deadline. Four–six months, three–four grants capacity; monthly maintenance amount unspecified, round-trip/health. Official US host invitation/access/supervisor required. TOEFL can be after nomination free voucher; above 81 ADVISABLE, not mandatory score. No clinical medicine/dentistry. Visiting researcher CANNOT enrol courses despite generic tuition promotional line; preserve contradiction without claiming tuition entitlement."
-      ]
-    }
-  },
-  {
-    "id": "faffe8b6bb524b04b10240f3",
-    "title": "Fulbright International Seminar2021 — historical edition",
-    "url": "https://www.fulbright.bg/en/fulbright-international-seminar-2021/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical participant deadline September15,2021 for the September24–26 democracy/representation seminar in Sofia and online. Bachelor’s juniors/seniors, graduate students, academics, NGO representatives and young professionals worldwide could apply. Full participants attend workshops and complete projects for certification. Participation was free; partial travel/accommodation aid was conditional and capacity was25.",
-    "tags": [],
-    "location": null,
-    "deadline": "2021-09-15",
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "fis 2021; BG +online; explicitglobalparticipants, no citizenshippositive whitelist no country whitelist. BAjunior/senior, MA/Ph D, academics, NGO/youngprofessionals; actual Sep 15,2021 APPLICATIONdeadline EXPIRED. Sep 24–26,2021 events Sofia Launchee/Zoom, freefullprogrammeworkshops/projectwork/certification,<=25 capacity andconditionalpartialtravel/accommodationcasebycase. Democracyrepresentation/inclusion/digitalchange, no genericevergreenclone."
       ]
     }
   },
@@ -1340,8 +994,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-09T04:04:19.711Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
+    "last_seen_at": "2026-10-14T08:36:20.035Z",
+    "last_checked_at": "2026-10-14T08:40:20.741Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1349,83 +1003,6 @@
       "evidence": [
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "ngo actual /npo-research/ BGarticle; US; explicit BGcitizenship, BA, excellent English via interview NOtest; exclude BG/USdual andworkvisa/greencard, goodhealth. Bulgarian NGOleaders/representatives developingcivil society BG, official USNGO/uni invitation (all recognized NGOs/accrediteduniv/researchinst). Closed AY 2026–27; early December yearless unspecified. Three–five months, USD 3,200–4,800 per month flight/health,2–3 capacity, ownhostletterdates/workspace/access/contact required, August-to Julyprogrammebounds notdeadline. No Ph Drequirement borrowedfromscholar."
-      ]
-    }
-  },
-  {
-    "id": "fbd01f611737c1c319e3955a",
-    "title": "Thanks to Scandinavia graduate awards 2027–28",
-    "url": "https://www.fulbright.bg/en/thanks-to-scandinavia/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical May8,2026 closing date for a US master’s-year award for Bulgarian graduates. Candidates first need core Fulbright nomination and then separate Foundation selection. Additional funding is not quantified; the generic graduate FAQ cap is not the top-up amount. Preferred fields include human rights, history and intercultural communication. The page’s open banner conflicts with the past deadline.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-05-08",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "BG"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "thanks; US; explicit BG citizen/BAproof Sept 1,2026, dual US/greencard/current USstudy/5 consecutive-in 6 exclusion. AY 2027–28 actual May 8,2026 EXPIRED despite stale open banner. Oneacademic year MA, two grants capacity; core Fulbright nomination then separate Foundation approval, actual additional funding UNKNOWN, do not borrow core 60 k FAQ or current 66 k. Human-rights/history/sociology/Jewish/intercultural fields preferred not exclusive; interest sameapplication and anti-intolerance essay for principal nominees; postnomination testvouchers/possiblewaiver, J 1 return 2 years."
-      ]
-    }
-  },
-  {
-    "id": "ff963dceb2f096326c81bf66",
-    "title": "Fulbright-Schuman postdoctoral awards — historical2022 call",
-    "url": "https://www.fulbright.bg/en/fulbright-schuman/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical December1,2022 closing date for three to nine months of US postdoctoral research or lecturing. Projects concern EU–US relations, EU policy or institutions and must relate to at least two member states. A US host affiliation letter is required. Topic countries are not separate placements; funding amount and an explicit passport test are not stated.",
-    "tags": [],
-    "location": null,
-    "deadline": "2022-12-01",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants",
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-09T04:04:19.711Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-14T08:03:32.127Z",
-    "last_checked_at": "2026-10-14T08:07:32.796Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "`schuman-pre-doctoral`, `schuman-postdoctoral`, `schuman-innovation`, schuman; actual December 1,2022 EXPIRED for all four (historical source edition, no invented newer round). Source candidates from 27 EUstates is country-origin wording, no country whitelist pending explicit citizenship proof; don't import external URL claim. US affiliation letter required: predoctoral 4–9 months accredited US institution, postdoc 3–9 months USuniversity/nonprofit; both EU-US/policy/institutions topic relevant >=2 EUmemberstates (topic countries not host clones). Innovation policy/technology nexus, same USaffiliation but source also says research tenable one/two EUmemberstates; propose known US host and explicitly incomplete/contradictory venue scope, no EU 27 projection/duration guess. Educator 3–9 months professional at EUuniversity and USHEIglobal/international highered research. No own quantified funding, parent<=9 months not silently min 4/3 innovation. Distinct criteria, not one all-type clone."
       ]
     }
   }
