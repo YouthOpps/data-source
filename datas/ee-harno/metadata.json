@@ -5,14 +5,13 @@
   "language": "en",
   "publisher_country": "EE",
   "publisher_type": "government",
-  "status": "fail",
-  "last_attempt_at": "2026-10-14T05:30:10.004Z",
-  "last_success_at": "2026-10-13T01:04:34.359Z",
-  "last_checked_at": "2026-10-13T01:04:34.359Z",
-  "record_count": 13,
-  "publisher_next_request_at": "2026-10-14T05:34:22.753Z",
-  "message": "Collection failed; last-good data preserved",
-  "error": "Harno funding facts changed: language",
-  "attribution": "Estonian Education and Youth Board (Harno)",
-  "failure_stage": "parse"
+  "status": "success",
+  "last_attempt_at": "2026-10-14T08:52:34.545Z",
+  "last_success_at": "2026-10-14T08:52:34.545Z",
+  "last_checked_at": "2026-10-14T08:52:34.545Z",
+  "record_count": 6,
+  "publisher_next_request_at": "2026-10-14T08:56:47.562Z",
+  "message": "Validated refresh retains 6 Harno funding records",
+  "error": null,
+  "attribution": "Estonian Education and Youth Board (Harno)"
 }
