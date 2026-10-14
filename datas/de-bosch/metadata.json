@@ -9,10 +9,10 @@
   "publisher_type": "company",
   "attribution": "Bosch — official career programme information; direct links to original sources.",
   "status": "success",
-  "last_attempt_at": "2026-10-13T15:55:52.940Z",
-  "last_success_at": "2026-10-13T15:55:52.940Z",
-  "last_checked_at": "2026-10-13T16:03:25.041Z",
+  "last_attempt_at": "2026-10-14T08:23:19.978Z",
+  "last_success_at": "2026-10-14T08:23:19.978Z",
+  "last_checked_at": "2026-10-14T08:31:08.067Z",
   "record_count": 18,
-  "message": "Collected 18 reviewed Bosch programme overviews",
+  "message": "Validated refresh retains 18 reviewed Bosch programme overviews",
   "error": null
 }
