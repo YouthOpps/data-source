@@ -1,0 +1,17 @@
+{
+  "source": "youth-opportunities",
+  "source_url": "https://www.youthop.com/search/",
+  "website_url": "https://www.youthop.com/",
+  "language": "en",
+  "publisher_country": "BD",
+  "publisher_type": "aggregator",
+  "status": "success",
+  "last_attempt_at": "2026-10-14T19:38:19.462Z",
+  "last_success_at": "2026-10-14T19:38:19.462Z",
+  "last_checked_at": "2026-10-14T19:38:19.462Z",
+  "record_count": 417,
+  "inventory_scope": "complete-publisher-browse-opportunities",
+  "message": "Validated refresh retains 417 records",
+  "error": null,
+  "attribution": "Youth Opportunities"
+}
