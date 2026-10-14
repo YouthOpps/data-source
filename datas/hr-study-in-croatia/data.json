@@ -24,8 +24,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -67,8 +67,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -105,8 +105,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -114,44 +114,6 @@
       "evidence": [
         "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
         "Own reviewed exchange programme/call; "
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "3d9015a64c5f5d8163030a59",
-    "title": "University of Zagreb School of Medicine Opens Applications for Medical Studies in English",
-    "url": "https://www.studyincroatia.hr/news/university-of-zagreb-school-of-medicine-opens-applications-for-medical-studies-in-english/",
-    "source": "hr-study-in-croatia",
-    "source_url": "https://www.studyincroatia.hr/",
-    "published_at": null,
-    "summary": "2026/27 call for international applicants to enter Zagreb Medicine’s first year of integrated undergraduate and graduate studies taught in English. Applications for the 12 May 2026 online entrance exam closed 26 April 2026. The exam covers high-school biology, physics and chemistry, with 120 questions: 40 per subject. The notice does not establish later exam rounds, tuition, application fees or the full admissions conditions; consult the institution’s requirements.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-26",
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "HR"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "HR",
-    "created_at": "2026-10-10T08:33:48.786Z",
-    "updated_at": "2026-10-10T08:33:48.786Z",
-    "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
-        "Own reviewed medical programme/call; "
       ]
     },
     "summary_language": "en"
@@ -182,8 +144,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -218,8 +180,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -256,8 +218,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -294,8 +256,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -332,8 +294,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -341,44 +303,6 @@
       "evidence": [
         "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
         "Own reviewed learning programme/call; PhysicalCroatiacountry fromschool contextRijekaUniversity/Croatia, exactvenueunknown; programmeperiodNOTclosing."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "adde7743a629c4d276fd2a0e",
-    "title": "Applications for the International Graduate Biomedical Mathematics Study Programme in English Now Open!",
-    "url": "https://www.studyincroatia.hr/news/applications-for-the-international-graduate-biomedical-mathematics-study-programme-in-english-now-open/",
-    "source": "hr-study-in-croatia",
-    "source_url": "https://www.studyincroatia.hr/",
-    "published_at": null,
-    "summary": "Second 2026/27 application round for Zagreb Faculty of Science’s English-taught Biomedical Mathematics Master’s closed 30 June 2026. Requires signed application, passport pages, secondary diploma, Bachelor’s degree if available, transcripts, CV and motivation letter in English, plus proof of EUR35 application-fee payment. Non-native English speakers need at least B2 proficiency. Selected candidates have an English online interview focused mainly on mathematics background. Tuition and full academic eligibility are not stated.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-06-30",
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "HR"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "HR",
-    "created_at": "2026-10-10T08:33:48.786Z",
-    "updated_at": "2026-10-10T08:33:48.786Z",
-    "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
-        "Own reviewed biomedical programme/call; "
       ]
     },
     "summary_language": "en"
@@ -408,8 +332,8 @@
     "created_at": "2026-10-10T08:33:48.786Z",
     "updated_at": "2026-10-10T08:33:48.786Z",
     "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
+    "last_seen_at": "2026-10-14T08:35:54.956Z",
+    "last_checked_at": "2026-10-14T08:39:33.204Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -417,44 +341,6 @@
       "evidence": [
         "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
         "Own reviewed bilateral-2024 programme/call; Literal before5April2024 is preserved in summary. Keep deadlineNULL because exact exclusive/inclusive cutoff and clock are not established; website treats date-only deadlines inclusive through UTCendofday, which would overstate this wording. No shift toApril4 or inventedclock. Own more-information link points external2023/24 article; do not borrow mismatched-edition conditions."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "f21441a928d5680e942c3c96",
-    "title": "Scholarships of the Republic of Croatia - Call for Applications for the academic year 2023/2024",
-    "url": "https://www.studyincroatia.hr/news/scholarships-of-the-republic-of-croatia-call-for-applications-for-the-academic-year-2023-2024/",
-    "source": "hr-study-in-croatia",
-    "source_url": "https://www.studyincroatia.hr/",
-    "published_at": null,
-    "summary": "Historical 2023/24 scholarship call for foreign higher-education students, teachers and research fellows undertaking study, teaching or research in any field at an accredited public Croatian higher-education or research institution agreed in advance. Mobility period: 1 October 2023–30 September 2024, excluding July and August. Application deadline was 31 March 2023, with no time or timezone stated. Grant amounts and additional eligibility conditions are not supplied in this notice.",
-    "tags": [],
-    "location": null,
-    "deadline": "2023-03-31",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "HR"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "HR",
-    "created_at": "2026-10-10T08:33:48.786Z",
-    "updated_at": "2026-10-10T08:33:48.786Z",
-    "first_seen_at": "2026-10-10T08:33:48.786Z",
-    "last_seen_at": "2026-10-10T08:37:29.328Z",
-    "last_checked_at": "2026-10-10T08:40:51.346Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
-        "Own reviewed bilateral-2023 programme/call; "
       ]
     },
     "summary_language": "en"
