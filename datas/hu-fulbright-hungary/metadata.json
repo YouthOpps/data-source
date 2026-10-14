@@ -6,11 +6,11 @@
   "publisher_country": "HU",
   "publisher_type": "foundation",
   "status": "success",
-  "last_attempt_at": "2026-10-14T05:13:43.940Z",
-  "last_success_at": "2026-10-14T05:13:43.940Z",
-  "last_checked_at": "2026-10-14T05:13:43.940Z",
+  "last_attempt_at": "2026-10-14T08:57:53.057Z",
+  "last_success_at": "2026-10-14T08:57:53.057Z",
+  "last_checked_at": "2026-10-14T08:57:53.057Z",
   "record_count": 10,
-  "message": "Collected and validated 10 records",
+  "message": "Validated refresh retains 10 records",
   "error": null,
   "attribution": "Hungarian-American Fulbright Commission"
 }
