@@ -7,12 +7,11 @@
   "publisher_country": "PT",
   "publisher_type": "public-body",
   "attribution": "Instituto Português do Desporto e Juventude https://ipdj.gov.pt/ and the named programme administrators",
-  "status": "fail",
-  "last_attempt_at": "2026-10-13T12:00:28.497Z",
-  "last_success_at": "2026-10-10T21:00:17.321Z",
-  "last_checked_at": "2026-10-10T21:34:47.824Z",
-  "record_count": 245,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Reviewed source facts/frontier changed: frontier-1",
-  "failure_stage": "parse"
+  "status": "success",
+  "last_attempt_at": "2026-10-14T03:45:58.588Z",
+  "last_success_at": "2026-10-14T03:45:58.588Z",
+  "last_checked_at": "2026-10-14T04:22:46.582Z",
+  "record_count": 275,
+  "message": "Collected 275 reviewed IPDJ opportunities",
+  "error": null
 }
