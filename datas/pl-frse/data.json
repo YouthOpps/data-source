@@ -22,8 +22,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -32,46 +32,6 @@
         "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
         "Actual invitation/closed-call proof and date. Preserve dateonly ifclock has no sourcezone; futuredate alone is never enough foropen.",
         "https://www.frse.org.pl/aktualnosci/konkurs-discovereu-ruszyla-runda-jesienna"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "08dcea194dd216a3c53c9180",
-    "title": "Wymiany młodzieżowe – współpraca poprzez organizację spotkań",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/wymiany-mlodziezowe-wspolpraca-poprzez-organizacje-spotkan",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Wymiany dla młodzieży 13–30 lat mieszkającej w krajach organizacji wysyłających/przyjmujących; minimum 2 grupy z 2 krajów, 5–21 dni. Wnioskować mogą uprawnione organizacje lub nieformalne grupy z UE/krajów stowarzyszonych, mimo węższego opisu FRSE. Projekty 3–24 miesiące obejmują budżet podróży, utrzymania i włączenia; stawki zależą od kraju. Zwykle 16–60 uczestników, minimum 10 przy wyłącznie mniejszych szansach. Nabór grantów 2026 zakończony; nie jest to indywidualny termin uczestnika.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-01T10:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/wymiany-mlodziezowe-wspolpraca-poprzez-organizacje-spotkan",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
       ]
     },
     "country": "PL"
@@ -100,8 +60,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -140,8 +100,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -177,8 +137,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -214,8 +174,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -254,8 +214,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -264,46 +224,6 @@
         "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
         "Actual reference FRSE/27/2026 and explicit application closing; clock17:00 has no literalzone, preserve dateonly. Same canonicaljobsURL, stable identity includes actual reference.",
         "https://www.frse.org.pl/praca-w-frse"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "259c39b9cedbc9a177af1979",
-    "title": "Zmieniaj edukację!",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/zmieniaj-edukacje",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Europejskie partnerstwa rozwoju szkół: koordynator to lokalny lub regionalny organ edukacji albo organ koordynujący szkoły z UE/kraju stowarzyszonego. Co najmniej 6 organizacji; w kraju koordynatora i drugim kraju po organie oraz 2 szkoły. Projekt musi objąć minimum 3 zadania, w tym po jednym z obu kategorii działań. Grant ryczałtowy 400 tys. EUR na 36 miesięcy dla projektu. Nabór 2026 zamknięty.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-09T10:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/zmieniaj-edukacje",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
       ]
     },
     "country": "PL"
@@ -331,8 +251,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -368,8 +288,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -381,85 +301,6 @@
         "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
         "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
         "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "2ca13a27635e2db6dbd7caeb",
-    "title": "Sojusze na rzecz współpracy sektorowej",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/sojusze-na-rzecz-wspolpracy-sektorowej",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Sojusze współpracy sektorowej rozwijają umiejętności w określonych ekosystemach przemysłowych. Wymagane minimum 12 beneficjentów z 8 krajów UE/stowarzyszonych, co najmniej 5 podmiotów rynku pracy i 5 dostawców edukacji, w tym uczelnia i VET. Uczelnie UE/stowarzyszone muszą mieć ECHE. Dofinansowanie do 80% kosztów projektu, maks. 4 mln EUR na 4 lata. Nabór 2026 zakończony; skład i kwalifikowalność partnerów określa przewodnik.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-03-10T16:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/sojusze-na-rzecz-wspolpracy-sektorowej",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "336d4a5fc40f0c2ed047e89b",
-    "title": "Młodszy specjalista/młodsza specjalistka / specjalista/specjalistka / starszy specjalista/starsza specjalistka / główny specjalista/główna specjalistka w Zespole Projektu FERS edukacja szkolna",
-    "url": "https://www.frse.org.pl/praca-w-frse",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Oferta FRSE/25/2026: 1 etat w Warszawie, projekty FERS edukacja szkolna. Wymagane wyższe wykształcenie I/II stopnia, doświadczenie przy środkach europejskich, angielski, zaawansowany Excel i gotowość do wyjazdów; B1 wskazano jako dodatkowy atut. Umowa na czas projektu, nie dłużej niż do listopada 2029, opieka medyczna i szkolenia. Termin CV i listu: 25 września 2026 o 17:00, już upłynął. Brak podanej strefy i stawki wynagrodzenia.",
-    "tags": [],
-    "location": "Warszawa",
-    "deadline": "2026-09-25",
-    "language": "pl",
-    "category": "jobs",
-    "categories": [
-      "jobs"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "PL"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Actual reference FRSE/25/2026 and explicit application closing; clock17:00 has no literalzone, preserve dateonly. Same canonicaljobsURL, stable identity includes actual reference.",
-        "https://www.frse.org.pl/praca-w-frse"
       ]
     },
     "country": "PL"
@@ -487,8 +328,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -529,8 +370,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -566,8 +407,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -603,8 +444,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -645,8 +486,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -656,205 +497,6 @@
         "Registration closing unknown. Event date/time, recurring old edition, fixed capacity and programme modules do not establish closing/open status.",
         "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-slupsk-konferencja-erasmus-zmienia-perspektywe",
         "https://www.frse.org.pl/brepo/panel_repo_files/2026/10/06/0gzurw/program-rpi-slupsk-2026-10-15.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "454e6f15a45d88c944d70ee8",
-    "title": "Mobilności kadry sportowej",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/mobilnosci-kadry-sportowej",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Mobilność pracowników i wolontariuszy sportu, przede wszystkim organizacji sportu powszechnego. Polska organizacja wnioskuje o projekt; uczestnik musi mieć udokumentowany związek pracy/wolontariatu i mieszkać w kraju wysyłającym. Obserwacja pracy 2–14 dni lub prowadzenie treningów 15–60 dni; maksymalnie 10 osób. Budżet obejmuje podróż, utrzymanie, organizację i wsparcie włączenia. Nabór 2026 zakończony; zawody zawodników nie są tą mobilnością.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-12T11:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/mobilnosci-kadry-sportowej",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "49fcde1d5845a98d49cc0061",
-    "title": "Erasmus Mundus Design Measures",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/erasmus-mundus-design-measures",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Erasmus Mundus Design Measures wspiera opracowanie wspólnych międzynarodowych studiów magisterskich. Wnioskuje uprawniona uczelnia; uczelnie UE/krajów stowarzyszonych muszą mieć ECHE. Projekt ma przygotować wspólny program minimum 3 uczelni w 3 krajach, w tym 2 UE/stowarzyszone. Grant 60 tys. EUR jako ryczałt na projekt trwający 15 miesięcy; nie jest stypendium osobowym ani finansowaniem już prowadzonych studiów. Nabór 2026 zakończony; szczegóły w przewodniku.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-12T16:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/erasmus-mundus-design-measures",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "4aa4f89d68b09044b60a5e07",
-    "title": "Wyjedź na szkolenie kadry lub z uczniami na zajęcia",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/wyjedz-na-szkolenie-kadry-lub-z-uczniami-na-zajecia",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Mobilność uczniów i kadry edukacji szkolnej. Wnioskować mogą uprawnione polskie przedszkola, szkoły i inne instytucje sektora, przez projekt krótkoterminowy, akredytację lub konsorcjum. Wsparcie obejmuje podróż, utrzymanie i organizację działań; koszty zależą od formatu i kraju. Projekty krótkoterminowe trwają 6–18 miesięcy. Udział osób organizuje placówka; zakończony nabór instytucjonalny 2026 nie wyznacza ich indywidualnego terminu.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-19T11:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/wyjedz-na-szkolenie-kadry-lub-z-uczniami-na-zajecia",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "4ea871794b03d737d74021d0",
-    "title": "Specjalistka/specjalista / starsza specjalistka/starszy specjalista / główna specjalistka/główny specjalista w Zespole Młodzież Erasmus+ i Discover EU – Akcja 1",
-    "url": "https://www.frse.org.pl/praca-w-frse",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Oferta FRSE/23/2026: 1 wakat w Warszawie, Erasmus+ Młodzież i DiscoverEU KA1. Wymagane magisterium, minimum 2 lata doświadczenia dla specjalisty lub 4 dla starszego specjalisty, znajomość pracy z młodzieżą/edukacji pozaformalnej, angielski minimum B2 i MS Office/Excel. Umowa o pracę, wdrożenie, opieka medyczna i szkolenia. Dla głównego specjalisty źródło nie podaje odrębnego minimalnego stażu. CV i list do 11 września 2026 o 17:00; termin upłynął, bez strefy.",
-    "tags": [],
-    "location": "Warszawa",
-    "deadline": "2026-09-11",
-    "language": "pl",
-    "category": "jobs",
-    "categories": [
-      "jobs"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "PL"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Actual reference FRSE/23/2026 and explicit application closing; clock17:00 has no literalzone, preserve dateonly. Same canonicaljobsURL, stable identity includes actual reference.",
-        "https://www.frse.org.pl/praca-w-frse"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "4ed80c93d58cff4bd2cc0348",
-    "title": "Sojusze na rzecz edukacji i przedsiębiorstw",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/sojusze-na-rzecz-edukacji-i-przedsiebiorstw",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Sojusze edukacji i przedsiębiorstw: minimum 8 beneficjentów z 4 krajów UE/stowarzyszonych, w tym 3 podmioty rynku pracy i 3 organizacje edukacji, przynajmniej jedna uczelnia oraz jeden dostawca VET. Uczelnie UE/stowarzyszone wymagają ECHE. Koordynator z UE/kraju stowarzyszonego; inni partnerzy tylko według przewodnika. Grant pokrywa do 80% kosztów, maks. 1 mln EUR na 2 lata lub 1,5 mln EUR na 3 lata. Nabór 2026 zakończony.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-03-10T16:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/sojusze-na-rzecz-edukacji-i-przedsiebiorstw",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
       ]
     },
     "country": "PL"
@@ -882,8 +524,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -920,8 +562,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -959,8 +601,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -996,8 +638,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1006,85 +648,6 @@
         "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
         "Registration closing unknown. Event date/time, recurring old edition, fixed capacity and programme modules do not establish closing/open status.",
         "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-dzialania-erasmus-mundus"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "64d2eed68049d5de6b0023bd",
-    "title": "Erasmus Mundus Joint Masters",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/erasmus-mundus-joint-masters",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Erasmus Mundus Joint Masters: grant dla konsorcjum minimum 3 uczelni z 3 krajów, w tym 2 z UE/krajów stowarzyszonych; ECHE dla tych uczelni. Finansuje wspólny program i stypendia wybranych studentów pełnych studiów: 1400 EUR/miesiąc przez 12/18/24 miesiące, bez czesnego dla stypendysty. Wymagane dwa semestry w dwóch krajach innych niż kraj zamieszkania przy zapisie, w tym jednym UE/stowarzyszonym; wcześniejsze stypendium EMJM wyklucza kolejne. Nabór konsorcjów 2026 zakończony; kandydaci studiujący aplikują do konkretnych programów w ich terminach.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-12T16:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/erasmus-mundus-joint-masters",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "659a3a39d4ef42432ad3f197",
-    "title": "Zmiana, którą Ty tworzysz",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/zmiana-ktora-ty-tworzysz",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Projekty solidarności EKS: minimum 5 osób w wieku 18–30 lat na początku projektu, legalnie mieszkających w tym samym kraju UE lub stowarzyszonym z EKS, z rejestracją w portalu. Grupa albo organizacja w jej imieniu realizuje lokalny, niekomercyjny projekt 2–12 miesięcy. Wsparcie 630 EUR na projekt/miesiąc; coaching i koszty włączenia wymagają uzasadnienia. Nabór 2026 zakończony.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-01T10:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/zmiana-ktora-ty-tworzysz",
-        "https://www.frse.org.pl/finansowanie-projektow/zmiana-ktora-pomagasz-tworzyc",
-        "https://eks.org.pl/brepo/panel_repo_files/2025/11/18/wi9dq2/european-solidarity-corps-guide-2026-pl.pdf"
       ]
     },
     "country": "PL"
@@ -1112,8 +675,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1149,8 +712,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1167,83 +730,43 @@
     "country": "PL"
   },
   {
-    "id": "7d8385bcd91a0cccc6111a49",
-    "title": "Działania Jean Monnet – nauczanie i badania",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/dzialania-jean-monnet-nauczanie-i-badania",
+    "id": "78743239d8d85b2e4f4097ab",
+    "title": "Bez Erasmus+ vs. z Erasmus+",
+    "url": "https://erasmusplus.org.pl/konkursy-40-lat-erasmus#before-after",
     "source": "pl-frse",
     "source_url": "https://www.frse.org.pl/",
     "published_at": null,
-    "summary": "Jean Monnet finansuje nauczanie i badania o UE w uprawnionych uczelniach. Uczelnie UE/krajów stowarzyszonych wymagają ECHE; pozostałe kraje podlegają ograniczeniom przewodnika. Moduły, katedry i centra doskonałości mają odrębne wymagania godzinowe i stawki, projekty zwykle trwają 3 lata. Grant instytucjonalny, nie stypendium studenta. Nabór 2026 zakończony. Ogólne limity na stronie FRSE należy sprawdzić w aktualnym przewodniku, nie traktować jako jednej stawki.",
+    "summary": "Past/current Erasmus+ participants; minors via guardian/institution. One original unpublished/unawarded social-media work contrasting life before/after Erasmus+; video max30s, vertical9:16 recommended, or graphics/animation/other forms. Email12Oct–11Dec2026. Free; staff/jury/family exclusions. Three in-kind prizes up toPLN500 gross each, not guaranteed. Unpaid indefinite worldwide promotional licence/image consents.",
     "tags": [],
     "location": null,
-    "deadline": "2026-02-03T16:00:00Z",
+    "deadline": "2026-12-11",
     "language": "pl",
-    "category": "grants",
+    "category": "competitions",
     "categories": [
-      "grants"
+      "competitions"
     ],
-    "kind": "institutional-grant",
+    "kind": "opportunity",
     "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
+    "created_at": "2026-10-14T08:22:34.804Z",
+    "updated_at": "2026-10-14T08:22:34.804Z",
+    "first_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
+    "status": "open",
     "classification": {
       "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/dzialania-jean-monnet-nauczanie-i-badania",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
+        "Past/current Erasmus+ participants; adults direct or via beneficiary institution, minors via guardian/beneficiary institution. One social-media-format entry contrasting life before and after Erasmus+, including video/graphics/carousel/poster/animation. Video max30s; vertical9:16(1080x1920) recommended rather than mandatory. Submit12Oct–11Dec2026; results by15Jan2027. Free entry. FRSE employees/collaborators, jury members and their close family/cohabiting partners are excluded. Only the first entry is evaluated if multiple are submitted. Work must be original, unpublished and not previously awarded; participants must own its rights, avoid third-party-rights infringement and supply applicable image consents (legal exceptions remain). Submission accepts the full rules and grants the organizer an unpaid indefinite worldwide nonexclusive promotional licence, including derivative uses. Entries include participant/submitter names and institution where relevant; use the official contest-specific email subject. Three in-kind prizes up to PLN500 gross each, no cash substitution; awards/mentions can be withheld. Contest operations in Poland do not establish passport-nationality eligibility or a physical host destination.",
+        "https://www.frse.org.pl/aktualnosci/40-lat-eramus-4-konkursy-miliony-historii",
+        "https://erasmusplus.org.pl/konkursy-40-lat-erasmus",
+        "https://erasmusplus.org.pl/brepo/panel_repo_files/2026/10/12/8hegsz/regulamin-konkursu-bez-erasmus-vs-z-erasmus.pdf"
       ]
     },
-    "country": "PL"
-  },
-  {
-    "id": "802f4e36efc70f54b5d28c0f",
-    "title": "Edukacja przez całe życie",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/edukacja-przez-cale-zycie",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Mobilność niezawodowej edukacji dorosłych dla uprawnionych instytucji, np. bibliotek, NGO i uniwersytetów trzeciego wieku. Wyjazdy obejmują kadrę i dorosłych uczących się; priorytet mają osoby o mniejszych szansach. Grant na podróż, utrzymanie, organizację, kursy i włączenie zależy od formatu. Projekty krótkoterminowe 6–18 miesięcy; akredytowane 15 miesięcy z możliwością wydłużenia. Nabór instytucji 2026 zakończony, rekrutację osób prowadzą organizacje.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-02-19T11:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/edukacja-przez-cale-zycie",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
+    "summary_language": "en",
     "country": "PL"
   },
   {
@@ -1269,8 +792,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1306,8 +829,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1319,43 +842,6 @@
         "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
         "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
         "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "8b2d118c5435b277f448f014",
-    "title": "Koordynuj regionalne działania LLL",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/koordynuj-regionalne-dzialania-lll",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Koordynacja uczenia się przez całe życie w regionach: niekonkurencyjne granty dla samorządów województw lub ich upoważnionych jednostek. Jeden projekt na region, do 21,5 mln PLN; łączna alokacja 344 mln PLN nie jest stawką osobową. Uzupełniający nabór dla Wielkopolski zakończył się 31.10.2023; realizacja do 30.06.2026 nie jest terminem aplikacji. Brak potwierdzonego nowego naboru; nie jest to otwarte stypendium dla mieszkańca.",
-    "tags": [],
-    "location": null,
-    "deadline": "2023-10-31",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/koordynuj-regionalne-dzialania-lll"
       ]
     },
     "country": "PL"
@@ -1383,8 +869,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1396,122 +882,6 @@
         "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
         "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
         "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "8f15069e97deed3bd8ae3e8a",
-    "title": "EDUinspirator 2025",
-    "url": "https://eduinspiracje.org.pl/eduinspirator/regulamin",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Konkurs dla osób, które uczestniczyły w projektach programów FRSE w latach 2015–2025 i rozwijają edukację w Polsce; dla niepełnoletnich wymagana zgoda opiekuna. Oceniane działania mają mieć międzynarodowy charakter i odpowiadać kryteriom innowacji, technologii, języków lub przedsiębiorczości. Nagrody rzeczowe lub vouchery, bez wymiany na gotówkę; dodatkowe 11,11% wartości nagrody służy podatkowi, nie stypendium. Zgłoszenia zakończone 31 października 2025.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-10-31",
-    "language": "pl",
-    "category": "competitions",
-    "categories": [
-      "competitions"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Actual invitation/closed-call proof and date. Preserve dateonly ifclock has no sourcezone; futuredate alone is never enough foropen.",
-        "https://eduinspiracje.org.pl/eduinspirator/regulamin",
-        "https://eduinspiracje.org.pl/brepo/panel_repo_files/2025/08/26/xcc1pd/regulamin-eduinspirator-2025.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "9a33478ad09cbb6691a45f8f",
-    "title": "Młodzieżowe spotkania, debaty, kampanie – w kraju i za granicą",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/mlodziezowe-spotkania-debaty-kampanie-w-kraju-i-za-granica",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Działania uczestnictwa młodzieży 13–30 lat mieszkającej w krajach uczestniczących organizacji: lokalne lub międzynarodowe uczenie się demokracji. Wnioskują uprawnione organizacje lub nieformalne grupy, nie pojedyncza osoba; opis FRSE jest węższy od przewodnika. Projekt 3–24 miesiące, grant do 60 tys. EUR na zarządzanie, wydarzenia, mobilność, coaching i włączenie. Nie finansuje działań partyjnych ani infrastruktury. Nabór grantów 2026 zakończony; pełne warunki w przewodniku.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-01T10:00:00Z",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/mlodziezowe-spotkania-debaty-kampanie-w-kraju-i-za-granica",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "9cb668ba5a365c687ef43e7e",
-    "title": "Konkurs 2025",
-    "url": "https://selfieplus.frse.org.pl/konkurs-2025",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Konkurs fotograficzny dla instytucjonalnych beneficjentów Erasmus+, EKS, PO WER, FERS oraz wymian polsko-litewskich i polsko-ukraińskich. Jedno niekolażowe zdjęcie z projektu, JPG/PNG ponad 1 MB i opis 500–1000 znaków; wymagane prawa autorskie oraz zgody osób na zdjęciu. Nagrody rzeczowe dla instytucji: aparaty cyfrowe lub natychmiastowe, zależnie od kategorii. Nabór zakończony 31 października 2025. Zdjęcia później dodane na platformę nie oznaczają przedłużenia konkursu.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-10-31",
-    "language": "pl",
-    "category": "competitions",
-    "categories": [
-      "competitions"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Actual invitation/closed-call proof and date. Preserve dateonly ifclock has no sourcezone; futuredate alone is never enough foropen.",
-        "https://selfieplus.frse.org.pl/konkurs-2025",
-        "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2025/05/14/svbrks/selfie-regulamin-2025.pdf"
       ]
     },
     "country": "PL"
@@ -1539,8 +909,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1579,8 +949,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1619,8 +989,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1634,125 +1004,43 @@
     "country": "PL"
   },
   {
-    "id": "b6eb4b35dca9686b01cbde48",
-    "title": "Działania Jean Monnet – debata nt. polityk",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/dzialania-jean-monnet-debata-nt-polityk",
+    "id": "c85a4712716961256128c962",
+    "title": "40 słów o Erasmus+",
+    "url": "https://erasmusplus.org.pl/konkursy-40-lat-erasmus#40-slow",
     "source": "pl-frse",
     "source_url": "https://www.frse.org.pl/",
     "published_at": null,
-    "summary": "Sieci Jean Monnet 2026: wewnętrzna co najmniej 12 uczelni z 7 krajów UE/stowarzyszonych; UE–Indie co najmniej 12 beneficjentów, w tym 6 z Indii, koordynator z UE/kraju stowarzyszonego. Uczelnie UE/stowarzyszone wymagają ECHE. Projekty zwykle 36 miesięcy, do 80% kosztów, maks. 1 mln/1,2 mln EUR. Nabór zamknięty. Opis FRSE zawiera sprzeczne stare wymagania Kanada/USA; aktualny przewodnik 2026 w obu językach wskazuje Indie.",
+    "summary": "Adults with past/current Erasmus+ participation: one original unpublished Polish text, max40 words excluding its title. Email entries12Oct–11Dec2026. Free; FRSE/jury/close-family exclusions apply. Three in-kind prizes up toPLN500 gross each, not guaranteed. Submission grants unpaid indefinite worldwide nonexclusive promotional use; rights/image consents required.",
     "tags": [],
     "location": null,
-    "deadline": "2026-02-03T16:00:00Z",
+    "deadline": "2026-12-11",
     "language": "pl",
-    "category": "grants",
+    "category": "competitions",
     "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/dzialania-jean-monnet-debata-nt-polityk",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/xrqjug/programme-guide-2026-en.pdf",
-        "https://erasmusplus.org.pl/brepo/panel_repo_files/2025/11/13/n1naeo/programme-guide-2026-pl.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/11/13/ctajct/oj-c-202506080-pl-txt.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "bd11ee4d988e2414d78f4f6e",
-    "title": "Stwórz branżowe centrum umiejętności",
-    "url": "https://www.frse.org.pl/finansowanie-projektow/stworz-branzowe-centrum-umiejetnosci",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Grant na utworzenie branżowego centrum umiejętności: uprawniony ogólnopolski podmiot branżowy, spółka Skarbu Państwa lub organ szkoły zawodowej/CKZ, z wymaganym partnerstwem branży i placówki. Nabór III zamknięty 31.01.2025 o 16:00 (brak strefy). Limity dziedzinowe 9–16 mln PLN wynikają z regulaminu. Finansowanie projektu, nie uczestnika; bez obowiązkowego wkładu, z badaniem zdolności finansowej podmiotów niepublicznych.",
-    "tags": [],
-    "location": null,
-    "deadline": "2025-01-31",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "institutional-grant",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Literal own institutional competition closed: Nabór 2026 zakończony (or actual dedicated closed round). This is not individual recruitment closure.",
-        "https://www.frse.org.pl/finansowanie-projektow/stworz-branzowe-centrum-umiejetnosci",
-        "https://www.frse.org.pl/kpo-bcu-wnioskowanie-konkurs-iii",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/01/23/iyb7uu/regulamin-konkursu-utworzenie-i-wsparcie-funkcjono.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2025/01/23/embgsr/kpo-bcu-zestawienie-zmian-w-regulaminie-konkursu-i.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "c6eb2f420e0e07e44631c5bd",
-    "title": "EDUinspiracje Nauka - Monografie FRSE",
-    "url": "https://www.frse.org.pl/wydawnictwo/obwieszczenie-o-konkursie",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Dla autorów oryginalnych, nieopublikowanych monografii o edukacji, z nauk humanistycznych/społecznych, po polsku lub angielsku; praca nie może być w innym procesie wydawniczym ani wygenerowana przez AI, obowiązują wyłączenia konfliktu interesów. Wymagane pozytywne oceny i recenzje oraz licencja. FRSE finansuje wydanie, promocję i tłumaczenie; honorarium 5000 PLN brutto, rozdziały pracy zbiorowej do 1200 PLN brutto. Termin 30 kwietnia 2026 minął; aktualne obwieszczenie potwierdza zamknięcie.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-04-30",
-    "language": "pl",
-    "category": "grants",
-    "categories": [
-      "grants"
+      "competitions"
     ],
     "kind": "opportunity",
     "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
+    "created_at": "2026-10-14T08:22:34.804Z",
+    "updated_at": "2026-10-14T08:22:34.804Z",
+    "first_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
+    "status": "open",
     "classification": {
       "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Actual invitation/closed-call proof and date. Preserve dateonly ifclock has no sourcezone; futuredate alone is never enough foropen.",
-        "https://www.frse.org.pl/wydawnictwo/obwieszczenie-o-konkursie",
-        "https://www.frse.org.pl/wydawnictwo/regulamin",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2026/02/20/e2zdqx/standardy-techniczne-2026.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2026/02/20/igfxwm/zasady-etyki-publikacyjnej-2026.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2026/02/20/ry7rgc/procedura-recenzowania-2026.pdf",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2026/02/20/kxkni2/procedury-wydawnicze-monografii-naukowych-2026.pdf"
+        "Adults only with past/current Erasmus+ participation. One Polish text answering what Erasmus+ means to the author; at most40 words, title excluded. Submit12Oct–11Dec2026 by email; results by15Jan2027. Adult eligibility in section3 controls despite generic minor-consent template clauses. Free entry. FRSE employees/collaborators, jury members and their close family/cohabiting partners are excluded. Only the first entry is evaluated if multiple are submitted. Work must be original, unpublished and not previously awarded; participants must own its rights, avoid third-party-rights infringement and supply applicable image consents (legal exceptions remain). Submission accepts the full rules and grants the organizer an unpaid indefinite worldwide nonexclusive promotional licence, including derivative uses. Entries include participant/submitter names and institution where relevant; use the official contest-specific email subject. Three in-kind prizes up to PLN500 gross each, no cash substitution; awards/mentions can be withheld. Contest operations in Poland do not establish passport-nationality eligibility or a physical host destination.",
+        "https://www.frse.org.pl/aktualnosci/40-lat-eramus-4-konkursy-miliony-historii",
+        "https://erasmusplus.org.pl/konkursy-40-lat-erasmus",
+        "https://erasmusplus.org.pl/brepo/panel_repo_files/2026/10/12/cb8okv/regulamin-konkursu-40-slow-o-erasmus.pdf"
       ]
     },
+    "summary_language": "en",
     "country": "PL"
   },
   {
@@ -1778,8 +1066,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1818,8 +1106,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1830,6 +1118,46 @@
         "https://www.frse.org.pl/wydarzenia-i-szkolenia/mobilne-centrum-edukacyjne-frse"
       ]
     },
+    "country": "PL"
+  },
+  {
+    "id": "db8659fd5d858673dfb72571",
+    "title": "Happy Birthday Erasmus+! Życzenia na 40. urodziny Erasmus+",
+    "url": "https://erasmusplus.org.pl/konkursy-40-lat-erasmus#zyczenia-urodzinowe",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "Past/current Erasmus+ participants, institutional beneficiaries and supporters; minors via guardian/institution. One original unpublished/unawarded max20s video1080x1920(9:16), in Polish or a mobility language, or maxA4 card with scan/photo. Email12Oct–11Dec2026. Free; staff/jury/family exclusions. Three prizes up toPLN500 gross each, not guaranteed; unpaid indefinite worldwide promotional licence/image consents.",
+    "tags": [],
+    "location": null,
+    "deadline": "2026-12-11",
+    "language": "pl",
+    "category": "competitions",
+    "categories": [
+      "competitions"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-10-14T08:22:34.804Z",
+    "updated_at": "2026-10-14T08:22:34.804Z",
+    "first_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "Past/current participants, institutional Erasmus+ beneficiaries and programme supporters. Adults submit directly or via a beneficiary institution; minors via guardian/beneficiary institution. One entry per participant/group. Choose video max20s,1080x1920 mandatory9:16, in Polish or a mobility language (solo/group), or birthday card maxA4 with good-quality scan/photo. Submit12Oct–11Dec2026; results by15Jan2027. Free entry. FRSE employees/collaborators, jury members and their close family/cohabiting partners are excluded. Only the first entry is evaluated if multiple are submitted. Work must be original, unpublished and not previously awarded; participants must own its rights, avoid third-party-rights infringement and supply applicable image consents (legal exceptions remain). Submission accepts the full rules and grants the organizer an unpaid indefinite worldwide nonexclusive promotional licence, including derivative uses. Entries include participant/submitter names and institution where relevant; use the official contest-specific email subject. Three in-kind prizes up to PLN500 gross each, no cash substitution; awards/mentions can be withheld. Contest operations in Poland do not establish passport-nationality eligibility or a physical host destination.",
+        "https://www.frse.org.pl/aktualnosci/40-lat-eramus-4-konkursy-miliony-historii",
+        "https://erasmusplus.org.pl/konkursy-40-lat-erasmus",
+        "https://erasmusplus.org.pl/brepo/panel_repo_files/2026/10/12/2vs32x/regulamin-konkursu-happy-birthday-erasmus-zyczenia.pdf"
+      ]
+    },
+    "summary_language": "en",
     "country": "PL"
   },
   {
@@ -1855,8 +1183,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -1894,8 +1222,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "expired",
     "classification": {
       "method": "editorial-review",
@@ -1934,8 +1262,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -1946,45 +1274,6 @@
         "https://www.frse.org.pl/aktualnosci/nabor-uzupelniajacy-profesjonalna-szkola-roku",
         "https://www.frse.org.pl/profesjonalna-szkola-roku",
         "https://www.frse.org.pl/brepo/panel_repo_files/2026/08/27/zj6fq8/psr-regulamin-konkurs-uzupelniajacy.pdf"
-      ]
-    },
-    "country": "PL"
-  },
-  {
-    "id": "e16e4ad22d6c353ea903c586",
-    "title": "Młodsza specjalistka/młodszy specjalista / specjalistka/specjalista / starsza specjalistka/starszy specjalista / główna specjalistka/główny specjalista w Biurze Programów Edukacji Szkolnej oraz Edukacji Dorosłych w Zespole Erasmus+ SE-KA1",
-    "url": "https://www.frse.org.pl/praca-w-frse",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "Oferta FRSE/24/2026: 1 wakat w Warszawie w Zespole Erasmus+ SE-KA1. Wymagane wyższe wykształcenie I/II stopnia, angielski, dobra znajomość MS Office, komunikacja, organizacja pracy i zainteresowanie edukacją szkolną; doświadczenie Erasmus+/projektowe to dodatkowy atut. Umowa o pracę, opieka medyczna, szkolenia i lekcje angielskiego. CV i list motywacyjny należało złożyć do 30 września 2026 o 17:00; termin minął, brak strefy oraz wynagrodzenia.",
-    "tags": [],
-    "location": "Warszawa",
-    "deadline": "2026-09-30",
-    "language": "pl",
-    "category": "jobs",
-    "categories": [
-      "jobs"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "PL"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-10T17:35:54.352Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
-    "status": "expired",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "Actual reference FRSE/24/2026 and explicit application closing; clock17:00 has no literalzone, preserve dateonly. Same canonicaljobsURL, stable identity includes actual reference.",
-        "https://www.frse.org.pl/praca-w-frse"
       ]
     },
     "country": "PL"
@@ -2012,8 +1301,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -2049,8 +1338,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-10T17:35:54.352Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-10T17:47:00.739Z",
-    "last_checked_at": "2026-10-10T17:57:44.822Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -2061,6 +1350,46 @@
         "https://www.frse.org.pl/wydarzenia-i-szkolenia/tool-fair"
       ]
     },
+    "country": "PL"
+  },
+  {
+    "id": "ffe86e46820a6ff3d9b68ee4",
+    "title": "40 lat. Miliony historii. Opowiedz swoją",
+    "url": "https://erasmusplus.org.pl/konkursy-40-lat-erasmus#konkurs-literacki",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "Adults with past/current Erasmus+ participation: one original unpublished/unawarded Polish story about an influential Erasmus+ experience,2200–2600 characters including spaces/title. Email12Oct2026–31Jan2027. Free; staff/jury/family exclusions. Three prizes up toPLN500 gross each, not guaranteed; selected authors may be invited for promotional video. Unpaid indefinite worldwide promotional licence/image consents.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-01-31",
+    "language": "pl",
+    "category": "competitions",
+    "categories": [
+      "competitions"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-10-14T08:22:34.804Z",
+    "updated_at": "2026-10-14T08:22:34.804Z",
+    "first_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_seen_at": "2026-10-14T08:22:34.804Z",
+    "last_checked_at": "2026-10-14T08:34:10.846Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "Adults only with past/current Erasmus+ participation. One Polish story about a personal Erasmus+ event/decision/meeting;2200–2600 characters including spaces and optional title. Direct/institution-mediated email submission12Oct2026–31Jan2027; results by28Feb2027. Selected works publish in Europa dla Aktywnych and official40-year channels; selected authors are invited (not required) to a creative video. Adult section3 controls generic minor-consent templates. Free entry. FRSE employees/collaborators, jury members and their close family/cohabiting partners are excluded. Only the first entry is evaluated if multiple are submitted. Work must be original, unpublished and not previously awarded; participants must own its rights, avoid third-party-rights infringement and supply applicable image consents (legal exceptions remain). Submission accepts the full rules and grants the organizer an unpaid indefinite worldwide nonexclusive promotional licence, including derivative uses. Entries include participant/submitter names and institution where relevant; use the official contest-specific email subject. Three in-kind prizes up to PLN500 gross each, no cash substitution; awards/mentions can be withheld. Contest operations in Poland do not establish passport-nationality eligibility or a physical host destination.",
+        "https://www.frse.org.pl/aktualnosci/40-lat-eramus-4-konkursy-miliony-historii",
+        "https://erasmusplus.org.pl/konkursy-40-lat-erasmus",
+        "https://erasmusplus.org.pl/brepo/panel_repo_files/2026/10/12/yymxfj/regulamin-konkursu-literackiego-40-lat-miliony-his.pdf"
+      ]
+    },
+    "summary_language": "en",
     "country": "PL"
   }
 ]
