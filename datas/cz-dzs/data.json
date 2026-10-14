@@ -6,35 +6,39 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Groups of at least five Czech residents aged 18–30 can run non-profit 2–12 month community projects, optionally through an organisation. Funding is EUR 630 per project month plus EUR 227 per coach day, maximum 12 days, with conditional exceptional costs; this is not a personal stipend. Projects are primarily in Czechia, with eligible bordering-region exceptions. The 2026 rounds closed 18 February and 1 October at noon Brussels time. Older English website amounts and dates differ.",
+    "summary": "Uzávěrky přihlášek: 2026-10-01. Za dobrovolnictvím nemusíte nikam cestovat. Pokud je ve vašem okolí něco, co chcete změnit, můžete se pustit do vlastního solidárního projektu. / Dejte dohromady tým alespoň pěti mladých lidí ve věku od 18 do 30 let a proměňte svůj nápad v konkrétní aktivitu. / Náklady spojené s řízením projektu: 630 eur za měsíc: prostředky můžete využít na náklady spojené s projektovými aktivitami, například materiálem, pronájmem prostor, cestovným nebo...",
     "tags": [],
     "location": null,
-    "deadline": "2026-10-01T10:00:00Z",
+    "deadline": "2026-10-01",
     "language": "cs",
     "category": "grants",
     "categories": [
       "grants"
     ],
     "kind": "opportunity",
-    "host_countries": [
-      "CZ"
-    ],
+    "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "2026 Czech grant/call; guide pp60–66; March2026 financial FAQ"
+        "Publisher: https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty#solidarni-projekty",
+        "Call timeline: https://www.dzs.cz/vyzva_sbor#solidarni-projekty",
+        "Published deadlines: 2026-10-01",
+        "Publisher excerpt (cs): Za dobrovolnictvím nemusíte nikam cestovat. Pokud je ve vašem okolí něco, co chcete změnit, můžete se pustit do vlastního solidárního projektu.",
+        "Publisher excerpt (cs): Dejte dohromady tým alespoň pěti mladých lidí ve věku od 18 do 30 let a proměňte svůj nápad v konkrétní aktivitu.",
+        "Publisher excerpt (cs): Náklady spojené s řízením projektu: 630 eur za měsíc: prostředky můžete využít na náklady spojené s projektovými aktivitami, například materiálem, pronájmem prostor, cestovným nebo propagací."
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "36215b6eeaaf01638c36984a",
@@ -43,9 +47,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "German-language training in Luxembourg 17–20 November 2026 for youth workers, project managers and policymakers on youth spaces. Anefore and the national youth service organise it. Single-room accommodation and food are covered; national participation fees and travel support are conditional. Registration closed 30 September 2026. Country participation is not a citizenship whitelist. Source: DZS and SALTO-YOUTH.",
+    "summary": "Application deadline: 2026-09-30. Location: Luxembourg, Luxembourg. We will focus on how different types of youth spaces can empower young people. Through study visits, workshops, participants will explore best practices. / This project is financed by the participating National Agencies (NAs) of the Erasmus+ Youth in Action Programme. The participation fee varies from country to country.... / The hosting NA will organise the accommodation and covers the costs for accommodation and food. Participants will be hosted in single rooms. Possible quarantine fees will...",
     "tags": [],
-    "location": null,
+    "location": "Luxembourg, Luxembourg",
     "deadline": "2026-09-30",
     "language": "en",
     "category": "training",
@@ -59,19 +63,26 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.salto-youth.net/tools/european-training-calendar/training/spaces-that-empower-rethinking-environments-for-young-people-in-europe-in-german-language.14430/"
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/spaces-that-empower-rethinking-environments-for-young-people-in-europe-in-german-language.14430/",
+        "DZS discovery: https://www.dzs.cz/networking-activities",
+        "Organiser: Anefore asbl (National Agency) Co-organiser(s): Service national de la jeunesse ( Others )",
+        "Publisher excerpt (en): We will focus on how different types of youth spaces can empower young people. Through study visits, workshops, participants will explore best practices.",
+        "Publisher excerpt (en): This project is financed by the participating National Agencies (NAs) of the Erasmus+ Youth in Action Programme. The participation fee varies from country to country. Please contact your National Agency or SALTO Resource Centre (SALTO)...",
+        "Publisher excerpt (en): The hosting NA will organise the accommodation and covers the costs for accommodation and food. Participants will be hosted in single rooms. Possible quarantine fees will not be covered by the NA. Additional days before and after the...",
+        "Advertised closing day: 2026-09-30"
       ]
-    }
+    },
+    "summary_language": "en"
   },
   {
     "id": "5a4b3c79f3f4ef063481b0d9",
@@ -80,9 +91,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "AMEUP English-language training in Zagreb 1–5 December 2026 for staff, coordinators, mentors and youth workers in active ESC organisations. Focuses on digital youth work, not technical IT. No participation fee; single-room accommodation and food are covered, travel support is conditional. Registration closed 1 October 2026. Origin-country lists do not prove citizenship eligibility. Source: DZS and SALTO-YOUTH.",
+    "summary": "Application deadline: 2026-10-01. Location: Zagreb, Croatia. Are you part of an organisation working with the ESC and looking to improve digital approaches in your projects? Strengthen inclusion, participation and learning through... / Profile of participants We are looking for participants who: / There is no participation fee.",
     "tags": [],
-    "location": null,
+    "location": "Zagreb, Croatia",
     "deadline": "2026-10-01",
     "language": "en",
     "category": "training",
@@ -96,19 +107,26 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.salto-youth.net/tools/european-training-calendar/training/ctrl-alt-solidarity-training-course-on-digital-empowerment-in-european-solidarity-corps.15300/"
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/ctrl-alt-solidarity-training-course-on-digital-empowerment-in-european-solidarity-corps.15300/",
+        "DZS discovery: https://www.dzs.cz/networking-activities",
+        "Organiser: Agency for Mobility and EU Programmes - AMEUP (National Agency)",
+        "Publisher excerpt (en): Are you part of an organisation working with the ESC and looking to improve digital approaches in your projects? Strengthen inclusion, participation and learning through digital youth work, and plan concrete next steps for your...",
+        "Publisher excerpt (en): Profile of participants We are looking for participants who:",
+        "Publisher excerpt (en): There is no participation fee.",
+        "Advertised closing day: 2026-10-01"
       ]
-    }
+    },
+    "summary_language": "en"
   },
   {
     "id": "5b28a5f476a31170f256719b",
@@ -117,9 +135,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Free project-development training in Brno 21–22 November 2026 for people aged 18–30 with a community idea; a completed project is not required. Accommodation in shared two-person rooms, food and travel are covered. Registration closes 25 October 2026; no clock or timezone is stated. Passport eligibility is not inferred.",
+    "summary": "Uzávěrka přihlášek: 2026-10-25. Termín akce: 2026-11-21. Je ti 18–30 let a chceš dělat něco smysluplného pro svou komunitu? Přijeď na školení a zjisti, jak svůj nápad posunout od myšlenky k realizaci. / Solidární projekty podporují mladé lidi, kteří chtějí pozitivně změnit okolí a přinést pozitivní změnu ve své komunitě – ať už v oblasti ekologie, kultury, digitálních... / Účast na školení je hrazena z evropského programu a pro tebe je bezplatná. Hrazeno je ubytování, strava i cestovní náklady. Vše potřebné bude k dispozici na školení.",
     "tags": [],
-    "location": null,
+    "location": "Brno",
     "deadline": "2026-10-25",
     "language": "cs",
     "category": "training",
@@ -133,19 +151,24 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "open",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.dzs.cz/udalost/od-napadu-k-projektu-5"
+        "Publisher: https://www.dzs.cz/udalost/od-napadu-k-projektu-5",
+        "Discovered at: https://www.dzs.cz/program/evropsky-sbor-solidarity",
+        "Publisher excerpt (cs): Je ti 18–30 let a chceš dělat něco smysluplného pro svou komunitu? Přijeď na školení a zjisti, jak svůj nápad posunout od myšlenky k realizaci.",
+        "Publisher excerpt (cs): Solidární projekty podporují mladé lidi, kteří chtějí pozitivně změnit okolí a přinést pozitivní změnu ve své komunitě – ať už v oblasti ekologie, kultury, digitálních dovedností, inkluze nebo mezigenerační spolupráce. Projekt...",
+        "Publisher excerpt (cs): Účast na školení je hrazena z evropského programu a pro tebe je bezplatná. Hrazeno je ubytování, strava i cestovní náklady. Vše potřebné bude k dispozici na školení."
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "6158ee09cb7431fa9e68373d",
@@ -154,10 +177,10 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Czech organisations with a valid lead Quality Label apply for project funding, not individual paid jobs. Unpaid volunteering runs 30–38 h/week; the 2026 call/guide allow individual stays 2 weeks–12 months, unlike the older hub. Travel, subsistence, pocket money and inclusion support are conditional. Ordinary 2026 allocation limits are EUR 15,373–350,000 per applicant project, not guaranteed grants. National rounds closed 18 February and 1 October at noon Brussels time. Hosts can be domestic or abroad.",
+    "summary": "Uzávěrky přihlášek: 2026-10-01. Projekty umožnují mladým lidem vyjet jako dobrovolník pomáhat místním komunitám do zahraničí, získat rozhled a nové přátele, naučit se něco nového a získat cenné životní zkušenosti. V rámci Individuálního dobrovolnictví účastníci vyrážejí na 2 týdny – 12 měsíců vykonávat dobrovolnickou činnost na plný úvazek (30–38 hodin týdně) a to v zemi původu dobrovolníka nebo v zahraničí. Další možností je zapojit se do Dobrovolnických týmů o minimálně 5 lidech z nejméně dvou různých zemí a pomáhat po dobu 2 týdnů až 2 měsíců. Do této aktivity se zapojují organizace, ke...",
     "tags": [],
     "location": null,
-    "deadline": "2026-10-01T10:00:00Z",
+    "deadline": "2026-10-01",
     "language": "cs",
     "category": "grants",
     "categories": [
@@ -168,19 +191,23 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "2026 national call; guide pp37–51; allocation2026; older hub conflict"
+        "Publisher: https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty#dobrovolnicke-projekty",
+        "Call timeline: https://www.dzs.cz/vyzva_sbor#dobrovolnicke-projekty",
+        "Published deadlines: 2026-10-01",
+        "Publisher excerpt (cs): Projekty umožnují mladým lidem vyjet jako dobrovolník pomáhat místním komunitám do zahraničí, získat rozhled a nové přátele, naučit se něco nového a získat cenné životní zkušenosti. V rámci Individuálního dobrovolnictví účastníci..."
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "7743ca89418fce615c3e4ea5",
@@ -189,7 +216,7 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Free online Teams workshop on 2 September 2026 for youth aged 18–30 preparing community projects and staff of supporting organisations. Covers programme priorities, project design, budgets and application steps. Registration closed 1 September; event times are not deadlines. No physical destination or passport restriction is inferred.",
+    "summary": "Uzávěrka přihlášek: 2026-09-01. Termín akce: 2026-09-02. Plánujete rozjet projekt, který pomůže vaší komunitě? Solidární projekty programu Evropský sbor solidarity podporují iniciativy mladých lidí, které přinášejí pozitivní změny do našeho okolí. Pokud svou žádost zvažujete, tento webinář je tu pro vás a provede vás... / Mladé lidi ve věku 18–30 let , kteří plánují podat svou žádost o solidární projekt a chtějí si ujasnit formální náležitosti.",
     "tags": [],
     "location": null,
     "deadline": "2026-09-01",
@@ -203,19 +230,23 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.dzs.cz/udalost/informacni-webinar-pro-zadatele-o-solidarni-projekty-esc30-0"
+        "Publisher: https://www.dzs.cz/udalost/informacni-webinar-pro-zadatele-o-solidarni-projekty-esc30-0",
+        "Discovered at: https://www.dzs.cz/vyzva_sbor",
+        "Publisher excerpt (cs): Plánujete rozjet projekt, který pomůže vaší komunitě? Solidární projekty programu Evropský sbor solidarity podporují iniciativy mladých lidí, které přinášejí pozitivní změny do našeho okolí. Pokud svou žádost zvažujete, tento webinář je...",
+        "Publisher excerpt (cs): Mladé lidi ve věku 18–30 let , kteří plánují podat svou žádost o solidární projekt a chtějí si ujasnit formální náležitosti."
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "818ac339a7ce39ff724d8acb",
@@ -224,10 +255,10 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "EACEA organisational grants cover 12,24 or 36 month projects up to EUR 400,000 total, not per volunteer. Consortium: at least three eligible Quality Label organisations from two programme countries; coordinator has lead status. Teams are unpaid 2 week–2 month activities for residents aged 18–30. The guide targets 40 participants per project in principle; the DZS hub calls it a minimum, not 40 per team. Three priority themes are not separate awards. Closed 3 March 2026 at 17:00 Brussels time.",
+    "summary": "Uzávěrky přihlášek: 2026-03-03. Dobrovolnické týmy v oblastech s vysokou prioritou jsou rozsáhlé projekty s vysokým dopadem podporující dobrovolnické činnosti prováděné mladými lidmi, kteří se spojí s cílem projevit solidaritu realizací krátkodobých intervencí, jež řeší společné evropské výzvy v oblastech politiky každoročně vymezených na úrovni EU. Ve výzvě 2026 jsou tři prioritní oblasti : 1) Posílení kultury připravenosti napříč celou společností a pomoc osobám prchajícím před ozbrojenými konflikty a dalším obětem přírodních nebo člověkem způsobených katastrof , 2) Podpora pozitivních...",
     "tags": [],
     "location": null,
-    "deadline": "2026-03-03T16:00:00Z",
+    "deadline": "2026-03-03",
     "language": "cs",
     "category": "grants",
     "categories": [
@@ -238,19 +269,23 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "DZS centralised section;2026 guide pp52–59; project-target discrepancy"
+        "Publisher: https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty#centralizovane-aktivity",
+        "Call timeline: https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty#centralizovane-aktivity",
+        "Published deadlines: 2026-03-03",
+        "Publisher excerpt (cs): Dobrovolnické týmy v oblastech s vysokou prioritou jsou rozsáhlé projekty s vysokým dopadem podporující dobrovolnické činnosti prováděné mladými lidmi, kteří se spojí s cílem projevit solidaritu realizací krátkodobých intervencí, jež..."
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "8c04fdb0668b2d3cec7b87e5",
@@ -259,9 +294,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Slovakia 7–11 December 2026 plus online preparation 23 November. For newcomers directly working with disadvantaged youth who have never organised ESC volunteering; experienced organisers and school-pupil projects are excluded. English discussion ability is needed. Selected relevant housing, food, travel and visa costs are covered except a variable national fee. Closes 21 October at 24 hUTC, meaning 22 October 00:00 UTC. Source: DZS, SALTO Inclusion and Iuventa.",
+    "summary": "Application deadline: 2026-10-22T00:00:00Z. Location: Slovak Republic. Did you know you can get funding for volunteering projects for young people from disadvantaged backgrounds? / In 3 training days, we show you the possibilities that volunteering (within the European Solidarity Corps ) has to offer for young people from disadvantaged or... / Come and experience the benefits that international cooperation can have for your organisation and young people with fewer opportunities. Explore the funding...",
     "tags": [],
-    "location": null,
+    "location": "Slovak Republic",
     "deadline": "2026-10-22T00:00:00Z",
     "language": "en",
     "category": "training",
@@ -275,19 +310,26 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "open",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.salto-youth.net/tools/european-training-calendar/training/volunteering-for-all-slovakia-december-2026.15317/"
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/volunteering-for-all-slovakia-december-2026.15317/",
+        "DZS discovery: https://www.dzs.cz/networking-activities",
+        "Organiser: SALTO Inclusion & Diversity (SALTO Resource Centre) Co-organiser(s): Iuventa - Slovak ESC NA ( National Agency )",
+        "Publisher excerpt (en): Did you know you can get funding for volunteering projects for young people from disadvantaged backgrounds?",
+        "Publisher excerpt (en): In 3 training days, we show you the possibilities that volunteering (within the European Solidarity Corps ) has to offer for young people from disadvantaged or underprivileged backgrounds. A volunteering project might just be the...",
+        "Publisher excerpt (en): Come and experience the benefits that international cooperation can have for your organisation and young people with fewer opportunities. Explore the funding possibilities of the European Solidarity Corps and specific inclusion support....",
+        "Advertised closing day: 2026-10-21"
       ]
-    }
+    },
+    "summary_language": "en"
   },
   {
     "id": "9072825d01aac2b0a64903f1",
@@ -296,9 +338,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "JINT English-language training in Brussels 14–18 December 2026 with online preparation in November. Youth-work professionals explore co-designing a specific local space with young people; prior spatial-design experience is not required. Hosting accommodation and food are covered unless otherwise specified; national fees and travel support are conditional. Registration closed 29 September 2026. Source: DZS and SALTO-YOUTH.",
+    "summary": "Application deadline: 2026-09-29. Location: Brussels, Belgium - FL. How do we design physical spaces where young people truly feel welcome, safe, and heard? What happens when young people themselves shape those spaces together with youth... / Participants who already have a specific space, challenge or project in mind that they would like to explore during the training. / This project is financed by the participating National Agencies (NAs) of the Erasmus+ Youth in Action Programme. The participation fee varies from country to country....",
     "tags": [],
-    "location": null,
+    "location": "Brussels, Belgium - FL",
     "deadline": "2026-09-29",
     "language": "en",
     "category": "training",
@@ -312,19 +354,26 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.salto-youth.net/tools/european-training-calendar/training/co-create-space-with-and-for-youth.15244/"
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/co-create-space-with-and-for-youth.15244/",
+        "DZS discovery: https://www.dzs.cz/networking-activities",
+        "Organiser: JINT (National Agency)",
+        "Publisher excerpt (en): How do we design physical spaces where young people truly feel welcome, safe, and heard? What happens when young people themselves shape those spaces together with youth workers and placemakers?",
+        "Publisher excerpt (en): Participants who already have a specific space, challenge or project in mind that they would like to explore during the training.",
+        "Publisher excerpt (en): This project is financed by the participating National Agencies (NAs) of the Erasmus+ Youth in Action Programme. The participation fee varies from country to country. Please contact your National Agency or SALTO Resource Centre (SALTO)...",
+        "Advertised closing day: 2026-09-29"
       ]
-    }
+    },
+    "summary_language": "en"
   },
   {
     "id": "93cb54664cf7209c4db03095",
@@ -333,7 +382,7 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Free online Teams workshop on 14 September 2026 for prospective Solidarity Project applicants. Covers registration, application sections, quality criteria and common errors. Registration closed 13 September. The body weekday conflicts with the calendar footer; both give 14 September. No physical host or citizenship requirement is inferred.",
+    "summary": "Uzávěrka přihlášek: 2026-09-13. Termín akce: 2026-09-14. Plánujete podat žádost o solidární projekt a nejste si jistí, jak správně vyplnit formulář? Tento webinář vás krok za krokem provede celým procesem – od registrací až po odevzdání finální žádosti. Zaměříme se na konkrétní části formuláře a upozorníme na nejčastější... / 📅 Čtvrtek 14. září 2026 | od 14:30 do 17:00 📍 Online – Microsoft Teams 💶 Účast je zdarma.",
     "tags": [],
     "location": null,
     "deadline": "2026-09-13",
@@ -347,19 +396,23 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.dzs.cz/udalost/webinar-tipy-k-zadosti-pro-zajemce-o-solidarni-projekty-esc30-0"
+        "Publisher: https://www.dzs.cz/udalost/webinar-tipy-k-zadosti-pro-zajemce-o-solidarni-projekty-esc30-0",
+        "Discovered at: https://www.dzs.cz/vyzva_sbor",
+        "Publisher excerpt (cs): Plánujete podat žádost o solidární projekt a nejste si jistí, jak správně vyplnit formulář? Tento webinář vás krok za krokem provede celým procesem – od registrací až po odevzdání finální žádosti. Zaměříme se na konkrétní části...",
+        "Publisher excerpt (cs): 📅 Čtvrtek 14. září 2026 | od 14:30 do 17:00 📍 Online – Microsoft Teams 💶 Účast je zdarma."
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "9c43575bf14d2cd10a23f2d8",
@@ -368,9 +421,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "SALTO SEE safeguarding training in Šabac 2–6 November 2026 for staff, mentors and tutors of ESC Quality Label organisations. English; housing and food covered, national fees and travel support conditional. The body limits programme-country organisations but its country table is broader, including Western Balkans; eligibility conflict is retained. Registration closed 2 October 2026. Source: DZS, SALTO SEE and Czech/Italian agencies.",
+    "summary": "Application deadline: 2026-10-02. Location: Šabac, Serbia. Do you want to create a safeguarding policy for your organisation, or strengthen the one you already have? This hands-on activity is aimed to support European Solidarity... / This project is financed by the participating National Agencies (NAs) of the Erasmus+ Youth in Action Programme. The participation fee varies from country to country. Please... / The hosting SALTO of this offer will organise the accommodation and cover the costs for accommodation and food.",
     "tags": [],
-    "location": null,
+    "location": "Šabac, Serbia",
     "deadline": "2026-10-02",
     "language": "en",
     "category": "training",
@@ -384,19 +437,26 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.salto-youth.net/tools/european-training-calendar/training/safeguarding-in-esc-organisations-in-practice.15356/"
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/safeguarding-in-esc-organisations-in-practice.15356/",
+        "DZS discovery: https://www.dzs.cz/networking-activities",
+        "Organiser: SALTO SEE (SALTO Resource Centre)",
+        "Publisher excerpt (en): Do you want to create a safeguarding policy for your organisation, or strengthen the one you already have? This hands-on activity is aimed to support European Solidarity Corps organisations in creating a safe and secure environment for...",
+        "Publisher excerpt (en): This project is financed by the participating National Agencies (NAs) of the Erasmus+ Youth in Action Programme. The participation fee varies from country to country. Please contact your National Agency or SALTO Resource Centre (SALTO)...",
+        "Publisher excerpt (en): The hosting SALTO of this offer will organise the accommodation and cover the costs for accommodation and food.",
+        "Advertised closing day: 2026-10-02"
       ]
-    }
+    },
+    "summary_language": "en"
   },
   {
     "id": "b5e971167fb175d97f3e1988",
@@ -405,7 +465,7 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Online Teams training on 17 September 2026 for representatives of organisations holding a valid lead Quality Label. Explains the ESC 51 budget request and project period. Registration closed 15 September 2026. The own page does not specify a participation fee; this is not advertised as universally free. No physical host or citizenship restriction is inferred.",
+    "summary": "Uzávěrka přihlášek: 2026-09-15. Termín akce: 2026-09-17. Dne 17. září 2026 ve 13:30-15:00 se uskuteční informační webinář zaměřený na žádost o grantové prostředky na Dobrovolnické projekty v rámci programu Evropský sbor solidarity.",
     "tags": [],
     "location": null,
     "deadline": "2026-09-15",
@@ -419,19 +479,22 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.dzs.cz/udalost/informacni-webinar-k-zadosti-o-grant-na-dobrovolnicke-projekty-esc51-0"
+        "Publisher: https://www.dzs.cz/udalost/informacni-webinar-k-zadosti-o-grant-na-dobrovolnicke-projekty-esc51-0",
+        "Discovered at: https://www.dzs.cz/vyzva_sbor",
+        "Publisher excerpt (cs): Dne 17. září 2026 ve 13:30-15:00 se uskuteční informační webinář zaměřený na žádost o grantové prostředky na Dobrovolnické projekty v rámci programu Evropský sbor solidarity."
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "d952ff8909df51affbfb664e",
@@ -440,9 +503,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Free online ESC course 5 October–30 November 2026 for interested programme actors, coordinated by Leargas and SALTO. English content is largely translated into Spanish, Italian, German and Turkish. Completion offers digital badges and Youthpass. Registration closed 30 September despite the course continuing. Ireland is the organiser location, not a physical destination or travel benefit. Source: DZS and SALTO-YOUTH.",
+    "summary": "Application deadline: 2026-09-30. Location: HOP Online Platform, Ireland. A free and open online course for everyone interested in exploring European Solidarity Corps (ESC). During the 8-week course, you will discover how you can use ALL the opportunities that the Programme has to offer.",
     "tags": [],
-    "location": null,
+    "location": "HOP Online Platform, Ireland",
     "deadline": "2026-09-30",
     "language": "en",
     "category": "training",
@@ -454,19 +517,24 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.salto-youth.net/tools/european-training-calendar/training/massive-open-online-course-on-european-solidarity-corps-2026.15280/"
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/massive-open-online-course-on-european-solidarity-corps-2026.15280/",
+        "DZS discovery: https://www.dzs.cz/networking-activities",
+        "Organiser: Leargas, National Agency for Erasmus+ in Adult Education, School Education, Vocational Education and Training, Youth and Sport (National Agency) Co-organiser(s): SALTO European Solidarity Corps Resource Centre ( SALTO Resource Centre )",
+        "Publisher excerpt (en): A free and open online course for everyone interested in exploring European Solidarity Corps (ESC). During the 8-week course, you will discover how you can use ALL the opportunities that the Programme has to offer.",
+        "Advertised closing day: 2026-09-30"
       ]
-    }
+    },
+    "summary_language": "en"
   },
   {
     "id": "de992ffb63d949e14c121b34",
@@ -475,10 +543,10 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "English-language mentor training in Ioannina 2–6 November 2026 for current or prospective ESC mentors; extensive experience is not required. INEDIVIM covers double-room accommodation and food. Participation fees vary by country of residence; travel support needs agency confirmation. The literal closing is 11 October 2026 at 24 hUTC, meaning 12 October 00:00 UTC. Programme-country participation is not a passport whitelist. Source: DZS and SALTO-YOUTH.",
+    "summary": "Application deadline: 2026-10-11. Location: Ioannina, Greece. This training course focuses on developing the competences mentors need to effectively support young volunteers throughout their European Solidarity Corps (ESC) journey. The... / The training course is open to people with either basic or advanced experience in volunteering projects within the European Solidarity Corps Programme. / This project is financed by the Hellenic National Agency of Erasmus+/ Youth and European Solidarity Corps. Participation fees may apply based on your country of residence....",
     "tags": [],
-    "location": null,
-    "deadline": "2026-10-12T00:00:00Z",
+    "location": "Ioannina, Greece",
+    "deadline": "2026-10-11",
     "language": "en",
     "category": "training",
     "categories": [
@@ -491,19 +559,26 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
-    "status": "open",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
+    "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.salto-youth.net/tools/european-training-calendar/training/training-for-mentors-2.15320/"
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/training-for-mentors-2.15320/",
+        "DZS discovery: https://www.dzs.cz/networking-activities",
+        "Organiser: Hellenic National Agency for Erasmus+/Youth and European Solidarity Corps / INEDIVIM (National Agency) (National Agency)",
+        "Publisher excerpt (en): This training course focuses on developing the competences mentors need to effectively support young volunteers throughout their European Solidarity Corps (ESC) journey. The course aims to provide participants with practical tools and...",
+        "Publisher excerpt (en): The training course is open to people with either basic or advanced experience in volunteering projects within the European Solidarity Corps Programme.",
+        "Publisher excerpt (en): This project is financed by the Hellenic National Agency of Erasmus+/ Youth and European Solidarity Corps. Participation fees may apply based on your country of residence. Please contact your National Agency to learn more about the...",
+        "Advertised closing day: 2026-10-11"
       ]
-    }
+    },
+    "summary_language": "en"
   },
   {
     "id": "e9edc1af269cdaa82a8ace7d",
@@ -512,9 +587,9 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "Prague training 12–16 October 2026, with online onboarding, for English-speaking staff connected to Quality Label volunteering organisations. DZS and SALTO support programme quality, impact and cooperation. Host accommodation and food are covered; participation fees vary by country and travel arrangements follow selection. Registration closed 3 August 2026, not the event date. Source: DZS and SALTO-YOUTH.",
+    "summary": "Uzávěrka přihlášek: 2026-08-03. Termín akce: 2026-10-12. Jste součástí organizace, která je aktivně zapojena do dobrovolnických projektů v rámci programu Evropský sbor solidarity (ESC) a hledáte možnost, jak podpořit kvalitu a dopad ve svých projektech? / Akce je určena zástupcům organizací, které jsou držiteli Quality Label a které jsou aktivně zapojené v programu Evropský sbor solidarity. Vítáni jsou projektoví koordinátoři, statutární zástupci i ostatní pracovníci, kteří jsou zapojeni do projektů v rámci programu.",
     "tags": [],
-    "location": null,
+    "location": "Prague, Czech Republic",
     "deadline": "2026-08-03",
     "language": "cs",
     "category": "training",
@@ -528,19 +603,32 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "Actual own/delegated original heading and full conditions: https://www.dzs.cz/udalost/tosca-volunteering-skoleni-podpora-pro-organizace-v-programu-evropsky-sbor-solidarity"
+        "Publisher: https://www.dzs.cz/udalost/tosca-volunteering-skoleni-podpora-pro-organizace-v-programu-evropsky-sbor-solidarity",
+        "Discovered at: https://www.dzs.cz/program/evropsky-sbor-solidarity",
+        "Publisher excerpt (cs): Jste součástí organizace, která je aktivně zapojena do dobrovolnických projektů v rámci programu Evropský sbor solidarity (ESC) a hledáte možnost, jak podpořit kvalitu a dopad ve svých projektech?",
+        "Publisher excerpt (cs): Akce je určena zástupcům organizací, které jsou držiteli Quality Label a které jsou aktivně zapojené v programu Evropský sbor solidarity. Vítáni jsou projektoví koordinátoři, statutární zástupci i ostatní pracovníci, kteří jsou zapojeni...",
+        "Delegated course details: https://www.salto-youth.net/tools/european-training-calendar/training/tosca-volunteering-training-and-support-for-organisations-in-the-european-solidarity-corps.15021/",
+        "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
+        "Publisher: https://www.salto-youth.net/tools/european-training-calendar/training/tosca-volunteering-training-and-support-for-organisations-in-the-european-solidarity-corps.15021/",
+        "DZS discovery: https://www.dzs.cz/udalost/tosca-volunteering-skoleni-podpora-pro-organizace-v-programu-evropsky-sbor-solidarity",
+        "Organiser: Czech National Agency for International Education and Research (National Agency) Co-organiser(s): The European Solidarity Corps Resource Centre ( SALTO Resource Centre )",
+        "Publisher excerpt (en): The training activity aims to support and build up the capacities of organisations that actively participate in volunteering actions of the European Solidarity Corps, in order to ensure quality and impact in the respective projects.",
+        "Publisher excerpt (en): We are looking for participants who:",
+        "Publisher excerpt (en): Contact your National Agency or SALTO Resource Centre (SALTO) to learn more about the participation fee for participants from your country.",
+        "Advertised closing day: 2026-08-03"
       ]
-    }
+    },
+    "summary_language": "cs"
   },
   {
     "id": "f805c13d572be965c712f46d",
@@ -549,10 +637,10 @@
     "source": "cz-dzs",
     "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
     "published_at": null,
-    "summary": "EACEA grants up to EUR 650,000 per 12,24 or 36 month project support humanitarian volunteering, not individual stipends. At least three eligible Quality Label organisations include two support bodies from different programme countries and an independent host. Participants 18–35 must complete Commission training. The guide requires legal EU/associated-country residence; DZS says permanent residence, not citizenship. Hosts are humanitarian-operation countries without armed conflict. Closed 23 April 2026,17:00 Brussels.",
+    "summary": "Uzávěrky přihlášek: 2026-04-23. Činnosti prováděné v rámci Evropského dobrovolnického sboru humanitární pomoci mají za cíl přispět k poskytování humanitární pomoci na základě potřeb, která se zaměřuje na záchranu života, předcházení lidskému utrpení a jeho zmírňování, na zachování lidské důstojnosti a posílení kapacity a odolnosti zranitelných nebo katastrofami postižených komunit.",
     "tags": [],
     "location": null,
-    "deadline": "2026-04-23T15:00:00Z",
+    "deadline": "2026-04-23",
     "language": "cs",
     "category": "grants",
     "categories": [
@@ -563,18 +651,22 @@
     "eligible_countries": [],
     "publisher_country": "CZ",
     "created_at": "2026-10-09T23:14:14.898Z",
-    "updated_at": "2026-10-09T23:14:14.898Z",
+    "updated_at": "2026-10-14T03:45:56.694Z",
     "first_seen_at": "2026-10-09T23:14:14.898Z",
-    "last_seen_at": "2026-10-09T23:24:01.358Z",
-    "last_checked_at": "2026-10-09T23:29:33.287Z",
+    "last_seen_at": "2026-10-14T03:45:56.694Z",
+    "last_checked_at": "2026-10-14T03:50:02.563Z",
     "status": "expired",
     "classification": {
-      "method": "editorial-review",
+      "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-        "DZS humanitarian section;2026 guide pp77–85; residence wording conflict"
+        "Publisher: https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty#centralizovane-aktivity",
+        "Call timeline: https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty#centralizovane-aktivity",
+        "Published deadlines: 2026-04-23",
+        "Publisher excerpt (cs): Činnosti prováděné v rámci Evropského dobrovolnického sboru humanitární pomoci mají za cíl přispět k poskytování humanitární pomoci na základě potřeb, která se zaměřuje na záchranu života, předcházení lidskému utrpení a jeho zmírňování..."
       ]
-    }
+    },
+    "summary_language": "cs"
   }
 ]
