@@ -7,11 +7,11 @@
   "publisher_country": "AT",
   "publisher_type": "non-profit",
   "status": "success",
-  "last_attempt_at": "2026-10-14T03:46:14.318Z",
-  "last_success_at": "2026-10-14T03:46:14.318Z",
-  "last_checked_at": "2026-10-14T03:51:33.158Z",
-  "record_count": 45,
-  "message": "Collected 45 validated Fulbright Austria awards and teaching positions",
+  "last_attempt_at": "2026-10-14T08:29:37.401Z",
+  "last_success_at": "2026-10-14T08:29:37.401Z",
+  "last_checked_at": "2026-10-14T08:34:56.368Z",
+  "record_count": 13,
+  "message": "Validated refresh retains 13 validated Fulbright Austria awards and teaching positions",
   "error": null,
   "attribution": "Fulbright Austria — Austrian-American Educational Commission"
 }
