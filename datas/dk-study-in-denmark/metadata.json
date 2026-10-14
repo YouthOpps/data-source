@@ -6,11 +6,11 @@
   "publisher_country": "DK",
   "publisher_type": "government",
   "status": "success",
-  "last_attempt_at": "2026-10-14T07:55:08.480Z",
-  "last_success_at": "2026-10-14T07:55:08.480Z",
-  "last_checked_at": "2026-10-14T07:56:46.044Z",
+  "last_attempt_at": "2026-10-14T09:11:00.017Z",
+  "last_success_at": "2026-10-14T09:11:00.017Z",
+  "last_checked_at": "2026-10-14T09:12:37.532Z",
   "record_count": 7,
-  "message": "Collected 7 validated Study in Denmark funded opportunities",
+  "message": "Validated refresh retains 7 validated Study in Denmark funded opportunities",
   "error": null,
   "attribution": "Study in Denmark — Danish Ministry of Science, Higher Education and Digital Affairs"
 }
