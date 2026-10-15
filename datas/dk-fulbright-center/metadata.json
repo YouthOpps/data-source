@@ -5,13 +5,12 @@
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "government",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T10:40:18.962Z",
-  "last_success_at": "2026-10-15T07:56:31.618Z",
-  "last_checked_at": "2026-10-15T07:58:51.291Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T11:09:37.484Z",
+  "last_success_at": "2026-10-15T11:09:37.484Z",
+  "last_checked_at": "2026-10-15T11:12:04.311Z",
   "record_count": 32,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
-  "attribution": "Fulbright Denmark — Danish-American Fulbright Commission",
-  "failure_stage": "publish"
+  "message": "Validated refresh retains 32 validated Fulbright Denmark funding and educational programmes",
+  "error": null,
+  "attribution": "Fulbright Denmark — Danish-American Fulbright Commission"
 }
