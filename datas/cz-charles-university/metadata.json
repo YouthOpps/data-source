@@ -1,4 +1,5 @@
 {
+  "display_name": "Charles University",
   "source": "cz-charles-university",
   "source_url": "https://cuni.cz/UKEN-927.html",
   "website_url": "https://cuni.cz/UKEN-1617.html",
@@ -6,7 +7,7 @@
   "publisher_country": "CZ",
   "publisher_type": "university",
   "status": "fail",
-  "last_attempt_at": "2026-10-15T11:05:24.948Z",
+  "last_attempt_at": "2026-10-15T15:50:27.556Z",
   "last_success_at": "2026-10-15T05:06:47.723Z",
   "last_checked_at": "2026-10-15T05:06:47.723Z",
   "record_count": 43,
