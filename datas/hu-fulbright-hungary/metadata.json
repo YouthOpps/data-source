@@ -6,12 +6,13 @@
   "language": "hu/en",
   "publisher_country": "HU",
   "publisher_type": "foundation",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T20:19:22.827Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T23:14:06.900Z",
   "last_success_at": "2026-10-15T20:19:22.827Z",
   "last_checked_at": "2026-10-15T20:19:22.827Z",
   "record_count": 10,
-  "message": "Validated refresh retains 10 records",
-  "error": null,
-  "attribution": "Hungarian-American Fulbright Commission"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher returned HTTP 520",
+  "attribution": "Hungarian-American Fulbright Commission",
+  "failure_stage": "fetch"
 }
