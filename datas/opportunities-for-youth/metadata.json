@@ -5,13 +5,14 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T10:42:32.516Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T12:24:11.694Z",
   "last_success_at": "2026-10-15T10:42:32.516Z",
   "last_checked_at": "2026-10-15T10:42:32.516Z",
   "record_count": 5266,
   "inventory_scope": "complete-public-wordpress-post-archive",
-  "message": "Validated refresh retains 5266 records",
-  "error": null,
-  "attribution": "Opportunities for Youth"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher returned HTTP 403",
+  "attribution": "Opportunities for Youth",
+  "failure_stage": "fetch"
 }
