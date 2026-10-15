@@ -1,0 +1,19 @@
+{
+  "source": "be-fulbright-belgium-luxembourg",
+  "source_url": "https://www.fulbright.be/grants-for-belgian-and-luxembourgish-citizens/",
+  "website_url": "https://www.fulbright.be/",
+  "language": "en",
+  "publisher_country": "BE",
+  "publisher_type": "commission",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T12:58:38.030Z",
+  "last_success_at": "2026-10-15T12:58:38.030Z",
+  "last_checked_at": "2026-10-15T12:58:38.030Z",
+  "record_count": 42,
+  "inventory_scope": "complete-fulbright.be-own-awards",
+  "name": "Fulbright Belgium and Luxembourg",
+  "description": "Commission-published outgoing, incoming and partner award information; delegated external catalogs excluded.",
+  "message": "Validated refresh retains 42 records",
+  "error": null,
+  "attribution": "Fulbright Commission for Belgium and Luxembourg"
+}
