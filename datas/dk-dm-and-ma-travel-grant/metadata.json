@@ -1,17 +1,17 @@
 {
+  "display_name": "DM",
   "source": "dk-dm-and-ma-travel-grant",
   "source_url": "https://dm.dk/students/membership/travel-grant/",
   "website_url": "https://dm.dk/",
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "non-profit",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T10:41:09.097Z",
-  "last_success_at": "2026-10-15T08:13:53.260Z",
-  "last_checked_at": "2026-10-15T08:16:24.551Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T20:54:57.359Z",
+  "last_success_at": "2026-10-15T20:54:57.359Z",
+  "last_checked_at": "2026-10-15T20:57:28.209Z",
   "record_count": 5,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
-  "attribution": "DM Students — DM and MA student membership programmes",
-  "failure_stage": "publish"
+  "message": "Collected 5 validated DM student funding and member training programmes",
+  "error": null,
+  "attribution": "DM Students — DM and MA student membership programmes"
 }
