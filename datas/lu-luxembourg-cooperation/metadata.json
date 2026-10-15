@@ -1,0 +1,17 @@
+{
+  "source": "lu-luxembourg-cooperation",
+  "source_url": "https://cooperation.gouvernement.lu/en/s-engager.html",
+  "website_url": "https://cooperation.gouvernement.lu/",
+  "language": "en",
+  "publisher_country": "LU",
+  "publisher_type": "government",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T13:06:38.347Z",
+  "last_success_at": "2026-10-15T13:06:38.347Z",
+  "last_checked_at": "2026-10-15T13:06:38.347Z",
+  "record_count": 7,
+  "inventory_scope": "complete-advertised-youth-programmes-and-linked-calls",
+  "message": "Validated refresh retains 7 records",
+  "error": null,
+  "attribution": "Luxembourg Directorate for Development Cooperation and Humanitarian Affairs"
+}
