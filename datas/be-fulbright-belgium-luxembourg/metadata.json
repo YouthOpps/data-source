@@ -6,16 +6,15 @@
   "language": "en",
   "publisher_country": "BE",
   "publisher_type": "commission",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T15:52:00.511Z",
-  "last_success_at": "2026-10-15T14:14:07.193Z",
-  "last_checked_at": "2026-10-15T14:14:07.193Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T17:28:43.277Z",
+  "last_success_at": "2026-10-15T17:28:43.277Z",
+  "last_checked_at": "2026-10-15T17:28:43.277Z",
   "record_count": 42,
   "inventory_scope": "complete-fulbright.be-own-awards",
   "name": "Fulbright Belgium and Luxembourg",
   "description": "Commission-published outgoing, incoming and partner award information; delegated external catalogs excluded.",
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
-  "attribution": "Fulbright Commission for Belgium and Luxembourg",
-  "failure_stage": "publish"
+  "message": "Validated refresh retains 42 records",
+  "error": null,
+  "attribution": "Fulbright Commission for Belgium and Luxembourg"
 }
