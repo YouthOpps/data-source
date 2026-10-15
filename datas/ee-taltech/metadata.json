@@ -1,4 +1,5 @@
 {
+  "display_name": "TalTech Development Fund",
   "source": "ee-taltech",
   "source_url": "https://taltech.ee/arengufond/stipendiumid/2026-sugis",
   "website_url": "https://taltech.ee/en/scholarships",
@@ -6,9 +7,9 @@
   "publisher_country": "EE",
   "publisher_type": "university",
   "status": "success",
-  "last_attempt_at": "2026-10-15T11:12:47.440877Z",
-  "last_success_at": "2026-10-15T11:12:47.440877Z",
-  "last_checked_at": "2026-10-15T11:12:47.440877Z",
+  "last_attempt_at": "2026-10-15T15:54:37.828570Z",
+  "last_success_at": "2026-10-15T15:54:37.828570Z",
+  "last_checked_at": "2026-10-15T15:54:37.828570Z",
   "record_count": 80,
   "message": "Collected and validated 80 records",
   "error": null,
