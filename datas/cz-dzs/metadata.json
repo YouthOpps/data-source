@@ -1,4 +1,5 @@
 {
+  "display_name": "DZS",
   "source": "cz-dzs",
   "name": "DZS — European Solidarity Corps",
   "source_url": "https://www.dzs.cz/program/evropsky-sbor-solidarity/projekty-granty",
@@ -8,9 +9,9 @@
   "publisher_type": "government",
   "attribution": "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
   "status": "success",
-  "last_attempt_at": "2026-10-15T11:19:59.287Z",
-  "last_success_at": "2026-10-15T11:19:59.287Z",
-  "last_checked_at": "2026-10-15T11:24:01.570Z",
+  "last_attempt_at": "2026-10-15T16:43:42.975Z",
+  "last_success_at": "2026-10-15T16:43:42.975Z",
+  "last_checked_at": "2026-10-15T16:47:43.119Z",
   "record_count": 2,
   "message": "Collected 2 published ESC grants and training offers",
   "error": null
