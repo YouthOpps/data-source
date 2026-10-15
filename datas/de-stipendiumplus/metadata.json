@@ -6,12 +6,12 @@
   "publisher_country": "DE",
   "publisher_type": "nonprofit",
   "status": "fail",
-  "last_attempt_at": "2026-10-15T10:35:09.590Z",
+  "last_attempt_at": "2026-10-15T10:53:51.900Z",
   "last_success_at": "2026-10-15T07:48:42.919Z",
   "last_checked_at": "2026-10-15T07:50:50.122Z",
   "record_count": 8,
   "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
+  "error": "Source facts/inventory changed: academy-2027",
   "attribution": "StipendiumPlus — Arbeitsgemeinschaft der Begabtenförderungswerke der Bundesrepublik Deutschland",
-  "failure_stage": "publish"
+  "failure_stage": "parse"
 }
