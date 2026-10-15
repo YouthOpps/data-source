@@ -1,4 +1,5 @@
 {
+  "display_name": "Bosch",
   "source": "de-bosch",
   "name": "Bosch career programmes",
   "description": "Official allowed student and graduate programme overviews; excludes blocked vacancies and country routes; availability is unknown.",
@@ -9,9 +10,9 @@
   "publisher_type": "company",
   "attribution": "Bosch — official career programme information; direct links to original sources.",
   "status": "success",
-  "last_attempt_at": "2026-10-15T15:25:00.927Z",
-  "last_success_at": "2026-10-15T15:25:00.927Z",
-  "last_checked_at": "2026-10-15T15:32:23.567Z",
+  "last_attempt_at": "2026-10-15T15:54:42.615Z",
+  "last_success_at": "2026-10-15T15:54:42.615Z",
+  "last_checked_at": "2026-10-15T16:02:00.047Z",
   "record_count": 18,
   "message": "Validated refresh retains 18 reviewed Bosch programme overviews",
   "error": null
