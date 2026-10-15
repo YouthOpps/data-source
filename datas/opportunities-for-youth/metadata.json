@@ -5,13 +5,14 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "success",
-  "last_attempt_at": "2026-10-14T21:42:58.049Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T06:27:51.487Z",
   "last_success_at": "2026-10-14T21:42:58.049Z",
   "last_checked_at": "2026-10-14T21:42:58.049Z",
   "record_count": 5262,
   "inventory_scope": "complete-public-wordpress-post-archive",
-  "message": "Validated refresh retains 5262 records",
-  "error": null,
-  "attribution": "Opportunities for Youth"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher inventory changed during pagination",
+  "attribution": "Opportunities for Youth",
+  "failure_stage": "parse"
 }
