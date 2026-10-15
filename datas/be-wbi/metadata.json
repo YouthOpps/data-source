@@ -1,16 +1,18 @@
 {
+  "display_name": "Wallonie-Bruxelles International",
   "source": "be-wbi",
   "source_url": "https://www.wbi.be/en/bourses",
   "website_url": "https://www.wbi.be/",
   "language": "fr",
   "publisher_country": "BE",
   "publisher_type": "government",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T12:30:15.650Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T15:55:19.751Z",
   "last_success_at": "2026-10-15T12:30:15.650Z",
   "last_checked_at": "2026-10-15T12:33:18.607Z",
   "record_count": 20,
-  "message": "Collected 20 validated WBI funded opportunities",
-  "error": null,
-  "attribution": "Wallonie-Bruxelles International (WBI) – www.wbi.be"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
+  "attribution": "Wallonie-Bruxelles International (WBI) – www.wbi.be",
+  "failure_stage": "publish"
 }
