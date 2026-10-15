@@ -1,4 +1,5 @@
 {
+  "display_name": "University of Vienna",
   "source": "at-university-of-vienna",
   "source_url": "https://international.univie.ac.at/en/study-abroad-with-erasmus-and-co/non-eu-student-exchange-program",
   "website_url": "https://international.univie.ac.at/en/",
@@ -6,9 +7,9 @@
   "publisher_country": "AT",
   "publisher_type": "university",
   "status": "success",
-  "last_attempt_at": "2026-10-15T12:25:52.690Z",
-  "last_success_at": "2026-10-15T12:25:52.690Z",
-  "last_checked_at": "2026-10-15T12:25:52.690Z",
+  "last_attempt_at": "2026-10-15T15:49:21.987Z",
+  "last_success_at": "2026-10-15T15:49:21.987Z",
+  "last_checked_at": "2026-10-15T15:49:21.987Z",
   "record_count": 90,
   "message": "Validated refresh retains 90 records",
   "error": null,
