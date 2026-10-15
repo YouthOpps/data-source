@@ -7,11 +7,12 @@
   "publisher_country": "HR",
   "publisher_type": "university",
   "attribution": "Sveučilište u Zagrebu https://www.unizg.hr/ and the named programme administrators",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T04:58:04.770Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T10:24:56.796Z",
   "last_success_at": "2026-10-15T04:58:04.770Z",
   "last_checked_at": "2026-10-15T05:23:53.733Z",
   "record_count": 362,
-  "message": "Validated refresh retains 362 University of Zagreb opportunities",
-  "error": null
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher backoff exceeds phase budget",
+  "failure_stage": "access"
 }
