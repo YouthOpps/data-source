@@ -1,4 +1,5 @@
 {
+  "display_name": "Agency for Mobility and EU Programmes",
   "source": "hr-study-in-croatia",
   "name": "Study in Croatia — bounded scholarships and training programmes",
   "source_url": "https://www.studyincroatia.hr/",
@@ -8,9 +9,9 @@
   "publisher_type": "national-education-agency",
   "attribution": "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
   "status": "success",
-  "last_attempt_at": "2026-10-15T10:34:49.527Z",
-  "last_success_at": "2026-10-15T10:34:49.527Z",
-  "last_checked_at": "2026-10-15T10:38:54.824Z",
+  "last_attempt_at": "2026-10-15T15:52:50.862Z",
+  "last_success_at": "2026-10-15T15:52:50.862Z",
+  "last_checked_at": "2026-10-15T15:57:00.700Z",
   "record_count": 9,
   "message": "Validated refresh retains 9 reviewed Study in Croatia opportunities",
   "error": null
