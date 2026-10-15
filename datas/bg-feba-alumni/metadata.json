@@ -1,16 +1,18 @@
 {
+  "display_name": "FEBA Alumni",
   "source": "bg-feba-alumni",
   "source_url": "https://febalumni.org/news/",
   "website_url": "https://febalumni.org/",
   "language": "bg/en",
   "publisher_country": "BG",
   "publisher_type": "unknown",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T11:04:05.101Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T15:47:54.872Z",
   "last_success_at": "2026-10-15T11:04:05.101Z",
   "last_checked_at": "2026-10-15T11:04:05.101Z",
   "record_count": 5,
-  "message": "Validated refresh retains 5 records",
-  "error": null,
-  "attribution": "FEBA Alumni"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publication failed: Publication failed after 3 attempts; last failure: GitHub PATCH /git/refs/heads/main returned HTTP 422",
+  "attribution": "FEBA Alumni",
+  "failure_stage": "publish"
 }
