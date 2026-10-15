@@ -1,4 +1,5 @@
 {
+  "display_name": "Luxembourg Development Cooperation",
   "source": "lu-luxembourg-cooperation",
   "source_url": "https://cooperation.gouvernement.lu/en/s-engager.html",
   "website_url": "https://cooperation.gouvernement.lu/",
@@ -6,9 +7,9 @@
   "publisher_country": "LU",
   "publisher_type": "government",
   "status": "success",
-  "last_attempt_at": "2026-10-15T14:17:12.426Z",
-  "last_success_at": "2026-10-15T14:17:12.426Z",
-  "last_checked_at": "2026-10-15T14:17:12.426Z",
+  "last_attempt_at": "2026-10-15T15:56:49.913Z",
+  "last_success_at": "2026-10-15T15:56:49.913Z",
+  "last_checked_at": "2026-10-15T15:56:49.913Z",
   "record_count": 7,
   "inventory_scope": "complete-advertised-youth-programmes-and-linked-calls",
   "message": "Validated refresh retains 7 records",
