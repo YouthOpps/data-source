@@ -1,0 +1,18 @@
+{
+  "source": "gr-iky",
+  "name": "IKY / Greek State Scholarships Foundation",
+  "display_name": "IKY",
+  "source_url": "https://www.iky.gr/ypotrofies/",
+  "website_url": "https://www.iky.gr/",
+  "language": "el",
+  "publisher_country": "GR",
+  "publisher_type": "public-institution",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T16:08:21.051Z",
+  "last_success_at": "2026-10-15T16:08:21.051Z",
+  "last_checked_at": "2026-10-15T16:16:01.380Z",
+  "record_count": 29,
+  "message": "Validated refresh retains 29 IKY programme-overview records",
+  "error": null,
+  "attribution": "Source: IKY / Greek State Scholarships Foundation"
+}
