@@ -1,4 +1,5 @@
 {
+  "display_name": "University of Zagreb",
   "source": "hr-university-of-zagreb",
   "name": "University of Zagreb — bounded public calls and educational catalogue",
   "source_url": "https://www.unizg.hr/studiji-i-studiranje/upisi-stipendije-priznavanja/stipendije/",
@@ -7,12 +8,11 @@
   "publisher_country": "HR",
   "publisher_type": "university",
   "attribution": "Sveučilište u Zagrebu https://www.unizg.hr/ and the named programme administrators",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T10:58:19.297Z",
-  "last_success_at": "2026-10-15T04:58:04.770Z",
-  "last_checked_at": "2026-10-15T05:23:53.733Z",
-  "record_count": 362,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publisher backoff exceeds phase budget",
-  "failure_stage": "access"
+  "status": "success",
+  "last_attempt_at": "2026-10-15T15:53:32.247Z",
+  "last_success_at": "2026-10-15T15:53:32.247Z",
+  "last_checked_at": "2026-10-15T16:22:26.030Z",
+  "record_count": 367,
+  "message": "Validated refresh retains 367 University of Zagreb opportunities",
+  "error": null
 }
