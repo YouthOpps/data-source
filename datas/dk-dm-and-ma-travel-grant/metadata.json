@@ -5,12 +5,13 @@
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "non-profit",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T08:13:53.260Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T10:41:09.097Z",
   "last_success_at": "2026-10-15T08:13:53.260Z",
   "last_checked_at": "2026-10-15T08:16:24.551Z",
   "record_count": 5,
-  "message": "Collected 5 validated DM student funding and member training programmes",
-  "error": null,
-  "attribution": "DM Students — DM and MA student membership programmes"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
+  "attribution": "DM Students — DM and MA student membership programmes",
+  "failure_stage": "publish"
 }
