@@ -1,4 +1,5 @@
 {
+  "display_name": "Youth Opportunities",
   "source": "youth-opportunities",
   "source_url": "https://www.youthop.com/search/",
   "website_url": "https://www.youthop.com/",
@@ -6,12 +7,12 @@
   "publisher_country": "BD",
   "publisher_type": "aggregator",
   "status": "success",
-  "last_attempt_at": "2026-10-15T10:35:08.653Z",
-  "last_success_at": "2026-10-15T10:35:08.653Z",
-  "last_checked_at": "2026-10-15T10:35:08.653Z",
-  "record_count": 417,
+  "last_attempt_at": "2026-10-15T16:20:54.239Z",
+  "last_success_at": "2026-10-15T16:20:54.239Z",
+  "last_checked_at": "2026-10-15T16:20:54.239Z",
+  "record_count": 420,
   "inventory_scope": "complete-publisher-browse-opportunities",
-  "message": "Validated refresh retains 417 records",
+  "message": "Validated refresh retains 420 records",
   "error": null,
   "attribution": "Youth Opportunities"
 }
