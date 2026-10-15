@@ -5,12 +5,13 @@
   "language": "en",
   "publisher_country": "CZ",
   "publisher_type": "university",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T05:06:47.723Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T07:41:09.638Z",
   "last_success_at": "2026-10-15T05:06:47.723Z",
   "last_checked_at": "2026-10-15T05:06:47.723Z",
   "record_count": 43,
-  "message": "Validated refresh retains 43 accessible records; UJOP excluded because its robots policy was unavailable",
-  "error": null,
-  "attribution": "Charles University"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher connection failed: The read operation timed out",
+  "attribution": "Charles University",
+  "failure_stage": "fetch"
 }
