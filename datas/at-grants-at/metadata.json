@@ -1,0 +1,17 @@
+{
+  "source": "at-grants-at",
+  "name": "grants.at / OeAD",
+  "source_url": "https://grants.at/en/",
+  "website_url": "https://grants.at/",
+  "language": "und",
+  "publisher_country": "AT",
+  "publisher_type": "public-institution",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T13:13:53.380Z",
+  "last_success_at": "2026-10-15T13:13:53.380Z",
+  "last_checked_at": "2026-10-15T13:20:49.688Z",
+  "record_count": 1140,
+  "message": "Validated refresh retains 1140 validated grants.at funding programme records",
+  "error": null,
+  "attribution": "Source: grants.at / OeAD (© OeAD)"
+}
