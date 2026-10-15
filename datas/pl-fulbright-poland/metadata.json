@@ -1,4 +1,5 @@
 {
+  "display_name": "Fulbright Poland",
   "source": "pl-fulbright-poland",
   "source_url": "https://fulbright.edu.pl/junior-research/",
   "website_url": "https://fulbright.edu.pl/",
@@ -6,9 +7,9 @@
   "publisher_country": "PL",
   "publisher_type": "scholarship-commission",
   "status": "success",
-  "last_attempt_at": "2026-10-15T10:39:26.407Z",
-  "last_success_at": "2026-10-15T10:39:26.407Z",
-  "last_checked_at": "2026-10-15T10:39:26.407Z",
+  "last_attempt_at": "2026-10-15T23:45:36.909Z",
+  "last_success_at": "2026-10-15T23:45:36.909Z",
+  "last_checked_at": "2026-10-15T23:45:36.909Z",
   "record_count": 23,
   "message": "Validated refresh retains 23 records",
   "error": null,
