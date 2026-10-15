@@ -1,4 +1,5 @@
 {
+  "display_name": "Fulbright Hungary",
   "source": "hu-fulbright-hungary",
   "source_url": "https://fulbright.hu/",
   "website_url": "https://fulbright.hu/",
@@ -6,9 +7,9 @@
   "publisher_country": "HU",
   "publisher_type": "foundation",
   "status": "success",
-  "last_attempt_at": "2026-10-15T10:51:26.838Z",
-  "last_success_at": "2026-10-15T10:51:26.838Z",
-  "last_checked_at": "2026-10-15T10:51:26.838Z",
+  "last_attempt_at": "2026-10-15T15:54:36.357Z",
+  "last_success_at": "2026-10-15T15:54:36.357Z",
+  "last_checked_at": "2026-10-15T15:54:36.357Z",
   "record_count": 10,
   "message": "Validated refresh retains 10 records",
   "error": null,
