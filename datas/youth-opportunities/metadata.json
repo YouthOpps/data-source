@@ -5,13 +5,14 @@
   "language": "en",
   "publisher_country": "BD",
   "publisher_type": "aggregator",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T05:34:37.590Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T07:17:42.448Z",
   "last_success_at": "2026-10-15T05:34:37.590Z",
   "last_checked_at": "2026-10-15T05:34:37.590Z",
   "record_count": 417,
   "inventory_scope": "complete-publisher-browse-opportunities",
-  "message": "Validated refresh retains 417 records",
-  "error": null,
-  "attribution": "Youth Opportunities"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher connection failed: The read operation timed out",
+  "attribution": "Youth Opportunities",
+  "failure_stage": "fetch"
 }
