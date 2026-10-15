@@ -1,4 +1,5 @@
 {
+  "display_name": "Youth Board of Cyprus",
   "source": "cy-onek-youth-funds",
   "name": "ONEK — youth funding rounds and information session",
   "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
@@ -8,9 +9,9 @@
   "publisher_type": "government",
   "attribution": "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
   "status": "success",
-  "last_attempt_at": "2026-10-15T10:34:52.229Z",
-  "last_success_at": "2026-10-15T10:34:52.229Z",
-  "last_checked_at": "2026-10-15T10:39:43.459Z",
+  "last_attempt_at": "2026-10-15T15:47:33.596Z",
+  "last_success_at": "2026-10-15T15:47:33.596Z",
+  "last_checked_at": "2026-10-15T15:51:11.813Z",
   "record_count": 7,
   "message": "Validated refresh retains 7 ONEK opportunities",
   "error": null
