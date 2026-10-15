@@ -5,13 +5,12 @@
   "language": "de",
   "publisher_country": "DE",
   "publisher_type": "youth-information-service",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T10:41:50.977Z",
-  "last_success_at": "2026-10-15T10:25:15.614Z",
-  "last_checked_at": "2026-10-15T10:25:15.614Z",
-  "record_count": 455,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
-  "attribution": "rausvonzuhaus.de / Eurodesk Deutschland (IJAB)",
-  "failure_stage": "publish"
+  "status": "success",
+  "last_attempt_at": "2026-10-15T15:11:18.650Z",
+  "last_success_at": "2026-10-15T15:11:18.650Z",
+  "last_checked_at": "2026-10-15T15:11:18.650Z",
+  "record_count": 456,
+  "message": "Validated refresh retains 456 records",
+  "error": null,
+  "attribution": "rausvonzuhaus.de / Eurodesk Deutschland (IJAB)"
 }
