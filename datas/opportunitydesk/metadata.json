@@ -6,12 +6,12 @@
   "publisher_country": null,
   "publisher_type": "aggregator",
   "status": "fail",
-  "last_attempt_at": "2026-10-15T10:35:08.549Z",
+  "last_attempt_at": "2026-10-15T12:28:58.741Z",
   "last_success_at": "2026-10-15T06:34:59.818Z",
   "last_checked_at": "2026-10-15T06:34:59.818Z",
   "record_count": 8,
   "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
+  "error": "Unreviewed publisher opportunity taxonomy",
   "attribution": "Opportunity Desk",
-  "failure_stage": "publish"
+  "failure_stage": "parse"
 }
