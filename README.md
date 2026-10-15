@@ -2,6 +2,10 @@
 
 Public JSON snapshots written exclusively by authorized [data-pipeline](https://github.com/YouthOpps/data-pipeline) publication Actions, except exceptional manual administrator recovery. Develop adapters and open PRs in data-pipeline; agents must not directly commit, push or open PRs here. This repository has no GitHub Actions.
 
+## Data rights
+
+Opportunity data is owned by its respective publishers and rights holders. Public access to these snapshots does not confer an open data license. Read [Data Rights and Attribution](DATA_RIGHTS.md) before reusing or redistributing records. The Apache-2.0 license used for YouthOpps software does not license this third-party data.
+
 ## Published files
 
 ```text
