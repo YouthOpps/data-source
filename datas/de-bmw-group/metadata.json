@@ -1,4 +1,5 @@
 {
+  "display_name": "BMW Group",
   "source": "de-bmw-group",
   "name": "BMW Group — public youth vacancies",
   "source_url": "https://www.bmwgroup.jobs/en.html",
@@ -7,11 +8,11 @@
   "publisher_country": "DE",
   "publisher_type": "company",
   "status": "success",
-  "last_attempt_at": "2026-10-15T13:48:33.080Z",
-  "last_success_at": "2026-10-15T13:48:33.080Z",
-  "last_checked_at": "2026-10-15T14:04:35.216Z",
-  "record_count": 693,
-  "message": "Validated refresh retains 693 validated BMW youth-vacancy records",
+  "last_attempt_at": "2026-10-15T15:52:52.836Z",
+  "last_success_at": "2026-10-15T15:52:52.836Z",
+  "last_checked_at": "2026-10-15T16:08:54.802Z",
+  "record_count": 695,
+  "message": "Validated refresh retains 695 validated BMW youth-vacancy records",
   "error": null,
   "attribution": "Source: BMW Group public jobfinder"
 }
