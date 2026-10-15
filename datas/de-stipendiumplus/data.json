@@ -24,8 +24,8 @@
     "created_at": "2026-10-09T02:56:56.741Z",
     "updated_at": "2026-10-09T02:56:56.741Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -59,8 +59,8 @@
     "created_at": "2026-10-09T02:56:56.741Z",
     "updated_at": "2026-10-09T02:56:56.741Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -78,7 +78,7 @@
     "source": "de-stipendiumplus",
     "source_url": "https://stipendiumplus.de/",
     "published_at": null,
-    "summary": "Training in Bad Staffelstein, Germany, on 5–10 September 2027 explores coexistence, individuality and common good through interdisciplinary dialogue. For funded members of the 13 works and SBB; ten per organization, 140 places. These are event dates; an application opening or deadline is not published.",
+    "summary": "Training in Bad Staffelstein, Germany, on 5–10 September 2027 explores coexistence, individuality and common good through interdisciplinary dialogue. For funded members of the 13 works and SBB; ten funded scholars per Werk. Programme and registration are expected from mid-February 2027 through each foundation or SBB. No exact opening day or application deadline is stated; September dates are the event dates.",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -94,17 +94,17 @@
     "eligible_countries": [],
     "publisher_country": "DE",
     "created_at": "2026-10-09T02:56:56.741Z",
-    "updated_at": "2026-10-09T02:56:56.741Z",
+    "updated_at": "2026-10-15T19:30:48.138Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "StipendiumPlus — Arbeitsgemeinschaft der Begabtenförderungswerke der Bundesrepublik Deutschland",
-        "Actual distinct 2027 edition, not an evergreen duplicate or invented annual call. Bad Staffelstein near Bamberg establishes DE host. Event dates 5–10 September2027 are not application dates; no time-of-day/zone or registration state proved. Existing funded scholars of 13 works plus SBB, ten each equals 140 capacity, not 140 grants/provider clones. sdw and Hanns-Seidel organize with other works/SBB. Scientific and personal perspectives, interdisciplinary working groups, democratic responsibility and plural coexistence. No common payment amount or nationality condition. Parent edition inventory: https://stipendiumplus.de/die-werke/gemeinsame-sommerakademie/"
+        "Actual distinct 2027 edition, not an evergreen duplicate or invented annual call. Bad Staffelstein near Bamberg establishes DE host. Event dates 5–10 September2027 are not application dates; no time-of-day/zone or precise opening day proved. Programme and registration are announced for mid-February 2027 through each foundation or SBB; framework programme follows in July 2027. Existing funded scholars of 13 works plus SBB; ten funded scholars per Werk is stated, without a stated SBB allocation. sdw and Hanns-Seidel organize with other works/SBB. Scientific and personal perspectives, interdisciplinary working groups, democratic responsibility and plural coexistence. No common payment amount or nationality condition. Parent edition inventory: https://stipendiumplus.de/die-werke/gemeinsame-sommerakademie/"
       ]
     }
   },
@@ -131,17 +131,17 @@
     "eligible_countries": [],
     "publisher_country": "DE",
     "created_at": "2026-10-09T02:56:56.741Z",
-    "updated_at": "2026-10-09T02:56:56.741Z",
+    "updated_at": "2026-10-15T19:30:48.138Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "StipendiumPlus — Arbeitsgemeinschaft der Begabtenförderungswerke der Bundesrepublik Deutschland",
-        "Actually linked separate 2025 edition, not guessed archive/evergreen clone. Heidelberg DE, event17–22August2025, explicitly historical; no invented closed application state or deadline from past event dates. Studienstiftung organized with 13 works/SBB, ten funded members per organization. Eleven concrete participant working groups span democratic debate/ambiguity, extremism prevention, remembrance, media/digital change, social partnership/tariff negotiations, Betzavta/dialogue/political outrage, working-world debate and courage to speak. Curriculum is substantive own HTML, not merely a portrait or impact story; no eleven working-group/provider clones or copied PDF. No precise registration dates, time/zone, payment or nationality rule. Parent: https://stipendiumplus.de/die-werke/gemeinsame-sommerakademie/"
+        "Actually linked separate 2025 edition, not guessed archive/evergreen clone. Heidelberg DE, event17–22August2025, explicitly historical; no invented closed application state or deadline from past event dates. Studienstiftung organized with 13 works/SBB, ten funded members per Werk; the SBB allocation is not stated. Eleven concrete participant working groups span democratic debate/ambiguity, extremism prevention, remembrance, media/digital change, social partnership/tariff negotiations, Betzavta/dialogue/political outrage, working-world debate and courage to speak. Curriculum is substantive own HTML, not merely a portrait or impact story; no eleven working-group/provider clones or copied PDF. No precise registration dates, time/zone, payment or nationality rule. Parent: https://stipendiumplus.de/die-werke/gemeinsame-sommerakademie/"
       ]
     }
   },
@@ -168,8 +168,8 @@
     "created_at": "2026-10-09T02:56:56.741Z",
     "updated_at": "2026-10-09T02:56:56.741Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -203,8 +203,8 @@
     "created_at": "2026-10-09T02:56:56.741Z",
     "updated_at": "2026-10-09T02:56:56.741Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -242,8 +242,8 @@
     "created_at": "2026-10-09T02:56:56.741Z",
     "updated_at": "2026-10-09T02:56:56.741Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -277,8 +277,8 @@
     "created_at": "2026-10-09T02:56:56.741Z",
     "updated_at": "2026-10-09T02:56:56.741Z",
     "first_seen_at": "2026-10-09T02:56:56.741Z",
-    "last_seen_at": "2026-10-15T07:48:42.919Z",
-    "last_checked_at": "2026-10-15T07:50:50.122Z",
+    "last_seen_at": "2026-10-15T19:30:48.138Z",
+    "last_checked_at": "2026-10-15T19:37:11.563Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",

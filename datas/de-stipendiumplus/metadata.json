@@ -6,13 +6,12 @@
   "language": "de",
   "publisher_country": "DE",
   "publisher_type": "nonprofit",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T15:47:52.241Z",
-  "last_success_at": "2026-10-15T07:48:42.919Z",
-  "last_checked_at": "2026-10-15T07:50:50.122Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-15T19:30:48.138Z",
+  "last_success_at": "2026-10-15T19:30:48.138Z",
+  "last_checked_at": "2026-10-15T19:37:11.563Z",
   "record_count": 8,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Source facts/inventory changed: academy-2027",
-  "attribution": "StipendiumPlus — Arbeitsgemeinschaft der Begabtenförderungswerke der Bundesrepublik Deutschland",
-  "failure_stage": "parse"
+  "message": "Collected 8 validated StipendiumPlus funding frameworks and training editions",
+  "error": null,
+  "attribution": "StipendiumPlus — Arbeitsgemeinschaft der Begabtenförderungswerke der Bundesrepublik Deutschland"
 }
