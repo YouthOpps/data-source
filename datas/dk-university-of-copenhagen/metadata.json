@@ -1,16 +1,18 @@
 {
+  "display_name": "University of Copenhagen",
   "source": "dk-university-of-copenhagen",
   "source_url": "https://www.ku.dk/studies/admission/scholarships-for-full-degree-students",
   "website_url": "https://www.ku.dk/studies/admission/scholarships-for-full-degree-students",
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "university",
-  "status": "success",
-  "last_attempt_at": "2026-10-15T10:29:22.708Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-15T15:47:55.631Z",
   "last_success_at": "2026-10-15T10:29:22.708Z",
   "last_checked_at": "2026-10-15T10:29:22.708Z",
   "record_count": 43,
-  "message": "Validated refresh retains 43 records",
-  "error": null,
-  "attribution": "University of Copenhagen"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publication failed: Publication failed after 3 attempts; last failure: GitHub PATCH /git/refs/heads/main returned HTTP 422",
+  "attribution": "University of Copenhagen",
+  "failure_stage": "publish"
 }
