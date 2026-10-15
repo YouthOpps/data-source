@@ -1,4 +1,5 @@
 {
+  "display_name": "Campus France",
   "source": "fr-campus-france",
   "name": "CampusBourses / Campus France",
   "source_url": "https://campusbourses.campusfrance.org/?lang=en",
@@ -7,9 +8,9 @@
   "publisher_country": "FR",
   "publisher_type": "public-institution",
   "status": "success",
-  "last_attempt_at": "2026-10-15T14:20:00.068Z",
-  "last_success_at": "2026-10-15T14:20:00.068Z",
-  "last_checked_at": "2026-10-15T14:22:51.771Z",
+  "last_attempt_at": "2026-10-15T15:48:17.582Z",
+  "last_success_at": "2026-10-15T15:48:17.582Z",
+  "last_checked_at": "2026-10-15T15:51:05.804Z",
   "record_count": 378,
   "message": "Validated refresh retains 378 CampusBourses financial-support programme records",
   "error": null,
