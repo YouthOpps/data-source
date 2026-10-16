@@ -1,17 +1,17 @@
 {
+  "display_name": "Opportunity Desk",
   "source": "opportunitydesk",
   "source_url": "https://opportunitydesk.org/feed/",
   "website_url": "https://opportunitydesk.org/",
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T12:28:58.741Z",
-  "last_success_at": "2026-10-15T06:34:59.818Z",
-  "last_checked_at": "2026-10-15T06:34:59.818Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-16T13:02:01.745Z",
+  "last_success_at": "2026-10-16T13:02:01.745Z",
+  "last_checked_at": "2026-10-16T13:02:01.745Z",
   "record_count": 8,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Unreviewed publisher opportunity taxonomy",
-  "attribution": "Opportunity Desk",
-  "failure_stage": "parse"
+  "message": "Validated refresh retains 8 records",
+  "error": null,
+  "attribution": "Opportunity Desk"
 }

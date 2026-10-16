@@ -1,56 +1,12 @@
 [
   {
-    "id": "1395e47c37841cfde7fcdcd9",
-    "title": "Changemakers for Youth Programme 2027 (Stipend available)",
-    "url": "https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/",
+    "id": "d769081e56010094f67d0d14",
+    "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme 2027-2028",
+    "url": "https://opportunitydesk.org/2026/10/16/weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028/",
     "source": "opportunitydesk",
     "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T19:14:46.000Z",
-    "summary": "Publisher-stated Deadline: November 9, 2026",
-    "tags": [
-      "Africa",
-      "Asia",
-      "Europe",
-      "Fellowships",
-      "Changemakers for Youth",
-      "Changemakers for Youth 2027",
-      "Changemakers for Youth Programme",
-      "Changemakers for Youth Programme 2027",
-      "changemakers-for-youth-programme-2027 apply"
-    ],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "fellowships",
-    "categories": [
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": null,
-    "created_at": "2026-10-14T21:55:04.021Z",
-    "updated_at": "2026-10-14T21:55:04.021Z",
-    "first_seen_at": "2026-10-14T21:55:04.021Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-taxonomy-and-article-v2",
-      "status": "classified",
-      "evidence": [
-        "https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/"
-      ]
-    }
-  },
-  {
-    "id": "5e7a919b0f94f829ecf0c6b2",
-    "title": "France Excellence Eiffel Scholarship Program 2026-2027",
-    "url": "https://opportunitydesk.org/2026/10/14/france-excellence-eiffel-scholarship-program-2026-2027/",
-    "source": "opportunitydesk",
-    "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T17:21:26.000Z",
-    "summary": "Publisher-stated Deadline: Unspecified",
+    "published_at": "2026-10-16T12:57:01.000Z",
+    "summary": "Publisher-stated Deadline: January 6, 2027",
     "tags": [
       "Africa",
       "America",
@@ -58,12 +14,223 @@
       "Australia and Oceania",
       "Europe",
       "Masters/Postgraduate",
+      "Scholarships",
+      "Weidenfeld-Hoffmann Scholarships",
+      "Weidenfeld-Hoffmann Scholarships and Leadership Programme",
+      "Weidenfeld-Hoffmann Scholarships and Leadership Programme 2026",
+      "weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028 apply"
+    ],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": null,
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-taxonomy-and-article-v2",
+      "status": "classified",
+      "evidence": [
+        "https://opportunitydesk.org/2026/10/16/weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028/"
+      ]
+    }
+  },
+  {
+    "id": "fe3e770d37c6ef77085f7305",
+    "title": "CMU-Africa Certificate in Artificial Intelligence for Africa 2027",
+    "url": "https://opportunitydesk.org/2026/10/16/cmu-africa-certificate-in-artificial-intelligence-for-africa-2027/",
+    "source": "opportunitydesk",
+    "source_url": "https://opportunitydesk.org/feed/",
+    "published_at": "2026-10-16T07:09:18.000Z",
+    "summary": "Publisher-stated Deadline: November 15, 2026",
+    "tags": [
+      "Africa",
+      "Online Courses",
+      "Scholarships",
+      "Carnegie Mellon University Africa",
+      "CMU-Africa Certificate in Artificial Intelligence for Africa",
+      "CMU-Africa Certificate in Artificial Intelligence for Africa 2027",
+      "cmu-africa-certificate-in-artificial-intelligence-for-africa-2027 apply"
+    ],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": null,
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-taxonomy-and-article-v2",
+      "status": "classified",
+      "evidence": [
+        "https://opportunitydesk.org/2026/10/16/cmu-africa-certificate-in-artificial-intelligence-for-africa-2027/"
+      ]
+    }
+  },
+  {
+    "id": "5a8b2bb0c705a3fdcb64360c",
+    "title": "African Peacebuilding and Developmental Dynamics (APDD) Individual Research Fellowships 2027",
+    "url": "https://opportunitydesk.org/2026/10/16/apdd-individual-research-fellowships-2027/",
+    "source": "opportunitydesk",
+    "source_url": "https://opportunitydesk.org/feed/",
+    "published_at": "2026-10-16T06:51:43.000Z",
+    "summary": "Publisher-stated Deadline: January 15, 2027",
+    "tags": [
+      "Africa",
+      "Fellowships",
+      "African Peacebuilding and Developmental Dynamics",
+      "African Peacebuilding and Developmental Dynamics (APDD) Individual Research Fellowships 2027",
+      "apdd-individual-research-fellowships-2027 apply",
+      "Social Science Research Council"
+    ],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "fellowships",
+    "categories": [
+      "fellowships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": null,
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-taxonomy-and-article-v2",
+      "status": "classified",
+      "evidence": [
+        "https://opportunitydesk.org/2026/10/16/apdd-individual-research-fellowships-2027/"
+      ]
+    }
+  },
+  {
+    "id": "ac6472fa66a60aca935435f6",
+    "title": "United Nations University (UNU) Junior Fellows Internship 2027",
+    "url": "https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/",
+    "source": "opportunitydesk",
+    "source_url": "https://opportunitydesk.org/feed/",
+    "published_at": "2026-10-16T06:39:15.000Z",
+    "summary": "Publisher-stated Deadline: November 1, 2026",
+    "tags": [
+      "Africa",
+      "America",
+      "Asia",
+      "Australia and Oceania",
+      "Europe",
+      "Hot Jobs",
+      "Internships",
+      "United Nations University",
+      "United Nations University (UNU) Junior Fellows Internship",
+      "United Nations University (UNU) Junior Fellows Internship 2027",
+      "UNU Junior Fellows Internship 2027",
+      "unu-junior-fellows-internship-2027 apply"
+    ],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": null,
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-taxonomy-and-article-v2",
+      "status": "classified",
+      "evidence": [
+        "https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/"
+      ]
+    }
+  },
+  {
+    "id": "ce72c1861203f89bab56bd3e",
+    "title": "WWF Russell E. Train Fellowships 2027 (up to $15,000)",
+    "url": "https://opportunitydesk.org/2026/10/16/wwf-russell-e-train-fellowships-2027/",
+    "source": "opportunitydesk",
+    "source_url": "https://opportunitydesk.org/feed/",
+    "published_at": "2026-10-16T06:18:55.000Z",
+    "summary": "Publisher-stated Deadline: December 15, 2026",
+    "tags": [
+      "Africa",
+      "Fellowships",
+      "WWF Russell E. Train Fellowships",
+      "WWF Russell E. Train Fellowships 2027",
+      "wwf-russell-e-train-fellowships-2027 apply"
+    ],
+    "location": null,
+    "deadline": null,
+    "language": "en",
+    "category": "fellowships",
+    "categories": [
+      "fellowships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": null,
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-taxonomy-and-article-v2",
+      "status": "classified",
+      "evidence": [
+        "https://opportunitydesk.org/2026/10/16/wwf-russell-e-train-fellowships-2027/"
+      ]
+    }
+  },
+  {
+    "id": "e5900e53a2320bfc35b7e73e",
+    "title": "Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028",
+    "url": "https://opportunitydesk.org/2026/10/15/tmu-global-migration-institute-scholarships-2027-2028/",
+    "source": "opportunitydesk",
+    "source_url": "https://opportunitydesk.org/feed/",
+    "published_at": "2026-10-15T14:31:12.000Z",
+    "summary": "Publisher-stated Deadline: April 1, 2027",
+    "tags": [
+      "Masters/Postgraduate",
       "PhD/Postdoctoral",
       "Scholarships",
-      "France Excellence Eiffel Scholarship",
-      "France Excellence Eiffel Scholarship Program",
-      "France Excellence Eiffel Scholarship Program 2026-2027",
-      "france-excellence-eiffel-scholarship-program-2026-2027 apply"
+      "tmu-global-migration-institute-scholarships-2027-2028 apply",
+      "Toronto Metropolitan University",
+      "Toronto Metropolitan University Global Migration Institute Scholarships",
+      "Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028"
     ],
     "location": null,
     "deadline": null,
@@ -76,28 +243,28 @@
     "host_countries": [],
     "eligible_countries": [],
     "publisher_country": null,
-    "created_at": "2026-10-14T17:22:14.977Z",
-    "updated_at": "2026-10-14T17:22:14.977Z",
-    "first_seen_at": "2026-10-14T17:22:14.977Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-taxonomy-and-article-v2",
       "status": "classified",
       "evidence": [
-        "https://opportunitydesk.org/2026/10/14/france-excellence-eiffel-scholarship-program-2026-2027/"
+        "https://opportunitydesk.org/2026/10/15/tmu-global-migration-institute-scholarships-2027-2028/"
       ]
     }
   },
   {
-    "id": "7fac80f202ee0eb956e43bb7",
-    "title": "Tyler Prize Student Ambassador 2027",
-    "url": "https://opportunitydesk.org/2026/10/14/tyler-prize-student-ambassador-2027/",
+    "id": "0511104625069e2baeca23c4",
+    "title": "Deutsche Welle (DW) Traineeship 2028-2029",
+    "url": "https://opportunitydesk.org/2026/10/15/dw-traineeship-2028-2029/",
     "source": "opportunitydesk",
     "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T17:12:15.000Z",
-    "summary": "Publisher-stated Deadline: October 30, 2026",
+    "published_at": "2026-10-15T14:04:59.000Z",
+    "summary": "Publisher-stated Deadline: November 17, 2026",
     "tags": [
       "Africa",
       "America",
@@ -105,260 +272,82 @@
       "Australia and Oceania",
       "Europe",
       "Hot Jobs",
-      "Volunteering",
-      "Tyler Prize",
-      "Tyler Prize Student Ambassador",
-      "Tyler Prize Student Ambassador 2027",
-      "tyler-prize-student-ambassador-2027 apply"
+      "Internships",
+      "Training",
+      "Deutsche Welle",
+      "Deutsche Welle (DW) Traineeship",
+      "Deutsche Welle (DW) Traineeship 2028-2029",
+      "DW Traineeship 2028-2029",
+      "dw-traineeship-2028-2029 apply"
     ],
     "location": null,
     "deadline": null,
     "language": "en",
-    "category": "volunteering",
+    "category": "internships",
     "categories": [
-      "volunteering"
+      "internships",
+      "training"
     ],
     "kind": "opportunity",
     "host_countries": [],
     "eligible_countries": [],
     "publisher_country": null,
-    "created_at": "2026-10-14T17:22:14.977Z",
-    "updated_at": "2026-10-14T17:22:14.977Z",
-    "first_seen_at": "2026-10-14T17:22:14.977Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-taxonomy-and-article-v2",
       "status": "classified",
       "evidence": [
-        "https://opportunitydesk.org/2026/10/14/tyler-prize-student-ambassador-2027/"
+        "https://opportunitydesk.org/2026/10/15/dw-traineeship-2028-2029/"
       ]
     }
   },
   {
-    "id": "707809a8de22ec8bea18ff41",
-    "title": "From Rejections to ‘Congratulations’ : What to Do After Winning a Life-Changing Scholarship",
-    "url": "https://opportunitydesk.org/2026/10/14/from-rejections-to-congratulations-what-to-do-after-winning-a-life-changing-scholarship/",
+    "id": "3284be6654931363e8f1f712",
+    "title": "Call for Proposals – Rockefeller Foundation Cities Deliver: AI Solutions for Public Services 2026",
+    "url": "https://opportunitydesk.org/2026/10/15/rockefeller-foundation-cities-deliver-ai-solutions-for-public-services-2026/",
     "source": "opportunitydesk",
     "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T15:15:16.000Z",
-    "summary": "",
-    "tags": [
-      "Scholarships",
-      "Africa",
-      "Europe",
-      "India",
-      "Kenya",
-      "Nigeria",
-      "Uganda",
-      "UNESCO",
-      "United Nations",
-      "Youth"
-    ],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": null,
-    "created_at": "2026-10-14T17:22:14.977Z",
-    "updated_at": "2026-10-14T17:22:14.977Z",
-    "first_seen_at": "2026-10-14T17:22:14.977Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-taxonomy-and-article-v2",
-      "status": "classified",
-      "evidence": [
-        "https://opportunitydesk.org/2026/10/14/from-rejections-to-congratulations-what-to-do-after-winning-a-life-changing-scholarship/"
-      ]
-    }
-  },
-  {
-    "id": "a9a013d68da811760ed2ec2c",
-    "title": "Call for Volunteers: Atlantic Dialogues Conference 2026",
-    "url": "https://opportunitydesk.org/2026/10/14/call-for-volunteers-atlantic-dialogues-2026/",
-    "source": "opportunitydesk",
-    "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T12:11:24.000Z",
-    "summary": "Publisher-stated Deadline: October 18, 2026",
+    "published_at": "2026-10-15T11:35:21.000Z",
+    "summary": "Publisher-stated Deadline: November 29, 2026",
     "tags": [
       "Africa",
       "America",
       "Asia",
       "Australia and Oceania",
       "Europe",
-      "Hot Jobs",
-      "Volunteering",
-      "Atlantic Dialogues Conference",
-      "Atlantic Dialogues Conference 2026",
-      "call-for-volunteers-atlantic-dialogues-2026 apply",
-      "Policy Center for the New South"
+      "Grants",
+      "OpenAI Foundation",
+      "Rockefeller Foundation",
+      "Rockefeller Foundation Cities Deliver: AI Solutions for Public Services",
+      "rockefeller-foundation-cities-deliver-ai-solutions-for-public-services-2026 apply"
     ],
     "location": null,
     "deadline": null,
     "language": "en",
-    "category": "volunteering",
+    "category": "grants",
     "categories": [
-      "volunteering"
+      "grants"
     ],
     "kind": "opportunity",
     "host_countries": [],
     "eligible_countries": [],
     "publisher_country": null,
-    "created_at": "2026-10-14T17:22:14.977Z",
-    "updated_at": "2026-10-14T17:22:14.977Z",
-    "first_seen_at": "2026-10-14T17:22:14.977Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
+    "created_at": "2026-10-16T13:02:01.745Z",
+    "updated_at": "2026-10-16T13:02:01.745Z",
+    "first_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_seen_at": "2026-10-16T13:02:01.745Z",
+    "last_checked_at": "2026-10-16T13:02:01.745Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-taxonomy-and-article-v2",
       "status": "classified",
       "evidence": [
-        "https://opportunitydesk.org/2026/10/14/call-for-volunteers-atlantic-dialogues-2026/"
-      ]
-    }
-  },
-  {
-    "id": "c4bc94f7f178a54d5d281580",
-    "title": "World Economic Forum Technology Pioneers 2027",
-    "url": "https://opportunitydesk.org/2026/10/14/world-economic-forum-technology-pioneers-2027/",
-    "source": "opportunitydesk",
-    "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T12:09:25.000Z",
-    "summary": "Publisher-stated Deadline: January 31, 2027",
-    "tags": [
-      "Africa",
-      "America",
-      "Asia",
-      "Australia and Oceania",
-      "Europe",
-      "Fellowships",
-      "World Economic Forum",
-      "World Economic Forum Technology Pioneers",
-      "World Economic Forum Technology Pioneers 2027",
-      "world-economic-forum-technology-pioneers-2027 apply"
-    ],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "fellowships",
-    "categories": [
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": null,
-    "created_at": "2026-10-14T17:22:14.977Z",
-    "updated_at": "2026-10-14T17:22:14.977Z",
-    "first_seen_at": "2026-10-14T17:22:14.977Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-taxonomy-and-article-v2",
-      "status": "classified",
-      "evidence": [
-        "https://opportunitydesk.org/2026/10/14/world-economic-forum-technology-pioneers-2027/"
-      ]
-    }
-  },
-  {
-    "id": "8a0cde112ec30a33509c7303",
-    "title": "International Funders for Indigenous Peoples (IFIP) Global Conference 2027 Scholarship",
-    "url": "https://opportunitydesk.org/2026/10/14/ifip-global-conference-2027-scholarship/",
-    "source": "opportunitydesk",
-    "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T11:48:44.000Z",
-    "summary": "Publisher-stated Deadline: November 6, 2026",
-    "tags": [
-      "Africa",
-      "America",
-      "Asia",
-      "Conferences",
-      "Scholarships",
-      "IFIP Global Conference",
-      "IFIP Global Conference 2027 Scholarship",
-      "ifip-global-conference-2027-scholarship apply",
-      "International Funders for Indigenous Peoples",
-      "International Funders for Indigenous Peoples (IFIP) Global Conference 2027 Scholarship"
-    ],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": null,
-    "created_at": "2026-10-14T12:08:28.060Z",
-    "updated_at": "2026-10-14T12:08:28.060Z",
-    "first_seen_at": "2026-10-14T12:08:28.060Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-taxonomy-and-article-v2",
-      "status": "classified",
-      "evidence": [
-        "https://opportunitydesk.org/2026/10/14/ifip-global-conference-2027-scholarship/"
-      ]
-    }
-  },
-  {
-    "id": "6dae91ddcfd59ff1df81f21c",
-    "title": "Royal Society Dorothy Hodgkin Fellowship 2027 (Funded)",
-    "url": "https://opportunitydesk.org/2026/10/14/dorothy-hodgkin-fellowship-2027/",
-    "source": "opportunitydesk",
-    "source_url": "https://opportunitydesk.org/feed/",
-    "published_at": "2026-10-14T11:35:19.000Z",
-    "summary": "Publisher-stated Deadline: October 29, 2026",
-    "tags": [
-      "Africa",
-      "America",
-      "Asia",
-      "Australia and Oceania",
-      "Europe",
-      "Fellowships",
-      "dorothy-hodgkin-fellowship-2027 apply",
-      "Royal Society",
-      "Royal Society Dorothy Hodgkin Fellowship",
-      "Royal Society Dorothy Hodgkin Fellowship 2027"
-    ],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "fellowships",
-    "categories": [
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": null,
-    "created_at": "2026-10-14T12:08:28.060Z",
-    "updated_at": "2026-10-14T12:08:28.060Z",
-    "first_seen_at": "2026-10-14T12:08:28.060Z",
-    "last_seen_at": "2026-10-15T06:34:59.818Z",
-    "last_checked_at": "2026-10-15T06:34:59.818Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-taxonomy-and-article-v2",
-      "status": "classified",
-      "evidence": [
-        "https://opportunitydesk.org/2026/10/14/dorothy-hodgkin-fellowship-2027/"
+        "https://opportunitydesk.org/2026/10/15/rockefeller-foundation-cities-deliver-ai-solutions-for-public-services-2026/"
       ]
     }
   }
