@@ -26,8 +26,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -63,8 +63,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -101,8 +101,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -140,8 +140,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -180,8 +180,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -216,8 +216,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -225,43 +225,6 @@
       "evidence": [
         "Fulbright Denmark — Danish-American Fulbright Commission",
         "https://fulbrightcenter.dk/grantsforamericans/fulbright-for-scholars/fulbright-schuman/"
-      ]
-    }
-  },
-  {
-    "id": "30df1ea66e2f2dfb14cf8d3a",
-    "title": "Fulbright Denmark: Inger P. Davis Grant in Social Sciences - Danish students:",
-    "url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-denmark-inger-p-davis-grant-in-social-sciences/",
-    "source": "dk-fulbright-center",
-    "source_url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-grants-for-danish-students/apply/",
-    "published_at": null,
-    "summary": "Academic year: 2023/2024. Award: One semester: DKK 50,000 Two semesters: DKK 100,000. Deadline: The deadline for the academic year 2023/2024 has passed. The competition for the academic year 2024/2025 will be announced in earl.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "DK",
-    "created_at": "2026-10-09T06:26:13.834Z",
-    "updated_at": "2026-10-14T03:52:55.528Z",
-    "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Denmark — Danish-American Fulbright Commission",
-        "https://fulbrightcenter.dk/go-to-the-us/fulbright-denmark-inger-p-davis-grant-in-social-sciences/"
       ]
     }
   },
@@ -290,8 +253,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -329,8 +292,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -349,7 +312,7 @@
     "source": "dk-fulbright-center",
     "source_url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-grants-for-danish-students/apply/",
     "published_at": null,
-    "summary": "Academic year: 2027/2028 (Fall 2027 and/or Spring 2028). Award: 1 Victor Borge Music Scholarship. Deadline: Wednesday, February 17, 2027 at 12:00 (noon) CET.. Eligibility:  You must be eligible for the Core Fulbright Student Grant in order to be considered for the Thanks to Scandinavia Scholarship..",
+    "summary": "Academic year: 2027/2028 (Fall 2027 and/or Spring 2028). Amount: USD 20,000. Deadline: Wednesday, February 17, 2027 at 12:00 (noon) CET.. Eligibility:  You must be eligible for the Core Fulbright Student Grant in order to be considered for the Thanks to Scandinavia Scholarship..",
     "tags": [],
     "location": null,
     "deadline": "2027-02-17T11:00:00.000Z",
@@ -365,10 +328,10 @@
     "eligible_countries": [],
     "publisher_country": "DK",
     "created_at": "2026-10-09T06:26:13.834Z",
-    "updated_at": "2026-10-14T03:52:55.528Z",
+    "updated_at": "2026-10-16T06:12:55.972Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -387,7 +350,7 @@
     "source": "dk-fulbright-center",
     "source_url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-grants-for-danish-students/apply/",
     "published_at": null,
-    "summary": "Award: Host institutions design collaborative projects in over 20 eligible disciplines, including education, business, law, environmental science, journalism, and public health. Specific project activities may include. Eligibility: For specialists: Be a U.S. citizen; and have significant experience in one of the eligible disciplines, as demonstrated by professional, academic, or artistic achievements. For hos.",
+    "summary": "Award: Host institutions design collaborative projects in over 20 eligible disciplines, including education, business, law, environmental science, journalism, and public health. Specific project activities may include. Eligibility: Institutions of Higher Education, Government institutions, Cultural institutions, NGOs, Medical or Public Health Institutions..",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -403,10 +366,10 @@
     "eligible_countries": [],
     "publisher_country": "DK",
     "created_at": "2026-10-09T06:26:13.834Z",
-    "updated_at": "2026-10-14T03:52:55.528Z",
+    "updated_at": "2026-10-16T06:12:55.972Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -414,43 +377,6 @@
       "evidence": [
         "Fulbright Denmark — Danish-American Fulbright Commission",
         "https://fulbrightcenter.dk/grantsforamericans/fulbright-specialist-grant-program/"
-      ]
-    }
-  },
-  {
-    "id": "4d332b47fffda18b84417301",
-    "title": "Fulbright Denmark: Inger P. Davis Grant in Social Sciences - Danish scholars:",
-    "url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-denmark-inger-p-davis-grant-in-social-sciences/",
-    "source": "dk-fulbright-center",
-    "source_url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-grants-for-danish-students/apply/",
-    "published_at": null,
-    "summary": "Academic year: 2023/2024. Award: One or two semesters: DKK 200,000. Deadline: The deadline for the academic year 2023/2024 has passed. The competition for the academic year 2024/2025 will be announced in earl.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "DK",
-    "created_at": "2026-10-09T06:26:13.834Z",
-    "updated_at": "2026-10-14T03:52:55.528Z",
-    "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Denmark — Danish-American Fulbright Commission",
-        "https://fulbrightcenter.dk/go-to-the-us/fulbright-denmark-inger-p-davis-grant-in-social-sciences/"
       ]
     }
   },
@@ -479,8 +405,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -516,8 +442,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -553,8 +479,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -592,8 +518,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -627,8 +553,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -664,8 +590,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -673,41 +599,6 @@
       "evidence": [
         "Fulbright Denmark — Danish-American Fulbright Commission",
         "https://fulbrightcenter.dk/grantsforamericans/fulbright-for-scholars/scholar-grants-all-disciplines/"
-      ]
-    }
-  },
-  {
-    "id": "a2061088c44ebf3fe154c036",
-    "title": "Fulbright Arctic Initiative III",
-    "url": "https://fulbrightcenter.dk/scholars/arctic-initiative-iii/",
-    "source": "dk-fulbright-center",
-    "source_url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-grants-for-danish-students/apply/",
-    "published_at": null,
-    "summary": "Academic year: 2021/2022. Amount: USD 40,000. Deadline: The competition is closed.. Eligibility: Citizens and residents from Denmark, Greenland and the Faroe Islands Academic researchers in the natural and social sciences, Indigenous and local knowledge holders, professionals .",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "DK",
-    "created_at": "2026-10-09T06:26:13.834Z",
-    "updated_at": "2026-10-14T03:52:55.528Z",
-    "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Denmark — Danish-American Fulbright Commission",
-        "https://fulbrightcenter.dk/scholars/arctic-initiative-iii/"
       ]
     }
   },
@@ -738,8 +629,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -776,8 +667,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -813,8 +704,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -852,8 +743,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -890,8 +781,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -927,8 +818,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -965,8 +856,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1002,8 +893,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -1039,8 +930,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1076,8 +967,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1115,8 +1006,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -1152,8 +1043,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -1191,8 +1082,8 @@
     "created_at": "2026-10-09T06:26:13.834Z",
     "updated_at": "2026-10-14T03:52:55.528Z",
     "first_seen_at": "2026-10-09T06:26:13.834Z",
-    "last_seen_at": "2026-10-15T15:41:04.897Z",
-    "last_checked_at": "2026-10-15T15:43:32.068Z",
+    "last_seen_at": "2026-10-16T06:12:55.972Z",
+    "last_checked_at": "2026-10-16T06:19:17.377Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",

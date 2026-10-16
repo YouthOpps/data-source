@@ -1,4 +1,5 @@
 {
+  "display_name": "Fulbright Denmark",
   "source": "dk-fulbright-center",
   "source_url": "https://fulbrightcenter.dk/go-to-the-us/fulbright-grants-for-danish-students/apply/",
   "website_url": "https://fulbrightcenter.dk/",
@@ -6,11 +7,11 @@
   "publisher_country": "DK",
   "publisher_type": "government",
   "status": "success",
-  "last_attempt_at": "2026-10-15T15:41:04.897Z",
-  "last_success_at": "2026-10-15T15:41:04.897Z",
-  "last_checked_at": "2026-10-15T15:43:32.068Z",
-  "record_count": 32,
-  "message": "Validated refresh retains 32 validated Fulbright Denmark funding and educational programmes",
+  "last_attempt_at": "2026-10-16T06:12:55.972Z",
+  "last_success_at": "2026-10-16T06:12:55.972Z",
+  "last_checked_at": "2026-10-16T06:19:17.377Z",
+  "record_count": 29,
+  "message": "Validated refresh retains 29 validated Fulbright Denmark funding and educational programmes",
   "error": null,
   "attribution": "Fulbright Denmark — Danish-American Fulbright Commission"
 }
