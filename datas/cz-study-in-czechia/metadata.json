@@ -8,11 +8,11 @@
   "publisher_country": "CZ",
   "publisher_type": "government",
   "status": "success",
-  "last_attempt_at": "2026-10-15T15:53:30.073Z",
-  "last_success_at": "2026-10-15T15:53:30.073Z",
-  "last_checked_at": "2026-10-15T16:43:26.328Z",
-  "record_count": 180,
-  "message": "Collected 180 validated Study in Czechia funding programmes and placements",
+  "last_attempt_at": "2026-10-16T04:46:01.010Z",
+  "last_success_at": "2026-10-16T04:46:01.010Z",
+  "last_checked_at": "2026-10-16T06:32:45.611Z",
+  "record_count": 174,
+  "message": "Collected 174 validated Study in Czechia funding programmes and placements",
   "error": null,
   "attribution": "Study in Czechia — Czech National Agency for International Education and Research (DZS); official programme portal"
 }
