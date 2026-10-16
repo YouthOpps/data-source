@@ -6,13 +6,12 @@
   "language": "fr",
   "publisher_country": "BE",
   "publisher_type": "government",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T15:55:19.751Z",
-  "last_success_at": "2026-10-15T12:30:15.650Z",
-  "last_checked_at": "2026-10-15T12:33:18.607Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-16T06:46:08.784Z",
+  "last_success_at": "2026-10-16T06:46:08.784Z",
+  "last_checked_at": "2026-10-16T06:54:39.127Z",
   "record_count": 20,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed; durable remote outcome could not be updated",
-  "attribution": "Wallonie-Bruxelles International (WBI) – www.wbi.be",
-  "failure_stage": "publish"
+  "message": "Collected 20 validated WBI funded opportunities",
+  "error": null,
+  "attribution": "Wallonie-Bruxelles International (WBI) – www.wbi.be"
 }
