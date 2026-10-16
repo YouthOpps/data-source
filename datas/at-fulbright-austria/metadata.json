@@ -1,4 +1,5 @@
 {
+  "display_name": "Fulbright Austria",
   "source": "at-fulbright-austria",
   "name": "Fulbright Austria",
   "source_url": "https://www.fulbright.at/programs/in-austria/students/full-time-study-research-grants",
@@ -7,9 +8,9 @@
   "publisher_country": "AT",
   "publisher_type": "non-profit",
   "status": "success",
-  "last_attempt_at": "2026-10-15T08:34:56.817Z",
-  "last_success_at": "2026-10-15T08:34:56.817Z",
-  "last_checked_at": "2026-10-15T08:40:15.848Z",
+  "last_attempt_at": "2026-10-16T02:27:55.649Z",
+  "last_success_at": "2026-10-16T02:27:55.649Z",
+  "last_checked_at": "2026-10-16T02:42:14.737Z",
   "record_count": 13,
   "message": "Validated refresh retains 13 validated Fulbright Austria awards and teaching positions",
   "error": null,
