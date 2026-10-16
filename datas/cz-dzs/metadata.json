@@ -8,11 +8,12 @@
   "publisher_country": "CZ",
   "publisher_type": "government",
   "attribution": "Dům zahraniční spolupráce (DZS), Czech National Agency for International Education and Research; European Commission/EACEA; SALTO-YOUTH https://www.salto-youth.net/ and the named training organisers",
-  "status": "success",
-  "last_attempt_at": "2026-10-16T04:31:48.211Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-16T23:04:14.131Z",
   "last_success_at": "2026-10-16T04:31:48.211Z",
   "last_checked_at": "2026-10-16T04:39:32.351Z",
   "record_count": 2,
-  "message": "Collected 2 published ESC grants and training offers",
-  "error": null
+  "message": "Collection failed; last-good data preserved",
+  "error": "Unclassified advertised event: https://www.dzs.cz/udalost/solidvibe-2026-vyrocni-setkani-evropskeho-sboru-solidarity",
+  "failure_stage": "parse"
 }
