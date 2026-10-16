@@ -6,14 +6,13 @@
   "language": "en",
   "publisher_country": "EE",
   "publisher_type": "government",
-  "status": "fail",
-  "last_attempt_at": "2026-10-15T15:48:38.890Z",
-  "last_success_at": "2026-10-15T11:16:24.743Z",
-  "last_checked_at": "2026-10-15T11:16:24.743Z",
-  "record_count": 29,
-  "publisher_next_request_at": "2026-10-15T15:57:39.405Z",
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publication failed: Publication failed after 3 attempts; last failure: GitHub PATCH /git/refs/heads/main returned HTTP 422",
-  "attribution": "Estonian Education and Youth Board (Harno)",
-  "failure_stage": "publish"
+  "status": "success",
+  "last_attempt_at": "2026-10-16T05:19:41.862Z",
+  "last_success_at": "2026-10-16T05:19:41.862Z",
+  "last_checked_at": "2026-10-16T05:19:41.862Z",
+  "record_count": 20,
+  "publisher_next_request_at": "2026-10-16T05:30:51.112Z",
+  "message": "Collected 20 validated Harno funding records",
+  "error": null,
+  "attribution": "Estonian Education and Youth Board (Harno)"
 }
