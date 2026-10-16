@@ -7,12 +7,12 @@
   "publisher_country": "BD",
   "publisher_type": "aggregator",
   "status": "success",
-  "last_attempt_at": "2026-10-15T16:20:54.239Z",
-  "last_success_at": "2026-10-15T16:20:54.239Z",
-  "last_checked_at": "2026-10-15T16:20:54.239Z",
-  "record_count": 420,
+  "last_attempt_at": "2026-10-16T16:52:57.998Z",
+  "last_success_at": "2026-10-16T16:52:57.998Z",
+  "last_checked_at": "2026-10-16T16:52:57.998Z",
+  "record_count": 415,
   "inventory_scope": "complete-publisher-browse-opportunities",
-  "message": "Validated refresh retains 420 records",
+  "message": "Validated refresh retains 415 records",
   "error": null,
   "attribution": "Youth Opportunities"
 }
