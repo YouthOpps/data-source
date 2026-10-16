@@ -25,8 +25,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -35,45 +35,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: journalist-training",
         "Current source fields: Two-week US training for practicing journalists with professional experience and B2 English. The publisher funds the training visit. Bulgarian-citizen wording conflicts with a broader country-origin list, so no passport whitelist is inferred."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "0483ba6ff6486813d631e5ce",
-    "title": "PMI-ACP preparation — October2023 completed edition",
-    "url": "https://www.fulbright.bg/en/agile-certified-practitioner-pmi-acp-training/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Paid English PMI-ACP certification preparation in Sofia. Edition schedule: 20-21-22 Oct, 2023. Edition fee: EUR 500, VAT excl.. The edition dates are event dates, not application deadlines. Exam eligibility is separate from course enrollment.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: agile-course-2023-october",
-        "Current source fields: Paid English PMI-ACP certification preparation in Sofia. Edition schedule: 20-21-22 Oct, 2023. Edition fee: EUR 500, VAT excl.. The edition dates are event dates, not application deadlines. Exam eligibility is separate from course enrollment."
       ]
     },
     "summary_language": "en"
@@ -106,8 +67,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -116,47 +77,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: specialist-us-professional",
         "Current source fields: Experienced US citizens can apply for Specialist roster consideration and institutional education assignments lasting 14–42 days. Roster acceptance does not guarantee a funded project; match and approval are required."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "17e1cfdd0e48170f7f4db777",
-    "title": "Fulbright graduate study grants for Bulgarians 2027–28",
-    "url": "https://www.fulbright.bg/en/graduate-students-bg/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "US degree study for 10 months; funding up to USD 66,000 toward tuition and living costs. Round-trip travel and health coverage are included. Consult the current eligibility and standardized-test requirements on the programme page.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "BG"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: graduate-study",
-        "Current source fields: US degree study for 10 months; funding up to USD 66,000 toward tuition and living costs. Round-trip travel and health coverage are included. Consult the current eligibility and standardized-test requirements on the programme page."
       ]
     },
     "summary_language": "en"
@@ -186,8 +106,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -228,8 +148,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -268,8 +188,8 @@
     "created_at": "2026-10-14T21:18:28.910Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-14T21:18:28.910Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "open",
     "classification": {
       "method": "publisher-field-extraction",
@@ -311,8 +231,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -321,45 +241,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: us-graduate-bg-greece",
         "Current source fields: Joint comparative study/research in Bulgaria and Greece. Duration: 9 months. Monthly stipend: USD 1,200. The source also describes travel, research and health support. The page is archived; no current opening is inferred."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "4ef6dc0c4775f16604c55361",
-    "title": "PMI-ACP preparation — February2024 fully booked edition",
-    "url": "https://www.fulbright.bg/en/agile-certified-practitioner-pmi-acp-training/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Paid English PMI-ACP certification preparation in Sofia. Edition schedule: 9-10-11 February, 2024. Edition fee: EUR 500, VAT excl.. The edition dates are event dates, not application deadlines. Exam eligibility is separate from course enrollment.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: agile-course-2024-february",
-        "Current source fields: Paid English PMI-ACP certification preparation in Sofia. Edition schedule: 9-10-11 February, 2024. Edition fee: EUR 500, VAT excl.. The edition dates are event dates, not application deadlines. Exam eligibility is separate from course enrollment."
       ]
     },
     "summary_language": "en"
@@ -392,8 +273,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -431,8 +312,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -473,8 +354,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -483,46 +364,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: us-graduate-study",
         "Current source fields: Study/research in Bulgaria. Duration: 10 months. Monthly stipend: USD 1,200. The source also describes travel, research and health support. The page is archived; no current opening is inferred."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "6fb746cc2b459d82b3d64630",
-    "title": "Fulbright mathematics research scholarship 2026–27",
-    "url": "https://www.fulbright.bg/en/math-scholars/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Mathematics research at the University of Miami/IMSA, with USD 4,800 monthly maintenance. Travel, settling support and health coverage are included. The source specifies early-career PhD and institutional conditions.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants",
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: mathematics-research",
-        "Current source fields: Mathematics research at the University of Miami/IMSA, with USD 4,800 monthly maintenance. Travel, settling support and health coverage are included. The source specifies early-career PhD and institutional conditions."
       ]
     },
     "summary_language": "en"
@@ -555,8 +396,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "open",
     "classification": {
       "method": "publisher-field-extraction",
@@ -595,8 +436,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -635,8 +476,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -678,8 +519,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -688,45 +529,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: us-graduate-bg-romania",
         "Current source fields: Joint comparative study/research in Bulgaria and Romania. Duration: 10 months. Monthly stipend: USD 1,200. The source also describes travel, research and health support. The page is archived; no current opening is inferred."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "ad18cb107c615dc563adb911",
-    "title": "Fulbright International Seminar2022 — historical edition",
-    "url": "https://www.fulbright.bg/en/fulbright-international-seminar-2022/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical hybrid rule-of-law seminar in Sofia, with distinct in-person and online participation. Students, civic activists and professionals are described as participants. No complete application closing or guaranteed travel allowance is published.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "programme-overview",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: international-seminar-2022",
-        "Current source fields: Historical hybrid rule-of-law seminar in Sofia, with distinct in-person and online participation. Students, civic activists and professionals are described as participants. No complete application closing or guaranteed travel allowance is published."
       ]
     },
     "summary_language": "en"
@@ -760,8 +562,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -770,87 +572,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: us-graduate-archaeology",
         "Current source fields: Bulgaria archaeology/history placement with the Balkan Heritage Foundation. Duration: 10 months. Monthly stipend: USD 1,200. The source also describes travel, research and health support. The page is archived; no current opening is inferred."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "af66029e07ed276dfd97e689",
-    "title": "Hubert H. Humphrey fellowships",
-    "url": "https://www.fulbright.bg/en/hubert-humphrey/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "US nondegree leadership development for mid-career professionals. Minimum English scores are TOEFL 72, Duolingo 100 or IELTS 6.0. The source requires postdegree full-time professional experience and management or policy responsibilities. Academic study and a professional affiliation form part of the programme.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "fellowships",
-    "categories": [
-      "fellowships",
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "BG"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: humphrey-fellowship",
-        "Current source fields: US nondegree leadership development for mid-career professionals. Minimum English scores are TOEFL 72, Duolingo 100 or IELTS 6.0. The source requires postdegree full-time professional experience and management or policy responsibilities. Academic study and a professional affiliation form part of the programme."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "b71c73e7b79ce9c1b38ddb14",
-    "title": "Fulbright International Seminar2019 — historical edition",
-    "url": "https://www.fulbright.bg/en/fulbright-international-seminar-2019/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Historical democracy seminar in Sofia and Plovdiv, with structured lectures, workshops and participant projects. Attendance-country lists do not establish a citizenship whitelist; no current opening is inferred.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: international-seminar-2019",
-        "Current source fields: Historical democracy seminar in Sofia and Plovdiv, with structured lectures, workshops and participant projects. Attendance-country lists do not establish a citizenship whitelist; no current opening is inferred."
       ]
     },
     "summary_language": "en"
@@ -880,8 +601,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -917,8 +638,8 @@
     "created_at": "2026-10-14T21:18:28.910Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-14T21:18:28.910Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -927,84 +648,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: educationusa-group-advising",
         "Current source fields: Structured virtual college-application preparation for grades 8–12, with weekly advising and reading, writing, testing and community-service activities. Participation requires commitment; grade-12 entry timing is yearless. US admission is not guaranteed. This is training/advising, rather than a scholarship."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "d12b8026794d73508d7c48da",
-    "title": "Fulbright Bulgarian Leaders awards 2026–27",
-    "url": "https://www.fulbright.bg/en/fulbright-bulgarian-leaders/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Self-placement funding up to USD 100,000 for MA/PhD students admitted to a US programme ranked in the top 15 in its field. The award can span several academic years. Recipients sign a three-year return-to-Bulgaria agreement.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: bulgarian-leaders",
-        "Current source fields: Self-placement funding up to USD 100,000 for MA/PhD students admitted to a US programme ranked in the top 15 in its field. The award can span several academic years. Recipients sign a three-year return-to-Bulgaria agreement."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "d8b1e8f0dfc8151c4904738f",
-    "title": "PMP/CAPM course — September/October2026 edition",
-    "url": "https://www.fulbright.bg/en/project-management-professional-pmp-capm/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "Paid English PMP certification preparation in Sofia. Edition schedule: September 25-26-27, October 3-4, 2026. This edition has no published fee; another edition’s price is not transferred. The edition dates are event dates, not application deadlines. Exam eligibility is separate from course enrollment.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "en",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "programme-overview",
-    "host_countries": [
-      "BG"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: pmp-course-2026-september",
-        "Current source fields: Paid English PMP certification preparation in Sofia. Edition schedule: September 25-26-27, October 3-4, 2026. This edition has no published fee; another edition’s price is not transferred. The edition dates are event dates, not application deadlines. Exam eligibility is separate from course enrollment."
       ]
     },
     "summary_language": "en"
@@ -1037,8 +680,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-field-extraction",
@@ -1079,8 +722,8 @@
     "created_at": "2026-10-09T04:04:19.711Z",
     "updated_at": "2026-10-14T21:18:28.910Z",
     "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
+    "last_seen_at": "2026-10-16T07:44:30.935Z",
+    "last_checked_at": "2026-10-16T07:55:00.269Z",
     "status": "open",
     "classification": {
       "method": "publisher-field-extraction",
@@ -1089,48 +732,6 @@
         "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
         "Programme/track: doctoral-research",
         "Current source fields: Nondegree US research for enrolled doctoral students, lasting 4–6 months. Destination-based monthly maintenance, return travel and health coverage are provided. A US host invitation is required. The source excludes course enrollment by visiting researchers."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "fbb88412642c54d3f68ebe16",
-    "title": "Fulbright civil-society research grants",
-    "url": "https://www.fulbright.bg/npo-research/",
-    "source": "bg-fulbright-bulgaria",
-    "source_url": "https://www.fulbright.bg/en/research-grants-for-bulgarians/",
-    "published_at": null,
-    "summary": "US civil-society research for Bulgarian NGO leaders/representatives, with USD 3,200–4,800 monthly maintenance. A US NGO/university invitation is required. The source’s early-December application closing has no complete year.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "bg",
-    "category": "grants",
-    "categories": [
-      "grants",
-      "fellowships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "BG"
-    ],
-    "publisher_country": "BG",
-    "created_at": "2026-10-09T04:04:19.711Z",
-    "updated_at": "2026-10-14T21:18:28.910Z",
-    "first_seen_at": "2026-10-09T04:04:19.711Z",
-    "last_seen_at": "2026-10-15T10:58:13.328Z",
-    "last_checked_at": "2026-10-15T11:02:40.790Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-field-extraction",
-      "status": "classified",
-      "evidence": [
-        "Fulbright Bulgaria — Bulgarian-American Commission for Educational Exchange",
-        "Programme/track: civil-society-research",
-        "Current source fields: US civil-society research for Bulgarian NGO leaders/representatives, with USD 3,200–4,800 monthly maintenance. A US NGO/university invitation is required. The source’s early-December application closing has no complete year."
       ]
     },
     "summary_language": "en"
