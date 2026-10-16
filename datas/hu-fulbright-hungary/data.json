@@ -26,92 +26,14 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
+    "last_seen_at": "2026-10-16T00:06:14.293Z",
+    "last_checked_at": "2026-10-16T00:06:14.293Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-call-html",
       "status": "classified",
       "evidence": [
         "https://fulbright.hu/fulbright-awards/for-us-citizens/"
-      ]
-    }
-  },
-  {
-    "id": "0e4a05e909f2d1e9c849375e",
-    "title": "Fulbright vendégoktatói ösztöndíj – Indiana University",
-    "url": "https://fulbright.hu/fulbright-vendegoktatoi-osztondij-indiana-university/",
-    "source": "hu-fulbright-hungary",
-    "source_url": "https://fulbright.hu/",
-    "published_at": null,
-    "summary": "Az Indiana University (IU), Bloomington és a Fulbright Bizottság közötti szerződés értelmében egy kiemelt oktatói ösztöndíjat ajánlunk az Indiana University IU Bloomington, School of Global and International Studies, Central Eurasian Studies tanszékére kultúratudomány, irodalom, zene, képzőművészet, néprajz, antropológia, filozófiatörténet stb. területén egy tanévre (10 hónap).",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-15T21:59:59.999999Z",
-    "language": "hu/en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "HU"
-    ],
-    "publisher_country": "HU",
-    "created_at": "2026-10-08T17:41:38.476Z",
-    "updated_at": "2026-10-14T08:57:53.057Z",
-    "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
-    "status": "open",
-    "classification": {
-      "method": "publisher-call-html",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.hu/oktatoi-osztondijak/",
-        "https://fulbright.hu/fulbright-vendegoktatoi-osztondij-indiana-university/"
-      ]
-    }
-  },
-  {
-    "id": "226f6900b658ee90313cc606",
-    "title": "Fulbright Oktatói ösztöndíjak",
-    "url": "https://fulbright.hu/oktatoi-osztondijak/",
-    "source": "hu-fulbright-hungary",
-    "source_url": "https://fulbright.hu/",
-    "published_at": null,
-    "summary": "Oktatási lehetőség a 2027-2028-as tanévben bármely tudományterületen vagy művészeti ágban. Alapfeltétel a pályázott témában 2026. december 1-ig megszerzett PhD/DLA oklevél és az amerikai egyetem meghívólevele. Az ösztöndíj időtartama 1 vagy 2 szemeszter.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-15T21:59:59.999999Z",
-    "language": "hu/en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "HU"
-    ],
-    "publisher_country": "HU",
-    "created_at": "2026-10-08T17:41:38.476Z",
-    "updated_at": "2026-10-14T08:57:53.057Z",
-    "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
-    "status": "open",
-    "classification": {
-      "method": "publisher-call-html",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.hu/",
-        "https://fulbright.hu/oktatoi-osztondijak/"
       ]
     }
   },
@@ -142,8 +64,8 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
+    "last_seen_at": "2026-10-16T00:06:14.293Z",
+    "last_checked_at": "2026-10-16T00:06:14.293Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
@@ -180,8 +102,8 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
+    "last_seen_at": "2026-10-16T00:06:14.293Z",
+    "last_checked_at": "2026-10-16T00:06:14.293Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
@@ -198,10 +120,10 @@
     "source": "hu-fulbright-hungary",
     "source_url": "https://fulbright.hu/",
     "published_at": null,
-    "summary": "Fokozatot nem adó, gyakorlattal egybekötött tanulmányi program magyar mint idegen nyelv oktatók számára, a 2027-2028-as tanévben az Indiana University-n.",
+    "summary": "Fokozatot nem adó, gyakorlattal egybekötött tanulmányi program magyar mint idegen nyelv oktatók számára, a 2027-2028-as tanévben az Indiana University-n. Published deadline time: 23:59; time zone not stated.",
     "tags": [],
     "location": null,
-    "deadline": "2026-10-31T22:59:59.999999Z",
+    "deadline": "2026-10-31",
     "language": "hu/en",
     "category": "scholarships",
     "categories": [
@@ -216,10 +138,10 @@
     ],
     "publisher_country": "HU",
     "created_at": "2026-10-08T17:41:38.476Z",
-    "updated_at": "2026-10-14T08:57:53.057Z",
+    "updated_at": "2026-10-16T00:06:14.293Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
+    "last_seen_at": "2026-10-16T00:06:14.293Z",
+    "last_checked_at": "2026-10-16T00:06:14.293Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
@@ -227,45 +149,6 @@
       "evidence": [
         "https://fulbright.hu/",
         "https://fulbright.hu/hungarian-language-teaching-assistant/"
-      ]
-    }
-  },
-  {
-    "id": "83d8979eba8b9644f58bbdef",
-    "title": "Fulbright Kutatói ösztöndíjak",
-    "url": "https://fulbright.hu/kutatoi-osztondijak/",
-    "source": "hu-fulbright-hungary",
-    "source_url": "https://fulbright.hu/",
-    "published_at": null,
-    "summary": "Kutatási lehetőség a 2027-2028-as tanévben bármely tudományterületen vagy művészeti ágban. Alapfeltétel a pályázott témában 2026. december 1-ig megszerzett PhD/DLA oklevél és az amerikai akkreditált intézmény meghívólevele. Az ösztöndíj időtartama 3 – 5 hónap, a fogadó intézmény anyagi hozzájárulásától függően maximum 9 hónap.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-15T21:59:59.999999Z",
-    "language": "hu/en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "HU"
-    ],
-    "publisher_country": "HU",
-    "created_at": "2026-10-08T17:41:38.476Z",
-    "updated_at": "2026-10-14T08:57:53.057Z",
-    "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
-    "status": "open",
-    "classification": {
-      "method": "publisher-call-html",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.hu/",
-        "https://fulbright.hu/kutatoi-osztondijak/"
       ]
     }
   },
@@ -296,53 +179,14 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
+    "last_seen_at": "2026-10-16T00:06:14.293Z",
+    "last_checked_at": "2026-10-16T00:06:14.293Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
       "status": "classified",
       "evidence": [
         "https://fulbright.hu/special-short-term-grants/"
-      ]
-    }
-  },
-  {
-    "id": "dddf3ae422c6d70ac1b91c1c",
-    "title": "Fulbright vendégoktatói ösztöndíj – The University of Texas at Austin",
-    "url": "https://fulbright.hu/fulbright-vendegoktatoi-osztondij-the-university-of-texas-at-austin/",
-    "source": "hu-fulbright-hungary",
-    "source_url": "https://fulbright.hu/",
-    "published_at": null,
-    "summary": "A University of Texas at Austin és a Fulbright Bizottság közötti szerződés értelmében egy kiemelt oktatói ösztöndíjat ajánlunk a University of Texas at Austin-on egy tanévre (10 hónap).",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-15T21:59:59.999999Z",
-    "language": "hu/en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "HU"
-    ],
-    "publisher_country": "HU",
-    "created_at": "2026-10-08T17:41:38.476Z",
-    "updated_at": "2026-10-14T08:57:53.057Z",
-    "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
-    "status": "open",
-    "classification": {
-      "method": "publisher-call-html",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.hu/oktatoi-osztondijak/",
-        "https://fulbright.hu/fulbright-vendegoktatoi-osztondij-the-university-of-texas-at-austin/"
       ]
     }
   },
@@ -373,8 +217,8 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-15T20:19:22.827Z",
-    "last_checked_at": "2026-10-15T20:19:22.827Z",
+    "last_seen_at": "2026-10-16T00:06:14.293Z",
+    "last_checked_at": "2026-10-16T00:06:14.293Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
