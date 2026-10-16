@@ -1,4 +1,5 @@
 {
+  "display_name": "Danish Ministry of Science, Higher Education and Digital Affairs",
   "source": "dk-study-in-denmark",
   "source_url": "https://studyindenmark.dk/study-options/scholarships",
   "website_url": "https://studyindenmark.dk/",
@@ -6,9 +7,9 @@
   "publisher_country": "DK",
   "publisher_type": "government",
   "status": "success",
-  "last_attempt_at": "2026-10-15T10:44:23.476Z",
-  "last_success_at": "2026-10-15T10:44:23.476Z",
-  "last_checked_at": "2026-10-15T10:46:07.495Z",
+  "last_attempt_at": "2026-10-16T11:44:11.926Z",
+  "last_success_at": "2026-10-16T11:44:11.926Z",
+  "last_checked_at": "2026-10-16T11:50:14.314Z",
   "record_count": 7,
   "message": "Validated refresh retains 7 validated Study in Denmark funded opportunities",
   "error": null,
