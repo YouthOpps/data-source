@@ -9,11 +9,12 @@
   "publisher_country": "DE",
   "publisher_type": "company",
   "attribution": "Volkswagen AG — original factual summaries and direct official individual opportunity links.",
-  "status": "success",
-  "last_attempt_at": "2026-10-16T09:54:52.418Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-18T04:20:35.370Z",
   "last_success_at": "2026-10-16T09:54:52.418Z",
   "last_checked_at": "2026-10-16T10:38:54.928Z",
   "record_count": 157,
-  "message": "Validated refresh retains 157 Volkswagen AG individual opportunities",
-  "error": null
+  "message": "Collection failed; last-good data preserved",
+  "error": "Reviewed Volkswagen AG material or frontier changed: input-196",
+  "failure_stage": "parse"
 }
