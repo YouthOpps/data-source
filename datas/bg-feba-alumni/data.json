@@ -1,5 +1,43 @@
 [
   {
+    "id": "4471fdc9771647d150d230ee",
+    "title": "OMV Offshore Bulgaria, Стопанският факултет и FEBA Alumni Club обявяват конкурс за „OMV Offshore Future Energy Talent Scholarship“ за учебната 2026/2027 г. – краен срок 01.11.2026 г.",
+    "url": "https://febalumni.org/2026/10/19/omv-offshore-bulgaria-stopanskiyat-fakultet-i-feba-alumni-club-obyavyavat-konkurs-za-omv-offshore-future-energy-talent-scholarship-za-uchebnata-20262027-g-kraen-srok-01/",
+    "source": "bg-feba-alumni",
+    "source_url": "https://febalumni.org/news/",
+    "published_at": "2026-10-19T19:36:12.000Z",
+    "summary": "",
+    "tags": [
+      "scholarships"
+    ],
+    "location": null,
+    "deadline": "2026-11-01",
+    "language": "bg/en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "BG"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "BG",
+    "created_at": "2026-10-19T19:52:33.783Z",
+    "updated_at": "2026-10-19T19:52:33.783Z",
+    "first_seen_at": "2026-10-19T19:52:33.783Z",
+    "last_seen_at": "2026-10-19T19:52:33.783Z",
+    "last_checked_at": "2026-10-19T19:52:33.783Z",
+    "status": "unknown",
+    "classification": {
+      "method": "feba-publisher-api",
+      "status": "classified",
+      "evidence": [
+        "https://febalumni.org/2026/10/19/omv-offshore-bulgaria-stopanskiyat-fakultet-i-feba-alumni-club-obyavyavat-konkurs-za-omv-offshore-future-energy-talent-scholarship-za-uchebnata-20262027-g-kraen-srok-01/"
+      ]
+    }
+  },
+  {
     "id": "4020429b4882bf59803029df",
     "title": "FEBA Alumni Club обявява конкурс за „Алумни стипендии за първокурсници“ за учебната 2026/2027 г. – краен срок 20.10.2026 г.",
     "url": "https://febalumni.org/2026/10/05/feba-alumni-club-obyavyava-konkurs-za-alumni-stipendii-za-prvokursniczi-za-uchebnata-20262027-g-kraen-srok-16-10-2026-g/",
@@ -26,8 +64,8 @@
     "created_at": "2026-10-08T12:22:47.576Z",
     "updated_at": "2026-10-14T09:09:57.044Z",
     "first_seen_at": "2026-10-08T12:22:47.576Z",
-    "last_seen_at": "2026-10-18T17:19:55.971Z",
-    "last_checked_at": "2026-10-18T17:19:55.971Z",
+    "last_seen_at": "2026-10-19T19:52:33.783Z",
+    "last_checked_at": "2026-10-19T19:52:33.783Z",
     "status": "unknown",
     "classification": {
       "method": "feba-publisher-api",
