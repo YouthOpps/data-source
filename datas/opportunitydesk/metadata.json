@@ -6,12 +6,13 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "success",
-  "last_attempt_at": "2026-10-19T06:52:09.055Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-20T06:38:39.988Z",
   "last_success_at": "2026-10-19T06:52:09.055Z",
   "last_checked_at": "2026-10-19T06:52:09.055Z",
   "record_count": 10,
-  "message": "Validated refresh retains 10 records",
-  "error": null,
-  "attribution": "Opportunity Desk"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Unreviewed publisher opportunity taxonomy",
+  "attribution": "Opportunity Desk",
+  "failure_stage": "parse"
 }
