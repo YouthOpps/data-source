@@ -7,11 +7,11 @@
   "publisher_country": "DK",
   "publisher_type": "university",
   "status": "success",
-  "last_attempt_at": "2026-10-19T13:53:22.780Z",
-  "last_success_at": "2026-10-19T13:53:22.780Z",
-  "last_checked_at": "2026-10-19T13:53:22.780Z",
-  "record_count": 44,
-  "message": "Validated refresh retains 44 records",
+  "last_attempt_at": "2026-10-20T12:03:41.237Z",
+  "last_success_at": "2026-10-20T12:03:41.237Z",
+  "last_checked_at": "2026-10-20T12:03:41.237Z",
+  "record_count": 45,
+  "message": "Validated refresh retains 45 records",
   "error": null,
   "attribution": "University of Copenhagen"
 }
