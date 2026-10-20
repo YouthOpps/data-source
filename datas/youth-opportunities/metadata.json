@@ -7,13 +7,13 @@
   "publisher_country": "BD",
   "publisher_type": "aggregator",
   "status": "fail",
-  "last_attempt_at": "2026-10-19T18:48:46.039Z",
+  "last_attempt_at": "2026-10-20T17:26:20.879Z",
   "last_success_at": "2026-10-18T16:04:29.339Z",
   "last_checked_at": "2026-10-18T16:04:29.339Z",
   "record_count": 416,
   "inventory_scope": "complete-publisher-browse-opportunities",
   "message": "Collection failed; last-good data preserved",
-  "error": "Publisher response assessment failed; reviewed recovery required",
+  "error": "Unassessed publisher response requires reviewed recovery",
   "attribution": "Youth Opportunities",
   "failure_stage": "access"
 }
