@@ -7,12 +7,12 @@
   "publisher_country": "DE",
   "publisher_type": "youth-information-service",
   "status": "fail",
-  "last_attempt_at": "2026-10-20T18:37:23.122Z",
+  "last_attempt_at": "2026-10-21T18:49:53.088Z",
   "last_success_at": "2026-10-18T17:29:05.293Z",
   "last_checked_at": "2026-10-18T17:29:05.293Z",
   "record_count": 443,
   "message": "Collection failed; last-good data preserved",
-  "error": "Unknown publisher host country: Lesotho",
+  "error": "Publisher connection failed: <urlopen error timed out>",
   "attribution": "rausvonzuhaus.de / Eurodesk Deutschland (IJAB)",
-  "failure_stage": "parse"
+  "failure_stage": "fetch"
 }
