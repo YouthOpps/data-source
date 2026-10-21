@@ -9,11 +9,12 @@
   "publisher_country": "DE",
   "publisher_type": "company",
   "attribution": "Bosch — official career programme information; direct links to original sources.",
-  "status": "success",
-  "last_attempt_at": "2026-10-20T15:34:39.215Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-21T15:51:42.438Z",
   "last_success_at": "2026-10-20T15:34:39.215Z",
   "last_checked_at": "2026-10-20T15:47:53.940Z",
   "record_count": 18,
-  "message": "Validated refresh retains 18 reviewed Bosch programme overviews",
-  "error": null
+  "message": "Collection failed; last-good data preserved",
+  "error": "Reviewed Bosch material or frontier changed: input-44",
+  "failure_stage": "parse"
 }
