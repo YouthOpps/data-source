@@ -24,8 +24,8 @@
     "created_at": "2026-10-10T07:00:04.383Z",
     "updated_at": "2026-10-10T07:00:04.383Z",
     "first_seen_at": "2026-10-10T07:00:04.383Z",
-    "last_seen_at": "2026-10-20T15:09:22.683Z",
-    "last_checked_at": "2026-10-20T15:13:04.861Z",
+    "last_seen_at": "2026-10-21T15:19:51.483Z",
+    "last_checked_at": "2026-10-21T15:23:35.357Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-evidence",
@@ -63,8 +63,8 @@
     "created_at": "2026-10-10T07:00:04.383Z",
     "updated_at": "2026-10-10T07:00:04.383Z",
     "first_seen_at": "2026-10-10T07:00:04.383Z",
-    "last_seen_at": "2026-10-20T15:09:22.683Z",
-    "last_checked_at": "2026-10-20T15:13:04.861Z",
+    "last_seen_at": "2026-10-21T15:19:51.483Z",
+    "last_checked_at": "2026-10-21T15:23:35.357Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-evidence",
@@ -102,8 +102,8 @@
     "created_at": "2026-10-10T07:00:04.383Z",
     "updated_at": "2026-10-10T07:00:04.383Z",
     "first_seen_at": "2026-10-10T07:00:04.383Z",
-    "last_seen_at": "2026-10-20T15:09:22.683Z",
-    "last_checked_at": "2026-10-20T15:13:04.861Z",
+    "last_seen_at": "2026-10-21T15:19:51.483Z",
+    "last_checked_at": "2026-10-21T15:23:35.357Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-evidence",
@@ -139,8 +139,8 @@
     "created_at": "2026-10-10T07:00:04.383Z",
     "updated_at": "2026-10-10T07:00:04.383Z",
     "first_seen_at": "2026-10-10T07:00:04.383Z",
-    "last_seen_at": "2026-10-20T15:09:22.683Z",
-    "last_checked_at": "2026-10-20T15:13:04.861Z",
+    "last_seen_at": "2026-10-21T15:19:51.483Z",
+    "last_checked_at": "2026-10-21T15:23:35.357Z",
     "status": "expired",
     "classification": {
       "method": "publisher-evidence",
