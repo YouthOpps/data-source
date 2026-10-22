@@ -6,14 +6,13 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "fail",
-  "last_attempt_at": "2026-10-21T10:32:03.272Z",
-  "last_success_at": "2026-10-20T10:22:46.778Z",
-  "last_checked_at": "2026-10-20T10:22:46.778Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-22T10:33:42.998Z",
+  "last_success_at": "2026-10-22T10:33:42.998Z",
+  "last_checked_at": "2026-10-22T10:33:42.998Z",
   "record_count": 6,
   "inventory_scope": "complete-publisher-browse-opportunities",
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publisher returned HTTP 520",
-  "attribution": "Youth for Europe / Associazione Joint",
-  "failure_stage": "fetch"
+  "message": "Validated refresh retains 6 records",
+  "error": null,
+  "attribution": "Youth for Europe / Associazione Joint"
 }
