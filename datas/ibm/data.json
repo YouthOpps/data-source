@@ -57,8 +57,8 @@
     "created_at": "2026-10-10T19:42:52.294Z",
     "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-25T17:12:45.750Z",
-    "last_checked_at": "2026-10-25T17:16:19.312Z"
+    "last_seen_at": "2026-10-26T19:32:29.322Z",
+    "last_checked_at": "2026-10-26T19:36:05.611Z"
   },
   {
     "title": "The IBM Apprenticeship program: No Degree? No Problem!",
@@ -116,8 +116,8 @@
     "created_at": "2026-10-10T19:42:52.294Z",
     "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-25T17:12:45.750Z",
-    "last_checked_at": "2026-10-25T17:16:19.312Z"
+    "last_seen_at": "2026-10-26T19:32:29.322Z",
+    "last_checked_at": "2026-10-26T19:36:05.611Z"
   },
   {
     "title": "Internships",
@@ -162,7 +162,7 @@
       },
       {
         "url": "https://www.ibm.com/careers/internships",
-        "sha256": "edb1c34632b671ba7625ba1e521d036d970160d126c8c4e1fe510ad97fda10e2"
+        "sha256": "7db910de41e7b7fde9f621c84d16e823cf5a0d424533115de74974b289a46003"
       },
       {
         "url": "https://www.ibm.com/careers/blog/your-future-starts-here-inside-ibm-co-op-program",
@@ -180,10 +180,10 @@
     },
     "id": "ibm-42a7ed6af9409bfa5f4635b7",
     "created_at": "2026-10-10T19:42:52.294Z",
-    "updated_at": "2026-10-25T17:16:19.312Z",
+    "updated_at": "2026-10-26T19:36:05.611Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-25T17:12:45.750Z",
-    "last_checked_at": "2026-10-25T17:16:19.312Z"
+    "last_seen_at": "2026-10-26T19:32:29.322Z",
+    "last_checked_at": "2026-10-26T19:36:05.611Z"
   },
   {
     "title": "What is the IBM Sales Accelerator Program?",
@@ -248,8 +248,8 @@
     "created_at": "2026-10-10T19:42:52.294Z",
     "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-25T17:12:45.750Z",
-    "last_checked_at": "2026-10-25T17:16:19.312Z"
+    "last_seen_at": "2026-10-26T19:32:29.322Z",
+    "last_checked_at": "2026-10-26T19:36:05.611Z"
   },
   {
     "title": "Your Future Starts Here: Inside IBM’s Co-op Program",
@@ -307,7 +307,7 @@
     "created_at": "2026-10-10T19:42:52.294Z",
     "updated_at": "2026-10-14T21:09:19.502Z",
     "first_seen_at": "2026-10-10T19:42:52.294Z",
-    "last_seen_at": "2026-10-25T17:12:45.750Z",
-    "last_checked_at": "2026-10-25T17:16:19.312Z"
+    "last_seen_at": "2026-10-26T19:32:29.322Z",
+    "last_checked_at": "2026-10-26T19:36:05.611Z"
   }
 ]
