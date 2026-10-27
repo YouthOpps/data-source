@@ -7,13 +7,12 @@
   "language": "und",
   "publisher_country": "AT",
   "publisher_type": "public-institution",
-  "status": "fail",
-  "last_attempt_at": "2026-10-26T06:23:57.594Z",
-  "last_success_at": "2026-10-25T06:15:24.247Z",
-  "last_checked_at": "2026-10-25T06:22:18.400Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-27T06:24:18.424Z",
+  "last_success_at": "2026-10-27T06:24:18.424Z",
+  "last_checked_at": "2026-10-27T06:31:13.551Z",
   "record_count": 1144,
-  "message": "Collection failed; last-good data preserved",
-  "error": "The read operation timed out",
-  "attribution": "Source: grants.at / OeAD (© OeAD)",
-  "failure_stage": "parse"
+  "message": "Validated refresh retains 1144 validated grants.at funding programme records",
+  "error": null,
+  "attribution": "Source: grants.at / OeAD (© OeAD)"
 }
