@@ -6,12 +6,13 @@
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "non-profit",
-  "status": "success",
-  "last_attempt_at": "2026-10-29T22:03:49.062Z",
+  "status": "fail",
+  "last_attempt_at": "2026-10-30T21:43:08.914Z",
   "last_success_at": "2026-10-29T22:03:49.062Z",
   "last_checked_at": "2026-10-29T22:11:10.659Z",
   "record_count": 5,
-  "message": "Collected 5 validated DM student funding and member training programmes",
-  "error": null,
-  "attribution": "DM Students — DM and MA student membership programmes"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Publisher returned HTTP 503",
+  "attribution": "DM Students — DM and MA student membership programmes",
+  "failure_stage": "fetch"
 }
