@@ -8,12 +8,11 @@
   "publisher_country": "PL",
   "publisher_type": "education-foundation",
   "attribution": "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-  "status": "fail",
-  "last_attempt_at": "2026-10-30T14:31:28.768Z",
-  "last_success_at": "2026-10-29T14:39:15.951Z",
-  "last_checked_at": "2026-10-29T15:07:04.034Z",
+  "status": "success",
+  "last_attempt_at": "2026-10-31T13:53:54.966Z",
+  "last_success_at": "2026-10-31T13:53:54.966Z",
+  "last_checked_at": "2026-10-31T14:21:31.779Z",
   "record_count": 57,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publisher backoff exceeds phase budget",
-  "failure_stage": "access"
+  "message": "Validated refresh retains 57 FRSE opportunities",
+  "error": null
 }
