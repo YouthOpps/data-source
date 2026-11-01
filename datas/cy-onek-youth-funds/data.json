@@ -24,8 +24,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-31T23:38:32.878Z",
-    "last_checked_at": "2026-10-31T23:46:10.931Z",
+    "last_seen_at": "2026-11-01T23:49:55.090Z",
+    "last_checked_at": "2026-11-01T23:57:24.607Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -66,8 +66,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-31T23:38:32.878Z",
-    "last_checked_at": "2026-10-31T23:46:10.931Z",
+    "last_seen_at": "2026-11-01T23:49:55.090Z",
+    "last_checked_at": "2026-11-01T23:57:24.607Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -79,46 +79,6 @@
         "Publisher excerpt (en): The Youth Initiatives Programme provides grants for activities organised by young people and organised groups within the Republic of Cyprus. All eligible activities, as well as the Rules and Conditions governing the award of grants, are...",
         "Publisher excerpt (en): Young people Aged 13-35 years old",
         "Publisher excerpt (en): The approved budget for the \"Youth Initiatives\" Programme for 2026 is €500,000."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "3263e64dec4fb8821962a139",
-    "title": "Second Call for Applications under the “Youth and the World” Programme for 2026",
-    "url": "https://youthfunds.onek.org.cy/en/dimosiefthike-i-v-prosklisi-tou-programmatos-neoi-kai-kosmos-gia-to-2026/",
-    "source": "cy-onek-youth-funds",
-    "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
-    "published_at": null,
-    "summary": "Application deadline: 2026-10-31. The Second Call for Applications under the “Youth and the World” Programme , which covers travel costs for participation in international activities, has been published on the... / Young People Aged 13-35 years old / The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking, build...",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-31",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "CY",
-    "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-31T00:00:18.184Z",
-    "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-31T23:38:32.878Z",
-    "last_checked_at": "2026-10-31T23:46:10.931Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Publisher: https://youthfunds.onek.org.cy/en/dimosiefthike-i-v-prosklisi-tou-programmatos-neoi-kai-kosmos-gia-to-2026/",
-        "Programme description: https://youthfunds.onek.org.cy/en/services/neoi-kai-kosmos/",
-        "Publisher excerpt (en): The Second Call for Applications under the “Youth and the World” Programme , which covers travel costs for participation in international activities, has been published on the Funding Programmes online system (...",
-        "Publisher excerpt (en): Young People Aged 13-35 years old",
-        "Publisher excerpt (en): The Youth Board of Cyprus, which manages the \"Youth and the World\" Programme, offers financial support for your travel expenses abroad, aiming to foster networking, build partnerships, acquire skills and experiences, and exchange..."
       ]
     },
     "summary_language": "en"
@@ -144,11 +104,11 @@
     "eligible_countries": [],
     "publisher_country": "CY",
     "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-10-14T03:45:57.638Z",
+    "updated_at": "2026-11-01T23:49:55.090Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-31T23:38:32.878Z",
-    "last_checked_at": "2026-10-31T23:46:10.931Z",
-    "status": "unknown",
+    "last_seen_at": "2026-11-01T23:49:55.090Z",
+    "last_checked_at": "2026-11-01T23:57:24.607Z",
+    "status": "open",
     "classification": {
       "method": "publisher-html",
       "status": "classified",
@@ -186,8 +146,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-31T23:38:32.878Z",
-    "last_checked_at": "2026-10-31T23:46:10.931Z",
+    "last_seen_at": "2026-11-01T23:49:55.090Z",
+    "last_checked_at": "2026-11-01T23:57:24.607Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -226,8 +186,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-31T23:38:32.878Z",
-    "last_checked_at": "2026-10-31T23:46:10.931Z",
+    "last_seen_at": "2026-11-01T23:49:55.090Z",
+    "last_checked_at": "2026-11-01T23:57:24.607Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -269,8 +229,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-10-31T23:38:32.878Z",
-    "last_checked_at": "2026-10-31T23:46:10.931Z",
+    "last_seen_at": "2026-11-01T23:49:55.090Z",
+    "last_checked_at": "2026-11-01T23:57:24.607Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
