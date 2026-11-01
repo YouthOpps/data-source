@@ -1,43 +1,5 @@
 [
   {
-    "id": "025b5f0291a8c2211a08cd2f",
-    "title": "Fulbright U.S. Student Program for Hungary (2027-2028)",
-    "url": "https://us.fulbrightonline.org/countries/europe-and-eurasia/hungary",
-    "source": "hu-fulbright-hungary",
-    "source_url": "https://fulbright.hu/",
-    "published_at": null,
-    "summary": "The AY 2027-2028 Fulbright U.S. Student Program application is open between early April, 2026 – mid-October, 2026. Awards to United States citizens are for postgraduate study in Hungary.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "hu/en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "HU"
-    ],
-    "eligible_countries": [
-      "US"
-    ],
-    "publisher_country": "HU",
-    "created_at": "2026-10-08T17:41:38.476Z",
-    "updated_at": "2026-10-08T17:41:38.476Z",
-    "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-31T20:27:49.133Z",
-    "last_checked_at": "2026-10-31T20:27:49.133Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-call-html",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.hu/fulbright-awards/for-us-citizens/"
-      ]
-    }
-  },
-  {
     "id": "23263163912fe5430b6f00a2",
     "title": "FULBRIGHT OUTREACH LECTURING FUND (OLF)",
     "url": "https://fulbrightscholars.org/OLF",
@@ -64,8 +26,8 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-31T20:27:49.133Z",
-    "last_checked_at": "2026-10-31T20:27:49.133Z",
+    "last_seen_at": "2026-11-01T21:10:54.908Z",
+    "last_checked_at": "2026-11-01T21:10:54.908Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
@@ -102,53 +64,14 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-31T20:27:49.133Z",
-    "last_checked_at": "2026-10-31T20:27:49.133Z",
+    "last_seen_at": "2026-11-01T21:10:54.908Z",
+    "last_checked_at": "2026-11-01T21:10:54.908Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
       "status": "classified",
       "evidence": [
         "https://fulbright.hu/special-short-term-grants/"
-      ]
-    }
-  },
-  {
-    "id": "4f95ac2fd7f14de329c41e47",
-    "title": "Fulbright FLTA Ösztöndíj",
-    "url": "https://fulbright.hu/hungarian-language-teaching-assistant/",
-    "source": "hu-fulbright-hungary",
-    "source_url": "https://fulbright.hu/",
-    "published_at": null,
-    "summary": "Fokozatot nem adó, gyakorlattal egybekötött tanulmányi program magyar mint idegen nyelv oktatók számára, a 2027-2028-as tanévben az Indiana University-n. Published deadline time: 23:59; time zone not stated.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-31",
-    "language": "hu/en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "US"
-    ],
-    "eligible_countries": [
-      "HU"
-    ],
-    "publisher_country": "HU",
-    "created_at": "2026-10-08T17:41:38.476Z",
-    "updated_at": "2026-10-31T20:27:49.133Z",
-    "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-31T20:27:49.133Z",
-    "last_checked_at": "2026-10-31T20:27:49.133Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-call-html",
-      "status": "classified",
-      "evidence": [
-        "https://fulbright.hu/",
-        "https://fulbright.hu/hungarian-language-teaching-assistant/"
       ]
     }
   },
@@ -179,8 +102,8 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-31T20:27:49.133Z",
-    "last_checked_at": "2026-10-31T20:27:49.133Z",
+    "last_seen_at": "2026-11-01T21:10:54.908Z",
+    "last_checked_at": "2026-11-01T21:10:54.908Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
@@ -217,8 +140,8 @@
     "created_at": "2026-10-08T17:41:38.476Z",
     "updated_at": "2026-10-08T17:41:38.476Z",
     "first_seen_at": "2026-10-08T17:41:38.476Z",
-    "last_seen_at": "2026-10-31T20:27:49.133Z",
-    "last_checked_at": "2026-10-31T20:27:49.133Z",
+    "last_seen_at": "2026-11-01T21:10:54.908Z",
+    "last_checked_at": "2026-11-01T21:10:54.908Z",
     "status": "open",
     "classification": {
       "method": "publisher-call-html",
