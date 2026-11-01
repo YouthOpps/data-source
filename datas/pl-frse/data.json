@@ -22,8 +22,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -194,8 +194,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -375,8 +375,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -455,8 +455,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -543,8 +543,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -689,8 +689,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -804,78 +804,6 @@
     "application_closed": true
   },
   {
-    "id": "26004d6eedfb5c1acfb2c122",
-    "title": "RPI Łódź. Warsztaty z przygotowywania projektów Erasmus+",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-lodz-warsztaty-z-przygotowywania-projektow-erasmus-Ye4R",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
-    "tags": [],
-    "location": "Łódź",
-    "deadline": null,
-    "language": "pl",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-21T13:15:03.728Z",
-    "updated_at": "2026-10-21T13:15:03.728Z",
-    "first_seen_at": "2026-10-21T13:15:03.728Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-lodz-warsztaty-z-przygotowywania-projektow-erasmus-Ye4R"
-      ]
-    },
-    "country": "PL",
-    "details": {
-      "facts": {
-        "eligibility": [
-          "Warsztaty przeznaczone są dla dyrektorów i nauczycieli wszystkich typów szkół i placówek edukacyjnych, przedstawicieli samorządów lokalnych oraz instytucji związanych z edukacją.",
-          "[...] godz. 15:00-19:00 Miejsce: Łódź – Łódzkie Centrum Doskonalenia Nauczycieli i Kształcenia Praktycznego, ul."
-        ],
-        "application": [
-          "Termin: 22 października 2026 r. (czwartek), godz. 15:00-19:00 Miejsce: Łódź – Łódzkie Centrum Doskonalenia Nauczycieli i Kształcenia Praktycznego, ul.",
-          "Zarejestruj się"
-        ]
-      },
-      "links": [
-        "https://ecentrum.lcdnikp.edu.pl/zgloszenia/new/idCourse/84311",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2026/10/20/ujr743/program-rpi-lodz-2026-10-22.pdf",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
-      ],
-      "material_sha256": "787b5a556845adae5df33436a27b438047cc7d8bf2f433522b0414db1a206129",
-      "fields": [
-        {
-          "label": "Gdzie?",
-          "facts": {}
-        },
-        {
-          "label": "Kiedy?",
-          "facts": {}
-        }
-      ],
-      "supporting": []
-    },
-    "limitations": [
-      "HTML-reported conditions; linked programme rules can supersede overview text.",
-      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
-      "Residence and institutional affiliation are not nationality eligibility."
-    ],
-    "application_dates": [],
-    "application_closed": false
-  },
-  {
     "id": "275d7626a2b2776da65d62e5",
     "title": "Forum Edukacji Dorosłych",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/forum-edukacji-doroslych",
@@ -898,8 +826,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -970,8 +898,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1096,8 +1024,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1229,8 +1157,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1308,8 +1236,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1449,9 +1377,9 @@
     "application_closed": false
   },
   {
-    "id": "37c44f9cb613cdc4952186b8",
-    "title": "TEDxWarsaw Youth 2026",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/tedxwarsaw-youth-2026",
+    "id": "3f9ad5151610c7d0f785dfb4",
+    "title": "Ogólnopolska debata: Edukacja dorosłych a kompetencje przyszłości",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/ogolnopolska-debata-edukacja-doroslych-a-kompetencje-przyszlosci",
     "source": "pl-frse",
     "source_url": "https://www.frse.org.pl/",
     "published_at": null,
@@ -1464,122 +1392,45 @@
     "categories": [
       "training"
     ],
-    "kind": "programme-overview",
+    "kind": "opportunity",
     "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-14T21:06:36.598Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "created_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-01T14:30:57.103Z",
+    "first_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/tedxwarsaw-youth-2026",
-        "Marszałkowskiej) Głównym partnerem tegorocznej edycji TEDxWarsaw Youth 2026 jest FRSE – Narodowa Agencja Programu Erasmus+ i Europejskiego Korpusu Solidarności"
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/ogolnopolska-debata-edukacja-doroslych-a-kompetencje-przyszlosci"
       ]
     },
     "country": "PL",
     "details": {
       "facts": {
         "eligibility": [
-          "Uczestnicy przyjrzą się momentowi, w którym myśl przestaje być tylko myślą i zamienia się w konkretne działanie, oraz temu, jak młodzi ludzie mogą stawać się siłą napędową realnej zmiany."
+          "Uczestnicy wspólnie wypracują również rekomendacje dotyczące projektowania nowoczesnych usług edukacyjnych i doradczych oraz skutecznego docierania do osób dorosłych o niskich kwalifikacjach.",
+          "Nocleg i wyżywienie (bezpłatne): uczestnicy wydarzenia, którzy mieszkają w odległości powyżej 50 km od Warszawy, mogą skorzystać z noclegu w Hotelu Mercure, który obejmuje również śniadanie.",
+          "W razie jakichkolwiek pytań zapraszamy do kontaktu : Anna Kamont, anna.kamont@frse.org.pl , tel. 572 675 439"
         ],
         "funding": [
-          "Jako główny partner tej edycji przygotowaliśmy dla Was pulę bezpłatnych biletów!",
-          "Z tej okazji przygotowaliśmy dla Was pulę bezpłatnych biletów , dostępnych w trzech turach."
+          "Nocleg i wyżywienie (bezpłatne): uczestnicy wydarzenia, którzy mieszkają w odległości powyżej 50 km od Warszawy, mogą skorzystać z noclegu w Hotelu Mercure, który obejmuje również śniadanie."
         ],
         "application": [
-          "Co ważne, nie decyduje kolejność zgłoszeń!",
-          "Przy zgłoszeniu pytamy Was o to, dlaczego chcecie być z nami na TEDxWarsaw Youth.",
-          "Aby otrzymać bilety, należy wypełnić formularz zgłoszeniowy :",
-          "Zapisz się"
+          "Zarejestruj się na debatę",
+          "Liczba miejsc jest ograniczona, decyduje kolejność zgłoszeń."
         ]
       },
       "links": [
-        "https://luma.com/lnpsvh8v",
-        "https://tedxwarsawyouth.org/",
+        "https://forms.cloud.microsoft/e/pw1akxXqSD",
         "https://www.frse.org.pl/wydarzenia-i-szkolenia"
       ],
-      "material_sha256": "87e31048815f419831f98fc1eee355587d5627bb1c5530bfef94af8092fd1cd6",
-      "fields": [
-        {
-          "label": "Gdzie?",
-          "facts": {}
-        },
-        {
-          "label": "Kiedy?",
-          "facts": {}
-        }
-      ],
-      "supporting": []
-    },
-    "limitations": [
-      "HTML-reported conditions; linked programme rules can supersede overview text.",
-      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
-      "Residence and institutional affiliation are not nationality eligibility."
-    ],
-    "application_dates": [],
-    "application_closed": false
-  },
-  {
-    "id": "41501846b73d7863a3f84e3b",
-    "title": "Webinarium: Powrót Szwajcarii do programu Erasmus+",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-powrot-szwajcarii-do-programu-erasmus",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "pl",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-14T21:06:36.598Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-powrot-szwajcarii-do-programu-erasmus"
-      ]
-    },
-    "country": "PL",
-    "details": {
-      "facts": {
-        "funding": [
-          "omówimy przewidywane kwestie dofinansowania mobilności"
-        ],
-        "application": [
-          "Aby wziąć udział w spotkaniu, należy wypełnić formularz zgłoszeniowy :",
-          "Zarejestruj się",
-          "[...] kilka dni przed wydarzeniem na adres e-mailowy podany podczas rejestracji."
-        ],
-        "requirements": [
-          "Webinarium w języku angielskim organizowane jest przez Narodowe Agencje Programu Erasmus+ z Polski (FRSE) i Szwajcarii (Movetia)."
-        ]
-      },
-      "links": [
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia",
-        "https://www.webankieta.pl/survey/1775376/webinarium-na-temat-przyszlego-udzialu-szwajcarii-w-programie-erasmus-12102026.html?lang=pl"
-      ],
-      "material_sha256": "d89c5d03f3f620be86cc95bd4ca13576922e25f628bdd1b333298345f947fb65",
+      "material_sha256": "74ed128cfea5913e4598f5cd5300bd3f62acec3b0acf4aa56b08911e7aaf78be",
       "fields": [
         {
           "label": "Gdzie?",
@@ -1623,8 +1474,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1747,79 +1598,6 @@
     "application_closed": true
   },
   {
-    "id": "454d343be8a2284741bfe176",
-    "title": "RPI Słupsk. Konferencja: Erasmus+ zmienia perspektywę",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-slupsk-konferencja-erasmus-zmienia-perspektywe",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
-    "tags": [],
-    "location": "Słupsk",
-    "deadline": null,
-    "language": "pl",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-14T21:06:36.598Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-slupsk-konferencja-erasmus-zmienia-perspektywe"
-      ]
-    },
-    "country": "PL",
-    "details": {
-      "facts": {
-        "eligibility": [
-          "Pomorski Ośrodek Doskonalenia Nauczycieli w Słupsku (Regionalny Punkt Informacyjny) zaprasza na konferencję „Erasmus+ zmienia perspektywę – poznaj, doświadczaj, zmieniaj, inspiruj”, organizowaną w ramach Erasmus Days 2026.",
-          "Erasmus oczami uczestników.",
-          "[...] (czwartek), godz. 15:00-18:10 Miejsce: Pomorski Ośrodek Doskonalenia Nauczycieli (PODN) w Słupsku – sala konferencyjna, ul."
-        ],
-        "application": [
-          "Termin: 15 października 2026 r. (czwartek), godz. 15:00-18:10 Miejsce: Pomorski Ośrodek Doskonalenia Nauczycieli (PODN) w Słupsku – sala konferencyjna, ul.",
-          "Rejestracja"
-        ]
-      },
-      "links": [
-        "https://www.doskonalenie.podn.slupsk.pl/oferta/szkolenia-warsztaty-seminaria/konferencja-erasmus-days-2026-erasmus-zmienia-perspektywe-poznaj-doswiadcz-zmieniaj-inspiruj",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2026/10/06/0gzurw/program-rpi-slupsk-2026-10-15.pdf",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
-      ],
-      "material_sha256": "10d100913c7b3313dedbeee66c39f9b1642bfef10278d9844c31f406088abbbe",
-      "fields": [
-        {
-          "label": "Gdzie?",
-          "facts": {}
-        },
-        {
-          "label": "Kiedy?",
-          "facts": {}
-        }
-      ],
-      "supporting": []
-    },
-    "limitations": [
-      "HTML-reported conditions; linked programme rules can supersede overview text.",
-      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
-      "Residence and institutional affiliation are not nationality eligibility."
-    ],
-    "application_dates": [],
-    "application_closed": false
-  },
-  {
     "id": "454e6f15a45d88c944d70ee8",
     "title": "Mobilności kadry sportowej",
     "url": "https://www.frse.org.pl/finansowanie-projektow/mobilnosci-kadry-sportowej",
@@ -1842,8 +1620,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2000,8 +1778,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2154,8 +1932,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2331,8 +2109,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2437,80 +2215,6 @@
     "application_closed": true
   },
   {
-    "id": "511b2a2a89c4c8e4eca061c0",
-    "title": "Webinarium: Powrót Wielkiej Brytanii do Erasmusa+, sektor Młodzież",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-powrot-wielkiej-brytanii-do-erasmusa-sektor-mlodziez",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "pl",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-14T21:06:36.598Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-powrot-wielkiej-brytanii-do-erasmusa-sektor-mlodziez"
-      ]
-    },
-    "country": "PL",
-    "details": {
-      "facts": {
-        "eligibility": [
-          "zaprezentujemy możliwości udziału brytyjskich organizacji i uczestników w projektach Erasmus+ oraz zasady współpracy z partnerami z Wielkiej Brytanii"
-        ],
-        "application": [
-          "Aby wziąć udział w spotkaniu, należy wypełnić formularz zgłoszeniowy :",
-          "Zarejestruj się",
-          "[...] kilka dni przed wydarzeniem na adres e-mailowy podany podczas rejestracji."
-        ],
-        "requirements": [
-          "Webinarium w języku angielskim organizowane jest przez Narodowe Agencje Programu Erasmus+ z Polski (FRSE) i Wielkiej Brytanii (British Council)."
-        ]
-      },
-      "links": [
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia",
-        "https://www.webankieta.pl/survey/1775208/webinarium-powrot-uk-do-erasmus-w-sektorze-mlodziez-14102026.html"
-      ],
-      "material_sha256": "a4d2922ab3638183149d2f48e78209061866d23f39c8bcf8bada98703009a48f",
-      "fields": [
-        {
-          "label": "Gdzie?",
-          "facts": {}
-        },
-        {
-          "label": "Kiedy?",
-          "facts": {}
-        }
-      ],
-      "supporting": []
-    },
-    "limitations": [
-      "HTML-reported conditions; linked programme rules can supersede overview text.",
-      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
-      "Residence and institutional affiliation are not nationality eligibility."
-    ],
-    "application_dates": [],
-    "application_closed": false
-  },
-  {
     "id": "5c895e059b8ded9fb018f0ed",
     "title": "Kongres Edukacji",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/kongres-edukacji",
@@ -2533,8 +2237,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2623,8 +2327,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2767,8 +2471,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2817,75 +2521,6 @@
     "application_closed": false
   },
   {
-    "id": "63a987d076b3970acaaf5688",
-    "title": "Webinarium: działania Erasmus Mundus",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-dzialania-erasmus-mundus",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "pl",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-14T21:06:36.598Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-dzialania-erasmus-mundus"
-      ]
-    },
-    "country": "PL",
-    "details": {
-      "facts": {
-        "application": [
-          "Aby wziąć udział w webinarium, należy wypełnić formularz zgłoszeniowy:",
-          "Zarejestruj się",
-          "[...] kilka dni przed wydarzeniem na adres e-mailowy podany podczas rejestracji."
-        ]
-      },
-      "links": [
-        "https://erasmusplus.org.pl/dzialania-erasmus-mundus",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia",
-        "https://www.webankieta.pl/survey/1776942/webinarium-akcje-erasmus-mundus-28-pazdziernika-2026-r.html"
-      ],
-      "material_sha256": "da0bb27dfa7a2135a0ece11142fcbfcb142240c6c7a482109a3560c21e7bc032",
-      "fields": [
-        {
-          "label": "Gdzie?",
-          "facts": {}
-        },
-        {
-          "label": "Kiedy?",
-          "facts": {}
-        }
-      ],
-      "supporting": []
-    },
-    "limitations": [
-      "HTML-reported conditions; linked programme rules can supersede overview text.",
-      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
-      "Residence and institutional affiliation are not nationality eligibility."
-    ],
-    "application_dates": [],
-    "application_closed": false
-  },
-  {
     "id": "64c76890a578a2daadac5b81",
     "title": "Konferencja: Zagraniczni absolwenci w ekosystemie polskich uczelni",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/konferencja-zagraniczni-absolwenci-w-ekosystemie-polskich-uczelni",
@@ -2908,8 +2543,8 @@
     "created_at": "2026-10-23T12:52:05.510Z",
     "updated_at": "2026-10-23T12:52:05.510Z",
     "first_seen_at": "2026-10-23T12:52:05.510Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2980,8 +2615,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3168,8 +2803,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3377,8 +3012,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3422,75 +3057,6 @@
     "application_closed": false
   },
   {
-    "id": "6f0d09871dadd7baefec5e8b",
-    "title": "Webinarium Erasmus+: działania Jean Monnet",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-erasmus-dzialania-jean-monnet",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "pl",
-    "category": "training",
-    "categories": [
-      "training"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-10T17:35:54.352Z",
-    "updated_at": "2026-10-14T21:06:36.598Z",
-    "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-erasmus-dzialania-jean-monnet"
-      ]
-    },
-    "country": "PL",
-    "details": {
-      "facts": {
-        "application": [
-          "Aby wziąć udział w webinarium, należy wypełnić formularz zgłoszeniowy:",
-          "Zarejestruj się",
-          "[...] kilka dni przed wydarzeniem na adres e-mailowy podany podczas rejestracji."
-        ]
-      },
-      "links": [
-        "https://erasmusplus.org.pl/sektory?sector=7",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia",
-        "https://www.webankieta.pl/survey/1776930/webinarium-akcje-jean-monnet-27-pazdziernika-2026-r.html"
-      ],
-      "material_sha256": "f179a12447c6abf4f8ac0200c6e6ff9d7c30a6f3f3ef8428829d2371bf1d3261",
-      "fields": [
-        {
-          "label": "Gdzie?",
-          "facts": {}
-        },
-        {
-          "label": "Kiedy?",
-          "facts": {}
-        }
-      ],
-      "supporting": []
-    },
-    "limitations": [
-      "HTML-reported conditions; linked programme rules can supersede overview text.",
-      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
-      "Residence and institutional affiliation are not nationality eligibility."
-    ],
-    "application_dates": [],
-    "application_closed": false
-  },
-  {
     "id": "781778461cd5bf87e77dcd33",
     "title": "Współpracuj z innymi na rzecz młodzieży!",
     "url": "https://www.frse.org.pl/finansowanie-projektow/wspolpracuj-z-innymi-na-rzecz-mlodziezy",
@@ -3513,8 +3079,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3638,8 +3204,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -3709,8 +3275,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3854,8 +3420,8 @@
     "created_at": "2026-10-31T13:53:54.966Z",
     "updated_at": "2026-10-31T13:53:54.966Z",
     "first_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3925,8 +3491,8 @@
     "created_at": "2026-10-24T12:13:52.954Z",
     "updated_at": "2026-10-24T12:13:52.954Z",
     "first_seen_at": "2026-10-24T12:13:52.954Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3994,8 +3560,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4150,8 +3716,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4341,8 +3907,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4478,8 +4044,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4632,8 +4198,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4759,8 +4325,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4832,8 +4398,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4988,8 +4554,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5154,8 +4720,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5227,8 +4793,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -5345,8 +4911,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5416,8 +4982,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -5568,8 +5134,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5681,6 +5247,153 @@
     "application_closed": false
   },
   {
+    "id": "c06c76c86887109394b91704",
+    "title": "Konferencja: Laboratorium Uniwersytetów Europejskich",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/konferencja-laboratorium-uniwersytetow-europejskich",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Wrocław",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-01T14:30:57.103Z",
+    "first_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/konferencja-laboratorium-uniwersytetow-europejskich"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "sesje dobrych praktyk – uczestnicy będą mieli okazję zapoznać się z praktycznymi przykładami i sukcesami dotychczasowych wdrożeń w ramach sojuszy europejskich."
+        ],
+        "application": [
+          "[...] Europejskich na polskie uczelnie” z omówieniem kluczowych wniosków",
+          "Szczegóły i rejestracja"
+        ]
+      },
+      "links": [
+        "https://erasmusplus.org.pl/laboratorium-uniwersytetow-europejskich",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "cbdbf46c4a5e71a350780b790444e88880b89bca1898737b3d6b798ba13507a9",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
+    "id": "c1a061627b104d1c545a11c8",
+    "title": "SkillsPoland 2026 w Poznaniu",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/skillspoland-2026-w-poznaniu",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Poznań",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-01T14:30:57.103Z",
+    "first_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/skillspoland-2026-w-poznaniu"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Uczestnicy będą wykonywać zadania odzwierciedlające rzeczywiste wyzwania zawodowe, a ich pracę ocenią eksperci reprezentujący poszczególne branże.",
+          "Na uczestników czekają:",
+          "Do udziału zapraszamy uczniów szkół podstawowych i ponadpodstawowych, studentów, nauczycieli, doradców zawodowych, przedstawicieli biznesu oraz wszystkich zainteresowanych nowoczesnymi technologiami i rozwojem umiejętności.",
+          "Dla uczniów szkół ponadpodstawowych i studentów – okazją do poznania najwyższych standardów pracy, nowych technologii i możliwości rozwoju kariery."
+        ],
+        "funding": [
+          "Wstęp na wydarzenie jest bezpłatny.",
+          "Gdzie: Międzynarodowe Targi Poznańskie, Poznań Wstęp: bezpłatny, obowiązuje wcześniejsza rejestracja"
+        ],
+        "application": [
+          "[...] Targi Poznańskie, Poznań Wstęp: bezpłatny, obowiązuje wcześniejsza rejestracja",
+          "Szczegółowe informacje i rejestracja"
+        ]
+      },
+      "links": [
+        "https://worldskillspoland.org.pl/wydarzenia/skills-poland-poznan",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "b05d432c90d20475c504bc5bd0c770e45a00fa767e8fd0d601f412b815bc06e4",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
     "id": "c85a4712716961256128c962",
     "title": "40 słów o Erasmus+",
     "url": "https://erasmusplus.org.pl/konkursy-40-lat-erasmus#40-slow",
@@ -5703,8 +5416,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -5778,8 +5491,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5929,8 +5642,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5983,6 +5696,78 @@
     "application_closed": false
   },
   {
+    "id": "db5735083cdf36864b8bef9c",
+    "title": "Webinarium Erasmus+: Budowanie potencjału w szkolnictwie wyższym",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-erasmus-budowanie-potencjalu-w-szkolnictwie-wyzszym",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-01T14:30:57.103Z",
+    "first_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-erasmus-budowanie-potencjalu-w-szkolnictwie-wyzszym"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Działania i rezultaty projektów CBHE muszą być ukierunkowane na korzyści dla uprawnionych państw trzecich niestowarzyszonych z programem, ich instytucji szkolnictwa wyższego i systemów szkolnictwa wyższego."
+        ],
+        "application": [
+          "Aby wziąć udział w webinarium, należy wypełnić formularz zgłoszeniowy:",
+          "Zarejestruj się",
+          "[...] kilka dni przed wydarzeniem na adres e-mailowy podany podczas rejestracji."
+        ]
+      },
+      "links": [
+        "https://erasmusplus.org.pl/budowanie-potencjalu-w-szkolnictwie-wyzszym",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia",
+        "https://www.webankieta.pl/survey/1776951/webinarium-akcja-budowanie-potencjalu-szkolnictwa-wyzszego-w-okreslonych-krajach-niestowarzyszonych-z-programem-cbhe-capacity-building-in-higher-education-18-listopada-2026-r.html"
+      ],
+      "material_sha256": "0927cc2f0b1051a11b55a97487510954b3d2a6eac84445fc1713c312a4bf1fc7",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
     "id": "db8659fd5d858673dfb72571",
     "title": "Happy Birthday Erasmus+! Życzenia na 40. urodziny Erasmus+",
     "url": "https://erasmusplus.org.pl/konkursy-40-lat-erasmus#zyczenia-urodzinowe",
@@ -6005,8 +5790,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -6096,8 +5881,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -6200,8 +5985,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -6330,6 +6115,142 @@
     "application_closed": true
   },
   {
+    "id": "edb3ec8ba2a06e9f100f1428",
+    "title": "Otwarcie Erasmus+ InnHUB Rzeszów: konferencja inauguracyjna",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/otwarcie-erasmus-innhub-rzeszow-konferencja-inauguracyjna",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Rzeszów",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-01T14:30:57.103Z",
+    "first_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/otwarcie-erasmus-innhub-rzeszow-konferencja-inauguracyjna"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Uczestnicy poznają również możliwości współpracy szkół w ramach programu eTwinning oraz realizacji Projektów wolontariatu w ramach Europejskiego Korpusu Solidarności.",
+          "Spotkanie skierowane jest przede wszystkim do koordynatorów programu Erasmus+ na uczelniach i wydziałach, nauczycieli akademickich oraz pracowników uczelni zainteresowanych realizacją projektów międzynarodowych, wdrażaniem nowych [...]",
+          "Uczestnicy pokrywają we własnym zakresie ewentualne koszty dojazdu i zakwaterowania."
+        ],
+        "funding": [
+          "Udział w spotkaniu jest bezpłatny.",
+          "Uczestnicy pokrywają we własnym zakresie ewentualne koszty dojazdu i zakwaterowania."
+        ],
+        "application": [
+          "Zarejestruj się"
+        ]
+      },
+      "links": [
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia",
+        "https://www.webankieta.pl/survey/1782564/otwarcie-centrum-innowacji-programu-erasmus-innhub-rzeszow-17112026-r.html"
+      ],
+      "material_sha256": "a3d41e9d735919421f34ed6eca7c1eb69f171e0ac3add1cb3d37230ecfb44c74",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
+    "id": "f9a0bbe66fa04e26ba120ff4",
+    "title": "Konferencja: Evidence-based approach in Erasmus+ and ESC 2026",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/konferencja-evidence-based-approach-in-erasmus-and-esc-2026",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Warszawa",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-01T14:30:57.103Z",
+    "first_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/konferencja-evidence-based-approach-in-erasmus-and-esc-2026"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {},
+      "links": [
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "5ed138646ff1dee0f02edf4db311942271de2ee4301047bff5e584047c042a31",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
     "id": "fa587787d8a9e41d21e15c00",
     "title": "Webinaria eTwinning",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinaria-etwinning",
@@ -6352,8 +6273,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6438,8 +6359,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6505,8 +6426,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_checked_at": "2026-10-31T14:21:31.779Z",
+    "last_seen_at": "2026-11-01T14:30:57.103Z",
+    "last_checked_at": "2026-11-01T14:58:34.599Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
