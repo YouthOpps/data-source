@@ -24,8 +24,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-11-04T00:50:23.104Z",
-    "last_checked_at": "2026-11-04T00:58:17.439Z",
+    "last_seen_at": "2026-11-05T01:00:33.153Z",
+    "last_checked_at": "2026-11-05T01:10:53.488Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -66,8 +66,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-11-04T00:50:23.104Z",
-    "last_checked_at": "2026-11-04T00:58:17.439Z",
+    "last_seen_at": "2026-11-05T01:00:33.153Z",
+    "last_checked_at": "2026-11-05T01:10:53.488Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -106,8 +106,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-11-04T00:50:23.104Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-11-04T00:50:23.104Z",
-    "last_checked_at": "2026-11-04T00:58:17.439Z",
+    "last_seen_at": "2026-11-05T01:00:33.153Z",
+    "last_checked_at": "2026-11-05T01:10:53.488Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -148,8 +148,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-11-04T00:50:23.104Z",
-    "last_checked_at": "2026-11-04T00:58:17.439Z",
+    "last_seen_at": "2026-11-05T01:00:33.153Z",
+    "last_checked_at": "2026-11-05T01:10:53.488Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -159,49 +159,6 @@
         "Publisher: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
         "Published application row: B' (Actions 1, 2, 3, 4) 01/07/2027 - 30/11/2027 17/05/2027 - 17/06/2027",
         "Publisher excerpt (en): If you care about the environment and want to implement actions for its protection or restoration, the 'Green Volunteering' Programme is for you! The Youth Board of Cyprus (YBC) stands by your side by funding your actions, in an effort...",
-        "Publisher excerpt (en): Informal group of young people 4+ persons 13-35 yrs old",
-        "Publisher excerpt (en): The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000."
-      ]
-    },
-    "summary_language": "en"
-  },
-  {
-    "id": "a00fa290a0b42296dca93def",
-    "title": "A’1 and A’2 Calls for Applications under the “Green Volunteering” Programme for 2027",
-    "url": "https://youthfunds.onek.org.cy/en/a1-and-a2-calls-for-applications-under-the-green-volunteering-programme-for-2027/",
-    "source": "cy-onek-youth-funds",
-    "source_url": "https://youthfunds.onek.org.cy/en/services/youth-initiatives/",
-    "published_at": null,
-    "summary": "Applications: 2026-10-03 to 2026-11-03. Activity period: 2027-01-01 to 2027-06-30. Additional activity track: 2027-01-01 to 2027-11-30. The A’1 and A’2 Calls for Applications under the “Green Volunteering” Programme , which provides grants for environmental activities, has been... / Informal group of young people 4+ persons 13-35 yrs old / The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-11-03",
-    "language": "en",
-    "category": "grants",
-    "categories": [
-      "grants"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "CY",
-    "created_at": "2026-10-10T08:15:09.076Z",
-    "updated_at": "2026-11-04T00:50:23.104Z",
-    "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-11-04T00:50:23.104Z",
-    "last_checked_at": "2026-11-04T00:58:17.439Z",
-    "status": "expired",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-        "Publisher: https://youthfunds.onek.org.cy/en/a1-and-a2-calls-for-applications-under-the-green-volunteering-programme-for-2027/",
-        "Publisher: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
-        "Published application row: Α' (Actions 1, 2, 3, 4) 01/01/2027 - 30/06/2027 03/10/2026 - 03/11/2026",
-        "Additional implementation track: (Actions 5 & 6) 01/01/2027 - 30/11/2027 03/10/2026 - 03/11/2026",
-        "Programme description: https://youthfunds.onek.org.cy/en/services/green-volunteering/",
-        "Publisher excerpt (en): The A’1 and A’2 Calls for Applications under the “Green Volunteering” Programme , which provides grants for environmental activities, has been published on the Funding Programmes online system ( https://funding.onek.org.cy/ ).",
         "Publisher excerpt (en): Informal group of young people 4+ persons 13-35 yrs old",
         "Publisher excerpt (en): The approved budget for the \"Green Volunteering\" Programme for 2026 is €50,000."
       ]
@@ -231,8 +188,8 @@
     "created_at": "2026-10-10T08:15:09.076Z",
     "updated_at": "2026-10-14T03:45:57.638Z",
     "first_seen_at": "2026-10-10T08:15:09.076Z",
-    "last_seen_at": "2026-11-04T00:50:23.104Z",
-    "last_checked_at": "2026-11-04T00:58:17.439Z",
+    "last_seen_at": "2026-11-05T01:00:33.153Z",
+    "last_checked_at": "2026-11-05T01:10:53.488Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
