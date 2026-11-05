@@ -7,9 +7,9 @@
   "publisher_country": "DE",
   "publisher_type": "unknown",
   "status": "success",
-  "last_attempt_at": "2026-11-04T00:09:24.714Z",
-  "last_success_at": "2026-11-04T00:09:24.714Z",
-  "last_checked_at": "2026-11-04T00:09:24.714Z",
+  "last_attempt_at": "2026-11-05T00:34:42.568Z",
+  "last_success_at": "2026-11-05T00:34:42.568Z",
+  "last_checked_at": "2026-11-05T00:34:42.568Z",
   "record_count": 1,
   "message": "Validated refresh retains 1 records",
   "error": null
