@@ -7,11 +7,11 @@
   "publisher_country": "EE",
   "publisher_type": "university",
   "status": "success",
-  "last_attempt_at": "2026-11-05T23:44:39.698392Z",
-  "last_success_at": "2026-11-05T23:44:39.698392Z",
-  "last_checked_at": "2026-11-05T23:44:39.698392Z",
-  "record_count": 7,
-  "message": "Collected and validated 7 records",
+  "last_attempt_at": "2026-11-06T23:19:50.968349Z",
+  "last_success_at": "2026-11-06T23:19:50.968349Z",
+  "last_checked_at": "2026-11-06T23:19:50.968349Z",
+  "record_count": 9,
+  "message": "Collected and validated 9 records",
   "error": null,
   "attribution": "Tallinn University of Technology Development Fund"
 }
