@@ -6,12 +6,13 @@
   "language": "hu/en",
   "publisher_country": "HU",
   "publisher_type": "foundation",
-  "status": "success",
-  "last_attempt_at": "2026-11-10T00:41:03.695Z",
+  "status": "fail",
+  "last_attempt_at": "2026-11-10T22:21:26.699Z",
   "last_success_at": "2026-11-10T00:41:03.695Z",
   "last_checked_at": "2026-11-10T00:41:03.695Z",
   "record_count": 4,
-  "message": "Validated refresh retains 4 records",
-  "error": null,
-  "attribution": "Hungarian-American Fulbright Commission"
+  "message": "Collection failed; last-good data preserved",
+  "error": "U.S. student call application window changed",
+  "attribution": "Hungarian-American Fulbright Commission",
+  "failure_stage": "parse"
 }
