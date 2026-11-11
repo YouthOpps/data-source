@@ -9,11 +9,11 @@
   "publisher_type": "education-foundation",
   "attribution": "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
   "status": "fail",
-  "last_attempt_at": "2026-11-10T15:46:41.697Z",
+  "last_attempt_at": "2026-11-11T15:37:23.151Z",
   "last_success_at": "2026-11-01T14:30:57.103Z",
   "last_checked_at": "2026-11-01T14:58:34.599Z",
   "record_count": 56,
   "message": "Collection failed; last-good data preserved",
-  "error": "Publisher backoff exceeds phase budget",
-  "failure_stage": "access"
+  "error": "Repeated directory page: https://www.frse.org.pl/wydarzenia-i-szkolenia",
+  "failure_stage": "parse"
 }
