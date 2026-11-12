@@ -7,13 +7,13 @@
   "publisher_country": null,
   "publisher_type": "aggregator",
   "status": "fail",
-  "last_attempt_at": "2026-11-11T12:55:24.356Z",
+  "last_attempt_at": "2026-11-12T13:57:40.476Z",
   "last_success_at": "2026-10-29T11:42:32.046Z",
   "last_checked_at": "2026-10-29T11:42:32.046Z",
   "record_count": 6,
   "inventory_scope": "complete-publisher-browse-opportunities",
   "message": "Collection failed; last-good data preserved",
-  "error": "Opportunity detail title differs from native card",
+  "error": "Complete remaining frontier cannot fit retained timing",
   "attribution": "Youth for Europe / Associazione Joint",
-  "failure_stage": "parse"
+  "failure_stage": "access"
 }
