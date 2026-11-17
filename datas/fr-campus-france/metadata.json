@@ -8,11 +8,11 @@
   "publisher_country": "FR",
   "publisher_type": "public-institution",
   "status": "success",
-  "last_attempt_at": "2026-10-23T18:40:51.832Z",
-  "last_success_at": "2026-10-23T18:40:51.832Z",
-  "last_checked_at": "2026-10-23T18:43:41.570Z",
-  "record_count": 378,
-  "message": "Validated refresh retains 378 CampusBourses financial-support programme records",
+  "last_attempt_at": "2026-11-17T21:14:42.612Z",
+  "last_success_at": "2026-11-17T21:14:42.612Z",
+  "last_checked_at": "2026-11-17T21:17:31.031Z",
+  "record_count": 379,
+  "message": "Validated refresh retains 379 CampusBourses financial-support programme records",
   "error": null,
   "attribution": "Source: CampusBourses / Campus France"
 }
