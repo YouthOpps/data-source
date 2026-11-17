@@ -6,13 +6,12 @@
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "non-profit",
-  "status": "fail",
-  "last_attempt_at": "2026-10-31T20:42:33.097Z",
-  "last_success_at": "2026-10-29T22:03:49.062Z",
-  "last_checked_at": "2026-10-29T22:11:10.659Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-17T18:11:38.163Z",
+  "last_success_at": "2026-11-17T18:11:38.163Z",
+  "last_checked_at": "2026-11-17T18:18:59.268Z",
   "record_count": 5,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Known publisher guard exceeds phase budget",
-  "attribution": "DM Students — DM and MA student membership programmes",
-  "failure_stage": "access"
+  "message": "Collected 5 validated DM student funding and member training programmes",
+  "error": null,
+  "attribution": "DM Students — DM and MA student membership programmes"
 }
