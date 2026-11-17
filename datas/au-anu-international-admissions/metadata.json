@@ -1,0 +1,16 @@
+{
+  "source": "au-anu-international-admissions",
+  "source_url": "https://study.anu.edu.au/apply/international-applications",
+  "website_url": "https://www.anu.edu.au/",
+  "publisher_country": "AU",
+  "publisher_type": "university",
+  "language": "en",
+  "display_name": "Australian National University",
+  "status": "success",
+  "message": "Validated official direct admission refresh",
+  "last_attempt_at": "2026-11-17T22:06:48+00:00",
+  "last_success_at": "2026-11-17T22:06:48+00:00",
+  "last_checked_at": "2026-11-17T22:06:48+00:00",
+  "record_count": 2,
+  "error": null
+}
