@@ -1,0 +1,35 @@
+[
+  {
+    "id": "es-uc3m-admissions-early-admission-2027",
+    "title": "UC3M international undergraduate early admission",
+    "url": "https://www.uc3m.es/bachelor-degree/admission/application/international-students/early-admission",
+    "source_url": "https://www.uc3m.es/bachelor-degree/admission/application/international-students/early-admission",
+    "kind": "opportunity",
+    "category": "other",
+    "categories": [
+      "other"
+    ],
+    "language": "en",
+    "publisher_country": "ES",
+    "host_countries": [
+      "ES"
+    ],
+    "eligible_countries": [],
+    "published_at": null,
+    "deadline": "2027-04-02T23:59:59+02:00",
+    "status": "open",
+    "tags": [
+      "university admissions",
+      "undergraduate study",
+      "international students"
+    ],
+    "summary": "Early entry to eligible UC3M bachelor’s and dual degrees for students from non-Spanish secondary education systems. Equivalent secondary qualifications, a strong academic record and B2 in the teaching language are required. Some education systems also have an overseas residence condition. The 4U Alliance and international dual degrees are excluded. Individual degrees may close ahead of the final deadline.",
+    "source": "es-uc3m-admissions",
+    "location": "Madrid, Spain",
+    "created_at": "2026-11-17T21:42:55+00:00",
+    "updated_at": "2026-11-17T21:42:55+00:00",
+    "first_seen_at": "2026-11-17T21:42:55+00:00",
+    "last_seen_at": "2026-11-17T21:42:55+00:00",
+    "last_checked_at": "2026-11-17T21:42:55+00:00"
+  }
+]

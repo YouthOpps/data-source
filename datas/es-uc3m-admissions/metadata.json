@@ -1,0 +1,16 @@
+{
+  "source": "es-uc3m-admissions",
+  "source_url": "https://www.uc3m.es/bachelor-degree/admission/application/international-students/early-admission",
+  "website_url": "https://www.uc3m.es/",
+  "publisher_country": "ES",
+  "publisher_type": "university",
+  "language": "en",
+  "display_name": "Universidad Carlos III de Madrid",
+  "status": "success",
+  "message": "Validated official early admission refresh",
+  "last_attempt_at": "2026-11-17T21:41:09+00:00",
+  "last_success_at": "2026-11-17T21:41:09+00:00",
+  "last_checked_at": "2026-11-17T21:41:09+00:00",
+  "record_count": 1,
+  "error": null
+}
