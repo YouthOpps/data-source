@@ -1,0 +1,18 @@
+{
+  "display_name": "Warsaw University of Technology International Students Office",
+  "source": "pl-warsaw-tech-msc-admissions",
+  "source_url": "https://www.students.pw.edu.pl/index.php/How-to-Apply/Admission-to-M.Sc",
+  "website_url": "https://www.students.pw.edu.pl/",
+  "language": "en",
+  "publisher_country": "PL",
+  "publisher_type": "university",
+  "attribution": "Warsaw University of Technology International Students Office",
+  "status": "success",
+  "last_attempt_at": "2026-11-17T21:54:04.211492Z",
+  "last_success_at": "2026-11-17T21:54:04.211492Z",
+  "last_checked_at": "2026-11-17T21:55:23.004487Z",
+  "record_count": 1,
+  "message": "Collected and validated 1 current Warsaw Tech intake records",
+  "failure_stage": null,
+  "error": null
+}
