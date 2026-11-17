@@ -7,11 +7,11 @@
   "publisher_country": "BG",
   "publisher_type": "unknown",
   "status": "success",
-  "last_attempt_at": "2026-10-29T19:36:22.172Z",
-  "last_success_at": "2026-10-29T19:36:22.172Z",
-  "last_checked_at": "2026-10-29T19:36:22.172Z",
-  "record_count": 1,
-  "message": "Validated refresh retains 1 records",
+  "last_attempt_at": "2026-11-17T07:39:53.263Z",
+  "last_success_at": "2026-11-17T07:39:53.263Z",
+  "last_checked_at": "2026-11-17T07:39:53.263Z",
+  "record_count": 0,
+  "message": "Validated refresh retains 0 records",
   "error": null,
   "attribution": "FEBA Alumni"
 }
