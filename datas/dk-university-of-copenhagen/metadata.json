@@ -6,13 +6,12 @@
   "language": "en",
   "publisher_country": "DK",
   "publisher_type": "university",
-  "status": "fail",
-  "last_attempt_at": "2026-10-29T13:39:57.635Z",
-  "last_success_at": "2026-10-20T12:03:41.237Z",
-  "last_checked_at": "2026-10-20T12:03:41.237Z",
-  "record_count": 45,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Reviewed funding inventory changed",
-  "attribution": "University of Copenhagen",
-  "failure_stage": "parse"
+  "status": "success",
+  "last_attempt_at": "2026-11-17T07:16:11.718Z",
+  "last_success_at": "2026-11-17T07:16:11.718Z",
+  "last_checked_at": "2026-11-17T07:16:11.718Z",
+  "record_count": 28,
+  "message": "Validated refresh retains 28 records",
+  "error": null,
+  "attribution": "University of Copenhagen"
 }
