@@ -1,0 +1,932 @@
+[
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31394243",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Vi söker bilförsäljare!",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31394243",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Starfinder AB in STOCKHOLM, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Starfinder AB",
+    "locations": [
+      "STOCKHOLM"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-31",
+    "published_at": "2026-08-25",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31463339",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Stansoperatör- Lärling",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31463339",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Frontpac AB in Arlöv, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Frontpac AB",
+    "locations": [
+      "Arlöv"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-03-09",
+    "published_at": "2026-09-10",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31490333",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Ställningsmontörer Sökes",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31490333",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Safecon Byggnadsställningar AB in Tumba, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Safecon Byggnadsställningar AB",
+    "locations": [
+      "Tumba"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-18",
+    "published_at": "2026-09-17",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31514945",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "NYÖPPNAD SALONG I TORNBY - Skönhetspalatset 2.0 söker nagel och franstjejer",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31514945",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Skönhetspalatset in LINKÖPING, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Skönhetspalatset",
+    "locations": [
+      "LINKÖPING"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-30",
+    "published_at": "2026-09-24",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31524286",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Lärling sökes",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31524286",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Atwe, Pascal in NYNÄSHAMN, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Atwe, Pascal",
+    "locations": [
+      "NYNÄSHAMN"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-27",
+    "published_at": "2026-09-27",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": false
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31537322",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Traineesjuksköterska till intensivvårdsavdelningen, Sunderby sjukhus",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31537322",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by REGION NORRBOTTEN in Luleå, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "REGION NORRBOTTEN",
+    "locations": [
+      "Luleå"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-30",
+    "published_at": "2026-09-30",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31603393",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Installationselektriker",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31603393",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Lindberg & Söner El AB in Falköping, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Lindberg & Söner El AB",
+    "locations": [
+      "Falköping"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-17",
+    "published_at": "2026-10-15",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31617936",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Trainee Speditör",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31617936",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Fercam Sweden AB in Helsingborg, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Fercam Sweden AB",
+    "locations": [
+      "Helsingborg"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-19",
+    "published_at": "2026-10-20",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": false
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31618143",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Trainee inom finans – bygg din karriär hos oss",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31618143",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Akademisk Marknadsanalys Stockholm AB in Helsingborg, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Akademisk Marknadsanalys Stockholm AB",
+    "locations": [
+      "Helsingborg"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-19",
+    "published_at": "2026-10-20",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31623668",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Solskyddsmontör sökes till Markishuset",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31623668",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Markishuset-Stijo-Inredningar Aktiebolag in Skogås, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Markishuset-Stijo-Inredningar Aktiebolag",
+    "locations": [
+      "Skogås"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-31",
+    "published_at": "2026-10-21",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31648297",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Produktion (fordonsdekor, foliering)",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31648297",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by The Sign AB in Skärholmen, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "The Sign AB",
+    "locations": [
+      "Skärholmen"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-28",
+    "published_at": "2026-10-27",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": false
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31658015",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Trainee Arbetsterapeut - få en trygg start i din karriär",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31658015",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Karlstads kommun in Karlstad, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Karlstads kommun",
+    "locations": [
+      "Karlstad"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-31",
+    "published_at": "2026-10-28",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31664326",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Sjuksköterska Trainee enheten",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31664326",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by REGION JÖNKÖPINGS LÄN in Jönköping, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "REGION JÖNKÖPINGS LÄN",
+    "locations": [
+      "Jönköping"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-31",
+    "published_at": "2026-10-30",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31672447",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Trainee",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31672447",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Vida Aktiebolag in Alvesta, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Vida Aktiebolag",
+    "locations": [
+      "Alvesta"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-15",
+    "published_at": "2026-11-02",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31681099",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Erfaren Elektriker till Gällivare",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31681099",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Granitor Electro Aktiebolag in Gällivare, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Granitor Electro Aktiebolag",
+    "locations": [
+      "Gällivare"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-31",
+    "published_at": "2026-11-03",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31681930",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Vi söker elektriker och lärlingar till Granitor Electro i Tranås",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31681930",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by Granitor Electro Aktiebolag in Tranås, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Granitor Electro Aktiebolag",
+    "locations": [
+      "Tranås"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-31",
+    "published_at": "2026-11-04",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31682778",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Upptäck en värld av möjligheter som lärling inom Folktandvården!",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31682778",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by REGION KRONOBERG in Växjö, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "REGION KRONOBERG",
+    "locations": [
+      "Växjö"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-29",
+    "published_at": "2026-11-04",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31688596",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Produktchef trainee",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31688596",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Cejn Aktiebolag in SKÖVDE, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Cejn Aktiebolag",
+    "locations": [
+      "SKÖVDE"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-29",
+    "published_at": "2026-11-05",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": false
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31696289",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Studentanställda socialsekreterare, Socialförvaltningarna i Göteborgs stad",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31696289",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by GÖTEBORGS KOMMUN in Göteborg, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "GÖTEBORGS KOMMUN",
+    "locations": [
+      "Göteborg"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-06",
+    "published_at": "2026-11-06",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": false
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31706348",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Trainee - Sjuksköterska inom operationssjukvård",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31706348",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by REGION JÖNKÖPINGS LÄN in Jönköping, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "REGION JÖNKÖPINGS LÄN",
+    "locations": [
+      "Jönköping"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-11-29",
+    "published_at": "2026-11-09",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31709893",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Future Talent - Development Engineer Lamination & Webhandling",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31709893",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Aktiebolaget Tetra Pak in LUND, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Aktiebolaget Tetra Pak",
+    "locations": [
+      "LUND"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-01",
+    "published_at": "2026-11-10",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31710080",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Trainee inom Försvar och M&A – MW Group söker trainees till augusti 2027",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31710080",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by MW Sverige AB in Stockholm, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "MW Sverige AB",
+    "locations": [
+      "Stockholm"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-10",
+    "published_at": "2026-11-10",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31726909",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Skorstensfejare / skorstensfejarlärling",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31726909",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by SIMAB Sotning & Brandskydd AB in HALMSTAD, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "SIMAB Sotning & Brandskydd AB",
+    "locations": [
+      "HALMSTAD"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-13",
+    "published_at": "2026-11-13",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31727029",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Sotare",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31727029",
+    "category": "training",
+    "kind": "apprenticeship",
+    "summary": "Advertised apprenticeship route advertised by SIMAB Sotning & Brandskydd AB in Helsingborg, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "SIMAB Sotning & Brandskydd AB",
+    "locations": [
+      "Helsingborg"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2026-12-13",
+    "published_at": "2026-11-13",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31737601",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Peabs Traineeprogram 2027 Bygg och Anläggning",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31737601",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Peab Sverige AB in Luleå, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Peab Sverige AB",
+    "locations": [
+      "Luleå"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-17",
+    "published_at": "2026-11-16",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31737603",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Peabs Traineeprogram 2027 inom Swerock Mobil Vattenrening",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31737603",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Swerock Aktiebolag in Malmö, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Swerock Aktiebolag",
+    "locations": [
+      "Malmö"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-17",
+    "published_at": "2026-11-16",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31738145",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Peabs Traineeprogram 2027 Landskapsingenjör till Drift & Underhåll",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31738145",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Peab Sverige AB in Norrköping, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Peab Sverige AB",
+    "locations": [
+      "Norrköping"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-17",
+    "published_at": "2026-11-16",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31738177",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Peabs Traineeprogram 2027 Drift & Underhåll Vägservice",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31738177",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Peab Sverige AB in Kalmar, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Peab Sverige AB",
+    "locations": [
+      "Kalmar"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-17",
+    "published_at": "2026-11-16",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31738179",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Peabs Traineeprogram 2027 inom Swerock Råvaruförsörjning",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31738179",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Swerock Aktiebolag in Stockholm, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Swerock Aktiebolag",
+    "locations": [
+      "Stockholm"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-17",
+    "published_at": "2026-11-16",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  },
+  {
+    "id": "se-arbetsformedlingen-jobsearch-31738181",
+    "source": "se-arbetsformedlingen-jobsearch",
+    "title": "Peabs Traineeprogram 2027 inom Peab Asfalt",
+    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31738181",
+    "category": "training",
+    "kind": "trainee",
+    "summary": "Trainee opportunity advertised by Peab AB in Stockholm, Sweden. See the official advertisement for education, experience and programme eligibility.",
+    "summary_language": "en",
+    "employer": "Peab AB",
+    "locations": [
+      "Stockholm"
+    ],
+    "host_countries": [
+      "SE"
+    ],
+    "eligible_countries": [],
+    "deadline": "2027-01-17",
+    "published_at": "2026-11-16",
+    "status": "open",
+    "created_at": "2026-11-17T09:40:40.636Z",
+    "updated_at": "2026-11-17T09:40:40.636Z",
+    "first_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_seen_at": "2026-11-17T09:40:40.636Z",
+    "last_checked_at": "2026-11-17T09:40:40.636Z",
+    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+    "source_documents": [
+      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
+    ],
+    "agency_experience_required": true
+  }
+]

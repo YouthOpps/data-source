@@ -1,0 +1,15 @@
+{
+  "source": "se-arbetsformedlingen-jobsearch",
+  "display_name": "Arbetsformedlingen Sweden trainee and apprentice vacancies",
+  "source_url": "https://jobsearch.api.jobtechdev.se/",
+  "website_url": "https://data.arbetsformedlingen.se/dataservice/jobsearch/",
+  "publisher_country": "SE",
+  "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
+  "status": "success",
+  "last_attempt_at": "2026-11-17T09:38:54.358Z",
+  "last_success_at": "2026-11-17T09:38:54.358Z",
+  "last_checked_at": "2026-11-17T09:38:54.358Z",
+  "record_count": 30,
+  "message": "Validated complete agency scope retains 30 vacancies",
+  "error": null
+}
