@@ -1,0 +1,18 @@
+{
+  "display_name": "University of Coimbra",
+  "source": "pt-coimbra-brazil-admissions",
+  "source_url": "https://brasil.uc.pt/",
+  "website_url": "https://brasil.uc.pt/",
+  "language": "en",
+  "publisher_country": "PT",
+  "publisher_type": "university",
+  "attribution": "University of Coimbra",
+  "status": "success",
+  "last_attempt_at": "2026-11-17T22:12:33.056917Z",
+  "last_success_at": "2026-11-17T22:12:33.056917Z",
+  "last_checked_at": "2026-11-17T22:14:00.088691Z",
+  "record_count": 4,
+  "message": "Collected and validated 4 current Coimbra undergraduate admissions records",
+  "failure_stage": null,
+  "error": null
+}
