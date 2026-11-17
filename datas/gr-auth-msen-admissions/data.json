@@ -1,0 +1,43 @@
+[
+  {
+    "id": "gr-auth-msen-admissions-2027-09",
+    "title": "Materials Science and Engineering Integrated Master · September 2027 intake",
+    "url": "https://msen.auth.gr/admissions",
+    "source": "gr-auth-msen-admissions",
+    "source_url": "https://msen.auth.gr/admissions",
+    "published_at": null,
+    "summary": "Aristotle University of Thessaloniki advertises 40 places for September 2027. The programme uses rolling review of applications. Check the university’s qualifications and English proficiency requirements before applying.",
+    "tags": [
+      "materials-science",
+      "university-admissions",
+      "international-students"
+    ],
+    "category": "other",
+    "categories": [
+      "other"
+    ],
+    "kind": "opportunity",
+    "location": "Thessaloniki, Greece",
+    "language": "en",
+    "host_countries": [
+      "GR"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "GR",
+    "attribution": "Source: Aristotle University of Thessaloniki, Materials Science and Engineering",
+    "deadline": null,
+    "status": "open",
+    "created_at": "2026-11-17T21:57:16.032+00:00",
+    "updated_at": "2026-11-17T21:57:16.032+00:00",
+    "first_seen_at": "2026-11-17T21:57:16.032+00:00",
+    "last_seen_at": "2026-11-17T21:57:16.032+00:00",
+    "last_checked_at": "2026-11-17T21:57:16.032+00:00",
+    "classification": {
+      "method": "editorial-review",
+      "status": "unknown",
+      "evidence": [
+        "https://msen.auth.gr/admissions"
+      ]
+    }
+  }
+]
