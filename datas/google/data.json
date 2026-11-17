@@ -36,8 +36,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Research internships",
@@ -74,8 +74,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Apprenticeships",
@@ -120,8 +120,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Connect users to the magic",
@@ -158,8 +158,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Google Associate Product Manager Program",
@@ -167,7 +167,7 @@
     "source": "google",
     "source_url": "https://buildyourfuture.withgoogle.com/",
     "published_at": null,
-    "summary": "APM offers recent graduates two one-year product-management rotations, mentors and professional development; summer interns join one team for 12 weeks. Internship applicants must graduate within 12 months after the internship. Technical understanding, product judgement, analysis and communication matter. U.S. applications are listed as September 22-October 6 and London internships October 5-November 12, without a year; other graduate intake dates are unknown. Check actual role requirements.",
+    "summary": "APM gives new and recent graduates two one-year product-management rotations, mentorship and training; summer interns join one team for 12 weeks and must graduate within 12 months after the internship. Technical understanding, product sense, analysis and communication matter. U.S. internship and graduate applications are closed for 2027 cohorts. The page lists London internships October 5-November 12 and Bengaluru graduate roles October 30-November 24, without explicit years. 2027 London/EMEA graduate intake details remain unannounced. Check each role's eligibility and timing.",
     "tags": [],
     "location": null,
     "deadline": null,
@@ -184,7 +184,8 @@
       "GB",
       "DE",
       "CH",
-      "JP"
+      "JP",
+      "IN"
     ],
     "eligible_countries": [],
     "publisher_country": "US",
@@ -200,10 +201,10 @@
     },
     "id": "46469cc593110e79a324419b",
     "created_at": "2026-10-10T19:34:53.359Z",
-    "updated_at": "2026-10-10T19:34:53.359Z",
+    "updated_at": "2026-11-17T23:16:42.486Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Your Future Starts Here",
@@ -242,8 +243,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Business internships",
@@ -280,8 +281,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "US Legal Summer Institute",
@@ -319,8 +320,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Engineering and technical internships",
@@ -357,8 +358,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "EMEA Legal Summer Institute (LSI)",
@@ -419,8 +420,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Genesis Finance Program",
@@ -460,8 +461,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Americas Sales Associate Program",
@@ -499,8 +500,8 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   },
   {
     "title": "Google AI Career Catalyst Program",
@@ -538,7 +539,7 @@
     "created_at": "2026-10-10T19:34:53.359Z",
     "updated_at": "2026-10-10T19:34:53.359Z",
     "first_seen_at": "2026-10-10T19:34:53.359Z",
-    "last_seen_at": "2026-10-20T19:59:04.761Z",
-    "last_checked_at": "2026-10-20T20:06:42.133Z"
+    "last_seen_at": "2026-11-17T23:16:42.486Z",
+    "last_checked_at": "2026-11-17T23:24:52.433Z"
   }
 ]

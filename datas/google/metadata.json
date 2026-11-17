@@ -8,12 +8,11 @@
   "publisher_country": "US",
   "publisher_type": "company",
   "attribution": "Google — official student and early-career programme information",
-  "status": "fail",
-  "last_attempt_at": "2026-11-17T00:11:42.779Z",
-  "last_success_at": "2026-10-20T19:59:04.761Z",
-  "last_checked_at": "2026-10-20T20:06:42.133Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-17T23:16:42.486Z",
+  "last_success_at": "2026-11-17T23:16:42.486Z",
+  "last_checked_at": "2026-11-17T23:24:52.433Z",
   "record_count": 13,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Reviewed Google material facts/frontier changed: https://www.google.com/about/careers/applications/programs/apm/",
-  "failure_stage": "parse"
+  "message": "Validated refresh retains 13 reviewed Google programme information pages",
+  "error": null
 }
