@@ -8,12 +8,11 @@
   "publisher_country": "BE",
   "publisher_type": "education-network",
   "attribution": "Study in Flanders (VLUHR) https://www.studyinflanders.be/ and the named programme administrators",
-  "status": "fail",
-  "last_attempt_at": "2026-11-17T19:13:10.360Z",
-  "last_success_at": "2026-10-25T14:26:01.342Z",
-  "last_checked_at": "2026-10-25T14:29:43.407Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-17T22:48:47.270Z",
+  "last_success_at": "2026-11-17T22:48:47.270Z",
+  "last_checked_at": "2026-11-17T22:52:30.469Z",
   "record_count": 4,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Reviewed facts or frontier changed: hub",
-  "failure_stage": "parse"
+  "message": "Validated refresh retains 4 Study in Flanders opportunities",
+  "error": null
 }
