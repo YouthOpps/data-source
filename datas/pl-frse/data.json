@@ -22,8 +22,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -194,8 +194,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -375,8 +375,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -455,8 +455,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -521,6 +521,79 @@
     "application_closed": false
   },
   {
+    "id": "116a35198aa9b66d29457c83",
+    "title": "Erasmus+ Sport – szkolenie regionalne w Krakowie",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/erasmus-sport-szkolenie-regionalne-w-krakowie",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Kraków",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-17T13:38:39.723Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
+    "first_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/erasmus-sport-szkolenie-regionalne-w-krakowie"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Udział w spotkaniu wymaga również osobnej, nieodpłatnej rejestracji na Forum:"
+        ],
+        "funding": [
+          "Zapraszamy na szkolenie z możliwości dofinansowania projektów w ramach programu Erasmus+ Sport w roku 2027."
+        ],
+        "application": [
+          "Udział w spotkaniu wymaga również osobnej, nieodpłatnej rejestracji na Forum:",
+          "Zarejestruj się"
+        ]
+      },
+      "links": [
+        "https://forumsportu.pl/rejestracja",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "1c0f7289f82049d289b8dcb854d901164c7d3bac9ba7d1496bdedd075cf5f1fa",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
     "id": "1352c3dc67ed5e9681181c65",
     "title": "Zorganizuj wolontariat – wzmocnij swoją organizację!",
     "url": "https://www.frse.org.pl/finansowanie-projektow/zorganizuj-wolontariat-wzmocnij-swoja-organizacje",
@@ -543,8 +616,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -689,8 +762,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -826,8 +899,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -898,8 +971,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1024,8 +1097,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1135,85 +1208,6 @@
     "application_closed": true
   },
   {
-    "id": "336d4a5fc40f0c2ed047e89b",
-    "title": "Młodszy specjalista/młodsza specjalistka / specjalista/specjalistka / starszy specjalista/starsza specjalistka / główny specjalista/główna specjalistka w Zespole Projektu FERS edukacja szkolna",
-    "url": "https://www.frse.org.pl/praca-w-frse",
-    "source": "pl-frse",
-    "source_url": "https://www.frse.org.pl/",
-    "published_at": null,
-    "summary": "FRSE; jobs. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
-    "tags": [],
-    "location": null,
-    "deadline": null,
-    "language": "pl",
-    "category": "jobs",
-    "categories": [
-      "jobs"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "PL",
-    "created_at": "2026-10-14T21:06:36.598Z",
-    "updated_at": "2026-10-14T21:06:36.598Z",
-    "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-html",
-      "status": "classified",
-      "evidence": [
-        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/praca-w-frse"
-      ]
-    },
-    "reference": "FRSE/25/2026",
-    "country": "PL",
-    "details": {
-      "facts": {
-        "eligibility": [
-          "[...] należała obsługa administracyjna projektów realizowanych przez beneficjentów Fundacji, finansowanych z Programu Fundusze Europejskie dla Rozwoju Społecznego w tym: • prowadzenie doradztwa i szkoleń dla beneficjentów, • [...]",
-          "[...] dla Rozwoju Społecznego w tym: • prowadzenie doradztwa i szkoleń dla beneficjentów, • organizacja, prowadzenie i udział w spotkaniach, szkoleniach, warsztatach i konferencjach związanych z ofertą i zasadami programu oraz [...]",
-          "[...] • obsługa baz danych, • rozpatrywanie spraw zgłaszanych przez beneficjentów (próśb, skarg, wniosków), • prowadzenie wewnętrznego obiegu dokumentów (EZD), prowadzenie statystyk oraz obsługa wewnętrznych systemów [...]",
-          "[...] wewnętrznych systemów informatycznych, • konsultacje indywidualne z beneficjentami, obsługa telefoniczna i mailowa, • udział w przygotowywaniu sprawozdań kwartalnych i rocznych związanych z obsługą prowdzonych projketów, • [...]",
-          "Aby aplikować na to stanowisko, kliknij w poniższy link i wypełnij wymagane pola, dołączając swoje CV oraz list motywacyjny."
-        ],
-        "funding": [
-          "[...] realizującej istotne cele społeczne, • prywatną opiekę medyczną, • dofinansowanie aktywności sportowej, • szkolenia oraz bezpłatne lekcje języka angielskiego w siedzibie firmy, • dofinansowanie wypoczynku z ZFŚS oraz biletów [...]"
-        ],
-        "application": [
-          "[...] raportów końcowych, • obsługa baz danych, • rozpatrywanie spraw zgłaszanych przez beneficjentów (próśb, skarg, wniosków), • prowadzenie wewnętrznego obiegu dokumentów (EZD), prowadzenie statystyk oraz obsługa wewnętrznych [...]",
-          "[...] europejskich, • umiejętność analitycznego myślenia i wyciągania wniosków, tworzenia prezentacji, • doświadczenia w przygotowywaniu planów, raportów i zestawień finansowych, • gotowości do krajowych i zagranicznych wyjazdów, [...]",
-          "[...] pracy własnej, samodzielności i dyscypliny w przestrzeganiu terminów i procedur, • rozwiniętych umiejętności komunikacyjnych w mowie i piśmie, • znajomości języka angielskiego, • znajomości MS Excel na poziomie [...]",
-          "Wszystkich zainteresowanych prosimy o przesłanie aplikacji do dnia 25 września 2026 r. do godziny 17:00.",
-          "Aby aplikować na to stanowisko, kliknij w poniższy link i wypełnij wymagane pola, dołączając swoje CV oraz list motywacyjny."
-        ],
-        "requirements": [
-          "[...] (EZD), prowadzenie statystyk oraz obsługa wewnętrznych systemów informatycznych, • konsultacje indywidualne z beneficjentami, obsługa telefoniczna i mailowa, • udział w przygotowywaniu sprawozdań kwartalnych i rocznych [...]",
-          "[...] krajowych i zagranicznych wyjazdów, • umiejętności komunikacyjnych w języku polskim, • umiejętność pracy w zespole jak i samodzielnej pod presją czasu w zmieniających się warunkach, • umiejętności organizacji pracy własnej, [...]",
-          "[...] umiejętności komunikacyjnych w mowie i piśmie, • znajomości języka angielskiego, • znajomości MS Excel na poziomie zaawansowanym oraz MS Word na poziomie średniozaawansowanym, • doświadczenia w pracy zespołowej i [...]",
-          "[...] widziana znajomość ang na poziomie b1, • mile widziane prawo jazdy kategorii B.",
-          "[...] aktywności sportowej, • szkolenia oraz bezpłatne lekcje języka angielskiego w siedzibie firmy, • dofinansowanie wypoczynku z ZFŚS oraz biletów na wydarzenia kulturalne, • elastyczny czas pracy, • dodatkową składkę [...]"
-        ]
-      },
-      "links": [
-        "https://bip.frse.org.pl/content/mlodszy-specjalistamlodsza-specjalistkaspecjalistaspecjalistka-starszy-specjalistastarsza-sp",
-        "https://system.erecruiter.pl/FormTemplates/RecruitmentForm.aspx?WebID=25d803e6c71d46e39d7ba5d89d976499"
-      ],
-      "material_sha256": "f726aa8a95bc4ca84c0356f3e45ace19a36f1275529e574978d01e64694b9401",
-      "fields": [],
-      "supporting": []
-    },
-    "limitations": [
-      "HTML-reported conditions; linked programme rules can supersede overview text.",
-      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
-      "Residence and institutional affiliation are not nationality eligibility."
-    ],
-    "application_dates": [],
-    "application_closed": false
-  },
-  {
     "id": "33af95327a5bee6e8ce37376",
     "title": "Uczniowie na zagranicznych praktykach",
     "url": "https://www.frse.org.pl/finansowanie-projektow/uczniowie-na-zagranicznych-praktykach",
@@ -1236,8 +1230,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1397,10 +1391,10 @@
     "eligible_countries": [],
     "publisher_country": "PL",
     "created_at": "2026-11-01T14:30:57.103Z",
-    "updated_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1428,9 +1422,10 @@
       },
       "links": [
         "https://forms.cloud.microsoft/e/pw1akxXqSD",
+        "https://www.frse.org.pl/brepo/panel_repo_files/2026/11/05/grmjli/23-24112026-program-debaty.pdf",
         "https://www.frse.org.pl/wydarzenia-i-szkolenia"
       ],
-      "material_sha256": "74ed128cfea5913e4598f5cd5300bd3f62acec3b0acf4aa56b08911e7aaf78be",
+      "material_sha256": "a1a2ea0719d5685b22520d1b32700530a16ca72fbe8a5ea4f40506f638d2a25f",
       "fields": [
         {
           "label": "Gdzie?",
@@ -1474,8 +1469,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1620,8 +1615,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1778,8 +1773,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1932,8 +1927,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2087,6 +2082,72 @@
     "application_closed": true
   },
   {
+    "id": "4c33477c8360b3a175822860",
+    "title": "Webinarium EPALE: Razem możemy więcej. O współpracy, partnerstwach i wspólnym działaniu",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-epale-razem-mozemy-wiecej-o-wspolpracy-partnerstwach-i-wspolnym-dzialaniu",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-17T13:38:39.723Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
+    "first_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/webinarium-epale-razem-mozemy-wiecej-o-wspolpracy-partnerstwach-i-wspolnym-dzialaniu"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "application": [
+          "Szczegóły i rejestracja"
+        ]
+      },
+      "links": [
+        "https://epale.ec.europa.eu/pl/blog/webinarium-epale-razem-mozemy-wiecej-o-wspolpracy-partnerstwach-i-wspolnym-dzialaniu",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "c4e4f6ab0dfe0bb59633f8f3a906f664520cabbcf7d7c37baefa92fea92e041e",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
     "id": "4ed80c93d58cff4bd2cc0348",
     "title": "Sojusze na rzecz edukacji i przedsiębiorstw",
     "url": "https://www.frse.org.pl/finansowanie-projektow/sojusze-na-rzecz-edukacji-i-przedsiebiorstw",
@@ -2109,8 +2170,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2237,8 +2298,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2327,8 +2388,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2471,8 +2532,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2543,8 +2604,8 @@
     "created_at": "2026-10-23T12:52:05.510Z",
     "updated_at": "2026-10-23T12:52:05.510Z",
     "first_seen_at": "2026-10-23T12:52:05.510Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2615,8 +2676,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2803,8 +2864,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3012,8 +3073,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3079,8 +3140,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3204,8 +3265,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -3275,8 +3336,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3418,10 +3479,10 @@
     "eligible_countries": [],
     "publisher_country": "PL",
     "created_at": "2026-10-31T13:53:54.966Z",
-    "updated_at": "2026-10-31T13:53:54.966Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3438,7 +3499,7 @@
           "Uczestnicy podejmą dyskusję o tym, jak edukacja i doradztwo zawodowe mogą wspierać młodych ludzi, osoby uczące się i pracowników w przygotowaniu do wyzwań współczesnego rynku pracy."
         ],
         "application": [
-          "Rejestracja na wydarzenie trwa do 5 listopada (czwartek) do godz. 23:59:",
+          "Rejestracja na wydarzenie trwa do 6 listopada (piątek) do godz. 12:00:",
           "Zarejestruj się"
         ]
       },
@@ -3447,7 +3508,7 @@
         "https://www.frse.org.pl/wydarzenia-i-szkolenia",
         "https://www.webankieta.pl/survey/1786707/vi-forum-edukacji-zawodowej.html"
       ],
-      "material_sha256": "9c5f3b7b52641bfd8ca05bea2b054d2ebbd666e22570b9446235e537b2e5f506",
+      "material_sha256": "91c5ad79df092c689e9ff05373c3aa8c6ec39bd6244401241675abf1f2b85693",
       "fields": [
         {
           "label": "Gdzie?",
@@ -3491,8 +3552,8 @@
     "created_at": "2026-10-24T12:13:52.954Z",
     "updated_at": "2026-10-24T12:13:52.954Z",
     "first_seen_at": "2026-10-24T12:13:52.954Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3560,8 +3621,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3716,8 +3777,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3907,8 +3968,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4044,8 +4105,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4198,8 +4259,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4325,8 +4386,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4398,8 +4459,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4554,8 +4615,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4698,6 +4759,145 @@
     ]
   },
   {
+    "id": "a984d043c81e05cadaca1cf3",
+    "title": "RPI Olsztyn: III Ogólnopolski Kongres Doradztwa Zawodowego",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-olsztyn-iii-ogolnopolski-kongres-doradztwa-zawodowego",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Olsztyn",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-17T13:38:39.723Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
+    "first_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-olsztyn-iii-ogolnopolski-kongres-doradztwa-zawodowego"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Główny cel wydarzenia to wspieranie doradców zawodowych, dyrektorów i nauczycieli w tworzeniu szerokiej gamy działań dla uczniów, tak by lepiej poznali siebie oraz bardziej świadomie wybierali dalszą drogę edukacyjno-zawodową.",
+          "nauczycieli doradztwa zawodowego i nauczycieli specjalistów: pedagogów, psychologów, logopedów, terapeutów",
+          "Uczestnicy wydarzenia:",
+          "poznają sposoby rozpoznawania zainteresowań, predyspozycji i potrzeb ucznia",
+          "poznają przykłady działań, dzięki którym uczniowie mogą doświadczać zawodów w szkołach, u pracodawców i w BCU"
+        ]
+      },
+      "links": [
+        "https://www.frse.org.pl/brepo/panel_repo_files/2026/11/13/olpmlq/program-rpi-olsztyn-2026-11-18.pdf",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "11071599ef5c1add65fae34b53c6feb31e877a5527bac3b79b8499bad931a34f",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
+    "id": "b2710a69ff00de15a1fd83f5",
+    "title": "RPI Dolny Śląsk. Seminarium szkoleniowe: Europejska jakość edukacji",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-dolny-slask-seminarium-szkoleniowe-europejska-jakosc-edukacji",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Mokrzeszów (dolnośląskie)",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-17T13:38:39.723Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
+    "first_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-dolny-slask-seminarium-szkoleniowe-europejska-jakosc-edukacji"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Uczestnicy spotkania będą mogli:"
+        ],
+        "application": [
+          "Termin: 6 listopada 2026 r. (piątek), godz. 10:00-13:00 Miejsce: Zespół Szkół Centrum Kształcenia Rolniczego im."
+        ]
+      },
+      "links": [
+        "https://www.frse.org.pl/brepo/panel_repo_files/2026/11/02/yxphtp/program-rpi-mokrzeszow-2026-11-06.pdf",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "304046fa5075bc0450a18d4a9a4bc18bc71d56160a7476ee86ceadfc163f6c52",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
     "id": "b299b79cc3b612dcdc426084",
     "title": "XI Forum Edukacji Dorosłych",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/xi-forum-edukacji-doroslych",
@@ -4720,8 +4920,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4793,8 +4993,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4911,8 +5111,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4982,8 +5182,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -5134,8 +5334,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5269,8 +5469,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5339,8 +5539,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5416,8 +5616,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -5491,8 +5691,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5642,8 +5842,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5716,10 +5916,10 @@
     "eligible_countries": [],
     "publisher_country": "PL",
     "created_at": "2026-11-01T14:30:57.103Z",
-    "updated_at": "2026-11-01T14:30:57.103Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5746,7 +5946,7 @@
         "https://www.frse.org.pl/wydarzenia-i-szkolenia",
         "https://www.webankieta.pl/survey/1776951/webinarium-akcja-budowanie-potencjalu-szkolnictwa-wyzszego-w-okreslonych-krajach-niestowarzyszonych-z-programem-cbhe-capacity-building-in-higher-education-18-listopada-2026-r.html"
       ],
-      "material_sha256": "0927cc2f0b1051a11b55a97487510954b3d2a6eac84445fc1713c312a4bf1fc7",
+      "material_sha256": "8b03c1c6e4bbab2944c1a2f916d6407dcdad64ca5d0446cda88f16a3085127d4",
       "fields": [
         {
           "label": "Gdzie?",
@@ -5790,8 +5990,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -5881,8 +6081,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -5985,8 +6185,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -6115,6 +6315,165 @@
     "application_closed": true
   },
   {
+    "id": "e0810ad2597591fbacef5fd1",
+    "title": "Erasmus+ Edukacja dorosłych: spotkanie informacyjne dla nowych organizacji",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/erasmus-edukacja-doroslych-spotkanie-informacyjne-dla-nowych-organizacji-li8X",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Brak jednoznacznego terminu zgłoszeń. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Warszawa",
+    "deadline": null,
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-17T13:38:39.723Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
+    "first_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/erasmus-edukacja-doroslych-spotkanie-informacyjne-dla-nowych-organizacji-li8X"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "[...] przekażemy osobom zakwalifikowanym do udziału w spotkaniu) Dla kogo?",
+          "W przypadku większej liczby dostępnych miejsc niż zakwalifikowanych uczestników możliwość udziału otrzymają również doświadczeni beneficjenci oraz dodatkowi przedstawiciele organizacji."
+        ],
+        "funding": [
+          "Dowiesz się o zasadach składania wniosków o dofinansowanie projektów na mniejszą skalę zarówno w Akcji 1 (Krótkoterminowe projekty mobilności), jak i w Akcji 2 (Partnerstwa na małą skalę)."
+        ],
+        "application": [
+          "W pierwszej kolejności do rejestracji zachęcamy nowe organizacje – bez doświadczenia w programie Erasmus+, sektor Edukacja dorosłych (po 1 osobie z organizacji).",
+          "Zachęcamy jednak do rejestracji wszystkie zainteresowane osoby.",
+          "Dowiesz się o zasadach składania wniosków o dofinansowanie projektów na mniejszą skalę zarówno w Akcji 1 (Krótkoterminowe projekty mobilności), jak i w Akcji 2 (Partnerstwa na małą skalę).",
+          "Zarejestruj się",
+          "Rejestracja zakończy się 18 listopada."
+        ]
+      },
+      "links": [
+        "https://spotkanieadu2026.webankieta.pl/",
+        "https://www.frse.org.pl/brepo/panel_repo_files/2026/11/04/8hbjv4/program-spotkania-adu.pdf",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "afd4ad09ace050cbc81dc909adc8d0ee10a6cf5690b9004e31cc5553bcc77019",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [],
+    "application_closed": false
+  },
+  {
+    "id": "e16e4ad22d6c353ea903c586",
+    "title": "Młodsza specjalistka/młodszy specjalista / specjalistka/specjalista / starsza specjalistka/starszy specjalista / główna specjalistka/główny specjalista w Biurze Programów Edukacji Szkolnej oraz Edukacji Dorosłych w Zespole Erasmus+ SE-KA1",
+    "url": "https://www.frse.org.pl/praca-w-frse",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; jobs. Termin zgłoszeń: 2026-11-20. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": null,
+    "deadline": "2026-11-20",
+    "language": "pl",
+    "category": "jobs",
+    "categories": [
+      "jobs"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-17T13:38:39.723Z",
+    "updated_at": "2026-11-17T13:38:39.723Z",
+    "first_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
+    "status": "open",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/praca-w-frse"
+      ]
+    },
+    "reference": "FRSE/24/2026",
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Obowiązki: • obsługa administracyjna projektów realizowanych przez beneficjentów Fundacji finansowanych z programu Erasmus+ sektora edukacji szkolnej w tym: • obsługa konkursu wniosków na dofinansowanie projektów oraz procesu [...]",
+          "[...] wyjazdowych wizyt monitorujących), • doradztwo i szkolenia dla beneficjentów, • rozpatrywanie spraw zgłaszanych przez beneficjentów (próśb, skarg, wniosków), • ocena formalna i merytoryczna raportów beneficjentów, • [...]",
+          "[...] (próśb, skarg, wniosków), • ocena formalna i merytoryczna raportów beneficjentów, • obsługa baz danych, • organizacja, prowadzenie i udział w spotkaniach, szkoleniach, warsztatach i konferencjach związanych z ofertą i zasadami [...]",
+          "Aby aplikować na to stanowisko, kliknij w poniższy link i wypełnij wymagane pola, dołączając swoje CV oraz list motywacyjny."
+        ],
+        "funding": [
+          "[...] sektora edukacji szkolnej w tym: • obsługa konkursu wniosków na dofinansowanie projektów oraz procesu kontraktowania i budżetowania, • monitorowanie przebiegu i ocena końcowa realizacji umów (w tym odbywanie wyjazdowych [...]",
+          "[...] realizującej istotne cele społeczne, • prywatna opieka medyczna, • dofinansowanie aktywności sportowej, • szkolenia oraz bezpłatne lekcje języka angielskiego w siedzibie firmy, • dofinansowanie wypoczynku z ZFŚS oraz biletów [...]"
+        ],
+        "application": [
+          "[...] pracy własnej, samodzielność i dyscyplina w przestrzeganiu terminów i procedur, w tym procedur finansowych, • zdolności organizacyjne: zarządzanie czasem, organizacja pracy, analiza danych, zarządzanie stresem, • [...]",
+          "[...] Erasmus+ sektora edukacji szkolnej w tym: • obsługa konkursu wniosków na dofinansowanie projektów oraz procesu kontraktowania i budżetowania, • monitorowanie przebiegu i ocena końcowa realizacji umów (w tym odbywanie [...]",
+          "[...] • doradztwo i szkolenia dla beneficjentów, • rozpatrywanie spraw zgłaszanych przez beneficjentów (próśb, skarg, wniosków), • ocena formalna i merytoryczna raportów beneficjentów, • obsługa baz danych, • organizacja, [...]",
+          "Wszystkich zainteresowanych prosimy o przesłanie aplikacji do dnia 20 listopada 2026 r. do godziny 17:00.",
+          "Aby aplikować na to stanowisko, kliknij w poniższy link i wypełnij wymagane pola, dołączając swoje CV oraz list motywacyjny."
+        ],
+        "requirements": [
+          "Oczekiwania: • wykształcenie wyższe I/II stopnia, • znajomość języka angielskiego, • mile widziana znajomość programu Erasmus + lub doświadczenie w pracy w funduszach unijnych, • mile widziane doświadczenie w pracy projektowej, • [...]",
+          "[...] aktywności sportowej, • szkolenia oraz bezpłatne lekcje języka angielskiego w siedzibie firmy, • dofinansowanie wypoczynku z ZFŚS oraz biletów na wydarzenia kulturalne, • elastyczny czas pracy, • dodatkowa składka [...]"
+        ]
+      },
+      "links": [
+        "https://bip.frse.org.pl/content/mlodsza-specjalistkamlodszy-specjalistaspecjalistkaspecjalistastarsza-specjalistkastarszy-sp",
+        "https://system.erecruiter.pl/FormTemplates/RecruitmentForm.aspx?WebID=7955e69ac13d473c8c7402a28958e6d1"
+      ],
+      "material_sha256": "d99b0b0f7e8395cfdbae8eb88818c4f5254842f4eb0089864884cc7ed4a67cb7",
+      "fields": [],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [
+      {
+        "date": "2026-11-20",
+        "evidence": "aplikacji do dnia 20 listopada 2026"
+      }
+    ],
+    "application_closed": false
+  },
+  {
     "id": "edb3ec8ba2a06e9f100f1428",
     "title": "Otwarcie Erasmus+ InnHUB Rzeszów: konferencja inauguracyjna",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/otwarcie-erasmus-innhub-rzeszow-konferencja-inauguracyjna",
@@ -6137,8 +6496,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6212,8 +6571,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6273,8 +6632,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6359,8 +6718,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6426,8 +6785,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_checked_at": "2026-11-01T14:58:34.599Z",
+    "last_seen_at": "2026-11-17T13:38:39.723Z",
+    "last_checked_at": "2026-11-17T14:09:59.571Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
