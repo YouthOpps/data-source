@@ -6,14 +6,13 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "fail",
-  "last_attempt_at": "2026-11-17T14:50:29.655Z",
-  "last_success_at": "2026-10-29T11:42:32.046Z",
-  "last_checked_at": "2026-10-29T11:42:32.046Z",
-  "record_count": 6,
+  "status": "success",
+  "last_attempt_at": "2026-11-17T23:40:29.555Z",
+  "last_success_at": "2026-11-17T23:40:29.555Z",
+  "last_checked_at": "2026-11-17T23:40:29.555Z",
+  "record_count": 10,
   "inventory_scope": "complete-publisher-browse-opportunities",
-  "message": "Collection failed; last-good data preserved",
-  "error": "Complete remaining frontier cannot fit retained timing",
-  "attribution": "Youth for Europe / Associazione Joint",
-  "failure_stage": "access"
+  "message": "Validated refresh retains 10 records",
+  "error": null,
+  "attribution": "Youth for Europe / Associazione Joint"
 }
