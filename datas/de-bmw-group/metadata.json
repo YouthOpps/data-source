@@ -8,11 +8,11 @@
   "publisher_country": "DE",
   "publisher_type": "company",
   "status": "success",
-  "last_attempt_at": "2026-11-17T12:19:28.079Z",
-  "last_success_at": "2026-11-17T12:19:28.079Z",
-  "last_checked_at": "2026-11-17T12:32:20.990Z",
-  "record_count": 501,
-  "message": "Validated refresh retains 501 validated BMW youth-vacancy records",
+  "last_attempt_at": "2026-11-18T00:56:14.000Z",
+  "last_success_at": "2026-11-18T00:56:14.000Z",
+  "last_checked_at": "2026-11-18T01:09:10.979Z",
+  "record_count": 515,
+  "message": "Validated refresh retains 515 validated BMW youth-vacancy records",
   "error": null,
   "attribution": "Source: BMW Group public jobfinder"
 }
