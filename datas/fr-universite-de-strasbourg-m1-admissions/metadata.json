@@ -1,0 +1,18 @@
+{
+  "source": "fr-universite-de-strasbourg-m1-admissions",
+  "display_name": "Université de Strasbourg",
+  "source_url": "https://mathinfo.unistra.fr/en/admissions/admissions/",
+  "website_url": "https://mathinfo.unistra.fr/",
+  "language": "en",
+  "publisher_type": "university",
+  "publisher_country": "FR",
+  "attribution": "Source: Université de Strasbourg, Faculty of Mathematics and Computer Science",
+  "status": "success",
+  "record_count": 3,
+  "last_attempt_at": "2026-11-18T05:55:08.725Z",
+  "last_success_at": "2026-11-18T05:56:30.535Z",
+  "last_checked_at": "2026-11-18T05:56:30.535Z",
+  "message": "Collected and checked the official first-year master’s admissions scope",
+  "failure_stage": null,
+  "error": null
+}
