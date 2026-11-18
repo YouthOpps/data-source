@@ -24,8 +24,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -60,8 +60,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -98,8 +98,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -138,8 +138,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -179,8 +179,8 @@
     "created_at": "2026-11-17T07:16:11.718Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-11-17T07:16:11.718Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "open",
     "classification": {
       "method": "official-research-assistant-phd-pathway",
@@ -191,52 +191,6 @@
         "Deadline for application 29 November 2026, 24:00 CET Interviews are expected to be held in week 50-51. We ",
         "Transition to a funded PhD requires evaluation and mutual agreement; it is not an immediate PhD appointment.",
         "The initial research assistant appointment is one year."
-      ]
-    }
-  },
-  {
-    "id": "39befd37eca47da89771b4db",
-    "title": "PhD fellowship in cerebral interoception at Center for Translational Neuromedicine",
-    "url": "https://employment.ku.dk/all-vacancies/?show=172340",
-    "source": "dk-university-of-copenhagen",
-    "source_url": "https://www.ku.dk/studies/admission/scholarships-for-full-degree-students",
-    "published_at": null,
-    "summary": "Funded doctoral recruitment at Center for Translational Neuromedicine, UCPH. The notice specifies relevant degree and academic requirements. Application is through the official notice; consult its subject, language and employment conditions.",
-    "tags": [
-      "PhD",
-      "University of Copenhagen"
-    ],
-    "location": "Center for Translational Neuromedicine, Denmark",
-    "deadline": "2026-11-17T22:59:00.000Z",
-    "language": "en",
-    "category": "fellowships",
-    "categories": [
-      "fellowships",
-      "jobs"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "DK"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "DK",
-    "created_at": "2026-11-17T07:16:11.718Z",
-    "updated_at": "2026-11-17T07:16:11.718Z",
-    "first_seen_at": "2026-11-17T07:16:11.718Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
-    "status": "open",
-    "classification": {
-      "method": "official-funded-doctoral-vacancy",
-      "status": "classified",
-      "evidence": [
-        "Official current PhD listing: https://employment.ku.dk/all-vacancies/",
-        "Listing faculty: Faculty of Health and Medical Sciences",
-        "Application deadline: 17 November 2026 , 23.59 CET We reserve the right not to consider material receiv",
-        "Qualifications If you have completed your academic education in Denmark, the admission to the PhD programme requires a relevant Master’s degree (equivalent to 180 ECTS BSc + 120 ECTS MSc).",
-        "If you have an academic education from abroad, you must have either a degree equivalent to a Danish master's degree (180 ETCS + 120 ECTS MSc), or at a minimum, a bachelor’s degree equivalent to a Danish bachelor's degree (180 ECTS) and be…",
-        "The employment is conditioned upon the applicant’s success­ful enrolment as a PhD student at the Graduate School at the Faculty of Health and Medical Sciences, University of Copenhagen. This requires submission and acceptance of an…",
-        "Salary, pension and terms of employment are in accordance with the agree­ment between the Ministry of Taxation and The Danish Confederation of Professional Associations on Academics in the State. Depending on seniority, the monthly salary…"
       ]
     }
   },
@@ -265,8 +219,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -307,8 +261,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -349,8 +303,8 @@
     "created_at": "2026-10-16T13:47:41.410Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-16T13:47:41.410Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "open",
     "classification": {
       "method": "official-funded-doctoral-vacancy",
@@ -389,8 +343,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -431,8 +385,8 @@
     "created_at": "2026-11-17T07:16:11.718Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-11-17T07:16:11.718Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "open",
     "classification": {
       "method": "official-funded-doctoral-vacancy",
@@ -474,8 +428,8 @@
     "created_at": "2026-10-19T13:53:22.780Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-19T13:53:22.780Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "open",
     "classification": {
       "method": "official-funded-doctoral-vacancy",
@@ -515,8 +469,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -551,8 +505,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -589,8 +543,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -631,8 +585,8 @@
     "created_at": "2026-10-19T13:53:22.780Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-19T13:53:22.780Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "open",
     "classification": {
       "method": "official-funded-doctoral-vacancy",
@@ -671,8 +625,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -707,8 +661,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -745,8 +699,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -783,8 +737,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -823,8 +777,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -860,8 +814,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -902,8 +856,8 @@
     "created_at": "2026-10-16T13:47:41.410Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-16T13:47:41.410Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "open",
     "classification": {
       "method": "official-funded-doctoral-vacancy",
@@ -942,8 +896,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -982,8 +936,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -1023,8 +977,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -1059,8 +1013,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-11-17T07:16:11.718Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
@@ -1099,8 +1053,8 @@
     "created_at": "2026-10-08T20:44:07.301Z",
     "updated_at": "2026-10-08T20:44:07.301Z",
     "first_seen_at": "2026-10-08T20:44:07.301Z",
-    "last_seen_at": "2026-11-17T12:34:44.490Z",
-    "last_checked_at": "2026-11-17T12:34:44.490Z",
+    "last_seen_at": "2026-11-18T15:57:51.131Z",
+    "last_checked_at": "2026-11-18T15:57:51.131Z",
     "status": "unknown",
     "classification": {
       "method": "official-programme-conditions",
