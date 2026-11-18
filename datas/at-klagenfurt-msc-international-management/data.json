@@ -1,0 +1,82 @@
+[
+  {
+    "id": "at-klagenfurt-msc-international-management-2027-general",
+    "title": "University of Klagenfurt MSc International Management 2027 (General registration)",
+    "url": "https://www.aau.at/en/studien/master-international-management/",
+    "source": "at-klagenfurt-msc-international-management",
+    "source_url": "https://www.aau.at/en/studien/master-international-management/",
+    "published_at": null,
+    "summary": "Registration for the special admission procedure runs from 11 January 2027 to 30 April 2027. The university lists 23:59 CET for the general cutoff. Non-EU/EEA applicants have an earlier deadline. Registration is for admission selection. Check the university page for application requirements and the closing time.",
+    "tags": [
+      "masters",
+      "admissions",
+      "international-students"
+    ],
+    "location": "Klagenfurt, Austria",
+    "deadline": "2027-04-30",
+    "language": "en",
+    "category": "other",
+    "categories": [
+      "other"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "AT"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "AT",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-admissions-calendar",
+      "status": "unknown",
+      "evidence": [
+        "Official programme registration calendar, general registration"
+      ]
+    },
+    "created_at": "2026-11-18T05:49:28.022763Z",
+    "updated_at": "2026-11-18T05:49:28.022763Z",
+    "first_seen_at": "2026-11-18T05:49:28.022763Z",
+    "last_seen_at": "2026-11-18T05:49:28.022763Z",
+    "last_checked_at": "2026-11-18T05:49:28.022763Z"
+  },
+  {
+    "id": "at-klagenfurt-msc-international-management-2027-non-eu-eea",
+    "title": "University of Klagenfurt MSc International Management 2027 (Non-EU/EEA registration)",
+    "url": "https://www.aau.at/en/studien/master-international-management/",
+    "source": "at-klagenfurt-msc-international-management",
+    "source_url": "https://www.aau.at/en/studien/master-international-management/",
+    "published_at": null,
+    "summary": "Registration for the special admission procedure runs from 11 January 2027 to 28 February 2027. This is the earlier window listed for non-EU/EEA applicants. Registration is for admission selection. Check the university page for application requirements and the closing time.",
+    "tags": [
+      "masters",
+      "admissions",
+      "international-students"
+    ],
+    "location": "Klagenfurt, Austria",
+    "deadline": "2027-02-28",
+    "language": "en",
+    "category": "other",
+    "categories": [
+      "other"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "AT"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "AT",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-admissions-calendar",
+      "status": "unknown",
+      "evidence": [
+        "Official programme registration calendar, non-eu/eea registration"
+      ]
+    },
+    "created_at": "2026-11-18T05:49:28.022763Z",
+    "updated_at": "2026-11-18T05:49:28.022763Z",
+    "first_seen_at": "2026-11-18T05:49:28.022763Z",
+    "last_seen_at": "2026-11-18T05:49:28.022763Z",
+    "last_checked_at": "2026-11-18T05:49:28.022763Z"
+  }
+]
