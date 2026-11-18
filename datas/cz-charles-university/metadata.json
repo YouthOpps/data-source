@@ -6,13 +6,12 @@
   "language": "en",
   "publisher_country": "CZ",
   "publisher_type": "university",
-  "status": "fail",
-  "last_attempt_at": "2026-11-17T08:28:02.333Z",
-  "last_success_at": "2026-10-19T05:17:39.483Z",
-  "last_checked_at": "2026-10-19T05:17:39.483Z",
-  "record_count": 43,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Publisher conditions changed; review source page: international",
-  "attribution": "Charles University",
-  "failure_stage": "parse"
+  "status": "success",
+  "last_attempt_at": "2026-11-18T06:59:20.699Z",
+  "last_success_at": "2026-11-18T06:59:20.699Z",
+  "last_checked_at": "2026-11-18T06:59:20.699Z",
+  "record_count": 48,
+  "message": "Validated refresh retains 48 accessible records; UJOP excluded because its robots policy was unavailable",
+  "error": null,
+  "attribution": "Charles University"
 }

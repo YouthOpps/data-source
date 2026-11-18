@@ -22,8 +22,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -58,8 +58,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -95,8 +95,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -105,6 +105,83 @@
         "2–12 months",
         "2–6 months",
         "EUR 1,400 per month"
+      ]
+    }
+  },
+  {
+    "id": "0a8bee04009edf858dc00481",
+    "title": "Computer Science Tuition Fee Scholarship – Bachelor’s 2027",
+    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/cstf-scholarships-2027",
+    "source": "cz-charles-university",
+    "source_url": "https://cuni.cz/UKEN-927.html",
+    "published_at": null,
+    "summary": "Up to 3 academic-excellence awards for English-taught Computer Science Bachelor’s entrants at CU Mathematics and Physics in 2027/2028. Tuition coverage EUR 4,200/year for EU students or EUR 7,500/year otherwise, for 3 academic years. English application documents include CV, motivation, transcripts and two recommendations. New entrants only, with no other scholarship or maintenance grant. Continued support requires full-time study and academic progress.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-04-30",
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "CZ"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CZ",
+    "created_at": "2026-11-18T06:59:20.699Z",
+    "updated_at": "2026-11-18T06:59:20.699Z",
+    "first_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "2027",
+        "30 April 2027",
+        "4 200 EUR",
+        "7 500 EUR"
+      ]
+    }
+  },
+  {
+    "id": "0cd62c0ede6c66131dcb1a97",
+    "title": "FSV UK SCHOLARS scholarship 2027/2028",
+    "url": "https://fsv.cuni.cz/en/study/scholarships-funding-and-fees/fsv-uk-scholars-program",
+    "source": "cz-charles-university",
+    "source_url": "https://cuni.cz/UKEN-927.html",
+    "published_at": null,
+    "summary": "One-time payment of about CZK 75,000 for living costs of financially disadvantaged fee-paying Social Sciences students. Incoming students and current BA year 1/2 or MA year 1 may apply. No tuition waiver. Renewal requires a new application. Submit an English or certified-translated application with a motivation essay and academic reference. New applicants must file and pay for programme admission by 2027-04-30. Payment by December 2027 after winter registration and tuition settlement, if conditions are met.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-04-30",
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "CZ"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CZ",
+    "created_at": "2026-11-18T06:59:20.699Z",
+    "updated_at": "2026-11-18T06:59:20.699Z",
+    "first_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "April 30, 2027",
+        "75 000",
+        "no tuition fee waiver"
       ]
     }
   },
@@ -131,8 +208,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "open",
     "classification": {
       "method": "editorial-review",
@@ -168,8 +245,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -204,8 +281,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -213,6 +290,45 @@
       "evidence": [
         "civic engagement",
         "up to 12 months"
+      ]
+    }
+  },
+  {
+    "id": "1e1e1200c7920db814b5f686",
+    "title": "Prague Mathematics Tuition Fee Scholarship 2027",
+    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/prague-mathematics-tuition-fee-scholarships-2027",
+    "source": "cz-charles-university",
+    "source_url": "https://cuni.cz/UKEN-927.html",
+    "published_at": null,
+    "summary": "Up to 2 academic-excellence awards for English-taught Mathematics Master’s entrants at CU Mathematics and Physics in 2027/2028. Tuition coverage EUR 4,200/year for EU students or EUR 7,500/year otherwise, for 2 academic years. English application documents include CV, motivation, transcripts and two recommendations. New entrants only, with no other scholarship or maintenance grant. Continued support requires full-time study and academic progress.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-04-30",
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "CZ"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CZ",
+    "created_at": "2026-11-18T06:59:20.699Z",
+    "updated_at": "2026-11-18T06:59:20.699Z",
+    "first_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "2027",
+        "30 April 2027",
+        "4 200 EUR",
+        "7 500 EUR"
       ]
     }
   },
@@ -241,8 +357,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -275,8 +391,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -310,8 +426,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -366,8 +482,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -407,8 +523,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -416,6 +532,45 @@
       "evidence": [
         "Belarusian students",
         "2020–2022"
+      ]
+    }
+  },
+  {
+    "id": "5091801bee5a84d9f0dabed2",
+    "title": "Computational Linguistics Scholarship 2027",
+    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/computational-linguistics-scholarship-2027",
+    "source": "cz-charles-university",
+    "source_url": "https://cuni.cz/UKEN-927.html",
+    "published_at": null,
+    "summary": "Up to 1 academic-excellence awards for English-taught Language Technologies and Computational Linguistics Master’s entrants at CU Mathematics and Physics in 2027/2028. Tuition coverage EUR 4,200/year for EU students or EUR 7,500/year otherwise, for 2 academic years. English application documents include CV, motivation, transcripts and two recommendations. No other external living-allowance scholarship or grant. CZK 120,000 living allowance/year, subject to first-semester progress. Continued support requires full-time study and academic progress.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-04-30",
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "CZ"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CZ",
+    "created_at": "2026-11-18T06:59:20.699Z",
+    "updated_at": "2026-11-18T06:59:20.699Z",
+    "first_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "2027",
+        "April 30, 2027",
+        "4 200 EUR",
+        "7 500 EUR"
       ]
     }
   },
@@ -444,8 +599,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -482,8 +637,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -516,8 +671,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -553,8 +708,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -591,8 +746,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -626,8 +781,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -661,8 +816,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -695,8 +850,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -763,8 +918,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -799,8 +954,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -835,8 +990,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -870,8 +1025,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -879,6 +1034,45 @@
       "evidence": [
         "GI Bill",
         "U.S. veterans only"
+      ]
+    }
+  },
+  {
+    "id": "93bb08f12f362e3f07b02c32",
+    "title": "Prague Physics Tuition Fee Scholarship 2027",
+    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/prague-physics-tuition-fee-scholarships-2027",
+    "source": "cz-charles-university",
+    "source_url": "https://cuni.cz/UKEN-927.html",
+    "published_at": null,
+    "summary": "Up to 2 academic-excellence awards for English-taught Physics Master’s entrants at CU Mathematics and Physics in 2027/2028. Tuition coverage EUR 4,200/year for EU students or EUR 7,500/year otherwise, for 2 academic years. English application documents include CV, motivation, transcripts and two recommendations. New entrants only, with no other scholarship or maintenance grant. Continued support requires full-time study and academic progress.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-04-30",
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "CZ"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CZ",
+    "created_at": "2026-11-18T06:59:20.699Z",
+    "updated_at": "2026-11-18T06:59:20.699Z",
+    "first_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "2027",
+        "30 April 2027",
+        "4 200 EUR",
+        "7 500 EUR"
       ]
     }
   },
@@ -905,8 +1099,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -942,8 +1136,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -977,8 +1171,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1013,51 +1207,14 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
       "status": "classified",
       "evidence": [
         "repression"
-      ]
-    }
-  },
-  {
-    "id": "be37d4d2a0935265f5bf14a0",
-    "title": "Charles University Mobility Fund – Autumn 2026",
-    "url": "https://cuni.cz/UKEN-927.html",
-    "source": "cz-charles-university",
-    "source_url": "https://cuni.cz/UKEN-927.html",
-    "published_at": null,
-    "summary": "Autumn 2026 partial mobility funding for full-time CU BA/MA/PhD students within standard duration +1 year. Study/internship ≥30 days; short PhD ≤29 days; medical Master’s 21–29 days. Stays 1 Nov 2026–30 Sep 2027. No retrospective, Erasmus+, inter-university scholarship or GAUK funding. Acceptance and academic approval required; study B2 with exemptions. Long stays: CZK 15,000/month Europe or 20,000 outside, cap 70,000; short rates vary. Central deadline 30 Oct 2026 at 14:00, zone unstated (date-only); faculty 20–30 Oct.",
-    "tags": [],
-    "location": null,
-    "deadline": "2026-10-30",
-    "language": "en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [],
-    "eligible_countries": [],
-    "publisher_country": "CZ",
-    "created_at": "2026-10-08T22:41:42.375Z",
-    "updated_at": "2026-10-15T17:59:33.615Z",
-    "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
-    "status": "open",
-    "classification": {
-      "method": "editorial-review",
-      "status": "classified",
-      "evidence": [
-        "October 30, 2026, 2:00 p.m.",
-        "October 1, 2026",
-        "Mobility Fund",
-        "Detailed eligibility and benefits: Autumn2026 partial mobility grant for full-time CU BA/MA/PhD students within standard study period plus one year. One application call covers study/internship of at least30 days, short PhD mobility up to29 days and medical Master’s traineeships21–29 days. Stays November2026–September2027; no retrospective funding or concurrent Erasmus+, inter-university scholarship or GAUK funding. Category C needs an event programme and acceptance of a contribution for active participation. Payment is not before December31,2026. Acceptance and academic approval required; study category requires B2 language evidence with stated exceptions. Indicative monthly support CZK15000 Europe/20000 outside, maximum70000 for long stays; short categories CZK10000–20000 Europe/15000–25000 outside. Faculty deadlines20–30October; central deadline October30,2026 at14:00, timezone unstated; date-only normalized."
       ]
     }
   },
@@ -1086,8 +1243,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1122,8 +1279,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1158,8 +1315,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1194,8 +1351,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1391,8 +1548,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1426,8 +1583,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1462,8 +1619,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1499,8 +1656,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1536,8 +1693,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1574,8 +1731,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1610,8 +1767,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1648,8 +1805,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1658,6 +1815,45 @@
         "not be older than 30 years",
         "EUR 650 per month",
         "maximum of 5 months"
+      ]
+    }
+  },
+  {
+    "id": "f78cae61979790a1aa3ee2a8",
+    "title": "Computer Science Tuition Fee Scholarship – Master’s 2027",
+    "url": "https://www.mff.cuni.cz/en/admissions/scholarships/cstf-scholarships-2027",
+    "source": "cz-charles-university",
+    "source_url": "https://cuni.cz/UKEN-927.html",
+    "published_at": null,
+    "summary": "Up to 2 academic-excellence awards for English-taught Computer Science Master’s entrants at CU Mathematics and Physics in 2027/2028. Tuition coverage EUR 4,200/year for EU students or EUR 7,500/year otherwise, for 2 academic years. English application documents include CV, motivation, transcripts and two recommendations. New entrants only, with no other scholarship or maintenance grant. Continued support requires full-time study and academic progress.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-04-30",
+    "language": "en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "CZ"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CZ",
+    "created_at": "2026-11-18T06:59:20.699Z",
+    "updated_at": "2026-11-18T06:59:20.699Z",
+    "first_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
+    "status": "open",
+    "classification": {
+      "method": "editorial-review",
+      "status": "classified",
+      "evidence": [
+        "2027",
+        "30 April 2027",
+        "4 200 EUR",
+        "7 500 EUR"
       ]
     }
   },
@@ -1684,8 +1880,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1721,8 +1917,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
@@ -1758,8 +1954,8 @@
     "created_at": "2026-10-08T22:41:42.375Z",
     "updated_at": "2026-10-08T22:41:42.375Z",
     "first_seen_at": "2026-10-08T22:41:42.375Z",
-    "last_seen_at": "2026-10-19T05:17:39.483Z",
-    "last_checked_at": "2026-10-19T05:17:39.483Z",
+    "last_seen_at": "2026-11-18T06:59:20.699Z",
+    "last_checked_at": "2026-11-18T06:59:20.699Z",
     "status": "unknown",
     "classification": {
       "method": "editorial-review",
