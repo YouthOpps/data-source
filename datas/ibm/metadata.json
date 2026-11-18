@@ -8,12 +8,11 @@
   "publisher_country": "US",
   "publisher_type": "company",
   "attribution": "IBM https://www.ibm.com/ ; original factual programme summaries and direct official links",
-  "status": "fail",
-  "last_attempt_at": "2026-11-17T21:53:32.763Z",
-  "last_success_at": "2026-11-16T18:13:57.778Z",
-  "last_checked_at": "2026-11-16T18:18:07.484Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-18T06:01:24.966Z",
+  "last_success_at": "2026-11-18T06:01:24.966Z",
+  "last_checked_at": "2026-11-18T06:05:26.800Z",
   "record_count": 5,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Workflow pacing state unavailable",
-  "failure_stage": "access"
+  "message": "Validated refresh retains 5 IBM programme records",
+  "error": null
 }
