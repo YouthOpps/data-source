@@ -8,12 +8,11 @@
   "publisher_country": "HR",
   "publisher_type": "national-education-agency",
   "attribution": "Study in Croatia https://www.studyincroatia.hr/; Agency for Mobility and EU Programmes and the named programme administrators",
-  "status": "fail",
-  "last_attempt_at": "2026-11-17T23:40:17.045Z",
-  "last_success_at": "2026-10-22T20:19:41.770Z",
-  "last_checked_at": "2026-10-22T20:27:29.279Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-18T06:39:53.628Z",
+  "last_success_at": "2026-11-18T06:39:53.628Z",
+  "last_checked_at": "2026-11-18T06:46:49.239Z",
   "record_count": 9,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Reviewed source facts/frontier changed: home",
-  "failure_stage": "parse"
+  "message": "Validated refresh retains 9 reviewed Study in Croatia opportunities",
+  "error": null
 }
