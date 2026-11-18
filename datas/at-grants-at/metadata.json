@@ -8,11 +8,11 @@
   "publisher_country": "AT",
   "publisher_type": "public-institution",
   "status": "success",
-  "last_attempt_at": "2026-11-17T13:12:51.328Z",
-  "last_success_at": "2026-11-17T13:12:51.328Z",
-  "last_checked_at": "2026-11-17T13:20:18.932Z",
-  "record_count": 1141,
-  "message": "Validated refresh retains 1141 validated grants.at funding programme records",
+  "last_attempt_at": "2026-11-18T08:38:33.313Z",
+  "last_success_at": "2026-11-18T08:38:33.313Z",
+  "last_checked_at": "2026-11-18T08:45:47.606Z",
+  "record_count": 1140,
+  "message": "Validated refresh retains 1140 validated grants.at funding programme records",
   "error": null,
   "attribution": "Source: grants.at / OeAD (© OeAD)"
 }
