@@ -1,0 +1,18 @@
+{
+  "display_name": "ENS Paris",
+  "source": "fr-ens-paris-international-selection",
+  "source_url": "https://www.ens.psl.eu/une-formation-d-exception/admission-concours/international/concours-selection-internationale",
+  "website_url": "https://www.ens.psl.eu/une-formation-d-exception/admission-concours/international/concours-selection-internationale",
+  "language": "fr",
+  "publisher_country": "FR",
+  "publisher_type": "university",
+  "attribution": "ENS Paris",
+  "status": "success",
+  "last_attempt_at": "2026-11-19T11:41:58.744986Z",
+  "last_success_at": "2026-11-19T11:41:58.744986Z",
+  "last_checked_at": "2026-11-19T11:43:20.167559Z",
+  "record_count": 2,
+  "message": "Collected and validated 2 current ENS Paris selection records",
+  "failure_stage": null,
+  "error": null
+}

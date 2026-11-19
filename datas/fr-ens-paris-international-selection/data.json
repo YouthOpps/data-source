@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fr-ens-paris-international-selection-arts-humanities-2027",
+    "title": "ENS Paris International Selection 2027 — Arts and Humanities",
+    "url": "https://www.ens.psl.eu/une-formation-d-exception/admission-concours/international/concours-selection-internationale",
+    "source_url": "https://www.ens.psl.eu/une-formation-d-exception/admission-concours/international/concours-selection-internationale",
+    "source": "fr-ens-paris-international-selection",
+    "published_at": null,
+    "summary": "International admissions for the Arts and Humanities track at ENS Paris. See the official selection page for applicant requirements and the next steps.",
+    "tags": [
+      "university-admissions",
+      "international-selection"
+    ],
+    "location": "Paris, France",
+    "deadline": "2026-12-15T13:00:00Z",
+    "language": "fr",
+    "summary_language": "en",
+    "category": "other",
+    "categories": [
+      "other"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "FR"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "FR",
+    "status": "open",
+    "classification": {
+      "method": "publisher-french-admission-calendar",
+      "status": "unknown",
+      "evidence": [
+        "Agreed official French application calendars"
+      ]
+    },
+    "created_at": "2026-11-19T11:43:20.128860Z",
+    "updated_at": "2026-11-19T11:43:20.128860Z",
+    "first_seen_at": "2026-11-19T11:43:20.128860Z",
+    "last_seen_at": "2026-11-19T11:43:20.128860Z",
+    "last_checked_at": "2026-11-19T11:43:20.128860Z"
+  },
+  {
+    "id": "fr-ens-paris-international-selection-sciences-2027",
+    "title": "ENS Paris International Selection 2027 — Sciences",
+    "url": "https://www.ens.psl.eu/une-formation-d-exception/admission-concours/international/concours-selection-internationale",
+    "source_url": "https://www.ens.psl.eu/une-formation-d-exception/admission-concours/international/concours-selection-internationale",
+    "source": "fr-ens-paris-international-selection",
+    "published_at": null,
+    "summary": "International admissions for the Sciences track at ENS Paris. See the official selection page for applicant requirements and the next steps.",
+    "tags": [
+      "university-admissions",
+      "international-selection"
+    ],
+    "location": "Paris, France",
+    "deadline": "2026-12-15T13:00:00Z",
+    "language": "fr",
+    "summary_language": "en",
+    "category": "other",
+    "categories": [
+      "other"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "FR"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "FR",
+    "status": "open",
+    "classification": {
+      "method": "publisher-french-admission-calendar",
+      "status": "unknown",
+      "evidence": [
+        "Agreed official French application calendars"
+      ]
+    },
+    "created_at": "2026-11-19T11:43:20.128860Z",
+    "updated_at": "2026-11-19T11:43:20.128860Z",
+    "first_seen_at": "2026-11-19T11:43:20.128860Z",
+    "last_seen_at": "2026-11-19T11:43:20.128860Z",
+    "last_checked_at": "2026-11-19T11:43:20.128860Z"
+  }
+]
