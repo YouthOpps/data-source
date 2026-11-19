@@ -1,0 +1,18 @@
+{
+  "display_name": "ETH Zürich",
+  "source": "ch-eth-zurich-summer-research-fellowship",
+  "source_url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+  "website_url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
+  "language": "en",
+  "publisher_country": "CH",
+  "publisher_type": "university",
+  "attribution": "ETH Zürich",
+  "status": "success",
+  "last_attempt_at": "2026-11-19T10:52:52.466480Z",
+  "last_success_at": "2026-11-19T10:52:52.466480Z",
+  "last_checked_at": "2026-11-19T10:54:12.529570Z",
+  "record_count": 1,
+  "message": "Collected and validated 1 current ETH summer research fellowship records",
+  "failure_stage": null,
+  "error": null
+}
