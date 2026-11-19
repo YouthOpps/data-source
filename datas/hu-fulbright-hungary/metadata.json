@@ -6,12 +6,13 @@
   "language": "hu/en",
   "publisher_country": "HU",
   "publisher_type": "foundation",
-  "status": "success",
-  "last_attempt_at": "2026-11-18T23:25:02.281Z",
+  "status": "fail",
+  "last_attempt_at": "2026-11-19T23:37:01.634Z",
   "last_success_at": "2026-11-18T23:25:02.281Z",
   "last_checked_at": "2026-11-18T23:25:02.281Z",
   "record_count": 4,
-  "message": "Validated refresh retains 4 records",
-  "error": null,
-  "attribution": "Hungarian-American Fulbright Commission"
+  "message": "Collection failed; last-good data preserved",
+  "error": "No published award cards with titles and deadlines; page=https://fulbright.hu/; http=200; response_bytes=13703; response_sha256=3aed3d7b186c237732a806a3fa3a1d111c392c1c85972c756a050f71e7f2d8ec",
+  "attribution": "Hungarian-American Fulbright Commission",
+  "failure_stage": "parse"
 }
