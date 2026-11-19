@@ -1,0 +1,18 @@
+{
+  "source": "cern-summer-studentships",
+  "display_name": "CERN Summer Studentship",
+  "source_url": "https://careers.cern/programmes/summer-studentship/",
+  "website_url": "https://careers.cern/",
+  "language": "en",
+  "publisher_type": "organization",
+  "publisher_country": "CH",
+  "attribution": "CERN Careers",
+  "status": "success",
+  "record_count": 2,
+  "last_attempt_at": "2026-11-19T10:41:04.996Z",
+  "last_success_at": "2026-11-19T10:43:31.308Z",
+  "last_checked_at": "2026-11-19T10:43:31.308Z",
+  "message": "Collected and checked the official CERN summer studentship calls",
+  "failure_stage": null,
+  "error": null
+}

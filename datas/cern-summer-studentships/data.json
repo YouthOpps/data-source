@@ -1,0 +1,78 @@
+[
+  {
+    "id": "cern-summer-studentships-sum-openlab-2027",
+    "title": "CERN OPENLAB Summer Student Programme 2027",
+    "source": "cern-summer-studentships",
+    "source_url": "https://careers.cern/programmes/summer-studentship/",
+    "url": "https://careers.cern/jobs/cern-openlab-summer-student-programme-2026/",
+    "summary": "CERN summer studentship in Geneva for computing research projects. The official call lists a net allowance of CHF 94 per calendar day. Applicants need bachelor's or master's studies, six semesters and continued enrolment.",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "opportunity",
+    "location": "Geneva, Switzerland",
+    "host_countries": [
+      "CH"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CH",
+    "attribution": "CERN Careers",
+    "published_at": null,
+    "language": "en",
+    "summary_language": "en",
+    "status": "open",
+    "deadline": "2027-01-21T22:59:00+00:00",
+    "start_date": "2027-06-21",
+    "created_at": "2026-11-19T10:43:31+00:00",
+    "updated_at": "2026-11-19T10:43:31+00:00",
+    "first_seen_at": "2026-11-19T10:43:31+00:00",
+    "last_seen_at": "2026-11-19T10:43:31+00:00",
+    "last_checked_at": "2026-11-19T10:43:31+00:00",
+    "classification": {
+      "method": "publisher-detail",
+      "evidence": [
+        "https://careers.cern/programmes/summer-studentship/",
+        "https://careers.cern/jobs/cern-openlab-summer-student-programme-2026/"
+      ]
+    }
+  },
+  {
+    "id": "cern-summer-studentships-summ-2027",
+    "title": "CERN Summer Student Programme 2027 (Member and Non-Member State)",
+    "source": "cern-summer-studentships",
+    "source_url": "https://careers.cern/programmes/summer-studentship/",
+    "url": "https://careers.cern/jobs/cern-summer-student-programme-2026-member-and-non-member-state/",
+    "summary": "CERN summer studentship in Geneva for research and technical projects. The official call lists a net allowance of CHF 94 per calendar day. Applicants need bachelor's or master's studies, six semesters and continued enrolment. CERN lists applications from both member and non-member states.",
+    "category": "internships",
+    "categories": [
+      "internships"
+    ],
+    "kind": "opportunity",
+    "location": "Geneva, Switzerland",
+    "host_countries": [
+      "CH"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "CH",
+    "attribution": "CERN Careers",
+    "published_at": null,
+    "language": "en",
+    "summary_language": "en",
+    "status": "open",
+    "deadline": "2027-01-21T22:59:00+00:00",
+    "start_date": "2027-06-14",
+    "created_at": "2026-11-19T10:43:31+00:00",
+    "updated_at": "2026-11-19T10:43:31+00:00",
+    "first_seen_at": "2026-11-19T10:43:31+00:00",
+    "last_seen_at": "2026-11-19T10:43:31+00:00",
+    "last_checked_at": "2026-11-19T10:43:31+00:00",
+    "classification": {
+      "method": "publisher-detail",
+      "evidence": [
+        "https://careers.cern/programmes/summer-studentship/",
+        "https://careers.cern/jobs/cern-summer-student-programme-2026-member-and-non-member-state/"
+      ]
+    }
+  }
+]
