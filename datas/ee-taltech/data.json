@@ -1,5 +1,45 @@
 [
   {
+    "id": "485b2d3aa0229e9ef46bf646",
+    "title": "Ole Golubjatnikovi mälestusstipendium bakalaureuseõppe üliõpilastele meditsiinifüüsika ja -tehnika edendamiseks Eestis",
+    "url": "https://haldus.taltech.ee/sites/default/files/2026-11/Ole%20Golubjatnikovi%20BA%20ma%CC%88lestusstipendium%20_statuut%202026%20%281%29.pdf",
+    "source": "ee-taltech",
+    "source_url": "https://taltech.ee/arengufond/stipendiumid/2026-sugis",
+    "published_at": null,
+    "summary": "Ole Golubjatnikovi mälestusstipendium bakalaureuseõppe üliõpilastele meditsiinifüüsika ja -tehnika edendamiseks Eestis (edaspidi stipendium) on ette nähtud toetama üliõpilast, kes plaanib asuda õppima Tallinna Tehnikaülikooli meditsiinitehnika ja -füüsika magistriõppekavale.",
+    "tags": [
+      "STIPENDIUMID 2026 SÜGIS",
+      "Erikonkurss"
+    ],
+    "location": null,
+    "deadline": null,
+    "language": "et/en",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [
+      "EE"
+    ],
+    "eligible_countries": [],
+    "publisher_country": "EE",
+    "created_at": "2026-11-20T00:44:36.586303Z",
+    "updated_at": "2026-11-20T00:44:36.586303Z",
+    "first_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-award-html",
+      "status": "classified",
+      "evidence": [
+        "https://taltech.ee/arengufond/stipendiumid/2026-sugis#p13733289_0",
+        "https://haldus.taltech.ee/sites/default/files/2026-11/Ole%20Golubjatnikovi%20BA%20ma%CC%88lestusstipendium%20_statuut%202026%20%281%29.pdf"
+      ]
+    }
+  },
+  {
     "id": "7aa7a0e7f7cf4b8502ee9a66",
     "title": "Ole Golubjatnikovi mälestusstipendium magistriõppe üliõpilasele meditsiinitehnika ja -füüsika edendamiseks Eestis",
     "url": "https://haldus.taltech.ee/sites/default/files/2026-11/Ole%20Golubjatnikovi%20MA%20ma%CC%88lestusstipendium%20_statuut%202026_0.pdf",
@@ -27,8 +67,8 @@
     "created_at": "2026-11-10T23:35:54.967265Z",
     "updated_at": "2026-11-10T23:35:54.967265Z",
     "first_seen_at": "2026-11-10T23:35:54.967265Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -67,8 +107,8 @@
     "created_at": "2026-10-08T18:15:09.935Z",
     "updated_at": "2026-10-08T18:15:09.935Z",
     "first_seen_at": "2026-10-08T18:15:09.935Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -108,8 +148,8 @@
     "created_at": "2026-10-08T18:15:09.935Z",
     "updated_at": "2026-10-08T18:15:09.935Z",
     "first_seen_at": "2026-10-08T18:15:09.935Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -149,8 +189,8 @@
     "created_at": "2026-10-08T18:15:09.935Z",
     "updated_at": "2026-10-08T18:15:09.935Z",
     "first_seen_at": "2026-10-08T18:15:09.935Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -191,8 +231,8 @@
     "created_at": "2026-10-08T18:15:09.935Z",
     "updated_at": "2026-10-08T18:15:09.935Z",
     "first_seen_at": "2026-10-08T18:15:09.935Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -231,8 +271,8 @@
     "created_at": "2026-10-08T18:15:09.935Z",
     "updated_at": "2026-10-08T18:15:09.935Z",
     "first_seen_at": "2026-10-08T18:15:09.935Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -272,8 +312,8 @@
     "created_at": "2026-10-08T18:15:09.935Z",
     "updated_at": "2026-10-08T18:15:09.935Z",
     "first_seen_at": "2026-10-08T18:15:09.935Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -313,8 +353,8 @@
     "created_at": "2026-10-08T18:15:09.935Z",
     "updated_at": "2026-10-08T18:15:09.935Z",
     "first_seen_at": "2026-10-08T18:15:09.935Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
+    "last_seen_at": "2026-11-20T00:44:36.586303Z",
+    "last_checked_at": "2026-11-20T00:44:36.586303Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-award-html",
@@ -322,46 +362,6 @@
       "evidence": [
         "https://taltech.ee/arengufond/stipendiumid/2026-sugis#p13313857_7",
         "https://haldus.taltech.ee/sites/default/files/2026-09/Vilistlaskogu%20statuut%20S26.pdf"
-      ]
-    }
-  },
-  {
-    "id": "cbef38439828500e31fccc69",
-    "title": "Ole Golubjatnikovi mälestusstipendium bakalaureuseõppe üliõpilastele meditsiinifüüsika ja -tehnika edendamiseks Eestis",
-    "url": "https://haldus.taltech.ee/sites/default/files/2026-11/Ole%20Golubjatnikovi%20BA%20ma%CC%88lestusstipendium%20_statuut%202026_0.pdf",
-    "source": "ee-taltech",
-    "source_url": "https://taltech.ee/arengufond/stipendiumid/2026-sugis",
-    "published_at": null,
-    "summary": "Ole Golubjatnikovi mälestusstipendium bakalaureuseõppe üliõpilastele meditsiinifüüsika ja -tehnika edendamiseks Eestis (edaspidi stipendium) on ette nähtud meditsiinifüüsika ja -tehnika valdkonna arendamiseks üliõpilaste seas.",
-    "tags": [
-      "STIPENDIUMID 2026 SÜGIS",
-      "Erikonkurss"
-    ],
-    "location": null,
-    "deadline": null,
-    "language": "et/en",
-    "category": "scholarships",
-    "categories": [
-      "scholarships"
-    ],
-    "kind": "opportunity",
-    "host_countries": [
-      "EE"
-    ],
-    "eligible_countries": [],
-    "publisher_country": "EE",
-    "created_at": "2026-11-10T23:35:54.967265Z",
-    "updated_at": "2026-11-10T23:35:54.967265Z",
-    "first_seen_at": "2026-11-10T23:35:54.967265Z",
-    "last_seen_at": "2026-11-19T00:34:13.136371Z",
-    "last_checked_at": "2026-11-19T00:34:13.136371Z",
-    "status": "unknown",
-    "classification": {
-      "method": "publisher-award-html",
-      "status": "classified",
-      "evidence": [
-        "https://taltech.ee/arengufond/stipendiumid/2026-sugis#p13733289_0",
-        "https://haldus.taltech.ee/sites/default/files/2026-11/Ole%20Golubjatnikovi%20BA%20ma%CC%88lestusstipendium%20_statuut%202026_0.pdf"
       ]
     }
   }
