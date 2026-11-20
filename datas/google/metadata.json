@@ -8,11 +8,12 @@
   "publisher_country": "US",
   "publisher_type": "company",
   "attribution": "Google — official student and early-career programme information",
-  "status": "success",
-  "last_attempt_at": "2026-11-19T23:00:07.200Z",
+  "status": "fail",
+  "last_attempt_at": "2026-11-20T22:37:49.062Z",
   "last_success_at": "2026-11-19T23:00:07.200Z",
   "last_checked_at": "2026-11-19T23:08:10.313Z",
   "record_count": 13,
-  "message": "Validated refresh retains 13 reviewed Google programme information pages",
-  "error": null
+  "message": "Collection failed; last-good data preserved",
+  "error": "Invalid bounded robots policy or URI",
+  "failure_stage": "access"
 }
