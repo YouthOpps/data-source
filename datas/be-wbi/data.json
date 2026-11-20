@@ -22,8 +22,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -57,8 +57,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -92,8 +92,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -127,8 +127,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -164,8 +164,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -173,6 +173,41 @@
       "evidence": [
         "Wallonie-Bruxelles International (WBI) – www.wbi.be",
         "Publisher article node 5214"
+      ]
+    }
+  },
+  {
+    "id": "2b23523752f4e49aa6db47b2",
+    "title": "Offre de bourse | Devenez auxiliaire de conversation en langue française à l'étranger",
+    "url": "https://www.wbi.be/fr/actualites/offre-bourse-devenez-auxiliaire-conversation-langue-francaise-letranger",
+    "source": "be-wbi",
+    "source_url": "https://www.wbi.be/en/bourses",
+    "published_at": null,
+    "summary": "WBI publishes study or research funding and application information.",
+    "tags": [],
+    "location": null,
+    "deadline": "2027-02-15",
+    "language": "fr",
+    "category": "scholarships",
+    "categories": [
+      "scholarships"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "BE",
+    "created_at": "2026-11-20T16:09:25.049Z",
+    "updated_at": "2026-11-20T16:09:25.049Z",
+    "first_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
+    "status": "unknown",
+    "classification": {
+      "method": "official-structured-facts",
+      "status": "classified",
+      "evidence": [
+        "Wallonie-Bruxelles International (WBI) – www.wbi.be",
+        "Publisher article node 24575"
       ]
     }
   },
@@ -201,8 +236,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -238,8 +273,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -277,8 +312,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -312,8 +347,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -347,8 +382,8 @@
     "created_at": "2026-11-17T08:36:22.712Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-11-17T08:36:22.712Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -382,8 +417,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -417,8 +452,8 @@
     "created_at": "2026-11-17T08:36:22.712Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-11-17T08:36:22.712Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -452,8 +487,8 @@
     "created_at": "2026-11-17T08:36:22.712Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-11-17T08:36:22.712Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -487,8 +522,8 @@
     "created_at": "2026-11-17T08:36:22.712Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-11-17T08:36:22.712Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -522,8 +557,8 @@
     "created_at": "2026-11-17T08:36:22.712Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-11-17T08:36:22.712Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -557,8 +592,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -592,8 +627,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -627,8 +662,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -662,8 +697,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -697,8 +732,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -732,8 +767,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -767,8 +802,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -776,6 +811,41 @@
       "evidence": [
         "Wallonie-Bruxelles International (WBI) – www.wbi.be",
         "Publisher article node 8641"
+      ]
+    }
+  },
+  {
+    "id": "c1ba0e48c08a58aa7ab0b46a",
+    "title": "Appel de candidatures | Résidence de cocréation Canada-France-Belgique",
+    "url": "https://www.wbi.be/fr/actualites/appel-candidatures-residence-cocreation-canada-france-belgique",
+    "source": "be-wbi",
+    "source_url": "https://www.wbi.be/en/bourses",
+    "published_at": null,
+    "summary": "WBI publishes this opportunity in its official catalogue or calls index.",
+    "tags": [],
+    "location": null,
+    "deadline": null,
+    "language": "fr",
+    "category": "other",
+    "categories": [
+      "other"
+    ],
+    "kind": "unknown",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "BE",
+    "created_at": "2026-11-20T16:09:25.049Z",
+    "updated_at": "2026-11-20T16:09:25.049Z",
+    "first_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
+    "status": "unknown",
+    "classification": {
+      "method": "official-structured-facts",
+      "status": "unknown",
+      "evidence": [
+        "Wallonie-Bruxelles International (WBI) – www.wbi.be",
+        "Publisher article node 25159"
       ]
     }
   },
@@ -802,8 +872,8 @@
     "created_at": "2026-11-17T08:36:22.712Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-11-17T08:36:22.712Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -837,8 +907,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -872,8 +942,8 @@
     "created_at": "2026-10-09T01:23:05.620Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-10-09T01:23:05.620Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
@@ -907,8 +977,8 @@
     "created_at": "2026-11-17T08:36:22.712Z",
     "updated_at": "2026-11-17T08:36:22.712Z",
     "first_seen_at": "2026-11-17T08:36:22.712Z",
-    "last_seen_at": "2026-11-19T16:34:16.846Z",
-    "last_checked_at": "2026-11-19T16:41:18.744Z",
+    "last_seen_at": "2026-11-20T16:09:25.049Z",
+    "last_checked_at": "2026-11-20T16:16:45.556Z",
     "status": "unknown",
     "classification": {
       "method": "official-structured-facts",
