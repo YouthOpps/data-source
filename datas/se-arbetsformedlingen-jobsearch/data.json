@@ -22,8 +22,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -53,8 +53,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -84,8 +84,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -115,8 +115,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -146,8 +146,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -177,70 +177,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
-    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
-    "source_documents": [
-      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
-    ],
-    "agency_experience_required": true
-  },
-  {
-    "id": "se-arbetsformedlingen-jobsearch-31617936",
-    "source": "se-arbetsformedlingen-jobsearch",
-    "title": "Trainee Speditör",
-    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31617936",
-    "category": "training",
-    "kind": "trainee",
-    "summary": "Trainee opportunity advertised by Fercam Sweden AB in Helsingborg, Sweden. See the official advertisement for education, experience and programme eligibility.",
-    "summary_language": "en",
-    "employer": "Fercam Sweden AB",
-    "locations": [
-      "Helsingborg"
-    ],
-    "host_countries": [
-      "SE"
-    ],
-    "eligible_countries": [],
-    "deadline": "2026-11-19",
-    "published_at": "2026-10-20",
-    "status": "open",
-    "created_at": "2026-11-17T09:40:40.636Z",
-    "updated_at": "2026-11-17T09:40:40.636Z",
-    "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
-    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
-    "source_documents": [
-      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
-    ],
-    "agency_experience_required": false
-  },
-  {
-    "id": "se-arbetsformedlingen-jobsearch-31618143",
-    "source": "se-arbetsformedlingen-jobsearch",
-    "title": "Trainee inom finans – bygg din karriär hos oss",
-    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31618143",
-    "category": "training",
-    "kind": "trainee",
-    "summary": "Trainee opportunity advertised by Akademisk Marknadsanalys Stockholm AB in Helsingborg, Sweden. See the official advertisement for education, experience and programme eligibility.",
-    "summary_language": "en",
-    "employer": "Akademisk Marknadsanalys Stockholm AB",
-    "locations": [
-      "Helsingborg"
-    ],
-    "host_countries": [
-      "SE"
-    ],
-    "eligible_countries": [],
-    "deadline": "2026-11-19",
-    "published_at": "2026-10-20",
-    "status": "open",
-    "created_at": "2026-11-17T09:40:40.636Z",
-    "updated_at": "2026-11-17T09:40:40.636Z",
-    "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -270,8 +208,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -301,8 +239,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -332,8 +270,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -363,8 +301,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -394,8 +332,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -425,8 +363,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -456,8 +394,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -487,8 +425,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -518,8 +456,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -549,8 +487,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -580,8 +518,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -611,39 +549,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
-    "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
-    "source_documents": [
-      "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
-    ],
-    "agency_experience_required": true
-  },
-  {
-    "id": "se-arbetsformedlingen-jobsearch-31710080",
-    "source": "se-arbetsformedlingen-jobsearch",
-    "title": "Trainee inom Försvar och M&A – MW Group söker trainees till augusti 2027",
-    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31710080",
-    "category": "training",
-    "kind": "trainee",
-    "summary": "Trainee opportunity advertised by MW Sverige AB in Stockholm, Sweden. See the official advertisement for education, experience and programme eligibility.",
-    "summary_language": "en",
-    "employer": "MW Sverige AB",
-    "locations": [
-      "Stockholm"
-    ],
-    "host_countries": [
-      "SE"
-    ],
-    "eligible_countries": [],
-    "deadline": "2026-12-10",
-    "published_at": "2026-11-10",
-    "status": "open",
-    "created_at": "2026-11-17T09:40:40.636Z",
-    "updated_at": "2026-11-17T09:40:40.636Z",
-    "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -673,8 +580,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -704,8 +611,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -735,8 +642,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -766,8 +673,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -797,8 +704,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -828,8 +735,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -859,8 +766,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -890,8 +797,8 @@
     "created_at": "2026-11-17T09:40:40.636Z",
     "updated_at": "2026-11-17T09:40:40.636Z",
     "first_seen_at": "2026-11-17T09:40:40.636Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -921,8 +828,8 @@
     "created_at": "2026-11-18T02:37:39.656Z",
     "updated_at": "2026-11-18T02:37:39.656Z",
     "first_seen_at": "2026-11-18T02:37:39.656Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?trainee=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
@@ -952,8 +859,8 @@
     "created_at": "2026-11-19T02:00:59.467Z",
     "updated_at": "2026-11-19T02:00:59.467Z",
     "first_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_seen_at": "2026-11-19T02:00:59.467Z",
-    "last_checked_at": "2026-11-19T02:00:59.467Z",
+    "last_seen_at": "2026-11-20T01:55:54.409Z",
+    "last_checked_at": "2026-11-20T01:55:54.409Z",
     "attribution": "Arbetsformedlingen JobSearch advertisements (CC0); minimal factual index",
     "source_documents": [
       "https://jobsearch.api.jobtechdev.se/search?larling=true&country=i46j_HmG_v64&limit=100&offset=0&sort=id&resdet=full"
