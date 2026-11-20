@@ -7,12 +7,12 @@
   "publisher_country": "AT",
   "publisher_type": "university",
   "attribution": "University of Klagenfurt",
-  "status": "success",
-  "last_attempt_at": "2026-11-19T01:33:27.945502Z",
+  "status": "fail",
+  "last_attempt_at": "2026-11-20T01:28:16.972199Z",
   "last_success_at": "2026-11-19T01:33:27.945502Z",
   "last_checked_at": "2026-11-19T01:34:46.354589Z",
   "record_count": 2,
-  "message": "Collected and validated 2 current Klagenfurt MSc selection records",
-  "failure_stage": null,
-  "error": null
+  "message": "Collection failed; retained the last successful dataset",
+  "failure_stage": "collection",
+  "error": "The source could not produce a validated current intake"
 }
