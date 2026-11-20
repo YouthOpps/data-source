@@ -7,12 +7,12 @@
   "publisher_country": null,
   "publisher_type": "aggregator",
   "status": "success",
-  "last_attempt_at": "2026-11-19T14:40:51.148Z",
-  "last_success_at": "2026-11-19T14:40:51.148Z",
-  "last_checked_at": "2026-11-19T14:40:51.148Z",
-  "record_count": 10,
+  "last_attempt_at": "2026-11-20T14:20:24.235Z",
+  "last_success_at": "2026-11-20T14:20:24.235Z",
+  "last_checked_at": "2026-11-20T14:20:24.235Z",
+  "record_count": 11,
   "inventory_scope": "complete-publisher-browse-opportunities",
-  "message": "Validated refresh retains 10 records",
+  "message": "Validated refresh retains 11 records",
   "error": null,
   "attribution": "Youth for Europe / Associazione Joint"
 }
