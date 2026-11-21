@@ -10,10 +10,10 @@
   "publisher_type": "company",
   "attribution": "Volkswagen AG — original factual summaries and direct official individual opportunity links.",
   "status": "success",
-  "last_attempt_at": "2026-11-20T07:06:21.011Z",
-  "last_success_at": "2026-11-20T07:06:21.011Z",
-  "last_checked_at": "2026-11-20T07:46:42.033Z",
-  "record_count": 140,
-  "message": "Validated refresh retains 140 Volkswagen AG individual opportunities",
+  "last_attempt_at": "2026-11-21T06:58:55.265Z",
+  "last_success_at": "2026-11-21T06:58:55.265Z",
+  "last_checked_at": "2026-11-21T07:39:45.202Z",
+  "record_count": 139,
+  "message": "Validated refresh retains 139 Volkswagen AG individual opportunities",
   "error": null
 }
