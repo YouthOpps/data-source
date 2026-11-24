@@ -22,8 +22,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -194,8 +194,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -375,8 +375,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -455,8 +455,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -543,8 +543,8 @@
     "created_at": "2026-11-19T16:47:45.483Z",
     "updated_at": "2026-11-19T16:47:45.483Z",
     "first_seen_at": "2026-11-19T16:47:45.483Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -619,8 +619,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -692,8 +692,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -816,6 +816,84 @@
     "application_closed": true
   },
   {
+    "id": "1dc94e651ea6121c0bdca49c",
+    "title": "RPI Opole. Konferencja: Rola edukacji obywatelskiej w kształtowaniu postaw młodzieży",
+    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-opole-konferencja-rola-edukacji-obywatelskiej-w-ksztaltowaniu-postaw-mlodziezy",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; training. Termin zgłoszeń: 2026-11-25. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": "Opole",
+    "deadline": "2026-11-25",
+    "language": "pl",
+    "category": "training",
+    "categories": [
+      "training"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-24T19:05:46.785Z",
+    "updated_at": "2026-11-24T19:05:46.785Z",
+    "first_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-opole-konferencja-rola-edukacji-obywatelskiej-w-ksztaltowaniu-postaw-mlodziezy"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Konferencja adresowana jest do dyrektorów i nauczycieli szkół podstawowych i ponadpodstawowych, w tym nauczycieli wiedzy o społeczeństwie, edukacji obywatelskiej – szczególnie w kontekście kształcenia i rozwijania aktywności [...]",
+          "Uczestnicy będą mogli poznać m.in. takie programy realizowane przez FRSE, jak „Edukacja Obywatelska dla Zmiany” oraz eTwinning."
+        ],
+        "application": [
+          "Aby wziąć udział w konferencji, wystarczy wypełnić formularz zgłoszeniowy:",
+          "Zarejestruj się",
+          "Termin rejestracji upływa 25 listopada 2026 r. o godz. 15:00"
+        ]
+      },
+      "links": [
+        "https://siko.kuratorium.opole.pl/erasmus",
+        "https://www.frse.org.pl/brepo/panel_repo_files/2026/11/23/uiljja/program-rpi-opole-2026-11-26.pdf",
+        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+      ],
+      "material_sha256": "e07e91ef09b6f1a4770f34bea56ed84b6a68e2399bfdefbd801fcc9fe310e690",
+      "fields": [
+        {
+          "label": "Gdzie?",
+          "facts": {}
+        },
+        {
+          "label": "Kiedy?",
+          "facts": {}
+        }
+      ],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [
+      {
+        "date": "2026-11-25",
+        "evidence": "rejestracji upływa 25 listopada 2026"
+      }
+    ],
+    "application_closed": false
+  },
+  {
     "id": "259c39b9cedbc9a177af1979",
     "title": "Zmieniaj edukację!",
     "url": "https://www.frse.org.pl/finansowanie-projektow/zmieniaj-edukacje",
@@ -838,8 +916,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -975,8 +1053,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1047,8 +1125,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1173,8 +1251,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1306,8 +1384,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1469,8 +1547,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1545,8 +1623,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1691,8 +1769,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1849,8 +1927,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2003,8 +2081,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2180,8 +2258,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2246,8 +2324,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2374,8 +2452,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2464,8 +2542,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2608,8 +2686,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2680,8 +2758,8 @@
     "created_at": "2026-10-23T12:52:05.510Z",
     "updated_at": "2026-10-23T12:52:05.510Z",
     "first_seen_at": "2026-10-23T12:52:05.510Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2752,8 +2830,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2940,8 +3018,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3149,8 +3227,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3216,8 +3294,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3341,8 +3419,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -3412,8 +3490,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3557,8 +3635,8 @@
     "created_at": "2026-10-31T13:53:54.966Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3628,8 +3706,8 @@
     "created_at": "2026-10-24T12:13:52.954Z",
     "updated_at": "2026-10-24T12:13:52.954Z",
     "first_seen_at": "2026-10-24T12:13:52.954Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3697,8 +3775,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3853,8 +3931,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4044,8 +4122,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4181,8 +4259,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4335,8 +4413,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4462,8 +4540,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4535,8 +4613,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4691,8 +4769,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4857,8 +4935,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4927,8 +5005,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4996,8 +5074,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5069,8 +5147,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -5187,8 +5265,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5258,8 +5336,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -5410,8 +5488,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5545,8 +5623,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5615,8 +5693,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5692,8 +5770,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -5767,8 +5845,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5918,8 +5996,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5994,8 +6072,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6066,8 +6144,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -6157,8 +6235,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -6261,8 +6339,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -6413,8 +6491,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6491,8 +6569,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6566,8 +6644,8 @@
     "created_at": "2026-11-18T16:43:09.254Z",
     "updated_at": "2026-11-18T16:43:09.254Z",
     "first_seen_at": "2026-11-18T16:43:09.254Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6656,8 +6734,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6717,8 +6795,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6803,8 +6881,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6870,8 +6948,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-23T19:29:23.311Z",
-    "last_checked_at": "2026-11-23T20:01:36.728Z",
+    "last_seen_at": "2026-11-24T19:05:46.785Z",
+    "last_checked_at": "2026-11-24T19:37:59.387Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
