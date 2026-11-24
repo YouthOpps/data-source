@@ -7,12 +7,12 @@
   "publisher_type": "university",
   "publisher_country": "FR",
   "attribution": "Source: Université de Strasbourg, Faculty of Mathematics and Computer Science",
-  "status": "fail",
+  "status": "success",
   "record_count": 3,
-  "last_attempt_at": "2026-11-23T19:21:07.354Z",
-  "last_success_at": "2026-11-22T15:30:04.147Z",
-  "last_checked_at": "2026-11-22T15:30:04.147Z",
-  "message": "Collection failed; retained the last successful dataset",
-  "failure_stage": "collection",
-  "error": "Source could not produce a validated programme announcement"
+  "last_attempt_at": "2026-11-24T18:58:05.937Z",
+  "last_success_at": "2026-11-24T18:59:41.429Z",
+  "last_checked_at": "2026-11-24T18:59:41.429Z",
+  "message": "Collected and checked the official first-year master’s admissions scope",
+  "failure_stage": null,
+  "error": null
 }
