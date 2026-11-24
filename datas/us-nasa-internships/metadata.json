@@ -7,9 +7,9 @@
   "publisher_country": "US",
   "publisher_type": "public-institution",
   "status": "success",
-  "last_attempt_at": "2026-11-23T17:57:09.582Z",
-  "last_success_at": "2026-11-23T17:57:09.582Z",
-  "last_checked_at": "2026-11-23T17:57:09.582Z",
+  "last_attempt_at": "2026-11-24T17:33:08.991Z",
+  "last_success_at": "2026-11-24T17:33:08.991Z",
+  "last_checked_at": "2026-11-24T17:33:08.991Z",
   "record_count": 1,
   "message": "Validated refresh retains 1 records",
   "error": null
