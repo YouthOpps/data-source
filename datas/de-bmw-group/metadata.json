@@ -7,12 +7,13 @@
   "language": "und",
   "publisher_country": "DE",
   "publisher_type": "company",
-  "status": "success",
-  "last_attempt_at": "2026-11-24T03:58:40.528Z",
+  "status": "fail",
+  "last_attempt_at": "2026-11-25T02:19:01.288Z",
   "last_success_at": "2026-11-24T03:58:40.528Z",
   "last_checked_at": "2026-11-24T04:11:36.714Z",
   "record_count": 536,
-  "message": "Validated refresh retains 536 validated BMW youth-vacancy records",
-  "error": null,
-  "attribution": "Source: BMW Group public jobfinder"
+  "message": "Collection failed; last-good data preserved",
+  "error": "Reviewed publisher policy changed; review required",
+  "attribution": "Source: BMW Group public jobfinder",
+  "failure_stage": "access"
 }
