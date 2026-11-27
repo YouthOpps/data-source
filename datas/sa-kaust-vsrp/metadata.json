@@ -1,0 +1,18 @@
+{
+  "display_name": "King Abdullah University of Science and Technology",
+  "source": "sa-kaust-vsrp",
+  "source_url": "https://admissions.kaust.edu.sa/internship/search",
+  "website_url": "https://admissions.kaust.edu.sa/",
+  "language": "en",
+  "publisher_country": "SA",
+  "publisher_type": "university",
+  "attribution": "King Abdullah University of Science and Technology",
+  "status": "success",
+  "last_attempt_at": "2026-11-27T08:12:25.171998Z",
+  "last_success_at": "2026-11-27T08:12:25.171998Z",
+  "last_checked_at": "2026-11-27T08:13:45.900991Z",
+  "record_count": 137,
+  "message": "Collected and validated 137 current KAUST internship project records",
+  "failure_stage": null,
+  "error": null
+}
