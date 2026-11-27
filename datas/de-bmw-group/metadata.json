@@ -8,12 +8,12 @@
   "publisher_country": "DE",
   "publisher_type": "company",
   "status": "fail",
-  "last_attempt_at": "2026-11-27T01:42:08.944Z",
+  "last_attempt_at": "2026-11-27T08:30:01.093Z",
   "last_success_at": "2026-11-24T03:58:40.528Z",
   "last_checked_at": "2026-11-24T04:11:36.714Z",
   "record_count": 536,
   "message": "Collection failed; last-good data preserved",
-  "error": "Reviewed publisher policy changed; review required",
+  "error": "Reviewed publisher policy changed at https://www.bmwgroup.jobs/en/general/legal-disclaimer.html (observed SHA-256 79017c4857929269a178c458ac605df7e552947f89218c39e32f4a7d561fb452); review required",
   "attribution": "Source: BMW Group public jobfinder",
   "failure_stage": "access"
 }
