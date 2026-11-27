@@ -6,14 +6,13 @@
   "language": "en",
   "publisher_country": null,
   "publisher_type": "aggregator",
-  "status": "fail",
-  "last_attempt_at": "2026-11-26T15:44:07.655Z",
-  "last_success_at": "2026-11-25T16:00:35.264Z",
-  "last_checked_at": "2026-11-25T16:00:35.264Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-27T07:46:26.143Z",
+  "last_success_at": "2026-11-27T07:46:26.143Z",
+  "last_checked_at": "2026-11-27T07:46:26.143Z",
   "record_count": 12,
   "inventory_scope": "complete-publisher-browse-opportunities",
-  "message": "Collection failed; last-good data preserved",
-  "error": "Native opportunity inventory is unavailable",
-  "attribution": "Youth for Europe / Associazione Joint",
-  "failure_stage": "parse"
+  "message": "Validated refresh retains 12 records",
+  "error": null,
+  "attribution": "Youth for Europe / Associazione Joint"
 }
