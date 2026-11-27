@@ -22,8 +22,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -194,8 +194,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -375,8 +375,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -455,8 +455,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -543,8 +543,8 @@
     "created_at": "2026-11-19T16:47:45.483Z",
     "updated_at": "2026-11-19T16:47:45.483Z",
     "first_seen_at": "2026-11-19T16:47:45.483Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -619,8 +619,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -692,8 +692,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -816,68 +816,57 @@
     "application_closed": true
   },
   {
-    "id": "1dc94e651ea6121c0bdca49c",
-    "title": "RPI Opole. Konferencja: Rola edukacji obywatelskiej w kształtowaniu postaw młodzieży",
-    "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-opole-konferencja-rola-edukacji-obywatelskiej-w-ksztaltowaniu-postaw-mlodziezy",
+    "id": "1a312211dbc1973b13971bc2",
+    "title": "Webinarium Erasmus+: Wnioskowanie w Akcji 1, Edukacja dorosłych, konkurs 2027",
+    "url": "https://www.frse.org.pl/aktualnosci/webinarium-erasmus-wnioskowanie-w-akcji-1-edukacja-doroslych-konkurs-2027",
     "source": "pl-frse",
     "source_url": "https://www.frse.org.pl/",
     "published_at": null,
-    "summary": "FRSE; training. Termin zgłoszeń: 2026-11-25. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "summary": "FRSE; competitions. Termin zgłoszeń: 2027-02-18. Warunki udziału i szczegóły: oficjalna strona organizatora.",
     "tags": [],
-    "location": "Opole",
-    "deadline": "2026-11-25",
+    "location": null,
+    "deadline": "2027-02-18",
     "language": "pl",
-    "category": "training",
+    "category": "competitions",
     "categories": [
-      "training"
+      "competitions"
     ],
     "kind": "opportunity",
     "host_countries": [],
     "eligible_countries": [],
     "publisher_country": "PL",
-    "created_at": "2026-11-24T19:05:46.785Z",
-    "updated_at": "2026-11-24T19:05:46.785Z",
-    "first_seen_at": "2026-11-24T19:05:46.785Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
-    "status": "unknown",
+    "created_at": "2026-11-27T09:49:33.781Z",
+    "updated_at": "2026-11-27T09:49:33.781Z",
+    "first_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
+    "status": "open",
     "classification": {
       "method": "publisher-html",
       "status": "classified",
       "evidence": [
         "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia/rpi-opole-konferencja-rola-edukacji-obywatelskiej-w-ksztaltowaniu-postaw-mlodziezy"
+        "https://www.frse.org.pl/aktualnosci/webinarium-erasmus-wnioskowanie-w-akcji-1-edukacja-doroslych-konkurs-2027"
       ]
     },
     "country": "PL",
     "details": {
       "facts": {
-        "eligibility": [
-          "Konferencja adresowana jest do dyrektorów i nauczycieli szkół podstawowych i ponadpodstawowych, w tym nauczycieli wiedzy o społeczeństwie, edukacji obywatelskiej – szczególnie w kontekście kształcenia i rozwijania aktywności [...]",
-          "Uczestnicy będą mogli poznać m.in. takie programy realizowane przez FRSE, jak „Edukacja Obywatelska dla Zmiany” oraz eTwinning."
-        ],
         "application": [
-          "Aby wziąć udział w konferencji, wystarczy wypełnić formularz zgłoszeniowy:",
+          "Webinarium Erasmus+: Wnioskowanie w Akcji 1, Edukacja dorosłych, konkurs 2027",
+          "[...] Programu Erasmus+ zaprasza organizacje zainteresowane złożeniem wniosku o krótkoterminowe projekty mobilności w sektorze Edukacja dorosłych (KA122) na webinarium, które odbędzie się 17 grudnia 2026 r. (czwartek) w godz. [...]",
+          "podstawowe aspekty merytoryczne i finansowe krótkoterminowych projektów mobilności w Akcji 1",
+          "wniosek o krótkoterminowe projekty mobilności",
+          "techniczne aspekty składania wniosku",
           "Zarejestruj się",
-          "Termin rejestracji upływa 25 listopada 2026 r. o godz. 15:00"
+          "Termin na złożenie wniosków o krótkoterminowe projekty mobilności upływa 18 lutego 2027 r. , godz. 12:00 (czasu brukselskiego)."
         ]
       },
       "links": [
-        "https://siko.kuratorium.opole.pl/erasmus",
-        "https://www.frse.org.pl/brepo/panel_repo_files/2026/11/23/uiljja/program-rpi-opole-2026-11-26.pdf",
-        "https://www.frse.org.pl/wydarzenia-i-szkolenia"
+        "https://forms.cloud.microsoft/e/mA4UzddC3Z"
       ],
-      "material_sha256": "e07e91ef09b6f1a4770f34bea56ed84b6a68e2399bfdefbd801fcc9fe310e690",
-      "fields": [
-        {
-          "label": "Gdzie?",
-          "facts": {}
-        },
-        {
-          "label": "Kiedy?",
-          "facts": {}
-        }
-      ],
+      "material_sha256": "38d1d865810f14e7ecd0e0daa385263303b1164d096a15b6b9503988d7a7afa8",
+      "fields": [],
       "supporting": []
     },
     "limitations": [
@@ -887,8 +876,8 @@
     ],
     "application_dates": [
       {
-        "date": "2026-11-25",
-        "evidence": "rejestracji upływa 25 listopada 2026"
+        "date": "2027-02-18",
+        "evidence": "wniosków o krótkoterminowe projekty mobilności upływa 18 lutego 2027"
       }
     ],
     "application_closed": false
@@ -916,8 +905,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1053,8 +1042,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1125,8 +1114,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1251,8 +1240,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1384,8 +1373,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1547,8 +1536,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -1623,8 +1612,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1769,8 +1758,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -1927,8 +1916,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2081,8 +2070,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2258,8 +2247,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2324,8 +2313,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2452,8 +2441,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2542,8 +2531,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -2686,8 +2675,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2758,8 +2747,8 @@
     "created_at": "2026-10-23T12:52:05.510Z",
     "updated_at": "2026-10-23T12:52:05.510Z",
     "first_seen_at": "2026-10-23T12:52:05.510Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -2830,8 +2819,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3018,8 +3007,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3227,8 +3216,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3294,8 +3283,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3419,8 +3408,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -3490,8 +3479,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3635,8 +3624,8 @@
     "created_at": "2026-10-31T13:53:54.966Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-10-31T13:53:54.966Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3706,8 +3695,8 @@
     "created_at": "2026-10-24T12:13:52.954Z",
     "updated_at": "2026-10-24T12:13:52.954Z",
     "first_seen_at": "2026-10-24T12:13:52.954Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -3775,8 +3764,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -3931,8 +3920,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4122,8 +4111,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4259,8 +4248,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4413,8 +4402,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4518,6 +4507,103 @@
     "application_closed": true
   },
   {
+    "id": "8f15069e97deed3bd8ae3e8a",
+    "title": "Konkurs EDUinspirator – inspiruj, edukuj, motywuj",
+    "url": "https://eduinspiracje.org.pl/eduinspirator/o-konkursie",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; competitions. Termin zgłoszeń: 2026-12-21. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": null,
+    "deadline": "2026-12-21",
+    "language": "pl",
+    "category": "competitions",
+    "categories": [
+      "competitions"
+    ],
+    "kind": "programme-overview",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-27T09:49:33.781Z",
+    "updated_at": "2026-11-27T09:49:33.781Z",
+    "first_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://eduinspiracje.org.pl/eduinspirator/o-konkursie"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Masz za sobą uczestnictwo w projektach edukacyjnych w ramach programów unijnych?",
+          "[...] a jego głównym celem jest promowanie działań indywidualnych uczestników projektów, którzy w szczególny sposób przyczynili się do inspiracji lokalnej społeczności.",
+          "Do udziału w konkursie uczestnicy zgłaszają się indywidualnie, wypełniając internetowy formularz zgłoszeniowy na naszej stronie.",
+          "W rezultacie, w konkursie pojawią się kategorie: Uczeń, Student oraz Wolontariusz .",
+          "[...] wyłonienie oraz promocja najlepszych projektów zrealizowanych przez beneficjentów programów zarządzanych przez Narodową Agencję, jak i wskazanie najbardziej wartościowych rezultatów wypracowanych w trakcie tych przedsięwzięć.",
+          "Młody EDUinspirator Uczeń Wolontariusz Student",
+          "Uczestnicy samodzielnie wybierają kategorię, w której startują, dobierając ją do charakteru swojej działalności.",
+          " Jakie działanie ma znaczenie dla uczestnika, osób i instytucji współpracujących oraz środowiska lokalnego i polityki edukacyjnej?)",
+          "Działania komunikacyjne i upowszechniające rezultaty (W jaki sposób uczestnik zapewnił widoczność działania i jego rezultatów?",
+          "Wpływ i oddziaływanie (Jaki był wpływ działania na uczestnika i jego środowisko?",
+          " Jaki to miało wpływ na rozwój zawodowy i osobisty uczestnika oraz na jego otoczenie?"
+        ],
+        "funding": [
+          "Osoby nagrodzone w tym konkursie wyróżniają się szczególną aktywnością i wysoką jakością prowadzonych działań, wpływają na rozwój innych i przyczyniają się do pozytywnych zmian w lokalnym środowisku.",
+          "Nagroda często jest dla nich ukoronowaniem wieloletnich działań, a także wpływa na dalszy rozwój ich kariery zawodowej.",
+          "Organizatorzy chcą wyróżnić i nagrodzić młodych ludzi, którzy przez swoje zaangażowanie, wzorowe wypełnianie obowiązków oraz przejawianie inicjatywy podczas realizacji projektów przyczynili się do ich sukcesu.",
+          "Nagrody",
+          "Laureaci każdej kategorii konkursowej otrzymają nagrodę rzeczową lub voucher.",
+          "Nagrody zostaną wręczone podczas Gali Wręczania Nagród Edukacyjnych Narodowej Agencji Programu Erasmus+ i Europejskiego Korpusu Solidarności."
+        ],
+        "application": [
+          "Do udziału w konkursie uczestnicy zgłaszają się indywidualnie, wypełniając internetowy formularz zgłoszeniowy na naszej stronie.",
+          "Kryteria oceny zgłoszeń",
+          "[...] EDUinspirator, należy zgłosić swoją kandydaturę poprzez wypełnienie formularza zgłoszeniowego dostępnego w panelu użytkownika.",
+          "Wybierz \"ZALOGUJ SIĘ\" lub \"ZAREJESTRUJ SIĘ\" w prawym górnym rogu strony.",
+          "Możesz także użyć bezpośrednich linków rejestracji i logowania do panelu użytkownika podanych poniżej:",
+          "https://eduinspiracje.org.pl/rejestruj",
+          "Po rejestracji zobaczysz ofertę konkursów wraz z ich formularzami zgłoszeniowymi.",
+          "Następnie eksperci z Narodowej Agencji sprawdzą zgłoszenia pod względem formalnym i merytorycznym.",
+          "Na zgłoszenia czekamy do 21 grudnia 2026 roku!"
+        ],
+        "requirements": [
+          "W tym roku można zgłosić się w jednej z poniższych kategorii:",
+          "W każdej z kategorii nominację otrzyma jedna osoba.",
+          "Laureaci każdej kategorii konkursowej otrzymają nagrodę rzeczową lub voucher."
+        ]
+      },
+      "links": [
+        "https://eduinspiracje.org.pl/rejestruj",
+        "https://eduinspiracje.org.pl/zaloguj"
+      ],
+      "material_sha256": "d5d8c0d825bdca510c1a16d716163dddb406750e50d9d7a5e68ffd51af4f98b7",
+      "fields": [],
+      "supporting": []
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility.",
+      "The organiser describes self-application. The catalogue rules page is unavailable; an open round and its current terms are unverified."
+    ],
+    "application_dates": [
+      {
+        "date": "2026-12-21",
+        "evidence": "zgłoszenia czekamy do 21 grudnia 2026"
+      }
+    ],
+    "application_closed": false
+  },
+  {
     "id": "94bfade6d8b12e57726c8d38",
     "title": "WorldSkills / EuroSkills",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/worldskills-euroskills",
@@ -4540,8 +4626,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4613,8 +4699,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -4769,8 +4855,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -4935,8 +5021,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5005,8 +5091,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5074,8 +5160,8 @@
     "created_at": "2026-10-28T14:30:45.638Z",
     "updated_at": "2026-10-28T14:30:45.638Z",
     "first_seen_at": "2026-10-28T14:30:45.638Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5147,8 +5233,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -5265,8 +5351,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5336,8 +5422,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -5488,8 +5574,8 @@
     "created_at": "2026-10-14T21:06:36.598Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T21:06:36.598Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5623,8 +5709,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5693,8 +5779,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5770,8 +5856,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -5845,8 +5931,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -5996,8 +6082,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6072,8 +6158,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6144,8 +6230,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -6235,8 +6321,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",
@@ -6339,8 +6425,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "expired",
     "classification": {
       "method": "publisher-html",
@@ -6491,8 +6577,8 @@
     "created_at": "2026-11-17T13:38:39.723Z",
     "updated_at": "2026-11-17T13:38:39.723Z",
     "first_seen_at": "2026-11-17T13:38:39.723Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6569,8 +6655,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6644,8 +6730,8 @@
     "created_at": "2026-11-18T16:43:09.254Z",
     "updated_at": "2026-11-18T16:43:09.254Z",
     "first_seen_at": "2026-11-18T16:43:09.254Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6712,6 +6798,132 @@
     "application_closed": false
   },
   {
+    "id": "f3e2de86ebec951a73066c0e",
+    "title": "Konkurs 2026",
+    "url": "https://selfieplus.frse.org.pl/konkurs-2026",
+    "source": "pl-frse",
+    "source_url": "https://www.frse.org.pl/",
+    "published_at": null,
+    "summary": "FRSE; competitions. Termin zgłoszeń: 2026-12-21. Warunki udziału i szczegóły: oficjalna strona organizatora.",
+    "tags": [],
+    "location": null,
+    "deadline": "2026-12-21",
+    "language": "pl",
+    "category": "competitions",
+    "categories": [
+      "competitions"
+    ],
+    "kind": "opportunity",
+    "host_countries": [],
+    "eligible_countries": [],
+    "publisher_country": "PL",
+    "created_at": "2026-11-27T09:49:33.781Z",
+    "updated_at": "2026-11-27T09:49:33.781Z",
+    "first_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
+    "status": "unknown",
+    "classification": {
+      "method": "publisher-html",
+      "status": "classified",
+      "evidence": [
+        "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
+        "https://selfieplus.frse.org.pl/konkurs-2026"
+      ]
+    },
+    "country": "PL",
+    "details": {
+      "facts": {
+        "eligibility": [
+          "Konkurs Selfie+ jest okazją dla beneficjentów programów realizowanych przez Fundację Rozwoju Systemu Edukacji do podzielenia się efektami ich pracy.",
+          "Zdjęcie nie może być kolażem złożonym z innych zdjęć.",
+          "Materiały publikowane na platformie muszą spełnić odpowiednie wymagania techniczne."
+        ],
+        "application": [
+          "Materiały dodane poza terminem konkursu będą służyły inspirowaniu osób działających na rzecz edukacji, dzieleniu się dobrymi praktykami oraz rozwojowi platformy Selfie+.",
+          "[...] a jeśli jeszcze nie posiadasz konta, wybierz przycisk – zarejestruj się .",
+          "[...] „Konkursy” należy wybrać „Selfie+” i wypełnić znajdujący się tam formularz konkursowy oraz załączyć zdjęcie.",
+          "[...] tym fakcie pocztą elektroniczną lub telefonicznie na dane wskazane w formularzu zgłoszeniowym.",
+          "Zdjęcia mogą zgłaszać realizatorzy projektów, których działania zakończyły się lub trwają nadal."
+        ],
+        "requirements": [
+          "Wybrać jedno zdjęcie z projektu najlepiej pasujące do poniższych kategorii.",
+          "Spośród nadesłanych zdjęć w kategorii konkursowej Twój projekt w jednym ujęciu zostaną przyznane I, II i III miejsce, natomiast w kategorii Strefa Erasmus+ kapituła konkursu wyłoni laureatów z każdego sektora programu Erasmus +: [...]",
+          "Kapituła może przyznać dodatkowe wyróżnienia w każdej z kategorii konkursu lub może nie wyłonić laureatów.",
+          "Przesłane zdjęcie do danej kategorii zostanie zakwalifikowane do nominacji w podziale na programy.",
+          "Dodatkowo eksperci wybiorą Zdjęcie roku .",
+          "Zdjęcie nie może być kolażem złożonym z innych zdjęć.",
+          "[...] i wypełnić znajdujący się tam formularz konkursowy oraz załączyć zdjęcie.",
+          "Zdjęcie należy dodać przez panel użytkownika najpóźniej do 21 grudnia 2026 r.",
+          "Do zdjęcia należy dołączyć krótki opis – od 500 do 1000 znaków."
+        ]
+      },
+      "links": [
+        "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2026/11/26/js0btt/selfie-regulamin-2026.pdf",
+        "https://selfieplus.frse.org.pl/konkurs-2026/regulaminy-lista-plikow",
+        "https://selfieplus.frse.org.pl/laureaci",
+        "https://selfieplus.frse.org.pl/rejestruj",
+        "https://selfieplus.frse.org.pl/zaloguj"
+      ],
+      "material_sha256": "f4bb5f024fb89415a89a9dfc05135fdbdf4736e43cfadfa20f9208e601799397",
+      "fields": [],
+      "supporting": [
+        {
+          "url": "https://selfieplus.frse.org.pl/konkurs-2026/regulaminy-lista-plikow",
+          "facts": {},
+          "links": [
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2022/02/04/ciibb2/zal-2-regulamin-selfie-2021.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2022/02/04/mzxswh/selfie-regulamin-2021.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2022/02/04/xtx05n/zal-1-regulamin-selfie-2021.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2022/11/18/d7vhly/zalacznik-nr-2.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2022/11/18/os68od/selfie-2022-regulamin.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2022/11/18/xuyzcu/zalacznik-nr-1.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2023/11/02/5a2qg3/selfie-2023-regulamin-zalacznik-1.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2023/11/02/6rftuo/selfie-2023-regulamin.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2024/06/21/cgkvvb/selfie-2024-regulamin-zalacznik.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2024/06/21/npeonv/selfie-2024-regulamin.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2025/05/14/svbrks/selfie-regulamin-2025.pdf",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_files/2026/11/26/js0btt/selfie-regulamin-2026.pdf"
+          ],
+          "material_sha256": "8d935a728229d52104f2015c07ea374cf6424031bcad1b282c2159315b595389"
+        },
+        {
+          "url": "https://selfieplus.frse.org.pl/o-selfie",
+          "facts": {
+            "eligibility": [
+              "Platforma Selfie+ to miejsce stworzone specjalnie dla beneficjentów programów: Erasmus+, PO WER, FERS, Europejski Korpus Solidarności, Polsko-Litewski Fundusz Wymiany Młodzieży oraz Polsko-Ukraińska Rada Wymiany Młodzieży, [...]",
+              "[...] nad projektem, a przede wszystkim pokazać potencjalnym przyszłym beneficjentom programów wspieranych przez Fundację, że warto korzystać z naszej oferty.",
+              "[...] Rozwoju Systemu Edukacji postanowiła włączyć w działania również beneficjentów pozostałych sektorów programu Erasmus+, a także programu PO WER, FERS, Polsko-Litewskiego Funduszu Wymiany Młodzieży oraz Polsko-Ukraińskiej Rady [...]",
+              "[...] Selfie+ na stronach internetowych projektów oraz stronach instytucji beneficjenta (pobierz TUTAJ ):",
+              "Programy uczestniczące w konkursie"
+            ]
+          },
+          "links": [
+            "https://eks.org.pl/",
+            "https://erasmusplus.org.pl/",
+            "https://power.frse.org.pl/",
+            "https://selfieplus.frse.org.pl/brepo/panel_repo_images/2022/02/04/vowgrq/contain-500-500-max-pocztowka-front-ok.jpg",
+            "https://www.frse.org.pl/fers",
+            "https://wymianymlodziezy.frse.org.pl/"
+          ],
+          "material_sha256": "f9df228862e468f7e768599bc6ffde7d96e308d46d13561ca5a8d32011b30f7f"
+        }
+      ]
+    },
+    "limitations": [
+      "HTML-reported conditions; linked programme rules can supersede overview text.",
+      "PDF-only eligibility, funding and deadlines are not verified by this adapter.",
+      "Residence and institutional affiliation are not nationality eligibility."
+    ],
+    "application_dates": [
+      {
+        "date": "2026-12-21",
+        "evidence": "Zdjęcie należy dodać przez panel użytkownika najpóźniej do 21 grudnia 2026"
+      }
+    ],
+    "application_closed": false
+  },
+  {
     "id": "f9a0bbe66fa04e26ba120ff4",
     "title": "Konferencja: Evidence-based approach in Erasmus+ and ESC 2026",
     "url": "https://www.frse.org.pl/wydarzenia-i-szkolenia/konferencja-evidence-based-approach-in-erasmus-and-esc-2026",
@@ -6734,8 +6946,8 @@
     "created_at": "2026-11-01T14:30:57.103Z",
     "updated_at": "2026-11-01T14:30:57.103Z",
     "first_seen_at": "2026-11-01T14:30:57.103Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6795,8 +7007,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6881,8 +7093,8 @@
     "created_at": "2026-10-10T17:35:54.352Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-10T17:35:54.352Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "unknown",
     "classification": {
       "method": "publisher-html",
@@ -6948,8 +7160,8 @@
     "created_at": "2026-10-14T08:22:34.804Z",
     "updated_at": "2026-10-14T21:06:36.598Z",
     "first_seen_at": "2026-10-14T08:22:34.804Z",
-    "last_seen_at": "2026-11-25T18:11:08.679Z",
-    "last_checked_at": "2026-11-25T18:43:16.514Z",
+    "last_seen_at": "2026-11-27T09:49:33.781Z",
+    "last_checked_at": "2026-11-27T10:21:46.511Z",
     "status": "open",
     "classification": {
       "method": "publisher-html",

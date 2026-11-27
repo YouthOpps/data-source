@@ -8,12 +8,11 @@
   "publisher_country": "PL",
   "publisher_type": "education-foundation",
   "attribution": "Fundacja Rozwoju Systemu Edukacji (FRSE), https://www.frse.org.pl/; official Erasmus+, European Solidarity Corps and named FRSE programmes",
-  "status": "fail",
-  "last_attempt_at": "2026-11-26T17:53:21.385Z",
-  "last_success_at": "2026-11-25T18:11:08.679Z",
-  "last_checked_at": "2026-11-25T18:43:16.514Z",
-  "record_count": 63,
-  "message": "Collection failed; last-good data preserved",
-  "error": "Required publisher input unmapped-public-input returned HTTP 404: https://eduinspiracje.org.pl/eduinspiracje/regulamin",
-  "failure_stage": "fetch"
+  "status": "success",
+  "last_attempt_at": "2026-11-27T09:49:33.781Z",
+  "last_success_at": "2026-11-27T09:49:33.781Z",
+  "last_checked_at": "2026-11-27T10:21:46.511Z",
+  "record_count": 65,
+  "message": "Validated refresh retains 65 FRSE opportunities",
+  "error": null
 }
