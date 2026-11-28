@@ -9,11 +9,11 @@
   "publisher_type": "government",
   "attribution": "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
   "status": "fail",
-  "last_attempt_at": "2026-11-28T02:55:42.057Z",
+  "last_attempt_at": "2026-11-28T07:56:34.800Z",
   "last_success_at": "2026-11-27T03:10:52.277Z",
   "last_checked_at": "2026-11-27T03:21:33.930Z",
   "record_count": 5,
   "message": "Collection failed; last-good data preserved",
-  "error": "Calendar listing failed",
+  "error": "Required publisher input returned HTTP 500: https://youthfunds.onek.org.cy/en/nea-anakoinoseis/",
   "failure_stage": "fetch"
 }
