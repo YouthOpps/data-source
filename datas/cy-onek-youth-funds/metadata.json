@@ -8,11 +8,12 @@
   "publisher_country": "CY",
   "publisher_type": "government",
   "attribution": "Youth Board of Cyprus (ONEK), https://youthfunds.onek.org.cy/en/; original factual summaries with canonical publisher links",
-  "status": "success",
-  "last_attempt_at": "2026-11-27T03:10:52.277Z",
+  "status": "fail",
+  "last_attempt_at": "2026-11-28T02:55:42.057Z",
   "last_success_at": "2026-11-27T03:10:52.277Z",
   "last_checked_at": "2026-11-27T03:21:33.930Z",
   "record_count": 5,
-  "message": "Validated refresh retains 5 ONEK opportunities",
-  "error": null
+  "message": "Collection failed; last-good data preserved",
+  "error": "Calendar listing failed",
+  "failure_stage": "fetch"
 }
