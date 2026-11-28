@@ -7,12 +7,12 @@
   "publisher_country": "FR",
   "publisher_type": "university",
   "attribution": "ENS Paris",
-  "status": "fail",
-  "last_attempt_at": "2026-11-26T02:00:23.143170Z",
-  "last_success_at": "2026-11-25T02:53:41.446136Z",
-  "last_checked_at": "2026-11-25T02:55:09.249021Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-28T16:55:14.086691Z",
+  "last_success_at": "2026-11-28T16:55:14.086691Z",
+  "last_checked_at": "2026-11-28T16:56:53.909021Z",
   "record_count": 2,
-  "message": "Collection failed; retained the last successful dataset",
-  "failure_stage": "collection",
-  "error": "The source could not produce a validated current admission calendar"
+  "message": "Collected and validated 2 current ENS Paris selection records",
+  "failure_stage": null,
+  "error": null
 }
