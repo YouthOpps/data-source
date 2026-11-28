@@ -6,14 +6,13 @@
   "language": "en",
   "publisher_country": "LU",
   "publisher_type": "government",
-  "status": "fail",
-  "last_attempt_at": "2026-11-27T05:12:28.066Z",
-  "last_success_at": "2026-11-26T05:14:08.592Z",
-  "last_checked_at": "2026-11-26T05:14:08.592Z",
+  "status": "success",
+  "last_attempt_at": "2026-11-28T16:00:04.231Z",
+  "last_success_at": "2026-11-28T16:00:04.231Z",
+  "last_checked_at": "2026-11-28T16:00:04.231Z",
   "record_count": 7,
   "inventory_scope": "complete-advertised-youth-programmes-and-linked-calls",
-  "message": "Collection failed; last-good data preserved",
-  "error": "Workflow pacing state unavailable",
-  "attribution": "Luxembourg Directorate for Development Cooperation and Humanitarian Affairs",
-  "failure_stage": "access"
+  "message": "Validated refresh retains 7 records",
+  "error": null,
+  "attribution": "Luxembourg Directorate for Development Cooperation and Humanitarian Affairs"
 }
